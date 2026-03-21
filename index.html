@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Semi / AI / Quantum – Investment Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    /* ── DESIGN TOKENS ── */
+    :root {
+      --bg0:    #070c14;
+      --bg1:    #0c1322;
+      --bg2:    #111b2e;
+      --bg3:    #172438;
+      --border: #1e2f48;
+      --text1:  #e8eef8;
+      --text2:  #8fa3bf;
+      --text3:  #506070;
+      --green:  #00e5a0;
+      --red:    #ff4560;
+      --yellow: #fbbf24;
+      --blue:   #3b82f6;
+      --purple: #a78bfa;
+      --orange: #f97316;
+      --radius: 8px;
+      --shadow: 0 4px 24px rgba(0,0,0,.4);
+    }
+
+    /* ── RESET & BASE ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      background: var(--bg0);
+      color: var(--text1);
+      min-height: 100vh;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    code, .mono { font-family: 'JetBrains Mono', monospace; font-size: 0.85em; }
+
+    /* ── SCROLLBAR ── */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg1); }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+    /* ── HEADER ── */
+    .header {
+      background: var(--bg1);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .header-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 0 24px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .logo { display: flex; align-items: center; gap: 12px; }
+    .logo-icon { font-size: 24px; }
+    .logo h1 { font-size: 17px; font-weight: 700; letter-spacing: -0.3px; white-space: nowrap; }
+    .logo span { font-size: 11px; color: var(--text2); display: block; }
+
+    .header-right { display: flex; align-items: center; gap: 20px; flex-shrink: 0; }
+    .market-badge {
+      display: flex; align-items: center; gap: 6px;
+      font-size: 12px; font-weight: 500;
+      padding: 4px 10px; border-radius: 20px;
+      border: 1px solid var(--border);
+    }
+    .pulse { width: 7px; height: 7px; border-radius: 50%; animation: pulse 2s infinite; }
+    .pulse.open  { background: var(--green); box-shadow: 0 0 6px var(--green); }
+    .pulse.closed { background: var(--text3); animation: none; }
+    @keyframes pulse { 0%,100%{ opacity:1; } 50%{ opacity:.4; } }
+    .refresh-info { text-align: right; }
+    .refresh-info .label { font-size: 11px; color: var(--text3); }
+    .refresh-info .value { font-size: 12px; color: var(--text2); }
+    #refreshBtn {
+      padding: 6px 14px; font-size: 12px; font-weight: 600;
+      background: var(--blue); color: white; border: none;
+      border-radius: 6px; cursor: pointer; transition: opacity .2s;
+    }
+    #refreshBtn:hover { opacity: 0.85; }
+    #refreshBtn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    /* ── TABS NAV ── */
+    .tabs-nav {
+      background: var(--bg1);
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+    }
+    .tabs-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      gap: 2px;
+    }
+    .tab-btn {
+      background: none; border: none; cursor: pointer;
+      padding: 12px 18px; font-size: 13px; font-weight: 500;
+      color: var(--text2); border-bottom: 2px solid transparent;
+      transition: all .2s; white-space: nowrap;
+    }
+    .tab-btn:hover  { color: var(--text1); background: var(--bg2); }
+    .tab-btn.active { color: var(--blue); border-bottom-color: var(--blue); }
+
+    /* ── LAYOUT ── */
+    .main { max-width: 1600px; margin: 0 auto; padding: 24px; }
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+
+    /* ── LOADING OVERLAY ── */
+    #loadingOverlay {
+      position: fixed; inset: 0; background: var(--bg0);
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center; gap: 16px;
+      z-index: 999; transition: opacity .4s;
+    }
+    #loadingOverlay.hidden { opacity: 0; pointer-events: none; }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--blue);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to{ transform: rotate(360deg); } }
+    .loading-text { color: var(--text2); font-size: 14px; }
+
+    /* ── ERROR BANNER ── */
+    #errorBanner {
+      display: none; background: #2d1b1b; border: 1px solid #5a2020;
+      color: #ff8080; padding: 12px 20px; border-radius: var(--radius);
+      margin-bottom: 20px; font-size: 13px;
+    }
+
+    /* ── SECTOR SUMMARY CARDS ── */
+    .sector-summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+      margin-bottom: 28px;
+    }
+    .sector-card {
+      background: var(--bg2); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 14px 16px;
+    }
+    .sector-card h3 { font-size: 12px; color: var(--text2); margin-bottom: 6px; }
+    .sector-change { font-size: 22px; font-weight: 700; }
+    .sector-sub { font-size: 11px; color: var(--text3); margin-top: 4px; }
+
+    /* ── STOCK GRID ── */
+    .sector-section { margin-bottom: 32px; }
+    .sector-label {
+      font-size: 11px; font-weight: 600; letter-spacing: 0.8px;
+      text-transform: uppercase; color: var(--text3);
+      margin-bottom: 12px; padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+    .stock-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 12px;
+    }
+    .stock-card {
+      background: var(--bg2); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 14px;
+      cursor: default; transition: border-color .2s, background .2s;
+      position: relative; overflow: hidden;
+    }
+    .stock-card:hover { border-color: var(--blue); background: var(--bg3); }
+    .stock-card .ticker { font-size: 15px; font-weight: 700; letter-spacing: -0.3px; }
+    .stock-card .name   { font-size: 11px; color: var(--text2); margin: 2px 0 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .stock-card .price  { font-size: 20px; font-weight: 600; font-family: 'JetBrains Mono', monospace; }
+    .stock-card .change { font-size: 13px; font-weight: 500; margin-left: 6px; }
+    .stock-card .meta   { margin-top: 10px; display: flex; gap: 12px; font-size: 11px; color: var(--text3); flex-wrap: wrap; }
+    .stock-card .meta span { display: flex; flex-direction: column; }
+    .stock-card .meta .mlabel { font-size: 10px; color: var(--text3); }
+    .stock-card .meta .mval   { color: var(--text2); font-weight: 500; }
+    .stock-card .iv-badge {
+      position: absolute; top: 10px; right: 10px;
+      font-size: 10px; font-weight: 600; padding: 2px 6px;
+      border-radius: 4px; background: rgba(59,130,246,.2); color: var(--blue);
+    }
+    .card-bar {
+      height: 3px; position: absolute; bottom: 0; left: 0; right: 0;
+      border-radius: 0 0 var(--radius) var(--radius);
+    }
+    .up   { color: var(--green); }
+    .down { color: var(--red); }
+    .flat { color: var(--text3); }
+
+    /* ── TABLES ── */
+    .table-wrap { overflow-x: auto; border-radius: var(--radius); border: 1px solid var(--border); }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    thead th {
+      background: var(--bg2); padding: 10px 14px;
+      text-align: left; font-size: 11px; font-weight: 600;
+      letter-spacing: 0.5px; text-transform: uppercase;
+      color: var(--text2); border-bottom: 1px solid var(--border);
+      cursor: pointer; white-space: nowrap; user-select: none;
+    }
+    thead th:hover { color: var(--text1); }
+    thead th.sorted-asc::after  { content: " ↑"; color: var(--blue); }
+    thead th.sorted-desc::after { content: " ↓"; color: var(--blue); }
+    tbody tr { border-bottom: 1px solid var(--border); transition: background .15s; }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--bg3); }
+    tbody td { padding: 9px 14px; vertical-align: middle; }
+    .badge {
+      display: inline-block; padding: 2px 7px; border-radius: 4px;
+      font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+    }
+    .badge-call   { background: rgba(0,229,160,.15); color: var(--green); }
+    .badge-put    { background: rgba(255,69,96,.15);  color: var(--red); }
+    .badge-10k    { background: rgba(59,130,246,.15); color: var(--blue); }
+    .badge-10q    { background: rgba(167,139,250,.15);color: var(--purple); }
+    .badge-8k     { background: rgba(251,191,36,.15); color: var(--yellow); }
+    .badge-def14a { background: rgba(249,115,22,.15); color: var(--orange); }
+    .badge-hot    { background: rgba(249,115,22,.2);  color: var(--orange); border: 1px solid rgba(249,115,22,.4); }
+
+    /* ── SEARCH / FILTER BAR ── */
+    .toolbar {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 16px; flex-wrap: wrap;
+    }
+    .search-box {
+      background: var(--bg2); border: 1px solid var(--border);
+      border-radius: 6px; padding: 7px 12px; color: var(--text1);
+      font-size: 13px; outline: none; min-width: 200px;
+      transition: border-color .2s;
+    }
+    .search-box:focus { border-color: var(--blue); }
+    .filter-select {
+      background: var(--bg2); border: 1px solid var(--border);
+      border-radius: 6px; padding: 7px 10px; color: var(--text2);
+      font-size: 13px; outline: none; cursor: pointer;
+    }
+    .results-count { font-size: 12px; color: var(--text3); margin-left: auto; }
+
+    /* ── STAT PILL ── */
+    .stat-row {
+      display: flex; gap: 12px; flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .stat-pill {
+      background: var(--bg2); border: 1px solid var(--border);
+      border-radius: 20px; padding: 6px 14px;
+      font-size: 12px; display: flex; align-items: center; gap: 6px;
+    }
+    .stat-pill .sp-label { color: var(--text3); }
+    .stat-pill .sp-val   { font-weight: 600; }
+
+    /* ── EARNINGS CALENDAR ── */
+    .earnings-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 12px;
+    }
+    .earnings-card {
+      background: var(--bg2); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 14px 16px;
+      transition: border-color .2s;
+    }
+    .earnings-card:hover { border-color: var(--blue); }
+    .earnings-card .ec-ticker { font-size: 16px; font-weight: 700; }
+    .earnings-card .ec-date   { font-size: 12px; color: var(--text2); margin: 4px 0; }
+    .earnings-card .ec-days   { font-size: 11px; }
+    .days-soon { color: var(--yellow); font-weight: 600; }
+    .days-later { color: var(--text3); }
+
+    /* ── NEWS CARDS ── */
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 14px;
+    }
+    .news-card {
+      background: var(--bg2); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 16px;
+      display: flex; flex-direction: column; gap: 8px;
+      transition: border-color .2s;
+    }
+    .news-card:hover { border-color: var(--blue); }
+    .news-card .nc-source { font-size: 10px; font-weight: 600; letter-spacing: 0.6px; text-transform: uppercase; color: var(--blue); }
+    .news-card .nc-title  { font-size: 14px; font-weight: 500; line-height: 1.4; color: var(--text1); }
+    .news-card .nc-title a { color: inherit; }
+    .news-card .nc-title a:hover { color: var(--blue); text-decoration: none; }
+    .news-card .nc-summary { font-size: 12px; color: var(--text2); line-height: 1.5; }
+    .news-card .nc-date   { font-size: 11px; color: var(--text3); margin-top: auto; }
+
+    /* ── SECTION HEADER ── */
+    .section-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 16px; flex-wrap: wrap; gap: 8px;
+    }
+    .section-title { font-size: 15px; font-weight: 600; }
+    .section-sub   { font-size: 12px; color: var(--text3); }
+
+    /* ── EMPTY STATE ── */
+    .empty-state {
+      text-align: center; padding: 60px 20px;
+      color: var(--text3); font-size: 14px;
+    }
+    .empty-state .es-icon { font-size: 40px; margin-bottom: 12px; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 700px) {
+      .header-inner { padding: 0 14px; }
+      .main { padding: 16px 14px; }
+      .logo h1 { font-size: 14px; }
+      .logo span { display: none; }
+      .refresh-info { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Loading overlay -->
+<div id="loadingOverlay">
+  <div class="spinner"></div>
+  <div class="loading-text">Loading dashboard data…</div>
+</div>
+
+<!-- ── HEADER ── -->
+<header class="header">
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-icon">⚡</span>
+      <div>
+        <h1>Semi / AI / Quantum</h1>
+        <span>Investment Intelligence Dashboard</span>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="market-badge">
+        <div class="pulse" id="marketPulse"></div>
+        <span id="marketStatus">–</span>
+      </div>
+      <div class="refresh-info">
+        <div class="label">Last updated</div>
+        <div class="value" id="lastUpdated">–</div>
+      </div>
+      <div class="refresh-info">
+        <div class="label">Next refresh</div>
+        <div class="value" id="nextRefresh">–</div>
+      </div>
+      <button id="refreshBtn" onclick="loadData()">↻ Refresh</button>
+    </div>
+  </div>
+</header>
+
+<!-- ── TABS ── -->
+<nav class="tabs-nav" role="tablist">
+  <div class="tabs-inner">
+    <button class="tab-btn active" data-tab="overview"   role="tab">📊 Overview</button>
+    <button class="tab-btn"        data-tab="options"    role="tab">📈 Options Activity</button>
+    <button class="tab-btn"        data-tab="unusual"    role="tab">🚨 Unusual Activity</button>
+    <button class="tab-btn"        data-tab="earnings"   role="tab">📅 Earnings</button>
+    <button class="tab-btn"        data-tab="filings"    role="tab">📄 SEC Filings</button>
+    <button class="tab-btn"        data-tab="news"       role="tab">📰 News</button>
+  </div>
+</nav>
+
+<!-- ── MAIN CONTENT ── -->
+<main class="main">
+  <div id="errorBanner"></div>
+
+  <!-- TAB: OVERVIEW -->
+  <section id="tab-overview" class="tab-content active">
+    <div id="sectorSummary" class="sector-summary"></div>
+    <div id="stockSections"></div>
+  </section>
+
+  <!-- TAB: OPTIONS ACTIVITY -->
+  <section id="tab-options" class="tab-content">
+    <div class="section-header">
+      <div>
+        <div class="section-title">Options Activity Summary</div>
+        <div class="section-sub">Aggregate call/put volume, open interest, and implied volatility by ticker (nearest expiry)</div>
+      </div>
+    </div>
+    <div class="toolbar">
+      <input class="search-box" id="optSearch" placeholder="🔍  Filter ticker…" oninput="filterTable('optTable', this.value)" />
+      <span class="results-count" id="optCount"></span>
+    </div>
+    <div class="table-wrap">
+      <table id="optTable">
+        <thead><tr>
+          <th onclick="sortTable('optTable',0)">Ticker</th>
+          <th onclick="sortTable('optTable',1)">Expiry</th>
+          <th onclick="sortTable('optTable',2)">Call Vol</th>
+          <th onclick="sortTable('optTable',3)">Put Vol</th>
+          <th onclick="sortTable('optTable',4)">Call OI</th>
+          <th onclick="sortTable('optTable',5)">Put OI</th>
+          <th onclick="sortTable('optTable',6)">P/C Ratio</th>
+          <th onclick="sortTable('optTable',7)">IV %</th>
+        </tr></thead>
+        <tbody id="optBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- TAB: UNUSUAL ACTIVITY -->
+  <section id="tab-unusual" class="tab-content">
+    <div class="section-header">
+      <div>
+        <div class="section-title">Unusual Options Activity</div>
+        <div class="section-sub">Contracts where today's volume significantly exceeds open interest — potential smart money signals</div>
+      </div>
+    </div>
+    <div class="toolbar">
+      <input class="search-box" id="unusSearch" placeholder="🔍  Filter ticker…" oninput="filterTable('unusTable', this.value)" />
+      <select class="filter-select" id="unusType" onchange="filterUnusual()">
+        <option value="">All Types</option>
+        <option value="CALL">CALL only</option>
+        <option value="PUT">PUT only</option>
+      </select>
+      <span class="results-count" id="unusCount"></span>
+    </div>
+    <div class="table-wrap">
+      <table id="unusTable">
+        <thead><tr>
+          <th onclick="sortTable('unusTable',0)">Ticker</th>
+          <th onclick="sortTable('unusTable',1)">Type</th>
+          <th onclick="sortTable('unusTable',2)">Strike</th>
+          <th onclick="sortTable('unusTable',3)">Expiry</th>
+          <th onclick="sortTable('unusTable',4)">Volume</th>
+          <th onclick="sortTable('unusTable',5)">OI</th>
+          <th onclick="sortTable('unusTable',6)">Vol/OI</th>
+          <th onclick="sortTable('unusTable',7)">IV %</th>
+          <th onclick="sortTable('unusTable',8)">Last</th>
+          <th onclick="sortTable('unusTable',9)">Bid / Ask</th>
+          <th onclick="sortTable('unusTable',10)">ITM</th>
+        </tr></thead>
+        <tbody id="unusBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- TAB: EARNINGS -->
+  <section id="tab-earnings" class="tab-content">
+    <div class="section-header">
+      <div>
+        <div class="section-title">Earnings Calendar</div>
+        <div class="section-sub">Upcoming earnings reports for tracked tickers (next 90 days)</div>
+      </div>
+    </div>
+    <div id="earningsGrid" class="earnings-grid"></div>
+  </section>
+
+  <!-- TAB: SEC FILINGS -->
+  <section id="tab-filings" class="tab-content">
+    <div class="section-header">
+      <div>
+        <div class="section-title">SEC EDGAR Filings</div>
+        <div class="section-sub">Recent 10-K, 10-Q, 8-K, and proxy filings from SEC EDGAR</div>
+      </div>
+    </div>
+    <div class="toolbar">
+      <input class="search-box" id="filSearch" placeholder="🔍  Filter ticker or company…" oninput="filterTable('filTable', this.value)" />
+      <select class="filter-select" id="filType" onchange="filterFilings()">
+        <option value="">All Forms</option>
+        <option value="10-K">10-K (Annual)</option>
+        <option value="10-Q">10-Q (Quarterly)</option>
+        <option value="8-K">8-K (Current)</option>
+        <option value="DEF 14A">DEF 14A (Proxy)</option>
+      </select>
+      <span class="results-count" id="filCount"></span>
+    </div>
+    <div class="table-wrap">
+      <table id="filTable">
+        <thead><tr>
+          <th onclick="sortTable('filTable',0)">Ticker</th>
+          <th onclick="sortTable('filTable',1)">Company</th>
+          <th onclick="sortTable('filTable',2)">Form</th>
+          <th onclick="sortTable('filTable',3)">Filed</th>
+          <th>Links</th>
+        </tr></thead>
+        <tbody id="filBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- TAB: NEWS -->
+  <section id="tab-news" class="tab-content">
+    <div class="section-header">
+      <div>
+        <div class="section-title">News Feed</div>
+        <div class="section-sub">Latest headlines from Google News for your tracked sectors</div>
+      </div>
+    </div>
+    <div class="toolbar">
+      <input class="search-box" id="newsSearch" placeholder="🔍  Search headlines…" oninput="filterNews(this.value)" style="min-width:300px" />
+    </div>
+    <div id="newsGrid" class="news-grid"></div>
+  </section>
+</main>
+
+<!-- ── JAVASCRIPT ── -->
+<script>
+// ════════════════════════════════════════════
+//  STATE
+// ════════════════════════════════════════════
+let dashData    = null;
+let refreshTimer = null;
+let countdownSec = 900; // 15 minutes
+
+const REFRESH_INTERVAL_MS = 15 * 60 * 1000;
+
+// ════════════════════════════════════════════
+//  DATA LOADING
+// ════════════════════════════════════════════
+async function loadData() {
+  const btn = document.getElementById('refreshBtn');
+  btn.disabled = true;
+  btn.textContent = '↻ Loading…';
+  clearInterval(refreshTimer);
+
+  try {
+    const res = await fetch('./data.json?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+    dashData = await res.json();
+    hideError();
+    renderAll(dashData);
+    document.getElementById('loadingOverlay').classList.add('hidden');
+  } catch (e) {
+    showError('Could not load data.json — ' + e.message + '. Make sure you have run generate_data.py at least once.');
+    document.getElementById('loadingOverlay').classList.add('hidden');
+  } finally {
+    btn.disabled  = false;
+    btn.textContent = '↻ Refresh';
+    startCountdown();
+  }
+}
+
+function startCountdown() {
+  countdownSec = REFRESH_INTERVAL_MS / 1000;
+  clearInterval(refreshTimer);
+  refreshTimer = setInterval(() => {
+    countdownSec--;
+    const m = String(Math.floor(countdownSec / 60)).padStart(2, '0');
+    const s = String(countdownSec % 60).padStart(2, '0');
+    document.getElementById('nextRefresh').textContent = `${m}:${s}`;
+    if (countdownSec <= 0) { clearInterval(refreshTimer); loadData(); }
+  }, 1000);
+}
+
+function showError(msg) {
+  const b = document.getElementById('errorBanner');
+  b.style.display = 'block';
+  b.textContent = '⚠ ' + msg;
+}
+function hideError() {
+  document.getElementById('errorBanner').style.display = 'none';
+}
+
+// ════════════════════════════════════════════
+//  RENDER ALL
+// ════════════════════════════════════════════
+function renderAll(d) {
+  updateHeader(d);
+  renderOverview(d);
+  renderOptions(d);
+  renderUnusual(d);
+  renderEarnings(d);
+  renderFilings(d);
+  renderNews(d);
+}
+
+// ── Header ──
+function updateHeader(d) {
+  // Last updated
+  const dt = new Date(d.last_updated);
+  document.getElementById('lastUpdated').textContent =
+    dt.toLocaleString('en-US', { month:'short', day:'numeric', hour:'2-digit', minute:'2-digit' });
+
+  // Market status
+  const now = new Date();
+  const utcH = now.getUTCHours(), utcM = now.getUTCMinutes(), utcD = now.getUTCDay();
+  // NYSE: Mon-Fri, 09:30–16:00 ET = 14:30–21:00 UTC (EST) / 13:30–20:00 UTC (EDT)
+  // Use a rough check: 13:30–21:00 UTC, weekdays
+  const utcMins = utcH * 60 + utcM;
+  const isWeekday = utcD >= 1 && utcD <= 5;
+  const isMarketHours = utcMins >= 13*60+30 && utcMins < 21*60;
+  const isOpen = isWeekday && isMarketHours;
+
+  const pulse = document.getElementById('marketPulse');
+  const status = document.getElementById('marketStatus');
+  if (isOpen) {
+    pulse.className = 'pulse open';
+    status.textContent = 'Market Open';
+  } else {
+    pulse.className = 'pulse closed';
+    status.textContent = utcD === 0 || utcD === 6 ? 'Weekend' : 'Market Closed';
+  }
+}
+
+// ════════════════════════════════════════════
+//  OVERVIEW TAB
+// ════════════════════════════════════════════
+function renderOverview(d) {
+  // Sector summary cards
+  const summHtml = Object.entries(d.sector_stats || {}).map(([sec, stat]) => {
+    const cls = stat.avg_change > 0 ? 'up' : stat.avg_change < 0 ? 'down' : 'flat';
+    const sign = stat.avg_change > 0 ? '+' : '';
+    return `
+      <div class="sector-card">
+        <h3>${sec}</h3>
+        <div class="sector-change ${cls}">${sign}${(stat.avg_change||0).toFixed(2)}%</div>
+        <div class="sector-sub">▲ ${stat.gainers} gainers · ▼ ${stat.losers} losers</div>
+      </div>`;
+  }).join('');
+  document.getElementById('sectorSummary').innerHTML = summHtml;
+
+  // Stock sections by sector
+  const sectionsHtml = Object.entries(d.sectors).map(([sec, tickers]) => {
+    const cards = tickers.map(ticker => {
+      const s = d.stocks[ticker];
+      if (!s || s.error) {
+        return `<div class="stock-card">
+          <div class="ticker">${ticker}</div>
+          <div class="name" style="color:var(--red)">Data unavailable</div>
+        </div>`;
+      }
+      const chg   = s.change_pct;
+      const sign  = chg > 0 ? '+' : '';
+      const cls   = chg > 0 ? 'up' : chg < 0 ? 'down' : 'flat';
+      const barColor = chg > 0 ? 'var(--green)' : chg < 0 ? 'var(--red)' : 'var(--border)';
+      const priceStr = s.price ? `$${s.price.toLocaleString('en-US', {minimumFractionDigits:2,maximumFractionDigits:2})}` : '–';
+      const chgStr   = chg != null ? `${sign}${chg.toFixed(2)}%` : '';
+      return `
+        <div class="stock-card">
+          ${s.iv ? `<div class="iv-badge">IV ${s.iv}%</div>` : ''}
+          <div class="ticker">${ticker}</div>
+          <div class="name">${s.name || ticker}</div>
+          <div style="display:flex;align-items:baseline;gap:4px">
+            <span class="price">${priceStr}</span>
+            <span class="change ${cls}">${chgStr}</span>
+          </div>
+          <div class="meta">
+            <span><span class="mlabel">Vol</span><span class="mval">${s.volume_fmt||'–'}</span></span>
+            <span><span class="mlabel">Mkt Cap</span><span class="mval">${s.market_cap_fmt||'–'}</span></span>
+            ${s.pe_ratio ? `<span><span class="mlabel">P/E</span><span class="mval">${s.pe_ratio.toFixed(1)}</span></span>` : ''}
+            ${s['52w_high'] ? `<span><span class="mlabel">52W H</span><span class="mval">$${s['52w_high']}</span></span>` : ''}
+          </div>
+          <div class="card-bar" style="background:${barColor}"></div>
+        </div>`;
+    }).join('');
+
+    return `
+      <div class="sector-section">
+        <div class="sector-label">${sec}</div>
+        <div class="stock-grid">${cards}</div>
+      </div>`;
+  }).join('');
+
+  document.getElementById('stockSections').innerHTML = sectionsHtml;
+}
+
+// ════════════════════════════════════════════
+//  OPTIONS TAB
+// ════════════════════════════════════════════
+function renderOptions(d) {
+  const rows = (d.options || []).map(o => {
+    const pcr = o.pcr;
+    const pcrCls = pcr > 1.2 ? 'down' : pcr < 0.6 ? 'up' : '';
+    const ivCls  = o.iv > 80 ? 'down' : o.iv > 40 ? 'up' : '';
+    return `<tr>
+      <td><strong>${o.ticker}</strong></td>
+      <td class="mono">${o.expiry}</td>
+      <td class="up">${(o.call_vol||0).toLocaleString()}</td>
+      <td class="down">${(o.put_vol||0).toLocaleString()}</td>
+      <td>${(o.call_oi||0).toLocaleString()}</td>
+      <td>${(o.put_oi||0).toLocaleString()}</td>
+      <td class="${pcrCls}">${pcr != null ? pcr.toFixed(2) : '–'}</td>
+      <td class="${ivCls}">${o.iv != null ? o.iv+'%' : '–'}</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('optBody').innerHTML = rows ||
+    '<tr><td colspan="8" style="text-align:center;padding:40px;color:var(--text3)">No options data available</td></tr>';
+  document.getElementById('optCount').textContent = `${d.options?.length || 0} tickers`;
+}
+
+// ════════════════════════════════════════════
+//  UNUSUAL ACTIVITY TAB
+// ════════════════════════════════════════════
+function renderUnusual(d) {
+  window._unusualData = d.unusual_activity || [];
+  renderUnusualTable(window._unusualData);
+}
+
+function renderUnusualTable(data) {
+  const rows = data.map(u => {
+    const typeBadge = u.type === 'CALL'
+      ? '<span class="badge badge-call">CALL</span>'
+      : '<span class="badge badge-put">PUT</span>';
+    const hotBadge  = u.ratio >= 5 ? ' <span class="badge badge-hot">🔥 HOT</span>' : '';
+    const itmDot    = u.in_money ? '<span style="color:var(--green)">●</span>' : '<span style="color:var(--text3)">○</span>';
+    return `<tr>
+      <td><strong>${u.ticker}</strong></td>
+      <td>${typeBadge}${hotBadge}</td>
+      <td class="mono">$${u.strike}</td>
+      <td class="mono">${u.expiry}</td>
+      <td class="${u.type==='CALL'?'up':'down'}">${(u.volume||0).toLocaleString()}</td>
+      <td>${(u.oi||0).toLocaleString()}</td>
+      <td><strong class="${u.ratio>=3?'up':''}">${u.ratio}×</strong></td>
+      <td>${u.iv != null ? u.iv+'%' : '–'}</td>
+      <td class="mono">${u.last != null ? '$'+u.last : '–'}</td>
+      <td class="mono">${u.bid!=null&&u.ask!=null ? '$'+u.bid+' / $'+u.ask : '–'}</td>
+      <td>${itmDot}</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('unusBody').innerHTML = rows ||
+    '<tr><td colspan="11" style="text-align:center;padding:40px;color:var(--text3)">No unusual activity detected</td></tr>';
+  document.getElementById('unusCount').textContent = `${data.length} flags`;
+}
+
+function filterUnusual() {
+  const search  = document.getElementById('unusSearch').value.toLowerCase();
+  const typeVal = document.getElementById('unusType').value;
+  const data = (window._unusualData || []).filter(u => {
+    const matchSearch = !search || u.ticker.toLowerCase().includes(search);
+    const matchType   = !typeVal || u.type === typeVal;
+    return matchSearch && matchType;
+  });
+  renderUnusualTable(data);
+}
+
+// ════════════════════════════════════════════
+//  EARNINGS TAB
+// ════════════════════════════════════════════
+function renderEarnings(d) {
+  const items = d.earnings || [];
+  if (!items.length) {
+    document.getElementById('earningsGrid').innerHTML =
+      '<div class="empty-state"><div class="es-icon">📅</div>No upcoming earnings found for tracked tickers.</div>';
+    return;
+  }
+
+  const cards = items.map(e => {
+    const urgent = e.days_away <= 7;
+    const daysLabel = e.days_away === 0 ? 'Today!' :
+                      e.days_away === 1 ? 'Tomorrow' :
+                      `In ${e.days_away} days`;
+    return `
+      <div class="earnings-card">
+        <div class="ec-ticker">${e.ticker}</div>
+        <div class="ec-date">${formatDate(e.date)}</div>
+        <div class="ec-days ${urgent ? 'days-soon' : 'days-later'}">${daysLabel}</div>
+        ${e.eps_estimate != null ? `<div style="font-size:11px;color:var(--text3);margin-top:6px">EPS est. $${e.eps_estimate}</div>` : ''}
+      </div>`;
+  }).join('');
+
+  document.getElementById('earningsGrid').innerHTML = cards;
+}
+
+// ════════════════════════════════════════════
+//  SEC FILINGS TAB
+// ════════════════════════════════════════════
+function renderFilings(d) {
+  window._filingsData = d.sec_filings || [];
+  renderFilingsTable(window._filingsData);
+}
+
+function renderFilingsTable(data) {
+  const rows = data.map(f => {
+    const formClass = {
+      '10-K': 'badge-10k', '10-Q': 'badge-10q',
+      '8-K': 'badge-8k', 'DEF 14A': 'badge-def14a'
+    }[f.form] || 'badge-10q';
+
+    return `<tr>
+      <td><strong>${f.ticker}</strong></td>
+      <td style="font-size:12px">${f.company || ''}</td>
+      <td><span class="badge ${formClass}">${f.form}</span></td>
+      <td class="mono">${formatDate(f.date)}</td>
+      <td>
+        <a href="${f.url}" target="_blank" rel="noopener">View Filing ↗</a>
+        &nbsp;|&nbsp;
+        <a href="${f.index_url}" target="_blank" rel="noopener">EDGAR ↗</a>
+      </td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('filBody').innerHTML = rows ||
+    '<tr><td colspan="5" style="text-align:center;padding:40px;color:var(--text3)">No filings data available</td></tr>';
+  document.getElementById('filCount').textContent = `${data.length} filings`;
+}
+
+function filterFilings() {
+  const search   = document.getElementById('filSearch').value.toLowerCase();
+  const formVal  = document.getElementById('filType').value;
+  const data = (window._filingsData || []).filter(f => {
+    const matchSearch = !search ||
+      f.ticker.toLowerCase().includes(search) ||
+      (f.company||'').toLowerCase().includes(search);
+    const matchForm = !formVal || f.form === formVal;
+    return matchSearch && matchForm;
+  });
+  renderFilingsTable(data);
+}
+
+// ════════════════════════════════════════════
+//  NEWS TAB
+// ════════════════════════════════════════════
+function renderNews(d) {
+  window._newsData = d.news || [];
+  renderNewsGrid(window._newsData);
+}
+
+function renderNewsGrid(data) {
+  if (!data.length) {
+    document.getElementById('newsGrid').innerHTML =
+      '<div class="empty-state"><div class="es-icon">📰</div>No news articles loaded.</div>';
+    return;
+  }
+  const cards = data.map(n => `
+    <div class="news-card">
+      <div class="nc-source">${n.source}</div>
+      <div class="nc-title"><a href="${n.url}" target="_blank" rel="noopener">${n.title}</a></div>
+      ${n.summary ? `<div class="nc-summary">${n.summary}</div>` : ''}
+      <div class="nc-date">${n.published || ''}</div>
+    </div>`).join('');
+  document.getElementById('newsGrid').innerHTML = cards;
+}
+
+function filterNews(q) {
+  const ql = q.toLowerCase();
+  const filtered = (window._newsData || []).filter(n =>
+    !ql || n.title.toLowerCase().includes(ql) || (n.summary||'').toLowerCase().includes(ql)
+  );
+  renderNewsGrid(filtered);
+}
+
+// ════════════════════════════════════════════
+//  TABLE UTILITIES
+// ════════════════════════════════════════════
+const sortState = {};
+
+function sortTable(tableId, colIdx) {
+  const tbody = document.querySelector(`#${tableId} tbody`);
+  const ths   = document.querySelectorAll(`#${tableId} thead th`);
+  const rows  = Array.from(tbody.querySelectorAll('tr'));
+
+  const key = `${tableId}-${colIdx}`;
+  const asc = sortState[key] !== true;
+  sortState[key] = asc;
+
+  ths.forEach((th, i) => {
+    th.classList.remove('sorted-asc', 'sorted-desc');
+    if (i === colIdx) th.classList.add(asc ? 'sorted-asc' : 'sorted-desc');
+  });
+
+  rows.sort((a, b) => {
+    const av = a.cells[colIdx]?.textContent.trim() || '';
+    const bv = b.cells[colIdx]?.textContent.trim() || '';
+    const an = parseFloat(av.replace(/[$,%×\s,]/g, ''));
+    const bn = parseFloat(bv.replace(/[$,%×\s,]/g, ''));
+    if (!isNaN(an) && !isNaN(bn)) return asc ? an - bn : bn - an;
+    return asc ? av.localeCompare(bv) : bv.localeCompare(av);
+  });
+
+  rows.forEach(r => tbody.appendChild(r));
+}
+
+function filterTable(tableId, q) {
+  const ql   = q.toLowerCase();
+  const rows = document.querySelectorAll(`#${tableId} tbody tr`);
+  let   vis  = 0;
+  rows.forEach(r => {
+    const match = !ql || r.textContent.toLowerCase().includes(ql);
+    r.style.display = match ? '' : 'none';
+    if (match) vis++;
+  });
+
+  const countEl = document.getElementById(tableId === 'optTable' ? 'optCount' :
+                                          tableId === 'filTable' ? 'filCount' : 'unusCount');
+  if (countEl) countEl.textContent = `${vis} rows`;
+}
+
+// ════════════════════════════════════════════
+//  TAB SWITCHING
+// ════════════════════════════════════════════
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+  });
+});
+
+// ════════════════════════════════════════════
+//  UTILS
+// ════════════════════════════════════════════
+function formatDate(dateStr) {
+  if (!dateStr) return '–';
+  try {
+    const d = new Date(dateStr + 'T12:00:00Z');
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  } catch { return dateStr; }
+}
+
+// ════════════════════════════════════════════
+//  BOOT
+// ════════════════════════════════════════════
+loadData();
+</script>
+</body>
+</html>
