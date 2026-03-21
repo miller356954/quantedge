@@ -15,9 +15,9 @@ import time
 import sys
 from datetime import datetime, timedelta, timezone
 
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 #  CONFIGURATION
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 
 SECTORS = {
     "Semiconductors": ["NVDA", "AMD", "INTC", "TSM", "ASML", "AVGO", "MU", "QCOM", "AMAT", "LRCX"],
@@ -35,11 +35,11 @@ SEC_HEADERS = {
 }
 
 NEWS_FEEDS = [
-    ("Google News – Semiconductors",
+    ("Google News â Semiconductors",
      "https://news.google.com/rss/search?q=semiconductor+chip+NVDA+AMD+TSMC&hl=en-US&gl=US&ceid=US:en"),
-    ("Google News – AI Investing",
+    ("Google News â AI Investing",
      "https://news.google.com/rss/search?q=artificial+intelligence+investing+NVDA+MSFT+META&hl=en-US&gl=US&ceid=US:en"),
-    ("Google News – Quantum Computing",
+    ("Google News â Quantum Computing",
      "https://news.google.com/rss/search?q=quantum+computing+investing+IonQ+IBM&hl=en-US&gl=US&ceid=US:en"),
     ("Yahoo Finance",
      "https://finance.yahoo.com/news/rssindex"),
@@ -50,9 +50,9 @@ UNUSUAL_RATIO_THRESHOLD = 1.5
 # Minimum volume to consider (filters noise)
 MIN_VOLUME = 200
 
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 #  HELPERS
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 
 def safe_float(val, default=None):
     try:
@@ -81,9 +81,9 @@ def format_large_num(n):
         return f"{n/1_000_000:.2f}M"
     return str(n)
 
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 #  1. STOCK DATA
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 
 def fetch_stock_data():
     print("  Fetching stock data...")
@@ -130,19 +130,19 @@ def fetch_stock_data():
                     "iv":          None,   # filled in by options pass
                     "beta":        safe_float(full_info.get("beta")),
                 }
-                print(f"    ✓ {ticker}: ${price} ({change_pct:+.2f}%)" if change_pct is not None else f"    ✓ {ticker}: ${price}")
+                print(f"    â {ticker}: ${price} ({change_pct:+.2f}%)" if change_pct is not None else f"    â {ticker}: ${price}")
                 time.sleep(0.15)
 
             except Exception as e:
-                print(f"    ✗ {ticker}: {e}")
+                print(f"    â {ticker}: {e}")
                 stocks[ticker] = {"sector": sector, "name": ticker, "error": str(e)}
 
     return stocks
 
 
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 #  2. OPTIONS DATA
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 
 def fetch_options_data(stocks):
     print("  Fetching options data...")
@@ -169,14 +169,14 @@ def fetch_options_data(stocks):
                     if calls.empty and puts.empty:
                         continue
 
-                    # ── Aggregate stats ──
+                    # ââ Aggregate stats ââ
                     total_call_vol = safe_int(calls["volume"].sum()) if not calls.empty else 0
                     total_put_vol  = safe_int(puts["volume"].sum())  if not puts.empty else 0
                     total_call_oi  = safe_int(calls["openInterest"].sum()) if not calls.empty else 0
                     total_put_oi   = safe_int(puts["openInterest"].sum())  if not puts.empty else 0
                     pcr = round(total_put_vol / total_call_vol, 3) if total_call_vol > 0 else None
 
-                    # ── ATM implied volatility ──
+                    # ââ ATM implied volatility ââ
                     atm_iv = None
                     if not calls.empty and current_price > 0:
                         calls = calls.copy()
@@ -199,7 +199,7 @@ def fetch_options_data(stocks):
                         if ticker in stocks and atm_iv is not None:
                             stocks[ticker]["iv"] = atm_iv
 
-                    # ── Unusual activity scan ──
+                    # ââ Unusual activity scan ââ
                     for opt_type, df in [("CALL", calls), ("PUT", puts)]:
                         if df.empty:
                             continue
@@ -229,24 +229,25 @@ def fetch_options_data(stocks):
 
                     time.sleep(0.2)
                 except Exception as e:
-                    print(f"    ✗ {ticker} options ({expiry}): {e}")
+                    print(f"    â {ticker} options ({expiry}): {e}")
 
-            print(f"    ✓ {ticker}: options done")
+            print(f"    â {ticker}: options done")
 
         except Exception as e:
-            print(f"    ✗ {ticker} options: {e}")
+            print(f"    â {ticker} options: {e}")
 
     # Sort unusual activity by ratio descending
     unusual_activity.sort(key=lambda x: x["ratio"], reverse=True)
     return options_summary, unusual_activity[:75]
 
 
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 #  3. EARNINGS CALENDAR
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 
 def fetch_earnings():
     print("  Fetching earnings calendar...")
+    import pandas as pd
     earnings = []
     today = datetime.now().date()
     cutoff = today + timedelta(days=90)
@@ -254,54 +255,57 @@ def fetch_earnings():
     for ticker in ALL_TICKERS:
         try:
             t = yf.Ticker(ticker)
+            found = False
 
-            # yfinance returns earnings dates differently across versions
-            # Try .calendar first, then .earnings_dates
-            cal = None
+            # Method 1: t.calendar â modern yfinance returns a plain dict, e.g.:
+            # { 'Earnings Date': [Timestamp(...), Timestamp(...)], 'Earnings Average': 4.59, ... }
             try:
                 cal = t.calendar
-            except Exception:
-                pass
-
-            if cal is not None and hasattr(cal, "T"):
-                cal = cal.T
-
-            if cal is not None and not cal.empty:
-                for col in ["Earnings Date", "earningsDate"]:
-                    if col in cal.columns:
-                        val = cal[col].iloc[0]
-                        if hasattr(val, "date"):
-                            edate = val.date()
-                        else:
-                            try:
-                                edate = datetime.strptime(str(val)[:10], "%Y-%m-%d").date()
-                            except Exception:
-                                edate = None
-                        if edate and today <= edate <= cutoff:
+                if isinstance(cal, dict) and "Earnings Date" in cal:
+                    dates = cal["Earnings Date"]
+                    if not isinstance(dates, list):
+                        dates = [dates]
+                    for d in dates:
+                        try:
+                            edate = d.date() if hasattr(d, "date") else \
+                                    datetime.strptime(str(d)[:10], "%Y-%m-%d").date()
+                        except Exception:
+                            continue
+                        if today <= edate <= cutoff:
+                            eps = safe_float(cal.get("Earnings Average") or cal.get("EPS Estimate"))
                             earnings.append({
                                 "ticker":       ticker,
                                 "date":         str(edate),
                                 "days_away":    (edate - today).days,
-                                "eps_estimate": safe_float(cal.get("EPS Estimate", [None]).iloc[0]
-                                                           if "EPS Estimate" in cal.columns else None),
+                                "eps_estimate": eps,
                             })
-                        break
+                            found = True
+                            break
+            except Exception:
+                pass
 
-            # Fallback: try earnings_dates property
-            if not any(e["ticker"] == ticker for e in earnings):
+            # Method 2: t.earnings_dates â DataFrame indexed by tz-aware timestamps
+            if not found:
                 try:
                     ed = t.earnings_dates
                     if ed is not None and not ed.empty:
-                        future = ed[ed.index > datetime.now(timezone.utc)]
+                        now_ts = pd.Timestamp.now(tz="UTC")
+                        future = ed[ed.index > now_ts]
                         if not future.empty:
-                            next_date = future.index[0]
-                            edate = next_date.date()
+                            next_ts = future.index[0]
+                            edate = next_ts.date() if hasattr(next_ts, "date") else next_ts
                             if today <= edate <= cutoff:
+                                eps = None
+                                for col in ["EPS Estimate", "Reported EPS"]:
+                                    if col in future.columns:
+                                        eps = safe_float(future[col].iloc[0])
+                                        if eps is not None:
+                                            break
                                 earnings.append({
                                     "ticker":       ticker,
                                     "date":         str(edate),
                                     "days_away":    (edate - today).days,
-                                    "eps_estimate": None,
+                                    "eps_estimate": eps,
                                 })
                 except Exception:
                     pass
@@ -309,23 +313,23 @@ def fetch_earnings():
             time.sleep(0.15)
 
         except Exception as e:
-            print(f"    ✗ {ticker} earnings: {e}")
+            print(f"    â {ticker} earnings: {e}")
 
     earnings.sort(key=lambda x: x["date"])
-    print(f"    ✓ Found {len(earnings)} upcoming earnings dates")
+    print(f"    â Found {len(earnings)} upcoming earnings dates")
     return earnings
 
 
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 #  4. SEC EDGAR FILINGS
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 
 def fetch_sec_filings():
     print("  Fetching SEC EDGAR filings...")
     filings = []
     TARGET_FORMS = {"10-K", "10-Q", "8-K", "DEF 14A"}
 
-    # Load SEC's canonical ticker→CIK mapping
+    # Load SEC's canonical tickerâCIK mapping
     try:
         resp = requests.get(
             "https://www.sec.gov/files/company_tickers.json",
@@ -334,7 +338,7 @@ def fetch_sec_filings():
         resp.raise_for_status()
         ticker_map = resp.json()
     except Exception as e:
-        print(f"    ✗ Could not load SEC ticker map: {e}")
+        print(f"    â Could not load SEC ticker map: {e}")
         return []
 
     cik_lookup = {
@@ -389,19 +393,19 @@ def fetch_sec_filings():
                 if len([f for f in filings if f["ticker"] == ticker]) >= 5:
                     break  # Max 5 filings per ticker
 
-            print(f"    ✓ {ticker}: {len([f for f in filings if f['ticker'] == ticker])} filings")
+            print(f"    â {ticker}: {len([f for f in filings if f['ticker'] == ticker])} filings")
             time.sleep(0.4)  # Respect SEC rate limits
 
         except Exception as e:
-            print(f"    ✗ {ticker} SEC: {e}")
+            print(f"    â {ticker} SEC: {e}")
 
     filings.sort(key=lambda x: x["date"], reverse=True)
     return filings[:120]
 
 
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 #  5. NEWS FEEDS
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 
 def fetch_news():
     print("  Fetching news feeds...")
@@ -424,21 +428,21 @@ def fetch_news():
                     "published": pub,
                     "summary":   summary.strip(),
                 })
-            print(f"    ✓ {source_name}: {min(12, len(feed.entries))} articles")
+            print(f"    â {source_name}: {min(12, len(feed.entries))} articles")
         except Exception as e:
-            print(f"    ✗ {source_name}: {e}")
+            print(f"    â {source_name}: {e}")
 
     return news[:60]
 
 
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 #  MAIN
-# ─────────────────────────────────────────────
+# âââââââââââââââââââââââââââââââââââââââââââââ
 
 def main():
     start = datetime.now()
     print(f"\n{'='*55}")
-    print(f"  Investment Dashboard – Data Refresh")
+    print(f"  Investment Dashboard â Data Refresh")
     print(f"  {start.strftime('%Y-%m-%d %H:%M:%S UTC')}")
     print(f"{'='*55}\n")
 
@@ -457,7 +461,7 @@ def main():
     print("\n[5/5] News feeds")
     news = fetch_news()
 
-    # ── Compute sector performance summaries ──
+    # ââ Compute sector performance summaries ââ
     sector_stats = {}
     for sector, tickers in SECTORS.items():
         changes = [stocks[t]["change_pct"] for t in tickers
@@ -486,7 +490,7 @@ def main():
 
     elapsed = (datetime.now() - start).total_seconds()
     print(f"\n{'='*55}")
-    print(f"  ✅ data.json written in {elapsed:.1f}s")
+    print(f"  â data.json written in {elapsed:.1f}s")
     print(f"  Stocks: {len(stocks)} | Unusual: {len(unusual_activity)}")
     print(f"  Earnings: {len(earnings)} | Filings: {len(sec_filings)}")
     print(f"{'='*55}\n")
