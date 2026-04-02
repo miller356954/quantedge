@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T20:55:59.948383Z",
+  "last_updated": "2026-04-02T21:48:29.588117Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -1996,6 +1996,14 @@
   ],
   "sec_filings": [
     {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "form": "8-K",
+      "date": "2026-04-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526140574/d109450d8k.htm",
+      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001730168&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "form": "8-K",
@@ -2700,14 +2708,6 @@
       "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801&type=8-K&dateb=&owner=include&count=10"
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "form": "8-K",
-      "date": "2026-01-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526011731/d104560d8k.htm",
-      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001730168&type=8-K&dateb=&owner=include&count=10"
-    },
-    {
       "ticker": "QUBT",
       "company": "Quantum Computing Inc.",
       "form": "8-K",
@@ -2839,6 +2839,13 @@
   "news": [
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts - britannica.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5",
+      "published": "Tue, 31 Mar 2026 16:00:00 GMT",
+      "summary": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts&nbsp;&nbsp;britannica.com"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lKdVl2YzJuZzhOemdUODN1M0xkdk1nUnlacFJMUS13MHpQdWJjOUlYVGtPbU5QaEtqRndlYlRYTWdyd1NHa3VEbWM4bG8tYTlrWm5YRzROa3QwZzJUcXk1OWVqdzBHX3Rwdkl1VVhMUmwwdmsxQS1yOGNSSEwxY2owSkFFS1hvZHF6LXhhMHBuRVE?oc=5",
       "published": "Mon, 23 Mar 2026 07:00:00 GMT",
@@ -2853,13 +2860,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDc4cFNXbjczTkhZbEVydl9qREdPaC10T1NrTzFVZ3pRZTBiYTFDZk53V0FJb0JQcDdXSjdCWW05Sk5vVUNmWHF1Ri10alN4WlFBVS1sWVhlcnh5QlBuV3dJT3hqVkZERF8xWnFUZFlpVlE4bWRRMEhCWnZEa0l2RV9QdUh3bkUtTlhlNlIxNHVCVHpuR2VqQ2J6cjFzRTdGSWlVQml3N01WQdIBrwFBVV95cUxOWU9YQmRIYVRIdmExaEVsVU1COTBmcDdpR3c0WUVYbGNwVWhhSy1aRXNRdlRiUEpkWndqbi1JdU8tWEdaeVRSb29SX2JpUmZ6bWtQRGF3ZDZzWDRlNEx0TFl4ZlV6amdYYVNodksyb3hwZWFhOUROaXFEb2MtZjZDSXJxanUyUGw5QUlpRm5lQk42dW9xNGVNdEJSeFhvUFc4bWRuQzNMdmE0TEZOdHBn?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand&nbsp;&nbsp;cnbc.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Taiwan Semiconductor (TSM) Stock: TSMC Is Up While Nvidia, Apple, and Meta Are All Down - Here's Why - CoinCentral",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd054N19Jc1dPbkhtRF9nVU1pczFDMjQ4U0JWUTYzRExWdGpHbzJIRGxtbUYzQWZOa1NlS05UVDJsZEJlaHB6Q3I1aTNCVTVRTXY3LTRHbEVFME1scEs4Tnlzc05HR3JKbWdvNk9QVFFHa0RRUWlJRDhlMklUVlhId0gyQ1BFZVdIR0hKcm91VVJ3M1J5Mnd6Z0ZoSlM1XzMxaFNYcl9XYlNMUVRyajMwdXZFTnhrVlhJ?oc=5",
       "published": "Mon, 30 Mar 2026 08:34:34 GMT",
@@ -2867,10 +2867,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts - britannica.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5",
-      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts&nbsp;&nbsp;britannica.com"
+      "title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic' - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREZPaXJnWl80dC0xb21CbGNmdWpmOWhnSFpReTh0LXR3VU1lczBZVk9DTThQMTJURTR2Y2RjcmNuOG54LUtKTTlDVkdST3gwZTFybno5TnUzRWpqb2c3UXpIaU5NTlRLZVJrR3NhSGNtZi1MekJHM0pnSHdERGpYRVdRekx0MmdnT2dwS0NCRHBDV3BESHfSAZsBQVVfeXFMUGxOajdtVEdxN0pObFZnWkFvczFxUjBKZ1QyeGpuMGoyLTN2dTFGdmc2UUhhY2ZGbERtcEcxYWdRRVNudDZwOHBIZ1hMdzR1cG9VSlVCTl9Pd1Z1bTNlVjAtaXRxczNCYXZNdlh1VzdzNjZvbndJa2FhUUpwdGpVT19fbllxemRKVzM3anRxWTdlVXNlT0E3SzFEZFU?oc=5",
+      "published": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "summary": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic'&nbsp;&nbsp;cnbc.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2882,7 +2882,7 @@
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Nvidia Stock Pops. Trump, TSMC Earnings Are Boosting the AI Chip Maker's Shares. - barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNQk5scUEtQnVoYTRwUTk3MW96VkdsOWVHUzZBNklEQTgyNVYzRFA0WWJKN0UycUVDd05iNkdUTE5vRFNQRWJoUmVGbFV2ek1SQzZjU0pXTkNwRzNmUC1kcm9oMGVQSGdaUDdFVlpXN2txbjlUU2daTHB0YlhCeEg1VnA2bElxUm9CZGtoazlzanVQTGRMTEhtVnNhanJLSnU2ckNhVTR6eVBWUzhJejJvYUU0Q1pib283RGhzWlBiU3hNZnZmTmUyMlFMR1BJTFA0ckpPZ2hfRnBGb2Y2VjF0eWVPc1BJNm1PQ0pYX2RCVkZTa21qejFhUTItYTJLT2ZUTWotWUkwRUR6eWlhUjdBNHU5emlsWnZkelo4Z2lPVW1LNWlKcjhRNVpkRmN6dU9ETk1Pc0tOYUJfQ0FTclBJQkJlbmN4emtDZm1nVldzaklfdWtuaWtQTnRTUmljbEZEbnhOekVWSzUxOVZuaUFXX1FXVXBVbDYtUkh6SU1VZkY5bG1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOUFN4QzFDYVoxTzNDMGdnWklHY2xnYTF4SVFZeDNac1NUaDZCeUV4eDNxWlZiRExtTzV5U2U0ZUhDOVhBRnJ1SUNneTljc2g2bms3cUg0N3R2Wll1dy1uaXU3TnJFNEVrYXpCc2hZcXQ0Tkl6QXFCSEhZdU41eVF4SElvRGNjTHRqeXcyR3F4OXhrYTZ6V19UZFNjR0xhbl80TUpHRFBmaFhHZ3dFSVFwc2MwbmRlR2lBa2RZTExla1NQRm1yWjhVbjJfTVlxMW9OcVIwY0NEN1ozbjNNSEM4aVc5SUs0UHNJdnZKdm0zTVE0WmJIOTlwR0VYdGNjeGFFM0MxNFFYWnZnbHJHU2s4b21xQWYzTko4ZnpiNlhxZ3BOSVBIcW5pWjRha1lxd2lrX0s3U2VtSVhHUFVkbWlTaWxlYnR1MXpzbk9jN1lzZ3JyM2tsSWxZSDRkN1VIM0Y4X3l5WWVXV1pEd0J3YjFMTW5mZ1JJRTZkT2lpcVRSMm1DWHg1?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "Nvidia Stock Pops. Trump, TSMC Earnings Are Boosting the AI Chip Maker's Shares.&nbsp;&nbsp;barrons.com"
     },
@@ -2895,10 +2895,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say - reuters.com",
+      "title": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25BdFZxZkZrbWoxTlpwNFRvR3lPN0pPUl9LMmQ4VTVWQTN4Qks2cGdJUHVCbGhMRUpEbF8wcEdfczM2VWVzTU0zMU4wWGVxd2MwNWYtaXhoOW9uaG1fNjZWLUp2YUlvNk5FSTVjaTdodGF6ODFldVo5MDZ5MUg1NnE5b2lsRHBnZU9PTkR2clF0R1R5cHM1SHgxNE1qRC1STEp3aFQtaTV0SU5tNG1CUGJ2YVRTT29adWFSZDd3?oc=5",
       "published": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "summary": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say&nbsp;&nbsp;reuters.com"
+      "summary": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say&nbsp;&nbsp;Reuters"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Nvidia introduces new AI platform featuring six chips made by TSMC - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xSFR2cmJaOXQ5ZFlhQzU4SkdPbS1JX2JGUXNIeEc2RHlmT2pNUjlJQkk1MVRSUFc0MWd2aG5hQU9kbFVkM2l6S3pfbUpKTE5obElBVDlZWlljZnVmdnowWldDWF84anp6ZmZCSTJZQ3RoSEZEMEE?oc=5",
+      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "summary": "Nvidia introduces new AI platform featuring six chips made by TSMC&nbsp;&nbsp;Taipei Times"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2906,13 +2913,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa19fT2dITHVRS0tWZEZmd19RWmttS3picmJaamFNTktFalBoSWxBSkJqWWtzRS1iSjNXQ2JGaURlZWszeldFWkdCN1ZPaWxUR0ZycEdZVW4xQUprZXE4VGNYWXVwcC1nMjFDNUhlNGRfLVd6WGt3TEhnWFRkVHZLRVJYYzZBRWF4MEUwR3NhQTRaR2t6bEI1ZXJ4MUs4bGFJVm52dGI5X2F6ZTZ3LWV6T09veEtIdGF6alJWaw?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real'&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic' - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREZPaXJnWl80dC0xb21CbGNmdWpmOWhnSFpReTh0LXR3VU1lczBZVk9DTThQMTJURTR2Y2RjcmNuOG54LUtKTTlDVkdST3gwZTFybno5TnUzRWpqb2c3UXpIaU5NTlRLZVJrR3NhSGNtZi1MekJHM0pnSHdERGpYRVdRekx0MmdnT2dwS0NCRHBDV3BESHfSAZsBQVVfeXFMUGxOajdtVEdxN0pObFZnWkFvczFxUjBKZ1QyeGpuMGoyLTN2dTFGdmc2UUhhY2ZGbERtcEcxYWdRRVNudDZwOHBIZ1hMdzR1cG9VSlVCTl9Pd1Z1bTNlVjAtaXRxczNCYXZNdlh1VzdzNjZvbndJa2FhUUpwdGpVT19fbllxemRKVzM3anRxWTdlVXNlT0E3SzFEZFU?oc=5",
-      "published": "Mon, 26 Jan 2026 08:00:00 GMT",
-      "summary": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic'&nbsp;&nbsp;cnbc.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2930,10 +2930,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "The Best AI Stocks to Buy Now - morningstar.com",
+      "title": "The Best AI Stocks to Buy Now - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
       "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;morningstar.com"
+      "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3036,7 +3036,7 @@
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Rigetti, IonQ, and IBM Make Strides. What Quantum Investors Should Know. - barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxObzNhc1VpVXYxaDBLNndpNlJEUTB0ZjE4Y1dObHozZEhxUEMtSkZtbGY5d1oyUE1TQmJkTlZkVDNOZTVlSmNrZVJGZWZmSE1GV3g1U3BNOGl0aEpwWXM5amZvRGhTNzhLQTEtTXI1a1BTbEI1SUlINThjNlZqSnBSYUltb01VWjJ6NFdKTDhCOUltTHNqb1B5M0g0R29mLUVUV0F1Nk4teG5UaUpiM3Zxd0FqNVBYTTdXeXMyTzBrWFVwSUZkV0haNjd6NUpmWHRjaGJzdVVJUjF6MU5rRkFhSk5WbDJOY1Z5ZE1mMlZrVFBmWVNya2tzYXptTk1uYk1tVVBWQjBmVU5aUUh6b0J1TDU5UGF3Z29RRmdIQ29QTjJLZlNweUF3MGZzNm04TzUyUHVpaE5DR24xQUc3NGkxdHBFSkpqR1ZmNGpnX1FFZnM2Z2ZCZW9oV1ZhVmtldEhvRFdKNkFxUUVVYUdWaDdWdlJFMjRWZXNBQmpSZzhJZGxLaU5RZjNSM3dkYTlIYWtz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOV1JNWUVQUkE1SWxtb184UVFqeHRvUm9LSEZhQ2VpSXljUWdNUm02SXQ0X3J2YWU2YW4xV2pFZkVxZTJfdS1kOWg4cFBRakdfMFdPaWFaTzBDTGVzbmNuNTNvN2xNamRKVjN6a2VDYlgzWXdldDg2TEFWTmlaZmhVUFNTZ1JKZy1sRFRvYWY0SEc0cWU2YjRwYlVReW95cmdLRlJvTmozVzQ3UEhuYmRQelduSU5GNkJYUzBuZlhkOUw4cEtPQ2dsem5kRDRXZ2d3Wnl1bnBwLTlNa1p5aF9zQ2ZXdnJGMm1aQWxla1k0dmVQbXJRSGtzb2xvR3NrRTVqN1hKQmd6RUJSbDJwWExGeWZBRjhodWNVcnhRZzlJbUstVkw5elEtbFd4NVFEUlAtcXFWU3NZVWxWSDBWQVZIZTVSaGtoQUpfcFlWRHBWcDVSNzl3T2lOd2hlQ2Uxb2ZZVDktY1JHOElGZ0pRZXZnb0xaU0NvMHI2aDRMa2JfRkkxN29DRTd2aGZoV0x3bXRl?oc=5",
       "published": "Thu, 13 Nov 2025 08:00:00 GMT",
       "summary": "Rigetti, IonQ, and IBM Make Strides. What Quantum Investors Should Know.&nbsp;&nbsp;barrons.com"
     },
@@ -3053,13 +3053,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EajY2ZG93aXVabXdFN0cwekstSGc4QjE1SDlWeXp5ekc2RnRDMFJQWXl3TzZVZ0J0Vk5RUmVKaXI3a3N3M0ZrUWh6NzJ1TzR0OVpGVENZbWVpZmFXTlE4a1huek9GMUVrRFU0MW9BcEpvR3M0Z2hBNzNoejJnUQ?oc=5",
       "published": "Tue, 30 Sep 2025 07:00:00 GMT",
       "summary": "How to Invest in Quantum Stocks \u2014 A Guide to Long-term Investing in Quantum Technology&nbsp;&nbsp;The Quantum Insider"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum Computing Stocks: Complete Investment Guide 2026 - techi.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ob0o4N3Rzd0RVV3FITjZ4dFRNcV9keUd0dzlyOFc2N3c2b3ZRN3BaWTFNRkJKMlVOdjJUcDU4NzFvdnd1ZlA1MlNYTzlKOC1GeTVhOVJpVlN2Uk0?oc=5",
-      "published": "Fri, 27 Mar 2026 07:04:53 GMT",
-      "summary": "Quantum Computing Stocks: Complete Investment Guide 2026&nbsp;&nbsp;techi.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3090,87 +3083,94 @@
       "summary": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now.&nbsp;&nbsp;The Motley Fool"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Quantum Computing Stocks: 'Winner-Take-All Scenario' Possible, Says JPMorgan - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXJXcDFpY3kzeG9GcHJNSDI1MUsweTFhRTN5RHpaREN5dGNRSkVTUGY3LUxjVGlYeUpnUU5kM05pVUw0RGJiRW5Ka3BtTm1ncTZ2dEZySzBlTnZrMVdiQnhQNzM3ZmdDT0FXWDdZUWlwVDRfV0RPNXJydFVHZkFfZllnaEFDdzdIQTVmSEI5LTBMYVVaQXJCaVZXWC1jeUxKdXRN?oc=5",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "summary": "Quantum Computing Stocks: 'Winner-Take-All Scenario' Possible, Says JPMorgan&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "Retail Sales Picked Up in February",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-01-2026/card/retail-sales-picked-up-in-february-lNWK31684RO0bYVaP7fi?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-04-01T12:37:46Z",
+      "title": "Silver Price Dip: Is SLV or SLVP the Better ETF to Buy Now?",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/silver-price-dip-slv-slvp-134059020.html",
+      "published": "2026-04-01T13:40:59Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Falling Back on Wednesday",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-falling-back-wednesday-123149503.html",
-      "published": "2026-04-01T12:31:49Z",
+      "title": "Moody\u2019s Rates First Bitcoin Backed Bond",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/moody-rates-first-bitcoin-backed-133500508.html",
+      "published": "2026-04-01T13:35:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Starting April with Weakness",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-starting-april-weakness-123149703.html",
-      "published": "2026-04-01T12:31:49Z",
+      "title": "Uber Holds a 5.82% Stake in WeRide. Should You Buy WRD Stock Too?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-holds-5-82-stake-133002718.html",
+      "published": "2026-04-01T13:30:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Brown & Brown (BRO) Fell on Slow Organic Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/brown-brown-bro-fell-slow-123139896.html",
-      "published": "2026-04-01T12:31:39Z",
+      "title": "OpenAI just raised a historic amount of money. Here are 2 stunning numbers you shouldn't forget.",
+      "url": "https://finance.yahoo.com/news/openai-just-raised-a-historic-amount-of-money-here-are-2-stunning-numbers-you-shouldnt-forget-133202041.html",
+      "published": "2026-04-01T13:32:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Earnings Preview: What To Expect From T-Mobile's Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-t-mobiles-122919587.html",
-      "published": "2026-04-01T12:29:19Z",
+      "title": "Super Micro Computer Stock Bounces on Easing Iran War Fears. Should You Buy SMCI Here?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-stock-bounces-132651499.html",
+      "published": "2026-04-01T13:26:51Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nike stock is falling today. What the footwear brand said that has investors worried about the rest of 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-falling-today-footwear-124100302.html",
-      "published": "2026-04-01T12:41:00Z",
+      "title": "Kanzhun (BZ) Q4 2024 Earnings Call Transcript",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kanzhun-bz-q4-2024-earnings-134344306.html",
+      "published": "2026-04-01T13:43:44Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "GEN Restaurant Group, Inc. Q4 2025 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gen-restaurant-group-inc-q4-123000713.html",
-      "published": "2026-04-01T12:30:00Z",
+      "title": "Private employer job growth held steady with 62,000 new roles in March",
+      "url": "https://finance.yahoo.com/economy/article/private-employer-job-growth-held-steady-with-62000-new-roles-in-march-123158189.html",
+      "published": "2026-04-01T12:31:58Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "KULR Technology Group, Inc. Q4 2025 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kulr-technology-group-inc-q4-123000053.html",
-      "published": "2026-04-01T12:30:00Z",
+      "title": "CMS Energy's Quarterly Earnings Preview: What You Need to Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cms-energys-quarterly-earnings-preview-134626054.html",
+      "published": "2026-04-01T13:46:26Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "CXApp Inc. Q4 2025 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cxapp-inc-q4-2025-earnings-123000270.html",
-      "published": "2026-04-01T12:30:00Z",
+      "title": "Automakers unveil new EVs for US market despite sales downturn",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/kia-sell-lower-priced-electric-132608783.html",
+      "published": "2026-04-01T13:26:08Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "B.O.S. Better Online Solutions Ltd. Q4 2025 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/b-o-better-online-solutions-123000094.html",
-      "published": "2026-04-01T12:30:00Z",
+      "title": "Hasbro's Q1 2026 Earnings: What to Expect",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hasbros-q1-2026-earnings-expect-134636141.html",
+      "published": "2026-04-01T13:46:36Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: BJ's Wholesale Club Hldg Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2775_AnalystReport_1775148173000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-02T16:42:53Z",
+      "title": "S&P 500\u2019s Weakest Performer Struggles to Escape Selling \u2018Vortex\u2019",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-weakest-performer-struggles-133713986.html",
+      "published": "2026-04-01T13:37:13Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rising Mortgage Rates and Affordability present challenges for the Spring Home Buying Season",
-      "url": "https://finance.yahoo.com/economy/policy/articles/rising-mortgage-rates-affordability-present-123453080.html",
-      "published": "2026-04-01T12:34:53Z",
+      "title": "Should You Hold Vontier Corporation (VNT)?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hold-vontier-corporation-vnt-132510371.html",
+      "published": "2026-04-01T13:25:10Z",
       "summary": ""
     }
   ]
