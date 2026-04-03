@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T15:04:06.646430Z",
+  "last_updated": "2026-04-03T15:55:41.476002Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -548,21 +548,21 @@
     {
       "ticker": "TSM",
       "expiry": "2026-04-10",
-      "call_vol": 12483,
+      "call_vol": 12475,
       "put_vol": 24036,
       "call_oi": 35319,
       "put_oi": 32995,
-      "pcr": 1.925,
+      "pcr": 1.927,
       "iv": 41.0
     },
     {
       "ticker": "ASML",
       "expiry": "2026-04-10",
       "call_vol": 2618,
-      "put_vol": 5595,
+      "put_vol": 5587,
       "call_oi": 3877,
       "put_oi": 4652,
-      "pcr": 2.137,
+      "pcr": 2.134,
       "iv": 50.1
     },
     {
@@ -599,10 +599,10 @@
       "ticker": "AMAT",
       "expiry": "2026-04-10",
       "call_vol": 2598,
-      "put_vol": 1884,
+      "put_vol": 1828,
       "call_oi": 3729,
       "put_oi": 3450,
-      "pcr": 0.725,
+      "pcr": 0.704,
       "iv": 54.3
     },
     {
@@ -658,7 +658,7 @@
     {
       "ticker": "ORCL",
       "expiry": "2026-04-10",
-      "call_vol": 16456,
+      "call_vol": 16447,
       "put_vol": 11069,
       "call_oi": 35579,
       "put_oi": 30518,
@@ -789,10 +789,10 @@
       "ticker": "QTUM",
       "expiry": "2026-04-17",
       "call_vol": 127,
-      "put_vol": 177,
+      "put_vol": 178,
       "call_oi": 1403,
       "put_oi": 1488,
-      "pcr": 1.394,
+      "pcr": 1.402,
       "iv": 38.5
     }
   ],
@@ -1853,7 +1853,7 @@
       "ticker": "ASML",
       "date": "2026-04-15",
       "days_away": 12,
-      "eps_estimate": 6.6506
+      "eps_estimate": 6.6413
     },
     {
       "ticker": "TSM",
@@ -1883,7 +1883,7 @@
       "ticker": "GOOGL",
       "date": "2026-04-23",
       "days_away": 20,
-      "eps_estimate": 2.6164
+      "eps_estimate": 2.6166
     },
     {
       "ticker": "QCOM",
@@ -2882,23 +2882,23 @@
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Nvidia Stock Pops. Trump, TSMC Earnings Are Boosting the AI Chip Maker's Shares. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPb0l3VWtTSTZlNVVLaGo4WkxOaElPdlk1T0J2S2hOU0VxbEcxbm9JVjN2NllLTGMxcmRUUHN5bllKVXU4elFwTGJFY3RISUpxT1hSNXpkNUd0eVhIOUxXQnpSeHRUNmFkNjJpS1Y4dUVjSkVyVUkzVkUtZXk1UG5RVDlOd2RuZXFIV2Y4OFNMeDVBOENHQ1ZzMzNORXMtNElWaGZEUzRWWHNEdWV3LXdyd0ZBYUI3UVZyVmhYbjh2NDZaRmpLUk9CU0tZZU1yNkNFSlRMNHB0aHBBWmpWOVBTNGExSnNRNjZZWHpIMkdLTkZjdDdDc2h6X0VXQkI1NTBvSDRLT292N2lqLUJIX1hkUG1QcWd4cTRBV2pyYU1BTklwMzhYNlZ1dGZDeGgtZEIybTBmNWs2cHRnRHJldlNZR2ZucVZlMFpBRDNVWEh5TktodExWS1pBQUJXSVRnWHJkbS1Kc3JXbmNIYmdMRm13UVYtWW15VmZueDVQbk54bzhER05z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOaHNXaUJ1dmpHYVROU1hELXNsTjJ6cXlIMDJzbGxOUU80dk9IUUFnTUJpek9CQmRGbFVKa3o4UFB2c0tTUzdkVlV3MXJvamJvRVZ1Mm1IeEFDSTE3UG1qYXZMOTZiREtfLVhlS2xIUmJuVENSUmt6R2VCZThkU1dqLWo5SE8xWVhyNjFYamExRFlTMmdPa1VhRWMxc211UFJwelJZTnQyWDVSd2tMeWlwYXkyRDhsV09VNUlSZ2UtODU0eWNEeUZLNkdKYU5JOHdGUGFBa3N1WnNNZVd1alU3M2J1ZDc1cTQwVmZaYVBfQ185c1NrNW5pTVlWZ0g2dkFQUm5fZ0VmZUd0eVRDQ2F2MnB1bDVhSGNqclFKZThPby1weTVVTWwtVWRuX1MwWW0xYjRzQU5CSUVVZVZPc3h2VE1XamM1TDJtb0NHRHF0aTlCZ2hHR2dOMlpBQWI3X0t2eFFZemRmQVhGRjNRWXRoMG93TnVVRV9lNmRQeXVUT1ZVLTll?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "Nvidia Stock Pops. Trump, TSMC Earnings Are Boosting the AI Chip Maker's Shares.&nbsp;&nbsp;Barron's"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say - reuters.com",
+      "title": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25BdFZxZkZrbWoxTlpwNFRvR3lPN0pPUl9LMmQ4VTVWQTN4Qks2cGdJUHVCbGhMRUpEbF8wcEdfczM2VWVzTU0zMU4wWGVxd2MwNWYtaXhoOW9uaG1fNjZWLUp2YUlvNk5FSTVjaTdodGF6ODFldVo5MDZ5MUg1NnE5b2lsRHBnZU9PTkR2clF0R1R5cHM1SHgxNE1qRC1STEp3aFQtaTV0SU5tNG1CUGJ2YVRTT29adWFSZDd3?oc=5",
       "published": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "summary": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say&nbsp;&nbsp;reuters.com"
+      "summary": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say&nbsp;&nbsp;Reuters"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges - computing.co.uk",
+      "title": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges - Computing UK",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDJYSkIteGdsNTJvbmptRFkzcnZZc0o2LThUcFpUbzZDOWVHSFpDbVlDZEJTVjhBNnd2V2R2M2pJNmhINV9EQlVkVDFPdkJ5SVd6NTRRNDB3QXUtT2M1LUozVmRxWjZ0dGNkdGRSZUd4NnJqb2NHZGdQZnZYZVNoSHRNQkhtT1R4SVNzNFRia1ctSEZoYURZSXA1RnNXa3FrUlNtdE01TU55NWFEVVh2UVRHUQ?oc=5",
       "published": "Mon, 19 Jan 2026 08:00:00 GMT",
-      "summary": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges&nbsp;&nbsp;computing.co.uk"
+      "summary": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges&nbsp;&nbsp;Computing UK"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -3007,10 +3007,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "8 Best Quantum Computing Stocks to Buy - money.usnews.com",
+      "title": "8 Best Quantum Computing Stocks to Buy - U.S. News Money",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5",
       "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "8 Best Quantum Computing Stocks to Buy&nbsp;&nbsp;money.usnews.com"
+      "summary": "8 Best Quantum Computing Stocks to Buy&nbsp;&nbsp;U.S. News Money"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3043,7 +3043,7 @@
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Rigetti, IonQ, and IBM Make Strides. What Quantum Investors Should Know. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQNkpsVFpTWVBXQ1IybzgzZkNPNUg2b3FSNTBSOU5ZWTFsY294QXJCMmdHX215ZENWa2xPWkI3V0I3aEVhRnhwMkQzNUNUQmEtYTc3LWtId2p6blZUdHBCalNxdURfVDBlX0o4ZUszXzNFSmhZYnJqTzAyYkEzS3prY2ttQ1RvU3R4d1liNUN3eDBTUWN1UGZwem9tb25IVERfcmlMY1liSHVWekh1cjVYSTF1OVVkLW5CR2JHWEZ5MlRaQnV5b2VpOGdsNmRLckl3UUFnOEN5MVJLN1hnQ1dGTGx5dVJ0OGV2OEFpWE1KUlhCYV9HLVNjbEVTVEVxdE9ZelJVd1Q1dERqOUhYbFdIMS00UlQzZDZUYk5qTzlLY2FwRDFQdS1ybk1WRmNHZ2hkMS0yLU1jbXRmNWhWbFdkc0w0NjAyZWx5SGVINFhzN0xoOHdQbDRkNW9LNVhpZVZ3ZHREYUNhU000WklVVEs5Wi02a1pzVkZmLW5EV2lPM2N1clBWSFN2WHNrNTNlbkR4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQamVEVGxqVzNST3pxN0tkQVp2bGNxdFY4bFZYUW9Qekd3MkpUamVFZWlSZHhWdmZyTTZ6N3E4bHVGVHRsc21hSDRaeDRlZFh3VmhQSS12MzZ0aUpNUjFvcmlJbDVpU2Z2WHh5ZDhQUHdiSFZ1YUphVGJoOU5vdTFMNURLdkxRUDRRdkhIbkVpS0NvY25XQV9VYnM3ME1IOGtyNzhfSkFOc0Y1eGhGYVZBQ3VmSDRHQV9rS0xEX1Y0UXI1SC1vMFlqbm1IMnFGR1M0YnlCYWowODZkSk5TRGlDNkZPT3A3emY3anhEWTJvd2MxRm9ZU2FpRlpXQWhtY2hPa0EzaWcyUFB0Ung1amFIYjdxZko0QVJzaXpTWHdZYWRQVUhaTXVldHlqektmMVQzN19BQmJHeXJPUUd2WDB2d1k3V0pqdzhXOXRJTHlDb3BxUUVTc2VkaFFlTkpZYWo5OTN1Y1pRRHNGa21xVWdzZHFYd2xlT1ZzcGg3NkdRUV9NYXVNWHBuTzlRaDdUUk1W?oc=5",
       "published": "Thu, 13 Nov 2025 08:00:00 GMT",
       "summary": "Rigetti, IonQ, and IBM Make Strides. What Quantum Investors Should Know.&nbsp;&nbsp;Barron's"
     },
@@ -3091,9 +3091,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Microsoft the Next Alphabet?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-next-alphabet-144300023.html",
-      "published": "2026-04-03T14:43:00Z",
+      "title": "\u2018Liberation Day\u2019 1 Year Later: How This Tiny AI Play Turned Into a 3,350% Winner",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/liberation-day-1-later-tiny-154318991.html",
+      "published": "2026-04-03T15:43:18Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Fall On Jobs Report Stunner; Stock Market Hasn't Done This Yet",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-tesla-jobs-report/?src=A00220&yptr=yahoo",
+      "published": "2026-04-03T15:18:30Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Barclays Points Out CapEx Concerns for Tesla (TSLA) Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/braclays-points-capex-concerns-tesla-151845903.html",
+      "published": "2026-04-03T14:55:45Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Semiconductor Capex Rising. Analysts Name Top Stock Picks.",
+      "url": "https://www.investors.com/news/technology/chip-gear-stocks-analysts-name-top-picks-amat-asml-lrcx/?src=A00220&yptr=yahoo",
+      "published": "2026-04-03T14:46:50Z",
       "summary": ""
     },
     {
@@ -3105,27 +3126,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fastly (FSLY) Climbs to 4-Year High on Appointment of Global Marketing Chief",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-climbs-4-high-042843623.html",
-      "published": "2026-04-02T04:28:43Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Constellium (CSTM)  Soars 11% on Aluminum Supply Concerns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/constellium-cstm-soars-11-aluminum-042851886.html",
-      "published": "2026-04-02T04:28:51Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "nCino (NCNO) Rallies 10.6% on Upbeat Growth Outlook",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ncino-ncno-rallies-10-6-042900899.html",
-      "published": "2026-04-02T04:29:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Daily \u2013 Vickers Top Buyers & Sellers for 04/03/2026",
       "url": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published": "2026-04-03T11:01:19Z",
@@ -3133,37 +3133,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "GLD Offers Stability While SLVP Delivers Bigger Swings",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gld-offers-stability-while-slvp-144005533.html",
-      "published": "2026-04-03T14:40:05Z",
+      "title": "Why This Top Dividend Growth Stock Is Oversold and Is a No-Brainer Buy Right Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-top-dividend-growth-stock-154100354.html",
+      "published": "2026-04-03T15:41:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Planet Labs (PL) Climbs 9.9% as Space Stocks Fly",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-climbs-9-042914843.html",
-      "published": "2026-04-02T04:29:14Z",
+      "title": "March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround",
+      "url": "https://finance.yahoo.com/economy/article/march-jobs-report-us-economy-adds-178000-jobs-unemployment-rate-falls-to-43-in-surprise-turnaround-190000531.html",
+      "published": "2026-04-02T19:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Intuitive Machines (LUNR) Rallies 9% on NASA Award",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-rallies-9-042921101.html",
-      "published": "2026-04-02T04:29:21Z",
+      "title": "When the safety net becomes the risk",
+      "url": "https://finance.yahoo.com/economy/policy/articles/safety-net-becomes-risk-135935273.html",
+      "published": "2026-04-03T13:59:35Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Micron Technology (MU) Jumps 8.9% on Tech Optimism",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-jumps-8-042935139.html",
-      "published": "2026-04-02T04:29:35Z",
+      "title": "Riot Platforms Sold 3,778 Bitcoin In First Quarter",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/riot-platforms-sold-3-778-135800405.html",
+      "published": "2026-04-03T13:58:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Sandisk (SNDK) Soars 9% Ahead of Earnings, Revenues to More-Than-Double",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-soars-9-ahead-042928131.html",
-      "published": "2026-04-02T04:29:28Z",
+      "title": "OpenAI buys tech news show TBPN in AI giant's biggest media push yet",
+      "url": "https://finance.yahoo.com/sectors/technology/article/openai-buys-tech-news-show-tbpn-in-ai-giants-biggest-media-push-yet-175749747.html",
+      "published": "2026-04-02T17:57:49Z",
       "summary": ""
     },
     {
