@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T20:58:51.229198Z",
+  "last_updated": "2026-04-08T21:55:31.248753Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -237,7 +237,7 @@
       "market_cap_fmt": "2.78T",
       "52w_high": 555.45,
       "52w_low": 353.1,
-      "pe_ratio": 19.8641,
+      "pe_ratio": 19.8606,
       "iv": 3.5,
       "beta": 1.107
     },
@@ -2895,13 +2895,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges - Computing UK",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDJYSkIteGdsNTJvbmptRFkzcnZZc0o2LThUcFpUbzZDOWVHSFpDbVlDZEJTVjhBNnd2V2R2M2pJNmhINV9EQlVkVDFPdkJ5SVd6NTRRNDB3QXUtT2M1LUozVmRxWjZ0dGNkdGRSZUd4NnJqb2NHZGdQZnZYZVNoSHRNQkhtT1R4SVNzNFRia1ctSEZoYURZSXA1RnNXa3FrUlNtdE01TU55NWFEVVh2UVRHUQ?oc=5",
-      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
-      "summary": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges&nbsp;&nbsp;Computing UK"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25BdFZxZkZrbWoxTlpwNFRvR3lPN0pPUl9LMmQ4VTVWQTN4Qks2cGdJUHVCbGhMRUpEbF8wcEdfczM2VWVzTU0zMU4wWGVxd2MwNWYtaXhoOW9uaG1fNjZWLUp2YUlvNk5FSTVjaTdodGF6ODFldVo5MDZ5MUg1NnE5b2lsRHBnZU9PTkR2clF0R1R5cHM1SHgxNE1qRC1STEp3aFQtaTV0SU5tNG1CUGJ2YVRTT29adWFSZDd3?oc=5",
       "published": "Wed, 31 Dec 2025 08:00:00 GMT",
@@ -2909,10 +2902,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Nvidia introduces new AI platform featuring six chips made by TSMC - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xSFR2cmJaOXQ5ZFlhQzU4SkdPbS1JX2JGUXNIeEc2RHlmT2pNUjlJQkk1MVRSUFc0MWd2aG5hQU9kbFVkM2l6S3pfbUpKTE5obElBVDlZWlljZnVmdnowWldDWF84anp6ZmZCSTJZQ3RoSEZEMEE?oc=5",
-      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "summary": "Nvidia introduces new AI platform featuring six chips made by TSMC&nbsp;&nbsp;Taipei Times"
+      "title": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges - Computing UK",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDJYSkIteGdsNTJvbmptRFkzcnZZc0o2LThUcFpUbzZDOWVHSFpDbVlDZEJTVjhBNnd2V2R2M2pJNmhINV9EQlVkVDFPdkJ5SVd6NTRRNDB3QXUtT2M1LUozVmRxWjZ0dGNkdGRSZUd4NnJqb2NHZGdQZnZYZVNoSHRNQkhtT1R4SVNzNFRia1ctSEZoYURZSXA1RnNXa3FrUlNtdE01TU55NWFEVVh2UVRHUQ?oc=5",
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "summary": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges&nbsp;&nbsp;Computing UK"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Nvidia Suspends H200 AI Chip Production for China Market - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDdWclY4VEtLZUprSU9SaDVuanVzOGw1OC1KM0NleWhIOGxIVTktbFpnenp6RHBvSjM1TWhoREk2NGFhbDNYZHBEb3lDWTJicmp1SlBPTUgxRHVvclFUOEdsNXQ3SVAzYkpsLU1JX3NmQ1ZQUjFHQzVVWmZ6OTJVMU11NUxvZHhQRjczZWx4dGUzbzZOT3ZCOTZELW5zbVU?oc=5",
+      "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "summary": "Nvidia Suspends H200 AI Chip Production for China Market&nbsp;&nbsp;Mexico Business News"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -3091,37 +3091,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Bill Ackman\u2019s Deal for Universal Music Really Worth $63 Billion?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-07-2026/card/is-bill-ackman-s-deal-for-universal-music-really-worth-63-billion--WYWiZPspSu6UibG7trfl?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-04-07T12:33:02Z",
+      "title": "UnitedHealth Price Target Raised to $337 by BofA After Medicare Advantage Rate Finalization",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-price-target-raised-337-134352413.html",
+      "published": "2026-04-07T13:43:52Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Russia says Middle East war disruption opens up new trade opportunities",
-      "url": "https://finance.yahoo.com/economy/policy/articles/russia-says-middle-east-war-123301224.html",
-      "published": "2026-04-07T12:33:01Z",
+      "title": "Tyson Loses Flesh-Eating Bacteria Case",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/tyson-loses-flesh-eating-bacteria-134523604.html",
+      "published": "2026-04-07T13:45:23Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Reading International, Inc. Q4 2025 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/reading-international-inc-q4-2025-123000804.html",
-      "published": "2026-04-07T12:30:00Z",
+      "title": "Don't Get Trapped Buying the Dip! Top Stock & Options Indicators You MUST Check First",
+      "url": "https://finance.yahoo.com/markets/options/articles/dont-trapped-buying-dip-top-134304959.html",
+      "published": "2026-04-07T13:43:04Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "\u2018Peak Memory\u2019 Panic Is \u2018Overblown\u2019 Says Mizuho: Buy the Sandisk Stock Dip",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/peak-memory-panic-overblown-says-123554171.html",
-      "published": "2026-04-07T12:35:54Z",
+      "title": "Advance Auto Parts (AAP) Slid Despite 4Q Earnings Beat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-aap-slid-135005102.html",
+      "published": "2026-04-07T13:50:05Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Starting Off Tuesday with Turnaround Losses",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-starting-off-tuesday-turnaround-123313992.html",
-      "published": "2026-04-07T12:33:13Z",
+      "title": "Here's What to Expect From VICI Properties' Next Earnings Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-vici-properties-next-134909631.html",
+      "published": "2026-04-07T13:49:09Z",
       "summary": ""
     },
     {
@@ -3133,37 +3133,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "XRP News: Garlinghouse Says More Ripple Acquisitions Are Coming \u2014 What Could Ripple Buy Next?",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-news-garlinghouse-says-more-122535870.html",
-      "published": "2026-04-07T12:25:35Z",
+      "title": "A generational buying opportunity has opened up for U.S. tech stocks, says Goldman Sachs",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/generational-buying-opportunity-opened-u-134400608.html",
+      "published": "2026-04-07T13:44:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Slipping on Tuesday AM Trade",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-tuesday-am-trade-123313442.html",
-      "published": "2026-04-07T12:33:13Z",
+      "title": "What Makes C.H. Robinson (CHRW) a Standout From Its Peers?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-c-h-robinson-chrw-134853224.html",
+      "published": "2026-04-07T13:48:53Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What You Need to Know Ahead of Moody's Earnings Release",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-moodys-earnings-release-122127446.html",
-      "published": "2026-04-07T12:21:27Z",
+      "title": "What Makes ON Semiconductor (ON) a Resilient Company?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-semiconductor-resilient-company-134319468.html",
+      "published": "2026-04-07T13:43:19Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fraud is growing in the gray area",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fraud-growing-gray-area-123826195.html",
-      "published": "2026-04-07T12:38:26Z",
+      "title": "Intel Could Score Major Packaging Customers. Should You Buy INTC Stock Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-could-score-major-packaging-135229572.html",
+      "published": "2026-04-07T13:52:29Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Chubb Limited Earnings Preview: What to Expect",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chubb-limited-earnings-preview-expect-122630673.html",
-      "published": "2026-04-07T12:26:30Z",
+      "title": "Chipotle Mexican Grill's Q1 2026 Earnings: What to Expect",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grills-q1-2026-134049214.html",
+      "published": "2026-04-07T13:40:49Z",
       "summary": ""
     },
     {
