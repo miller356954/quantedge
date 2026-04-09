@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T20:58:58.467240Z",
+  "last_updated": "2026-04-09T21:54:38.224055Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -2902,13 +2902,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Nvidia introduces new AI platform featuring six chips made by TSMC - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xSFR2cmJaOXQ5ZFlhQzU4SkdPbS1JX2JGUXNIeEc2RHlmT2pNUjlJQkk1MVRSUFc0MWd2aG5hQU9kbFVkM2l6S3pfbUpKTE5obElBVDlZWlljZnVmdnowWldDWF84anp6ZmZCSTJZQ3RoSEZEMEE?oc=5",
-      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "summary": "Nvidia introduces new AI platform featuring six chips made by TSMC&nbsp;&nbsp;Taipei Times"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREZPaXJnWl80dC0xb21CbGNmdWpmOWhnSFpReTh0LXR3VU1lczBZVk9DTThQMTJURTR2Y2RjcmNuOG54LUtKTTlDVkdST3gwZTFybno5TnUzRWpqb2c3UXpIaU5NTlRLZVJrR3NhSGNtZi1MekJHM0pnSHdERGpYRVdRekx0MmdnT2dwS0NCRHBDV3BESHfSAZsBQVVfeXFMUGxOajdtVEdxN0pObFZnWkFvczFxUjBKZ1QyeGpuMGoyLTN2dTFGdmc2UUhhY2ZGbERtcEcxYWdRRVNudDZwOHBIZ1hMdzR1cG9VSlVCTl9Pd1Z1bTNlVjAtaXRxczNCYXZNdlh1VzdzNjZvbndJa2FhUUpwdGpVT19fbllxemRKVzM3anRxWTdlVXNlT0E3SzFEZFU?oc=5",
       "published": "Mon, 26 Jan 2026 08:00:00 GMT",
@@ -2920,6 +2913,13 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE1nNGV3WDNEdjE1aVM4N3FrWkZaZkNRakd3NGNaVTZxSVZBaVVtRzRCU3RoR3E3ZllFRUpyVlJuTndRa1dzdkhqazdRMDlWcVhTVXR4NkpUemtaNEh5Q0RSZzFLa09FSE5lVjFuRFJjVjEtY2RRbUNWQmw4alNUVE5LT05kTXRndlNKODA4dVEzRkcyZ3lWb2J4NWd1bmR2SHk0OFVaNXdTUGJ0alE?oc=5",
       "published": "Mon, 16 Feb 2026 08:00:00 GMT",
       "summary": "Chip Stocks Split: AMAT and TSMC Gain While NVDA and Intel Retreat&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Taiwan Semiconductor Manufacturing Just Delivered Fantastic News for Nvidia and Broadcom Stock Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmFuTkxQMUFUeXQ0TlJyYWVaZEh5MU5idkctV1c5YkszZmVEM2RBVkE4cGJhNmh0NGZpeTZhMGUxTW5vTTRKYk5uckdINjZGUDE0S1lFbUlTSDltOFQ5cWJFcGJrMXY2Uk5Zd3VuZVFmUkVJelNUX0dYU0tKb3BONHVHNHRldWZ0cHFfU0g4c1N1QkdBYTFF?oc=5",
+      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "summary": "Taiwan Semiconductor Manufacturing Just Delivered Fantastic News for Nvidia and Broadcom Stock Investors&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3009,7 +3009,7 @@
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "IonQ vs. Rigetti Computing: Which Quantum Computing Stock Has the Edge Now? - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYkEtbkZld2lVM3h0RXVDLW1OaVdjNDRrVUpiZVZhQTFsVWlDVjlZekFEWjlEeVVOS3B3eDEwc2V3aWhHbnkxa3FQTjFHWVVuTnIxdklrOExTdVJEOU1VUGVZSEtTZFNqXzNINlhQaHZiZFVjZzVHUF9fZ2JTS3dfc0d5WkkzdzU1SVdZb0pRRVZaem0tSVRPZW1iOXVFbG5wSEVyeGNZVGpjS2k4ZFZOR0xtQVU5VUJnTG1sSVNrOUctdUhlaEdHRXIxbE9qUFFadUhYMA?oc=5",
-      "published": "Mon, 06 Apr 2026 13:03:56 GMT",
+      "published": "Mon, 06 Apr 2026 13:04:11 GMT",
       "summary": "IonQ vs. Rigetti Computing: Which Quantum Computing Stock Has the Edge Now?&nbsp;&nbsp;TradingKey"
     },
     {
@@ -3098,30 +3098,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "What You Need To Know Ahead of Humana's Earnings Release",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/know-ahead-humanas-earnings-release-124104968.html",
-      "published": "2026-04-08T12:41:04Z",
+      "title": "What Enables Blackstone (BX) to Weather The Ups And Downs?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/enables-blackstone-bx-weather-ups-135114635.html",
+      "published": "2026-04-08T13:51:14Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Adobe (ADBE) is Thriving in the AI Landscape",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-thriving-ai-landscape-123548077.html",
-      "published": "2026-04-08T12:35:48Z",
+      "title": "Clearbridge Dividend Strategy\u2019s Updates on Oracle Corporation (ORCL)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/clearbridge-dividend-strategy-updates-oracle-134203865.html",
+      "published": "2026-04-08T13:42:03Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Greenbrier Companies, Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/greenbrier-companies-inc-q2-2026-123000581.html",
-      "published": "2026-04-08T12:30:00Z",
+      "title": "Clearbridge Dividend Strategy Added Honeywell International (HON) Amid Reorganization",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/clearbridge-dividend-strategy-added-honeywell-134644369.html",
+      "published": "2026-04-08T13:46:44Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kura Sushi USA, Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kura-sushi-usa-inc-q2-123000579.html",
-      "published": "2026-04-08T12:30:00Z",
+      "title": "Polymarket Acquires Brahma As It Looks To Scale Its DeFi Stack",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/polymarket-acquires-brahma-looks-scale-134900786.html",
+      "published": "2026-04-08T13:49:00Z",
       "summary": ""
     },
     {
@@ -3140,30 +3140,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Xcel Brands, Inc. Q4 2025 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/xcel-brands-inc-q4-2025-123000655.html",
-      "published": "2026-04-08T12:30:00Z",
+      "title": "Clearbridge Dividend Strategy Trimmed Broadcom (AVGO) Due to Diminishing Risk-Reward Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/clearbridge-dividend-strategy-trimmed-broadcom-134847454.html",
+      "published": "2026-04-08T13:48:47Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Skillsoft Corp. Q4 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/skillsoft-corp-q4-2026-earnings-123000735.html",
-      "published": "2026-04-08T12:30:00Z",
+      "title": "What Makes ExxonMobil (XOM) an Investment Bet?",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/makes-exxonmobil-xom-investment-bet-135619345.html",
+      "published": "2026-04-08T13:56:19Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Aehr Test Systems Q3 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-systems-q3-2026-123000027.html",
-      "published": "2026-04-08T12:30:00Z",
+      "title": "Dear Google Stock Fans, Mark Your Calendars for April 23",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-google-stock-fans-mark-134622490.html",
+      "published": "2026-04-08T13:46:22Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Phoenix Education Partners, Inc Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/phoenix-education-partners-inc-q2-123000886.html",
-      "published": "2026-04-08T12:30:00Z",
+      "title": "Dollar Tree Breaks Below Its 20-Day Moving Average Again. Should You Buy the Dip?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-breaks-below-20-133953505.html",
+      "published": "2026-04-08T13:39:53Z",
       "summary": ""
     },
     {
