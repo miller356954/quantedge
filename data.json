@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T21:09:53.021663Z",
+  "last_updated": "2026-04-13T22:04:30.020523Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -40,25 +40,25 @@
   },
   "sector_stats": {
     "Semiconductors": {
-      "avg_change": 1.25,
+      "avg_change": 1.24,
       "gainers": 8,
       "losers": 2,
       "flat": 0
     },
     "AI / Software": {
-      "avg_change": 3.71,
+      "avg_change": 3.7,
       "gainers": 8,
       "losers": 0,
       "flat": 0
     },
     "Quantum Computing": {
-      "avg_change": 3.35,
+      "avg_change": 3.1,
       "gainers": 6,
       "losers": 0,
       "flat": 0
     },
     "ETFs": {
-      "avg_change": 2.0,
+      "avg_change": 2.15,
       "gainers": 4,
       "losers": 0,
       "flat": 0
@@ -77,7 +77,7 @@
       "market_cap_fmt": "4.60T",
       "52w_high": 212.19,
       "52w_low": 95.04,
-      "pe_ratio": 17.0299,
+      "pe_ratio": 16.9801,
       "iv": 4.3,
       "beta": 2.335
     },
@@ -101,8 +101,8 @@
       "sector": "Semiconductors",
       "name": "Intel Corporation",
       "price": 65.18,
-      "prev_close": 62.38,
-      "change_pct": 4.49,
+      "prev_close": 62.3994,
+      "change_pct": 4.46,
       "volume": 108771117,
       "volume_fmt": "108.77M",
       "market_cap": 327269448193,
@@ -261,8 +261,8 @@
       "sector": "AI / Software",
       "name": "Meta Platforms, Inc.",
       "price": 634.53,
-      "prev_close": 630.2,
-      "change_pct": 0.69,
+      "prev_close": 630.41,
+      "change_pct": 0.65,
       "volume": 16443288,
       "volume_fmt": "16.44M",
       "market_cap": 1605078902679,
@@ -357,8 +357,8 @@
       "sector": "Quantum Computing",
       "name": "IonQ, Inc.",
       "price": 29.76,
-      "prev_close": 28.86,
-      "change_pct": 3.12,
+      "prev_close": 28.87,
+      "change_pct": 3.08,
       "volume": 21121775,
       "volume_fmt": "21.12M",
       "market_cap": 10941974068,
@@ -437,8 +437,8 @@
       "sector": "Quantum Computing",
       "name": "Arqit Quantum Inc.",
       "price": 13.24,
-      "prev_close": 12.53,
-      "change_pct": 5.67,
+      "prev_close": 12.7,
+      "change_pct": 4.25,
       "volume": 227169,
       "volume_fmt": "227169",
       "market_cap": 207230609,
@@ -485,8 +485,8 @@
       "sector": "ETFs",
       "name": "Global X Artificial Intelligenc",
       "price": 50.58,
-      "prev_close": 49.3795,
-      "change_pct": 2.43,
+      "prev_close": 49.0825,
+      "change_pct": 3.05,
       "volume": 2058903,
       "volume_fmt": "2.06M",
       "market_cap": 0,
@@ -559,10 +559,10 @@
       "ticker": "ASML",
       "expiry": "2026-04-17",
       "call_vol": 4193,
-      "put_vol": 9122,
+      "put_vol": 8872,
       "call_oi": 14358,
       "put_oi": 26048,
-      "pcr": 2.176,
+      "pcr": 2.116,
       "iv": 75.4
     },
     {
@@ -579,8 +579,8 @@
       "ticker": "MU",
       "expiry": "2026-04-17",
       "call_vol": 149253,
-      "put_vol": 92638,
-      "call_oi": 229696,
+      "put_vol": 92637,
+      "call_oi": 229714,
       "put_oi": 259493,
       "pcr": 0.621,
       "iv": 66.9
@@ -608,11 +608,11 @@
     {
       "ticker": "LRCX",
       "expiry": "2026-04-17",
-      "call_vol": 2550,
+      "call_vol": 2549,
       "put_vol": 7246,
       "call_oi": 38021,
       "put_oi": 35302,
-      "pcr": 2.842,
+      "pcr": 2.843,
       "iv": 66.0
     },
     {
@@ -661,7 +661,7 @@
       "call_vol": 202248,
       "put_vol": 83846,
       "call_oi": 244288,
-      "put_oi": 103553,
+      "put_oi": 103556,
       "pcr": 0.415,
       "iv": 58.4
     },
@@ -679,7 +679,7 @@
       "ticker": "SOUN",
       "expiry": "2026-04-17",
       "call_vol": 22036,
-      "put_vol": 4765,
+      "put_vol": 4763,
       "call_oi": 191140,
       "put_oi": 106885,
       "pcr": 0.216,
@@ -741,7 +741,7 @@
       "call_vol": 12765,
       "put_vol": 6003,
       "call_oi": 100562,
-      "put_oi": 41839,
+      "put_oi": 41813,
       "pcr": 0.47,
       "iv": 78.9
     },
@@ -758,11 +758,11 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-04-17",
-      "call_vol": 2064,
+      "call_vol": 2056,
       "put_vol": 5881,
       "call_oi": 8340,
       "put_oi": 27017,
-      "pcr": 2.849,
+      "pcr": 2.86,
       "iv": 39.6
     },
     {
@@ -789,10 +789,10 @@
       "ticker": "QTUM",
       "expiry": "2026-04-17",
       "call_vol": 202,
-      "put_vol": 181,
+      "put_vol": 182,
       "call_oi": 1333,
       "put_oi": 1501,
-      "pcr": 0.896,
+      "pcr": 0.901,
       "iv": 36.3
     }
   ],
@@ -2902,10 +2902,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Can\u2019t Make AI Chips Fast Enough - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56MUl4ekN0STJsek5OdFlvMDF6U0lwUzJzTXZ2TktSTGRQa0U3cXpsdFctRkpRZFl6OGZ1SmZmN3d1eWxPUUUyWXRqa3B4a19uajBMV2xmYkNUWFppN1I3d0toLXEzOUNWcVRpRDFoNXEtQ2p2OW1CeXNR?oc=5",
-      "published": "Wed, 14 Jan 2026 08:00:00 GMT",
-      "summary": "TSMC Can\u2019t Make AI Chips Fast Enough&nbsp;&nbsp;The Information"
+      "title": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25BdFZxZkZrbWoxTlpwNFRvR3lPN0pPUl9LMmQ4VTVWQTN4Qks2cGdJUHVCbGhMRUpEbF8wcEdfczM2VWVzTU0zMU4wWGVxd2MwNWYtaXhoOW9uaG1fNjZWLUp2YUlvNk5FSTVjaTdodGF6ODFldVo5MDZ5MUg1NnE5b2lsRHBnZU9PTkR2clF0R1R5cHM1SHgxNE1qRC1STEp3aFQtaTV0SU5tNG1CUGJ2YVRTT29adWFSZDd3?oc=5",
+      "published": "Wed, 31 Dec 2025 08:00:00 GMT",
+      "summary": "Exclusive: Nvidia sounds out TSMC on new H200 chip order as China demand jumps, sources say&nbsp;&nbsp;Reuters"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -3000,10 +3000,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUpLcGI1RmQyRU9KMHE1dUZTLUYxM1dYQ2htZV9tOERoS1dXazZrUUxvODZXa2FVNWtRaWdhVHZFZFFRaDhaeEEyY0FzZGhocFlDV3VFMnBPalZUTnhfbE9jZ0FtUGlhYVdaeGlzV0loVTZDMDU0QzJXQVZNbmd0aldlTzFSMFhJVWVnX1FXSGdMYi13SmVTMXpJU3o3eF9jSDVvNzFrWmg0QQ?oc=5",
-      "published": "Sat, 31 Jan 2026 08:00:00 GMT",
-      "summary": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
+      "title": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers. - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW0tS3lXaV9xd01LU2NEc3hDbVU2Z2lOa01tSzdZRFY4VldXWW01MkQzc085WVZPMm5adXQ5VWJURGRuemtQUXFsQkNPaFl0bThmMWtjd2VYRU9BUWoyTVZtVkhwQUxTTDhSTHgxSklIamRTYXRkdTE1U184M2JZVDk5MUJUM3hzc2lMWkxfTFhaSHJvQ2lmT0JQbW1FV09ibFZLZEFRdHZNQ3Q1Z0o0UVhaSDlxMm1jUlE?oc=5",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers.&nbsp;&nbsp;Investopedia"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3035,17 +3035,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "8 Best Quantum Computing Stocks to Buy - U.S. News Money",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "8 Best Quantum Computing Stocks to Buy&nbsp;&nbsp;U.S. News Money"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Quantum Computing Stocks: AMD, Qualcomm, IonQ Invest In Startup - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFc4Mk9BWHFYRERjd0xNWG1OMU0zdHFuMlJIenN5clh5eWdNS0Z6Y211ajFoU0syZkt2V0UwT3A1N2lkWURBMUVuZUIxRFFLVjZHcmJjOUJqeEN3c0trQUJ6TV9iR3ZZbzMtTlpnMmNIOW03OUxrLUp0QVVmQ0FKYi1oZm9oR08tUG5jTWMydWZOaGR3a19DLUN3?oc=5",
       "published": "Thu, 13 Nov 2025 08:00:00 GMT",
       "summary": "Quantum Computing Stocks: AMD, Qualcomm, IonQ Invest In Startup&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "8 Best Quantum Computing Stocks to Buy - U.S. News Money",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "8 Best Quantum Computing Stocks to Buy&nbsp;&nbsp;U.S. News Money"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3070,30 +3070,58 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Should You Forget IonQ and Buy These 2 Tech Stocks Instead? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ickVZWnR1V0NyTmNsYVhWMm9WOFNRWkNobGE1V0Z0V3pNNTVmMWQtRDhJNHRFLV9UTXc5T1VVdFJKUUpDRG9RT05WbE8yazJ5bzJNWEV4UjRSSXdrT2VLY1BIY0ZsRHJQ?oc=5",
+      "published": "Sun, 22 Mar 2026 02:24:07 GMT",
+      "summary": "Should You Forget IonQ and Buy These 2 Tech Stocks Instead?&nbsp;&nbsp;AOL.com"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "What Are the Best Quantum Computing Stocks to Buy in 2026? - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xb1hRSDFBaV9OLXExLTZUb29YdlhmVzVuc0JjWXV4N3pKTGpwYjNpUEFXekFDRFdwSTM5c2pKSDdTWnBZRHZTRA?oc=5",
+      "published": "Sat, 11 Apr 2026 14:29:52 GMT",
+      "summary": "What Are the Best Quantum Computing Stocks to Buy in 2026?&nbsp;&nbsp;MEXC"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Quantum Computing Stocks: UBS Eyes IBM, Google, IonQ. Infleqtion To Go Public. - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFVLaHBlcG9FZWJ3dFBFSzFDcGJLQW1yaThSUHB2Y2lUdElnMkEtSnhLb2tMcGtwenM1Ry00ODM3aC1vOGd2WklsUEdEbDluNlRneUdZSGhLV3RZc09GalYwMzA0VmFrZTRuSlBUY1p3dW83SWdrUEtmTkIyM1dVU1hCWV95U1cwOTIwUDBoa01FREpPWXdJ?oc=5",
       "published": "Tue, 13 Jan 2026 08:00:00 GMT",
       "summary": "Quantum Computing Stocks: UBS Eyes IBM, Google, IonQ. Infleqtion To Go Public.&nbsp;&nbsp;Investor's Business Daily"
     },
     {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "D-Wave vs. IonQ vs. IBM vs. Google: Which Quantum Bets Will Win 2026? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGaUtQSlZRZjNUSnBKcWZNbW1CQ3pIS1U4dndjSUJHWmhXZkxqTENrWTdLQXBSR1czdjc4cXM5dDF0ZVBXaUpPbnU4d3NpNmg2WXRtWG5yamltSkFfcmM3R0V5WnZBN2ZLR2M2S3ZzdUY?oc=5",
-      "published": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "summary": "D-Wave vs. IonQ vs. IBM vs. Google: Which Quantum Bets Will Win 2026?&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHB3MnhOQmR6OEJwMHZ4TTg1eHhLbHZndndfWFRvUWVhUXdFUEhSS1lBR1VUSUl2TzA0bGpHSWFGbWZ6VzFCQ3pwLTQ0QjczbjVwZzBKUE1GT2VQQTk1V0szZTdBSlJwalVuT3RsYUhUQnc4VU9pXzI5amNWNTA1TFNBT3JTX3JlV201UHo4TWczaGhRcHBF?oc=5",
-      "published": "Fri, 13 Feb 2026 08:00:00 GMT",
-      "summary": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now.&nbsp;&nbsp;The Motley Fool"
+      "source": "Yahoo Finance",
+      "title": "Event bets pose a problem for Wall Street firms looking to trade",
+      "url": "https://finance.yahoo.com/markets/options/articles/event-bets-pose-problem-wall-100000780.html",
+      "published": "2026-04-12T10:00:00Z",
+      "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "A Massive Backlog Could Guarantee Years of Market-Crushing Growth for This AI Superstar",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/massive-backlog-could-guarantee-years-122500785.html",
-      "published": "2026-04-12T12:25:00Z",
+      "title": "3 Top Stocks to Buy to Invest in Anthropic\u2019s Project Glasswing",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-invest-130002820.html",
+      "published": "2026-04-12T13:00:02Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "There's no 'exit tax,' but these states can still cost you when you leave",
+      "url": "https://finance.yahoo.com/economy/policy/articles/theres-no-exit-tax-states-131500008.html",
+      "published": "2026-04-12T13:15:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Needham Analysts Slashed Their Price Targets on IBM Stock Ahead of Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-needham-analysts-slashed-price-131502174.html",
+      "published": "2026-04-12T13:15:02Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Choosing an ETF for Bond Exposure:  Fidelity's FIGB vs. Vanguard's VGIT",
+      "url": "https://finance.yahoo.com/markets/options/articles/choosing-etf-bond-exposure-fidelitys-130703316.html",
+      "published": "2026-04-12T13:07:03Z",
       "summary": ""
     },
     {
@@ -3101,6 +3129,13 @@
       "title": "The Trumps have lost more than $1 billion on bitcoin since the president's return to office. What\u2019s behind the huge loss",
       "url": "https://finance.yahoo.com/markets/crypto/articles/trumps-lost-more-1-billion-123000992.html",
       "published": "2026-04-12T12:30:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CrowdStrike Is Joining Anthropic\u2019s New Project Glasswing. Does That Make CRWD Stock a Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-joining-anthropic-project-glasswing-133002775.html",
+      "published": "2026-04-12T13:30:02Z",
       "summary": ""
     },
     {
@@ -3119,6 +3154,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Where Will the Cryptocurrency XRP Be in 5 Years?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/where-cryptocurrency-xrp-5-years-130500066.html",
+      "published": "2026-04-12T13:05:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "The \u2018incredible period\u2019 for the US economy is ending, Warren Buffett once said. Is his prediction coming true in 2026?",
       "url": "https://finance.yahoo.com/economy/articles/incredible-period-us-economy-ending-120000150.html",
       "published": "2026-04-12T12:00:00Z",
@@ -3126,51 +3168,9 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Plug Power in 5 Years: Boom, Bust, or Quietly Crushing It?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/plug-power-5-years-boom-122500541.html",
-      "published": "2026-04-12T12:25:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Can Structured Note ETFs Help Retirees Sleep at Night?",
       "url": "https://finance.yahoo.com/markets/options/articles/structured-note-etfs-help-retirees-120000174.html",
       "published": "2026-04-12T12:00:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 massive roadblocks on your path from $5,000 to $5,000,000 \u2014 knock them down quick for a good life",
-      "url": "https://finance.yahoo.com/markets/articles/3-massive-roadblocks-path-5-112500624.html",
-      "published": "2026-04-12T11:25:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Top Stocks to Buy to Invest in Anthropic\u2019s Project Glasswing",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-invest-130002820.html",
-      "published": "2026-04-12T13:00:02Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analyst Report: Public Serv Enterprise Grp Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3301_AnalystReport_1776101526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-13T17:32:06Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "I Logged Into My Old 401(k) and the Balance Was $0 \u2014 Here\u2019s What to Do When Your Retirement Savings Seem to Vanish",
-      "url": "https://finance.yahoo.com/markets/options/articles/logged-old-401-k-balance-121903098.html",
-      "published": "2026-04-12T12:19:03Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "55 years old, $0 in retirement savings and terrified of the future? Make these 6 easy moves for the best comeback ever",
-      "url": "https://finance.yahoo.com/markets/articles/55-years-old-0-retirement-111000792.html",
-      "published": "2026-04-12T11:10:00Z",
       "summary": ""
     }
   ]
