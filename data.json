@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T21:08:16.849004Z",
+  "last_updated": "2026-04-15T22:05:45.235733Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -559,10 +559,10 @@
       "ticker": "ASML",
       "expiry": "2026-04-17",
       "call_vol": 39097,
-      "put_vol": 17964,
+      "put_vol": 18222,
       "call_oi": 18440,
-      "put_oi": 34581,
-      "pcr": 0.459,
+      "put_oi": 34582,
+      "pcr": 0.466,
       "iv": 68.4
     },
     {
@@ -649,7 +649,7 @@
       "ticker": "AMZN",
       "expiry": "2026-04-15",
       "call_vol": 122055,
-      "put_vol": 33265,
+      "put_vol": 33263,
       "call_oi": 32631,
       "put_oi": 31882,
       "pcr": 0.273,
@@ -661,7 +661,7 @@
       "call_vol": 175199,
       "put_vol": 51923,
       "call_oi": 272001,
-      "put_oi": 125931,
+      "put_oi": 125928,
       "pcr": 0.296,
       "iv": 52.8
     },
@@ -669,7 +669,7 @@
       "ticker": "PLTR",
       "expiry": "2026-04-17",
       "call_vol": 245722,
-      "put_vol": 123148,
+      "put_vol": 123147,
       "call_oi": 386383,
       "put_oi": 258570,
       "pcr": 0.501,
@@ -679,9 +679,9 @@
       "ticker": "SOUN",
       "expiry": "2026-04-17",
       "call_vol": 50864,
-      "put_vol": 8475,
+      "put_vol": 8476,
       "call_oi": 203289,
-      "put_oi": 106341,
+      "put_oi": 106412,
       "pcr": 0.167,
       "iv": 84.4
     },
@@ -728,9 +728,9 @@
     {
       "ticker": "IBM",
       "expiry": "2026-04-17",
-      "call_vol": 8264,
+      "call_vol": 8265,
       "put_vol": 3438,
-      "call_oi": 35324,
+      "call_oi": 35322,
       "put_oi": 21053,
       "pcr": 0.416,
       "iv": 37.8
@@ -741,7 +741,7 @@
       "call_vol": 83813,
       "put_vol": 26854,
       "call_oi": 109161,
-      "put_oi": 44734,
+      "put_oi": 44681,
       "pcr": 0.32,
       "iv": 123.4
     },
@@ -758,18 +758,18 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-04-17",
-      "call_vol": 1398,
+      "call_vol": 1396,
       "put_vol": 19270,
       "call_oi": 9149,
       "put_oi": 45194,
-      "pcr": 13.784,
+      "pcr": 13.804,
       "iv": 47.1
     },
     {
       "ticker": "SMH",
       "expiry": "2026-04-17",
       "call_vol": 16295,
-      "put_vol": 65278,
+      "put_vol": 65277,
       "call_oi": 89305,
       "put_oi": 356737,
       "pcr": 4.006,
@@ -788,11 +788,11 @@
     {
       "ticker": "QTUM",
       "expiry": "2026-04-17",
-      "call_vol": 209,
-      "put_vol": 204,
+      "call_vol": 218,
+      "put_vol": 203,
       "call_oi": 1296,
-      "put_oi": 1531,
-      "pcr": 0.976,
+      "put_oi": 1523,
+      "pcr": 0.931,
       "iv": 30.2
     }
   ],
@@ -1905,8 +1905,8 @@
     },
     {
       "ticker": "AMZN",
-      "date": "2026-04-30",
-      "days_away": 15,
+      "date": "2026-04-29",
+      "days_away": 14,
       "eps_estimate": 1.6437
     },
     {
@@ -2867,13 +2867,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5",
-      "published": "Tue, 31 Mar 2026 07:00:00 GMT",
-      "summary": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts&nbsp;&nbsp;Britannica"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjVSdTNvT2hxMUc4Nnp2eDZGT1c4VUxVU25yQ1ZwWTgtYVkzRjVEenZBNzlPdFNnYWdFSnRLMS11bUlleDE2RVJZNW9SdVVfbGpieWJWMFBUN19nWHl2LWxIXzk0Y1lXcXZCTXY1b2tnLUloeDduRHU2Z3NYM1Vyek1pM0RPZWlhTkdPcjFkRTY4Qjg?oc=5",
       "published": "Tue, 24 Feb 2026 08:00:00 GMT",
@@ -2895,6 +2888,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Nvidia Suspends H200 AI Chip Production for China Market - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDdWclY4VEtLZUprSU9SaDVuanVzOGw1OC1KM0NleWhIOGxIVTktbFpnenp6RHBvSjM1TWhoREk2NGFhbDNYZHBEb3lDWTJicmp1SlBPTUgxRHVvclFUOEdsNXQ3SVAzYkpsLU1JX3NmQ1ZQUjFHQzVVWmZ6OTJVMU11NUxvZHhQRjczZWx4dGUzbzZOT3ZCOTZELW5zbVU?oc=5",
+      "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "summary": "Nvidia Suspends H200 AI Chip Production for China Market&nbsp;&nbsp;Mexico Business News"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWYwVEhmbEMyRy1UMkpQZExEYTlXUkZjX3RJLUdweHBIV08yQmJlcmZpX2d4MzVjU3ZlQUpSVUpoTE4tXzNoTEtZMjRfZ2I2LTJIQWdhNEJHeDJBVF9NX1oxODFpR0xlaUw3am9NT1hjRTdTMjRQX0syLTZfazZMUVgtMGFNSzFVdFl0a2ROd3NHYlpOTG81X2tUNTlwM2prZTcybWdKLWpXUjRmOTVqTEhnQ2Zqel9tc2NXb2dybmh4Nk0?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
@@ -2902,10 +2902,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Nvidia Suspends H200 AI Chip Production for China Market - Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDdWclY4VEtLZUprSU9SaDVuanVzOGw1OC1KM0NleWhIOGxIVTktbFpnenp6RHBvSjM1TWhoREk2NGFhbDNYZHBEb3lDWTJicmp1SlBPTUgxRHVvclFUOEdsNXQ3SVAzYkpsLU1JX3NmQ1ZQUjFHQzVVWmZ6OTJVMU11NUxvZHhQRjczZWx4dGUzbzZOT3ZCOTZELW5zbVU?oc=5",
-      "published": "Thu, 05 Mar 2026 08:00:00 GMT",
-      "summary": "Nvidia Suspends H200 AI Chip Production for China Market&nbsp;&nbsp;Mexico Business News"
+      "title": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges - Computing UK",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDJYSkIteGdsNTJvbmptRFkzcnZZc0o2LThUcFpUbzZDOWVHSFpDbVlDZEJTVjhBNnd2V2R2M2pJNmhINV9EQlVkVDFPdkJ5SVd6NTRRNDB3QXUtT2M1LUozVmRxWjZ0dGNkdGRSZUd4NnJqb2NHZGdQZnZYZVNoSHRNQkhtT1R4SVNzNFRia1ctSEZoYURZSXA1RnNXa3FrUlNtdE01TU55NWFEVVh2UVRHUQ?oc=5",
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "summary": "TSMC warns Nvidia and Broadcom of capacity squeeze as AI chip demand surges&nbsp;&nbsp;Computing UK"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2930,10 +2930,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
-      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
+      "title": "Best AI Stocks to Buy in 2026 and How to Invest in Them - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "summary": "Best AI Stocks to Buy in 2026 and How to Invest in Them&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2944,13 +2944,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2hsc3ZQRmZSOE95UU11cnFxV0FSVzluQnA4NW44eDFMWFNaTERRSEZDZ0NfLW5saFNMeE1UbHRFdmp6RS1IVG1hNG1FeDhTX2s5VWZnZnRqSGNSTWFMVDNhUU9Md0x2RURpVHB5NWU0Zm9UXzZNcHlhVmg1WWtiMW1SMW5Kc0k0aVhhR2dEQWh3OEx1Ny05VnhCNlFHamc4M0JJanhsLW5KWFdRNmJpRGdzajNaTnA2X2Uta2JRb1AzVG1nOXBJbVM5RQ?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWlXNmQ4d0pJUWpObkdoRWt6NmtNRUgxZDR0QU9rZ1VCaUIxRU1KTHNPTmFKaEYzT0gtX282d0ZmTXlvT0lnRXRoa2VwQW95WV9XdHVnOGpuU3BEZnNoeEZyTFRSNXh4Z1ZLY0R6Q1NrZ1hSOWJGVEtHMTVUejZiWTJYSW5GT1FLcDB2cElBcw?oc=5",
       "published": "Sun, 25 Jan 2026 08:00:00 GMT",
@@ -2958,10 +2951,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
-      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;Investopedia"
+      "title": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers. - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW0tS3lXaV9xd01LU2NEc3hDbVU2Z2lOa01tSzdZRFY4VldXWW01MkQzc085WVZPMm5adXQ5VWJURGRuemtQUXFsQkNPaFl0bThmMWtjd2VYRU9BUWoyTVZtVkhwQUxTTDhSTHgxSklIamRTYXRkdTE1U184M2JZVDk5MUJUM3hzc2lMWkxfTFhaSHJvQ2lmT0JQbW1FV09ibFZLZEFRdHZNQ3Q1Z0o0UVhaSDlxMm1jUlE?oc=5",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers.&nbsp;&nbsp;Investopedia"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2hsc3ZQRmZSOE95UU11cnFxV0FSVzluQnA4NW44eDFMWFNaTERRSEZDZ0NfLW5saFNMeE1UbHRFdmp6RS1IVG1hNG1FeDhTX2s5VWZnZnRqSGNSTWFMVDNhUU9Md0x2RURpVHB5NWU0Zm9UXzZNcHlhVmg1WWtiMW1SMW5Kc0k0aVhhR2dEQWh3OEx1Ny05VnhCNlFHamc4M0JJanhsLW5KWFdRNmJpRGdzajNaTnA2X2Uta2JRb1AzVG1nOXBJbVM5RQ?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2972,17 +2972,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Best AI Stocks to Buy Now - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ib2l4c3V4QUdLYlpWTlJNbU9oT3VYQXJkVEl0TG1PTTVrQ09DeEEwUlJ4NTlZd0RIVTVpUi1VMFZWVDhGMFhxZnA3T0ZqbUF5UFVPVmptRnQ5ZTNFcUhUSWxrM04yeGptaDBKZUpudHB2dndCRjBuNw?oc=5",
       "published": "Thu, 26 Mar 2026 07:00:00 GMT",
       "summary": "Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "10 AI Stocks I'm Buying Right Now - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnE4X3ZVMDk3LUsyRk0zR3NTTUNmR3k2MzlDMDEzLWRpTGtYZEMwV1AwQnprYmVhSUtrc0g3MWVCeWJyMHVBS1REc1FyMFJOSXY3WUFzYWlfT0tZUXR3QVhKUnNBSmtMbk5JY28xT0xUTVF5X3dYNi1HLVhRQllqWg?oc=5",
-      "published": "Sat, 28 Mar 2026 07:00:00 GMT",
-      "summary": "10 AI Stocks I'm Buying Right Now&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2993,17 +2993,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
+      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;Investopedia"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Nvidia Falls Amid China's DeepSeek AI News. Is Nvidia A Buy Or Sell Now? - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BRm9qY2M0dHNMWnlSVFRUSjRiNm9TQmlHcWxWMlhKV0syN0pOdlZPbVNINVVobi1sZzRtZXl6V2tqZW13aFdvbDZRTjBNVFVkbmphU21aelY5RHNhb3U5QmNUdnNMQkV6dFk4SFM0UkcyQUdBYWc?oc=5",
       "published": "Fri, 28 Nov 2025 08:00:00 GMT",
       "summary": "Nvidia Falls Amid China's DeepSeek AI News. Is Nvidia A Buy Or Sell Now?&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUpLcGI1RmQyRU9KMHE1dUZTLUYxM1dYQ2htZV9tOERoS1dXazZrUUxvODZXa2FVNWtRaWdhVHZFZFFRaDhaeEEyY0FzZGhocFlDV3VFMnBPalZUTnhfbE9jZ0FtUGlhYVdaeGlzV0loVTZDMDU0QzJXQVZNbmd0aldlTzFSMFhJVWVnX1FXSGdMYi13SmVTMXpJU3o3eF9jSDVvNzFrWmg0QQ?oc=5",
-      "published": "Sat, 31 Jan 2026 08:00:00 GMT",
-      "summary": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3077,10 +3077,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Top Quantum Computing Stocks for 2026: IonQ, IBM, and Microsoft Lead the Charge - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrSXdWejJwNUZ3OU9kY0Q5YzV2UU5lX0dqc2tzU21aOWhjMVFxRS1uc2JobjVRRzRnbkFuUk11QlVkcEZfZFIxVQ?oc=5",
-      "published": "Sat, 11 Apr 2026 15:28:16 GMT",
-      "summary": "Top Quantum Computing Stocks for 2026: IonQ, IBM, and Microsoft Lead the Charge&nbsp;&nbsp;MEXC"
+      "title": "What Are the Best Quantum Computing Stocks to Buy in 2026? - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xb1hRSDFBaV9OLXExLTZUb29YdlhmVzVuc0JjWXV4N3pKTGpwYjNpUEFXekFDRFdwSTM5c2pKSDdTWnBZRHZTRA?oc=5",
+      "published": "Sat, 11 Apr 2026 14:29:52 GMT",
+      "summary": "What Are the Best Quantum Computing Stocks to Buy in 2026?&nbsp;&nbsp;MEXC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3112,16 +3112,51 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "JPMorgan Posted a Blowout Quarter, Jamie Dimon Is Already Worried",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-posted-blowout-quarter-jamie-124058762.html",
-      "published": "2026-04-14T12:40:58Z",
+      "title": "HP Stock Pops on Nvidia Acquisition Rumors. Should You Buy HPQ Stock Today?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hp-stock-pops-nvidia-acquisition-135253637.html",
+      "published": "2026-04-14T13:52:53Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mar Vista U.S. Quality Strategy Picks QXO Incorporated (QXO) Backed by Varied Growth Drivers",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mar-vista-u-quality-strategy-124109156.html",
-      "published": "2026-04-14T12:41:09Z",
+      "title": "Strategic Mix Led Oakmark Fund\u2019s Sysco Corporation (SYY) Addition",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strategic-mix-led-oakmark-fund-135156452.html",
+      "published": "2026-04-14T13:51:56Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Synchrony Financial (SYF) an Underappreciated Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-syf-underappreciated-stock-134951980.html",
+      "published": "2026-04-14T13:49:51Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Accenture (ACN) is Trading at a Low Valuation Multiple Despite Strong Fundamentals",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-trading-low-valuation-135544190.html",
+      "published": "2026-04-14T13:55:44Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "JPMorgan CFO: Gas Prices Not Affecting Consumers Yet",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-14-2026/card/jpmorgan-cfo-gas-prices-not-affecting-consumers-yet-qb8YIimamYCMvAcgLKZc?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-04-14T13:48:59Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Starlink is so important to SpaceX's IPO",
+      "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+      "published": "2026-04-11T17:44:46Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Unity Software Stock a Buy, Sell, or Hold on VR Partnership with Meta Platforms?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-buy-sell-135718376.html",
+      "published": "2026-04-14T13:57:18Z",
       "summary": ""
     },
     {
@@ -3133,44 +3168,9 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mar Vista U.S. Quality Strategy Sold SAP SE (SAP) Due to the Increased Risk of AI Disruption",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mar-vista-u-quality-strategy-123822944.html",
-      "published": "2026-04-14T12:38:22Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Soybeans Bouncing to Start Turnaround Tuesday Trade",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-bouncing-start-turnaround-tuesday-123215478.html",
-      "published": "2026-04-14T12:32:15Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MercadoLibre Stock Is Down 9% in 2026 but Wall Street Still Sees 36% Upside",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-stock-down-9-2026-123034871.html",
-      "published": "2026-04-14T12:30:34Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corn Starting Tuesday on a Higher Note",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-starting-tuesday-higher-note-123215520.html",
-      "published": "2026-04-14T12:32:15Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tesla, Elon Musk Win Fight To Move Lawsuits To Texas From Delaware",
-      "url": "https://www.investors.com/news/tesla-elon-musk-lawsuits-move-to-texas-delaware-xai-twitter/?src=A00220&yptr=yahoo",
-      "published": "2026-04-14T12:34:41Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Market Update: C, CTAS, JNJ, MS, DD",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_46740_MarketUpdate_1776275934000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-15T17:58:54Z",
+      "title": "A \u2018Straitjacket\u2019 on Price Discovery: How the Iran War is Pushing Modern Markets Toward Unity. But Not The Good Kind.",
+      "url": "https://finance.yahoo.com/markets/articles/straitjacket-price-discovery-iran-war-134501086.html",
+      "published": "2026-04-14T13:45:01Z",
       "summary": ""
     }
   ]
