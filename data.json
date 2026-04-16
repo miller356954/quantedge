@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T21:29:07.323978Z",
+  "last_updated": "2026-04-16T22:10:30.864276Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -125,7 +125,7 @@
       "market_cap_fmt": "1.88T",
       "52w_high": 390.21,
       "52w_low": 145.84,
-      "pe_ratio": 19.2139,
+      "pe_ratio": 19.2032,
       "iv": 31.8,
       "beta": 1.251
     },
@@ -519,7 +519,7 @@
       "ticker": "NVDA",
       "expiry": "2026-04-17",
       "call_vol": 746848,
-      "put_vol": 399775,
+      "put_vol": 399786,
       "call_oi": 1055737,
       "put_oi": 811257,
       "pcr": 0.535,
@@ -559,10 +559,10 @@
       "ticker": "ASML",
       "expiry": "2026-04-17",
       "call_vol": 39449,
-      "put_vol": 9211,
+      "put_vol": 8953,
       "call_oi": 37282,
-      "put_oi": 39003,
-      "pcr": 0.233,
+      "put_oi": 39002,
+      "pcr": 0.227,
       "iv": 39.3
     },
     {
@@ -639,9 +639,9 @@
       "ticker": "META",
       "expiry": "2026-04-17",
       "call_vol": 129271,
-      "put_vol": 82695,
+      "put_vol": 82698,
       "call_oi": 235092,
-      "put_oi": 163020,
+      "put_oi": 163024,
       "pcr": 0.64,
       "iv": 24.1
     },
@@ -649,7 +649,7 @@
       "ticker": "AMZN",
       "expiry": "2026-04-17",
       "call_vol": 142112,
-      "put_vol": 105881,
+      "put_vol": 105885,
       "call_oi": 412438,
       "put_oi": 278544,
       "pcr": 0.745,
@@ -661,7 +661,7 @@
       "call_vol": 195782,
       "put_vol": 87792,
       "call_oi": 272637,
-      "put_oi": 136516,
+      "put_oi": 136519,
       "pcr": 0.448,
       "iv": 43.5
     },
@@ -669,7 +669,7 @@
       "ticker": "PLTR",
       "expiry": "2026-04-17",
       "call_vol": 190345,
-      "put_vol": 160718,
+      "put_vol": 160719,
       "call_oi": 374923,
       "put_oi": 260002,
       "pcr": 0.844,
@@ -679,9 +679,9 @@
       "ticker": "SOUN",
       "expiry": "2026-04-17",
       "call_vol": 50029,
-      "put_vol": 7990,
+      "put_vol": 7989,
       "call_oi": 206667,
-      "put_oi": 107561,
+      "put_oi": 107490,
       "pcr": 0.16,
       "iv": 71.9
     },
@@ -728,11 +728,11 @@
     {
       "ticker": "IBM",
       "expiry": "2026-04-17",
-      "call_vol": 7429,
+      "call_vol": 7428,
       "put_vol": 9119,
-      "call_oi": 36325,
+      "call_oi": 36327,
       "put_oi": 20683,
-      "pcr": 1.227,
+      "pcr": 1.228,
       "iv": 29.8
     },
     {
@@ -741,7 +741,7 @@
       "call_vol": 71416,
       "put_vol": 34919,
       "call_oi": 117050,
-      "put_oi": 51928,
+      "put_oi": 51981,
       "pcr": 0.489,
       "iv": 118.8
     },
@@ -758,18 +758,18 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-04-17",
-      "call_vol": 569,
+      "call_vol": 571,
       "put_vol": 2948,
       "call_oi": 9190,
       "put_oi": 45261,
-      "pcr": 5.181,
+      "pcr": 5.163,
       "iv": 42.7
     },
     {
       "ticker": "SMH",
       "expiry": "2026-04-17",
       "call_vol": 12664,
-      "put_vol": 55594,
+      "put_vol": 55595,
       "call_oi": 88588,
       "put_oi": 367457,
       "pcr": 4.39,
@@ -788,11 +788,11 @@
     {
       "ticker": "QTUM",
       "expiry": "2026-04-17",
-      "call_vol": 189,
-      "put_vol": 194,
+      "call_vol": 180,
+      "put_vol": 195,
       "call_oi": 1226,
-      "put_oi": 1525,
-      "pcr": 1.026,
+      "put_oi": 1533,
+      "pcr": 1.083,
       "iv": 24.7
     }
   ],
@@ -2888,6 +2888,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Global AI chip suppliers compete as TSMC remains top foundry partner - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWV9LcWQ2QWlMWmtnTlVuV01tVXR6ZFN0U1A2Y3pXVk53NzRJQkMySkEzN0xXcHVXUTk5LUdmZTJVTFpsb3dremZUanljaHNSa1dLREVubGV3RjI2ajFLenQ0ekdZSFAzSDBNMnBiT21DTnJYMTBZNE1aN1FRYjhVNVhacVR6M2c?oc=5",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "summary": "Global AI chip suppliers compete as TSMC remains top foundry partner&nbsp;&nbsp;digitimes"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Nvidia, TSMC, and AVGO: Why Are AI Chip Stocks Rising Today, 4/15/26? - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVC1YaEZFc1gxUk96SUt4ZXVjTGZmYVVPcUp6MnQ1QTJSV3lMMldCVUczQjh6S2xSTVgwTlptWjB4b2VDdjluZDZLdzlUMXJCdkFjbEQ2bzE1VTh4MWRiNzZCWWlEaUpZRmd5bER3WEw1S2FHY1dUVFdrQjB1TzRKX1ZvQnpVbkUzUWhzYVNFekNjYXg2cVMtdjh0azhkMC1ZSHpBX0R0SVRVdFAwMkctQlRqUTEyX3djWE5LeVZlOA?oc=5",
       "published": "Wed, 15 Apr 2026 18:46:08 GMT",
@@ -2902,13 +2909,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWYwVEhmbEMyRy1UMkpQZExEYTlXUkZjX3RJLUdweHBIV08yQmJlcmZpX2d4MzVjU3ZlQUpSVUpoTE4tXzNoTEtZMjRfZ2I2LTJIQWdhNEJHeDJBVF9NX1oxODFpR0xlaUw3am9NT1hjRTdTMjRQX0syLTZfazZMUVgtMGFNSzFVdFl0a2ROd3NHYlpOTG81X2tUNTlwM2prZTcybWdKLWpXUjRmOTVqTEhnQ2Zqel9tc2NXb2dybmh4Nk0?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand&nbsp;&nbsp;Investopedia"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "AI's next bottleneck: Why even the best chips made in the U.S. take a round trip to Taiwan - CNBC",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kNFJwNmVwVUMzeDAySmduOVVuTFJ0ekx6SlFwMk8yVWZsbVg2ek9rRGFPb1ZienlxcmpUTTZtREphLXlzdG5aYkJScUNONmx4NXJfTEdTNWIwWFJfVVBINTdGTDMwdXVkUk42VEc1WWxHTmlFNThxUUc3a2p0QdIBgwFBVV95cUxNQjVPcXNncjAyaTJabE5BeVc0cVVBN3ZIaVU2UlgyVEtqdVVadGQtX09qTkZld3ZSWDdjYnpEczBnZ3ppd1E2anhnSjBxQjRXNFA0b3U0Rm5odFhjcTJ1Z1o5dTAtUENvaGphZnlkRi1GOWxPdzN6NGJFd0s3UUEzaFlZYw?oc=5",
       "published": "Wed, 08 Apr 2026 07:00:00 GMT",
@@ -2916,10 +2916,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Says 'No More' To Nvidia: Why That Is Intel's Golden Ticket - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GZUViQWFZQnlPcjktbEZOMXlPaUc3VVEwajVjXy1ITTh0YjBKd3YtbnZlRlJxeFNLVXlEUmg3RGNZZkgxQTFJeU9HRnNkYmFtUnliTnMxQ2NseDhYNG9FdnBBNllRZXpYSVl5T0MyWnZTdkZsZ1NCb3d3?oc=5",
-      "published": "Sat, 17 Jan 2026 08:00:00 GMT",
-      "summary": "TSMC Says 'No More' To Nvidia: Why That Is Intel's Golden Ticket&nbsp;&nbsp;Yahoo Finance"
+      "title": "Better Semiconductor Stock: Nvidia vs. TSMC - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDlWeVNldzVRaFZHODUzWGlvSXZsVUUtcEU1RzhrNzIwTWhscVVkNVNGVUR1MkZCdXotTzNLdmRYSGo2WXY2NUJsM0RZdVdiQlNtYmNwU1JGdkVUd1pGdVVXa05uelY1UGNVbTI5UmtRX0R2R2RPMm13SFJDU244WDM3ekF2OE5mNEE?oc=5",
+      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "summary": "Better Semiconductor Stock: Nvidia vs. TSMC&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2993,10 +2993,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech To Wall Street: AI Spending Boom To Intensify - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTBSNFpxMkFZNDRfbEJJZnB4SVk3eTREZ1BYOXVQZU5UaXZDU3VaMzRmRjAyQ2pQalI5TnllS2dyNGk3VG4wVHY5Z3prYWFQTFZKa0FKVWFlVE9aVHJoREhNS1A3TE9XNS1yZWZILVhQX0pQVEszWFdFWWRMQ1RQdlNodFB4NWhGRGY2WGxrU1ZuQ0Q0a1NWdTdGNVRHWFBGYXZjeUZiOA?oc=5",
-      "published": "Fri, 31 Oct 2025 07:00:00 GMT",
-      "summary": "Big Tech To Wall Street: AI Spending Boom To Intensify&nbsp;&nbsp;Investor's Business Daily"
+      "title": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUpLcGI1RmQyRU9KMHE1dUZTLUYxM1dYQ2htZV9tOERoS1dXazZrUUxvODZXa2FVNWtRaWdhVHZFZFFRaDhaeEEyY0FzZGhocFlDV3VFMnBPalZUTnhfbE9jZ0FtUGlhYVdaeGlzV0loVTZDMDU0QzJXQVZNbmd0aldlTzFSMFhJVWVnX1FXSGdMYi13SmVTMXpJU3o3eF9jSDVvNzFrWmg0QQ?oc=5",
+      "published": "Sat, 31 Jan 2026 08:00:00 GMT",
+      "summary": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3091,86 +3091,86 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "S&P 500 Is on Track for a Record Closing High. Nasdaq Extends Win Streak to 11 Days.",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-041526/card/s-p-500-is-on-track-for-a-record-high-nasdaq-extends-win-streak-to-11-days--FGQvcKThR3iMOn7NDI8c?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-04-15T13:33:40Z",
+      "title": "Karen S. Carter Named Dow CEO; Number Of Black Women Running Fortune 500 Companies\u00a0Now At 2",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/karen-carter-named-dow-ceo-143000467.html",
+      "published": "2026-04-15T14:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ethereum-Bitcoin Ratio Moves Off Recent Low",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-bitcoin-ratio-moves-off-132900652.html",
-      "published": "2026-04-15T13:29:00Z",
+      "title": "What Makes Mohawk Industries (MHK) a Stable Investment Opportunity?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-mohawk-industries-mhk-stable-142847593.html",
+      "published": "2026-04-15T14:28:47Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Winklevoss Twins Move To Sell $43 Million Of Bitcoin",
-      "url": "https://finance.yahoo.com/news/winklevoss-twins-move-sell-43-132500296.html",
-      "published": "2026-04-15T13:25:00Z",
+      "title": "Heartland Mid Cap Value Fund: Micron Technology (MU) Remains an Extremely Cyclical and Capital-Intensive Company",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heartland-mid-cap-value-fund-143143044.html",
+      "published": "2026-04-15T14:31:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "World's Top Oil Companies To Rake In Extra $234 Billion In War Profits",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/worlds-top-oil-companies-rake-133000364.html",
-      "published": "2026-04-15T13:30:00Z",
+      "title": "Bloom Energy Corporation (BE): Exploring Its Role in Future Energy Solutions",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/bloom-energy-corporation-exploring-role-142611113.html",
+      "published": "2026-04-15T14:26:11Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "As Iran War Turbulence Continues, Wedbush Says You Should Buy CrowdStrike Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iran-war-turbulence-continues-wedbush-133002308.html",
-      "published": "2026-04-15T13:30:02Z",
+      "title": "Wall Street's biggest fear gauge is fading. That means investors may want to buy the dip: Chart of the Day",
+      "url": "https://finance.yahoo.com/news/wall-streets-biggest-fear-gauge-is-fading-that-means-investors-may-want-to-buy-the-dip-chart-of-the-day-142502355.html",
+      "published": "2026-04-15T14:25:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jeff Bezos-Backed Tesla Rival Slate Raises $650 Million In Latest Funding Round\u2014Receives 160,000 Reservations For $25K Pickup",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-backed-tesla-rival-133107347.html",
-      "published": "2026-04-15T13:31:07Z",
+      "title": "The Duty of Fee Reasonableness",
+      "url": "https://finance.yahoo.com/news/duty-fee-reasonableness-143000944.html",
+      "published": "2026-04-15T14:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here\u2019s What Contributed to Raymond James Financial\u2019s (RJF) Robust Fundamental Performance",
-      "url": "https://finance.yahoo.com/news/contributed-raymond-james-financial-rjf-133134456.html",
-      "published": "2026-04-15T13:31:34Z",
+      "title": "Tesla Inc. (TSLA) Stock Outlook Reflects Changing Investor Appetite",
+      "url": "https://finance.yahoo.com/news/tesla-inc-tsla-stock-outlook-142358794.html",
+      "published": "2026-04-15T14:23:58Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "ConocoPhillips (COP) Gained from a Favorable Macroeconomic Backdrop",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/conocophillips-cop-gained-favorable-macroeconomic-132909956.html",
-      "published": "2026-04-15T13:29:09Z",
+      "title": "Commentary: FedEx and UPS need to move up the e-commerce food chain",
+      "url": "https://finance.yahoo.com/news/commentary-fedex-ups-move-e-141751961.html",
+      "published": "2026-04-15T14:17:51Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trump says he gets \u2018no credit\u2019 for taking $0 salary \u2014 Biden got $1.6M, Obama $3.2M. But does he really work \u2018for free\u2019?",
-      "url": "https://finance.yahoo.com/news/trump-says-gets-no-credit-133500907.html",
-      "published": "2026-04-15T13:35:00Z",
+      "title": "Analysts Are Still Betting That Applied Digital Stock Can More Than Double Over the Next 12 Months",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-still-betting-applied-digital-141503813.html",
+      "published": "2026-04-15T14:15:03Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jeep, Ram truck maker Stellantis rises on improving Q1 sales",
-      "url": "https://finance.yahoo.com/markets/stocks/article/jeep-ram-truck-maker-stellantis-rises-on-improving-q1-sales-132928200.html",
-      "published": "2026-04-15T13:29:28Z",
+      "title": "BNY Mellon Stock Just Hit New All-Time Highs. Where Does It Go Next?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bny-mellon-stock-just-hit-141502861.html",
+      "published": "2026-04-15T14:15:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "3 High Yield Dividend Paying Stocks Perfect For Passive Income",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-high-yield-dividend-paying-132547211.html",
-      "published": "2026-04-15T13:25:47Z",
+      "title": "RIA Edge Nashville Panelists: Talent is Key to Growth, But Cultivating it Takes Work",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/ria-edge-nashville-panelists-talent-142608992.html",
+      "published": "2026-04-15T14:26:08Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "3PL marketing spend efficiency diverged dramatically in Q4: LeadCoverage",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3pl-marketing-spend-efficiency-diverged-133236473.html",
-      "published": "2026-04-15T13:32:36Z",
+      "title": "Stocks Supported by US-Iran Peace Optimism",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-us-iran-peace-141402479.html",
+      "published": "2026-04-15T14:14:02Z",
       "summary": ""
     }
   ]
