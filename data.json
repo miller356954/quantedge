@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T20:55:01.265616Z",
+  "last_updated": "2026-04-17T21:52:40.078089Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -77,7 +77,7 @@
       "market_cap_fmt": "4.90T",
       "52w_high": 212.19,
       "52w_low": 95.04,
-      "pe_ratio": 17.9444,
+      "pe_ratio": 17.9903,
       "iv": 5.5,
       "beta": 2.335
     },
@@ -173,7 +173,7 @@
       "market_cap_fmt": "513.20B",
       "52w_high": 471.34,
       "52w_low": 65.65,
-      "pe_ratio": 4.5024,
+      "pe_ratio": 4.5875,
       "iv": 11.1,
       "beta": 1.606
     },
@@ -301,7 +301,7 @@
       "market_cap_fmt": "503.48B",
       "52w_high": 345.72,
       "52w_low": 121.24,
-      "pe_ratio": 21.9574,
+      "pe_ratio": 21.9628,
       "iv": 6.2,
       "beta": 1.597
     },
@@ -519,9 +519,9 @@
       "ticker": "NVDA",
       "expiry": "2026-04-17",
       "call_vol": 1132197,
-      "put_vol": 472631,
+      "put_vol": 472642,
       "call_oi": 1036528,
-      "put_oi": 841132,
+      "put_oi": 841123,
       "pcr": 0.417,
       "iv": 5.5
     },
@@ -559,10 +559,10 @@
       "ticker": "ASML",
       "expiry": "2026-04-17",
       "call_vol": 13109,
-      "put_vol": 8138,
+      "put_vol": 7880,
       "call_oi": 30918,
-      "put_oi": 38225,
-      "pcr": 0.621,
+      "put_oi": 38039,
+      "pcr": 0.601,
       "iv": 13.5
     },
     {
@@ -580,8 +580,8 @@
       "expiry": "2026-04-17",
       "call_vol": 269665,
       "put_vol": 115903,
-      "call_oi": 270452,
-      "put_oi": 320663,
+      "call_oi": 270448,
+      "put_oi": 320662,
       "pcr": 0.43,
       "iv": 11.1
     },
@@ -601,7 +601,7 @@
       "call_vol": 5059,
       "put_vol": 6593,
       "call_oi": 38792,
-      "put_oi": 35806,
+      "put_oi": 35792,
       "pcr": 1.303,
       "iv": 6.8
     },
@@ -639,9 +639,9 @@
       "ticker": "META",
       "expiry": "2026-04-17",
       "call_vol": 337549,
-      "put_vol": 103732,
+      "put_vol": 103735,
       "call_oi": 241054,
-      "put_oi": 170967,
+      "put_oi": 170971,
       "pcr": 0.307,
       "iv": 5.7
     },
@@ -649,7 +649,7 @@
       "ticker": "AMZN",
       "expiry": "2026-04-17",
       "call_vol": 190973,
-      "put_vol": 65753,
+      "put_vol": 65757,
       "call_oi": 411040,
       "put_oi": 286489,
       "pcr": 0.344,
@@ -661,7 +661,7 @@
       "call_vol": 172715,
       "put_vol": 81650,
       "call_oi": 277379,
-      "put_oi": 151553,
+      "put_oi": 151556,
       "pcr": 0.473,
       "iv": 6.2
     },
@@ -669,7 +669,7 @@
       "ticker": "PLTR",
       "expiry": "2026-04-17",
       "call_vol": 290498,
-      "put_vol": 115269,
+      "put_vol": 115270,
       "call_oi": 373082,
       "put_oi": 260524,
       "pcr": 0.397,
@@ -679,9 +679,9 @@
       "ticker": "SOUN",
       "expiry": "2026-04-17",
       "call_vol": 34583,
-      "put_vol": 5106,
+      "put_vol": 5105,
       "call_oi": 207733,
-      "put_oi": 105495,
+      "put_oi": 105424,
       "pcr": 0.148,
       "iv": 56.2
     },
@@ -691,7 +691,7 @@
       "call_vol": 75429,
       "put_vol": 12174,
       "call_oi": 235867,
-      "put_oi": 148120,
+      "put_oi": 148119,
       "pcr": 0.161,
       "iv": 14.4
     },
@@ -701,7 +701,7 @@
       "call_vol": 39013,
       "put_vol": 16132,
       "call_oi": 119029,
-      "put_oi": 97658,
+      "put_oi": 97657,
       "pcr": 0.414,
       "iv": 37.7
     },
@@ -721,16 +721,16 @@
       "call_vol": 18766,
       "put_vol": 2497,
       "call_oi": 96774,
-      "put_oi": 46933,
+      "put_oi": 46932,
       "pcr": 0.133,
       "iv": 6.2
     },
     {
       "ticker": "IBM",
       "expiry": "2026-04-17",
-      "call_vol": 5643,
+      "call_vol": 5642,
       "put_vol": 9094,
-      "call_oi": 36906,
+      "call_oi": 36908,
       "put_oi": 20850,
       "pcr": 1.612,
       "iv": 21.2
@@ -741,7 +741,7 @@
       "call_vol": 31354,
       "put_vol": 6891,
       "call_oi": 122546,
-      "put_oi": 58868,
+      "put_oi": 58865,
       "pcr": 0.22,
       "iv": 90.6
     },
@@ -769,10 +769,10 @@
       "ticker": "SMH",
       "expiry": "2026-04-17",
       "call_vol": 22962,
-      "put_vol": 16061,
+      "put_vol": 16062,
       "call_oi": 84809,
-      "put_oi": 374170,
-      "pcr": 0.699,
+      "put_oi": 374168,
+      "pcr": 0.7,
       "iv": 10.7
     },
     {
@@ -788,11 +788,11 @@
     {
       "ticker": "QTUM",
       "expiry": "2026-04-17",
-      "call_vol": 211,
-      "put_vol": 195,
+      "call_vol": 202,
+      "put_vol": 196,
       "call_oi": 1196,
-      "put_oi": 1526,
-      "pcr": 0.924,
+      "put_oi": 1534,
+      "pcr": 0.97,
       "iv": 21.9
     }
   ],
@@ -2881,10 +2881,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Global AI chip suppliers compete as TSMC remains top foundry partner - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWV9LcWQ2QWlMWmtnTlVuV01tVXR6ZFN0U1A2Y3pXVk53NzRJQkMySkEzN0xXcHVXUTk5LUdmZTJVTFpsb3dremZUanljaHNSa1dLREVubGV3RjI2ajFLenQ0ekdZSFAzSDBNMnBiT21DTnJYMTBZNE1aN1FRYjhVNVhacVR6M2c?oc=5",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "Global AI chip suppliers compete as TSMC remains top foundry partner&nbsp;&nbsp;digitimes"
+      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjVSdTNvT2hxMUc4Nnp2eDZGT1c4VUxVU25yQ1ZwWTgtYVkzRjVEenZBNzlPdFNnYWdFSnRLMS11bUlleDE2RVJZNW9SdVVfbGpieWJWMFBUN19nWHl2LWxIXzk0Y1lXcXZCTXY1b2tnLUloeDduRHU2Z3NYM1Vyek1pM0RPZWlhTkdPcjFkRTY4Qjg?oc=5",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored&nbsp;&nbsp;The New York Times"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2895,17 +2895,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited - StockInvest.us",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2FQenJLMVR6TWNvWUpIZUlTSmlQX1VBOHZrb25fVGc2UjVaLXRDQVlQODN3UVZNS2h2S0hUbTRxUTA4SU1Fc1AyUmNkbDcxb01Nek5HTXp2SElyLWEyODlkaGJvRGo0cWFtQUl4V3NmeVE1aWhwekZBaHA4R1l0a1c2RlNqbzlrcEpzZXNYTHBEdHA2azdXbmhlTG0xaS1LSk5jbTUzUExSNVk?oc=5",
-      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "summary": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited&nbsp;&nbsp;StockInvest.us"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjVSdTNvT2hxMUc4Nnp2eDZGT1c4VUxVU25yQ1ZwWTgtYVkzRjVEenZBNzlPdFNnYWdFSnRLMS11bUlleDE2RVJZNW9SdVVfbGpieWJWMFBUN19nWHl2LWxIXzk0Y1lXcXZCTXY1b2tnLUloeDduRHU2Z3NYM1Vyek1pM0RPZWlhTkdPcjFkRTY4Qjg?oc=5",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored&nbsp;&nbsp;The New York Times"
+      "title": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWYwVEhmbEMyRy1UMkpQZExEYTlXUkZjX3RJLUdweHBIV08yQmJlcmZpX2d4MzVjU3ZlQUpSVUpoTE4tXzNoTEtZMjRfZ2I2LTJIQWdhNEJHeDJBVF9NX1oxODFpR0xlaUw3am9NT1hjRTdTMjRQX0syLTZfazZMUVgtMGFNSzFVdFl0a2ROd3NHYlpOTG81X2tUNTlwM2prZTcybWdKLWpXUjRmOTVqTEhnQ2Zqel9tc2NXb2dybmh4Nk0?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand&nbsp;&nbsp;Investopedia"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2916,10 +2909,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Better Semiconductor Stock: Nvidia vs. TSMC - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDlWeVNldzVRaFZHODUzWGlvSXZsVUUtcEU1RzhrNzIwTWhscVVkNVNGVUR1MkZCdXotTzNLdmRYSGo2WXY2NUJsM0RZdVdiQlNtYmNwU1JGdkVUd1pGdVVXa05uelY1UGNVbTI5UmtRX0R2R2RPMm13SFJDU244WDM3ekF2OE5mNEE?oc=5",
-      "published": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "summary": "Better Semiconductor Stock: Nvidia vs. TSMC&nbsp;&nbsp;Yahoo Finance"
+      "title": "TSMC: The Foundry Behind Nvidia, AMD and Apple Is Setting AI On Fire - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LTEVLOWdBSjNhS1BXQnVkaXdXdy01cldzZXl6bzJEdUNGUU1GMGZCeVRMdndsMG5tMm1PQ3pOZ25KYXVoenNpUS1DNk15b2o5V3lzZW8yak9YbHA2UHFxdXhEY1FPcEZHN25iMFoxT1ZmTWk3dUpiQXpjN0FKQQ?oc=5",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "TSMC: The Foundry Behind Nvidia, AMD and Apple Is Setting AI On Fire&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Chip Stocks Split: AMAT and TSMC Gain While NVDA and Intel Retreat - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE1nNGV3WDNEdjE1aVM4N3FrWkZaZkNRakd3NGNaVTZxSVZBaVVtRzRCU3RoR3E3ZllFRUpyVlJuTndRa1dzdkhqazdRMDlWcVhTVXR4NkpUemtaNEh5Q0RSZzFLa09FSE5lVjFuRFJjVjEtY2RRbUNWQmw4alNUVE5LT05kTXRndlNKODA4dVEzRkcyZ3lWb2J4NWd1bmR2SHk0OFVaNXdTUGJ0alE?oc=5",
+      "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+      "summary": "Chip Stocks Split: AMAT and TSMC Gain While NVDA and Intel Retreat&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2951,13 +2951,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWlXNmQ4d0pJUWpObkdoRWt6NmtNRUgxZDR0QU9rZ1VCaUIxRU1KTHNPTmFKaEYzT0gtX282d0ZmTXlvT0lnRXRoa2VwQW95WV9XdHVnOGpuU3BEZnNoeEZyTFRSNXh4Z1ZLY0R6Q1NrZ1hSOWJGVEtHMTVUejZiWTJYSW5GT1FLcDB2cElBcw?oc=5",
-      "published": "Sun, 25 Jan 2026 08:00:00 GMT",
-      "summary": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers. - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW0tS3lXaV9xd01LU2NEc3hDbVU2Z2lOa01tSzdZRFY4VldXWW01MkQzc085WVZPMm5adXQ5VWJURGRuemtQUXFsQkNPaFl0bThmMWtjd2VYRU9BUWoyTVZtVkhwQUxTTDhSTHgxSklIamRTYXRkdTE1U184M2JZVDk5MUJUM3hzc2lMWkxfTFhaSHJvQ2lmT0JQbW1FV09ibFZLZEFRdHZNQ3Q1Z0o0UVhaSDlxMm1jUlE?oc=5",
       "published": "Thu, 29 Jan 2026 08:00:00 GMT",
@@ -2969,6 +2962,13 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOanhDZWxzVWRoM3d2QVN1RWZKZWpRWUtfdmw3ckZWR0kwZDVRZHVTYkxFUTlqdHl2eXhTQWJsNkJoQ3lacmxjcG11a2dLamVmRndmanlLd0tab24wTERWdmsySnBKUVB5VXN0RF9xbXZZV3prUjRzSmMzZlNBU0NGTEx4R3EzLWlHZklfWFFpQlcxZldLQzExUnBqVlBXVXNNNlhVRHp3SVRjc29mX2JhOWdOSzdpb2RZY3BRaWVXdzhzcUJFSzVGTTNMRmFhSHFrRzhjZUlwYWFtREdZ?oc=5",
       "published": "Wed, 22 Oct 2025 07:00:00 GMT",
       "summary": "Blockbuster $40b AI Investment Is Only 10% of What\u2019s Coming (NVDA, MSFT, META, BLK)&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Tech's $380 billion splurge: This quarter's winners and losers of the AI spending boom - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEd3X2pTanI2bGJ6ZUk3bmFxNkdQYThxYUFEdm0yUUJiRFZuS2haZkhJaG5kV2lickdOWXVhaGFBdmxiRkp4OU1YRFk4R0xIWmpXcXFTMGZIZlRLY3UzRDM5Wm5ESE9pQnA1Nldad1RpeThsYmhwLVY4ZkVjZ1hpcjVkcjVWUdIBiwFBVV95cUxNZFU5RDcxSVNhNEt3SHYtRnZidUl0YmVDNko1clVXcXFKaHRBUl9fenBuYnBGZ2xSTzlYRUduZWRiSy1xQUNaNU5ocFNEMEtMLXN0ZG1BMlIyYXJReHdhTng1YWFmbEZWMlJKTFI1bGxMVFJ6Zkt6dUNlaUJPUWVGZ2N3dFFfUlIwVGJj?oc=5",
+      "published": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "summary": "Tech's $380 billion splurge: This quarter's winners and losers of the AI spending boom&nbsp;&nbsp;CNBC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3000,10 +3000,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUpLcGI1RmQyRU9KMHE1dUZTLUYxM1dYQ2htZV9tOERoS1dXazZrUUxvODZXa2FVNWtRaWdhVHZFZFFRaDhaeEEyY0FzZGhocFlDV3VFMnBPalZUTnhfbE9jZ0FtUGlhYVdaeGlzV0loVTZDMDU0QzJXQVZNbmd0aldlTzFSMFhJVWVnX1FXSGdMYi13SmVTMXpJU3o3eF9jSDVvNzFrWmg0QQ?oc=5",
-      "published": "Sat, 31 Jan 2026 08:00:00 GMT",
-      "summary": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
+      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3098,37 +3098,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Economist Mohamed El-Erian says the US economic survival is not enough to avoid the pain of future hardship",
-      "url": "https://finance.yahoo.com/economy/articles/economist-mohamed-el-erian-says-110700251.html",
-      "published": "2026-04-16T11:07:00Z",
+      "title": "'I've seen this movie before': The internet reacts to Allbirds' puzzling AI pivot",
+      "url": "https://finance.yahoo.com/news/ive-seen-this-movie-before-the-internet-reacts-to-allbirds-puzzling-ai-pivot-141033930.html",
+      "published": "2026-04-16T14:10:33Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin and ethereum price today, Thursday, April 16, 2026: Prices hold amid profit-taking and cautious outlook",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-16-2026-prices-hold-amid-profit-taking-and-cautious-outlook-111641743.html",
-      "published": "2026-04-16T11:16:41Z",
+      "title": "How Should You Trade Marvell Technology Stock at New Record Highs?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trade-marvell-technology-stock-record-141502195.html",
+      "published": "2026-04-16T14:15:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "TikTok influencer signs $975M deal \u2014 then mysteriously goes silent. Now, stock trading linked to the deal is blocked",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tiktok-influencer-signs-975m-deal-111500409.html",
-      "published": "2026-04-16T11:15:00Z",
+      "title": "China Expected To Launch Yuan Stablecoin Within Five Years",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/china-expected-launch-yuan-stablecoin-141300811.html",
+      "published": "2026-04-16T14:13:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "2 Undervalued AI Stocks That Could Skyrocket Soon",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/2-undervalued-ai-stocks-could-113002714.html",
-      "published": "2026-04-16T11:30:02Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analyst Report: Truist Financial Corp",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3641_AnalystReport_1776449324000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-17T18:08:44Z",
+      "title": "Stocks Pressured by Weakness in Chipmakers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-weakness-chipmakers-141820985.html",
+      "published": "2026-04-16T14:18:20Z",
       "summary": ""
     },
     {
@@ -3140,37 +3133,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "PepsiCo may be leaving behind $7 Doritos with price cuts",
-      "url": "https://finance.yahoo.com/news/pepsico-may-be-leaving-behind-7-doritos-with-price-cuts-112833478.html",
-      "published": "2026-04-16T11:28:33Z",
+      "title": "Myseum takes flight after Allbirds in fresh AI rebrand wave",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/myseum-takes-flight-allbirds-fresh-140853819.html",
+      "published": "2026-04-16T14:08:53Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Super Micro Computer's Quarterly Earnings Preview: What You Need to Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computers-quarterly-earnings-113558532.html",
-      "published": "2026-04-16T11:35:58Z",
+      "title": "Kering\u2019s Gucci Fix Is Really a Group Survival Plan",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kering-gucci-fix-really-group-140657506.html",
+      "published": "2026-04-16T14:06:57Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "\u2018History is being disobeyed\u2019: Jim Cramer says Iran war should be slaughtering stocks, but the US has a \u2018secret weapon\u2019",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/history-being-disobeyed-jim-cramer-110000455.html",
-      "published": "2026-04-16T11:00:00Z",
+      "title": "Coca-Cola Stock Is Typically a Defensive Name. Options Data Says It\u2019s Time to Go on the Offense.",
+      "url": "https://finance.yahoo.com/markets/options/articles/coca-cola-stock-typically-defensive-140147540.html",
+      "published": "2026-04-16T14:01:47Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bull Call Spread Screener Results for April 16",
-      "url": "https://finance.yahoo.com/markets/options/articles/bull-call-spread-screener-results-110002309.html",
-      "published": "2026-04-16T11:00:02Z",
+      "title": "Institutional Stablecoin Use Tripled In March",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/institutional-stablecoin-tripled-march-140200976.html",
+      "published": "2026-04-16T14:02:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Fastenal Co",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3653_AnalystReport_1776449324000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-17T18:08:44Z",
+      "title": "Hershey wants to make more than candy",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/hershey-wants-more-candy-183300214.html",
+      "published": "2026-04-16T18:33:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US manufacturing output dips in March",
+      "url": "https://finance.yahoo.com/news/us-manufacturing-output-dips-march-135625261.html",
+      "published": "2026-04-16T14:00:24Z",
       "summary": ""
     }
   ]
