@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T20:56:38.303779Z",
+  "last_updated": "2026-04-20T21:55:52.775731Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -46,21 +46,21 @@
       "flat": 0
     },
     "AI / Software": {
-      "avg_change": -0.05,
+      "avg_change": -0.04,
       "gainers": 3,
       "losers": 5,
       "flat": 0
     },
     "Quantum Computing": {
-      "avg_change": 1.46,
-      "gainers": 3,
-      "losers": 3,
+      "avg_change": 1.66,
+      "gainers": 4,
+      "losers": 2,
       "flat": 0
     },
     "ETFs": {
-      "avg_change": -0.07,
-      "gainers": 2,
-      "losers": 2,
+      "avg_change": 0.02,
+      "gainers": 1,
+      "losers": 3,
       "flat": 0
     }
   },
@@ -261,7 +261,7 @@
       "sector": "AI / Software",
       "name": "Meta Platforms, Inc.",
       "price": 670.91,
-      "prev_close": 686.8001,
+      "prev_close": 686.8069,
       "change_pct": -2.31,
       "volume": 16276772,
       "volume_fmt": "16.28M",
@@ -285,7 +285,7 @@
       "market_cap_fmt": "2.67T",
       "52w_high": 258.6,
       "52w_low": 165.29,
-      "pe_ratio": 26.3387,
+      "pe_ratio": 26.3356,
       "iv": 11.8,
       "beta": 1.383
     },
@@ -309,8 +309,8 @@
       "sector": "AI / Software",
       "name": "Palantir Technologies Inc.",
       "price": 145.89,
-      "prev_close": 146.4987,
-      "change_pct": -0.42,
+      "prev_close": 146.4643,
+      "change_pct": -0.39,
       "volume": 52579837,
       "volume_fmt": "52.58M",
       "market_cap": 348921568018,
@@ -325,8 +325,8 @@
       "sector": "AI / Software",
       "name": "SoundHound AI, Inc.",
       "price": 8.32,
-      "prev_close": 8.0899,
-      "change_pct": 2.84,
+      "prev_close": 8.0813,
+      "change_pct": 2.95,
       "volume": 25723050,
       "volume_fmt": "25.72M",
       "market_cap": 3546067527,
@@ -437,8 +437,8 @@
       "sector": "Quantum Computing",
       "name": "Arqit Quantum Inc.",
       "price": 16.15,
-      "prev_close": 16.2,
-      "change_pct": -0.31,
+      "prev_close": 16.01,
+      "change_pct": 0.87,
       "volume": 260890,
       "volume_fmt": "260890",
       "market_cap": 252777516,
@@ -469,8 +469,8 @@
       "sector": "ETFs",
       "name": "VanEck Semiconductor ETF",
       "price": 463.96,
-      "prev_close": 463.1695,
-      "change_pct": 0.17,
+      "prev_close": 464.0,
+      "change_pct": -0.01,
       "volume": 9023620,
       "volume_fmt": "9.02M",
       "market_cap": 0,
@@ -485,8 +485,8 @@
       "sector": "ETFs",
       "name": "Global X Artificial Intelligenc",
       "price": 53.91,
-      "prev_close": 54.48,
-      "change_pct": -1.05,
+      "prev_close": 54.2,
+      "change_pct": -0.54,
       "volume": 1993635,
       "volume_fmt": "1.99M",
       "market_cap": 0,
@@ -3098,30 +3098,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Advisors Tackle Decumulation as Americans Boom Into Retirement",
-      "url": "https://finance.yahoo.com/markets/options/articles/advisors-tackle-decumulation-americans-boom-120000855.html",
-      "published": "2026-04-19T12:00:00Z",
+      "title": "The AI trade is fueling the market to record highs despite Iran war",
+      "url": "https://finance.yahoo.com/news/the-ai-trade-is-fueling-the-market-to-record-highs-despite-iran-war-130540185.html",
+      "published": "2026-04-19T13:05:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What the Allbirds 'Hail Mary' says about the AI trade right now",
-      "url": "https://finance.yahoo.com/news/what-the-allbirds-hail-mary-says-about-the-ai-trade-right-now-113847747.html",
-      "published": "2026-04-18T11:38:47Z",
+      "title": "Dear Seagate Technology Stock Fans, Mark Your Calendars for April 28",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-seagate-technology-stock-fans-130002243.html",
+      "published": "2026-04-19T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rolls-Royce Nightingale is a $5 million limited-edition EV, and it's already sold out",
-      "url": "https://finance.yahoo.com/markets/article/rolls-royce-nightingale-is-a-5-million-limited-edition-ev-and-its-already-sold-out-193250036.html",
-      "published": "2026-04-18T19:32:50Z",
+      "title": "Profit Jumped 58% at Taiwan Semi. Does That Make TSM Stock a Buy Here?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/profit-jumped-58-taiwan-semi-130002763.html",
+      "published": "2026-04-19T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "'The results shocked me': A shopper compared 32 items at Walmart and Costco \u2014 and one store was nearly 26% cheaper",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/results-shocked-shopper-compared-32-121300206.html",
-      "published": "2026-04-19T12:13:00Z",
+      "title": "Analysis: Investors pile into US stocks as 'TINA' revival knocks 'TIARA' trades",
+      "url": "https://finance.yahoo.com/news/analysis-investors-pile-us-stocks-091058959.html",
+      "published": "2026-04-19T09:14:28Z",
       "summary": ""
     },
     {
@@ -3133,16 +3133,16 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "S&P 500 at 7,000: 7 investing rules you must now live by",
-      "url": "https://finance.yahoo.com/news/sp-500-at-7000-7-investing-rules-you-must-now-live-by-123015841.html",
-      "published": "2026-04-19T12:30:15Z",
+      "title": "The million dollar retirement planning question: How long will you live?",
+      "url": "https://finance.yahoo.com/economy/article/the-million-dollar-retirement-planning-question-how-long-will-you-live-132449323.html",
+      "published": "2026-04-18T13:24:49Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Borderlands Mexico: Truck exports to U.S. fall in March",
-      "url": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-truck-exports-u-110000227.html",
-      "published": "2026-04-19T11:00:00Z",
+      "title": "COVID-era homeowners are still hanging on to their ultra-low-rate mortgages",
+      "url": "https://finance.yahoo.com/sectors/real-estate/article/covid-era-homeowners-are-still-hanging-on-to-their-ultra-low-rate-mortgages-100000105.html",
+      "published": "2026-04-15T10:00:00Z",
       "summary": ""
     },
     {
@@ -3154,23 +3154,23 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dave Ramsey shares the \u2018biggest 2 elements\u2019 that will make you a millionaire, but is he right? Here\u2019s the math",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-shares-biggest-2-105500751.html",
-      "published": "2026-04-19T10:55:00Z",
+      "title": "S&P 500 at 7,000: 7 investing rules you must now live by",
+      "url": "https://finance.yahoo.com/news/sp-500-at-7000-7-investing-rules-you-must-now-live-by-123015841.html",
+      "published": "2026-04-19T12:30:15Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Badger Meter Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_4449_AnalystReport_1776706090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-20T17:28:10Z",
+      "title": "2 Millionaire-Maker Stocks to Hold for the Next 10 Years",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-millionaire-maker-stocks-hold-131000014.html",
+      "published": "2026-04-19T13:10:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "High-Yield Bond ETF BINC Bets on Fed Rate Cuts to Hold",
-      "url": "https://finance.yahoo.com/markets/options/articles/high-yield-bond-etf-binc-114306706.html",
-      "published": "2026-04-19T11:43:06Z",
+      "title": "Workers who want AI training the most are using it the least",
+      "url": "https://finance.yahoo.com/economy/article/workers-who-want-ai-training-the-most-are-using-it-the-least-160312664.html",
+      "published": "2026-04-14T16:03:12Z",
       "summary": ""
     }
   ]
