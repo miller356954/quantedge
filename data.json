@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T21:07:03.087889Z",
+  "last_updated": "2026-04-21T22:01:02.820273Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -125,7 +125,7 @@
       "market_cap_fmt": "1.91T",
       "52w_high": 390.21,
       "52w_low": 147.44,
-      "pe_ratio": 19.2027,
+      "pe_ratio": 19.0792,
       "iv": 43.7,
       "beta": 1.251
     },
@@ -1865,7 +1865,7 @@
       "ticker": "INTC",
       "date": "2026-04-23",
       "days_away": 2,
-      "eps_estimate": 0.011
+      "eps_estimate": 0.0126
     },
     {
       "ticker": "QCOM",
@@ -1877,7 +1877,7 @@
       "ticker": "MSFT",
       "date": "2026-04-29",
       "days_away": 8,
-      "eps_estimate": 4.0699
+      "eps_estimate": 4.072
     },
     {
       "ticker": "GOOGL",
@@ -3042,17 +3042,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "IonQ (IONQ), IBM, and Microsoft (MSFT): The Quantum Computing Stocks Dominating 2026 - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SRVoyTVlGMXZ5a09aRmtVYjF5Q2ltSHNzdDFpUUxZYVNGMElCb0JPS0Y3YWJEZlo5OXJKcW9McjN1WEtPNHZGRg?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "summary": "IonQ (IONQ), IBM, and Microsoft (MSFT): The Quantum Computing Stocks Dominating 2026&nbsp;&nbsp;MEXC"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Rigetti, IonQ, and IBM Make Strides. What Quantum Investors Should Know. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVZnalhRYVdQMU5PNjV3S0FKRlFDSnBYSU0ydkduZ1kxMncyNjc1TEdwY2hxdklDT0h2WmQ0dUQ0c21aRTdvYmI2OVZ6bHdwZTJ0R0FIajJJakwxVjhtNHJuRWZqdU11QTlBUUNKeGZweTZLZHd3T29Ud3hTRnBqdVkyaUMyVWlCMndF?oc=5",
       "published": "Thu, 13 Nov 2025 08:00:00 GMT",
       "summary": "Rigetti, IonQ, and IBM Make Strides. What Quantum Investors Should Know.&nbsp;&nbsp;Barron's"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "IonQ (IONQ), IBM, and Microsoft (MSFT): The Quantum Computing Stocks Dominating 2026 - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SRVoyTVlGMXZ5a09aRmtVYjF5Q2ltSHNzdDFpUUxZYVNGMElCb0JPS0Y3YWJEZlo5OXJKcW9McjN1WEtPNHZGRg?oc=5",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "IonQ (IONQ), IBM, and Microsoft (MSFT): The Quantum Computing Stocks Dominating 2026&nbsp;&nbsp;MEXC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3098,37 +3098,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Alphabet (GOOGL) The Best AI Stock to Buy in 2026?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-best-ai-stock-121126680.html",
-      "published": "2026-04-20T12:11:26Z",
+      "title": "Western Digital Corp (WDC) Gained from Increased Investment in Hyperscaler Data Centers and Growing Data Volumes",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corp-wdc-gained-133437135.html",
+      "published": "2026-04-20T13:34:37Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Cotton Pulling Back on Monday Morning",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-pulling-back-monday-morning-122447858.html",
-      "published": "2026-04-20T12:24:47Z",
+      "title": "Amazon expected to report a strong quarter on the backs of Anthropic's Claude, AI demand",
+      "url": "https://finance.yahoo.com/news/amazon-expected-to-report-a-strong-quarter-on-the-backs-of-anthropics-claude-ai-demand-133116973.html",
+      "published": "2026-04-20T13:31:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Brad Jacobs\u2019 Midas Touch Could Turn QXO Into Your Next Big Winner",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/brad-jacobs-midas-touch-could-121208567.html",
-      "published": "2026-04-20T12:12:08Z",
+      "title": "Expert issues warning over US bank accounts sitting idle: Money can now be turned over to state. Secure your money ASAP",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-133000140.html",
+      "published": "2026-04-20T13:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Slipping to Start Monday Trade",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-start-monday-trade-122447767.html",
-      "published": "2026-04-20T12:24:47Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Market Update: FITB",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_46801_MarketUpdate_1776790385000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-21T16:53:05Z",
+      "title": "Bitmine Makes Biggest Ethereum Purchase Of The Year",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-133600099.html",
+      "published": "2026-04-20T13:36:00Z",
       "summary": ""
     },
     {
@@ -3140,37 +3133,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Starting the New Week with Weaker Trade",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-starting-week-weaker-trade-122447168.html",
-      "published": "2026-04-20T12:24:47Z",
+      "title": "Tesla Robotaxi Service Expands To Dallas And Houston",
+      "url": "https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo",
+      "published": "2026-04-20T13:25:53Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wheat Starting Monday with Gains",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-starting-monday-gains-122447471.html",
-      "published": "2026-04-20T12:24:47Z",
+      "title": "Several Reinforcing Catalysts Boosted the Nebius Group (NBIS) in Q1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/several-reinforcing-catalysts-boosted-nebius-133729203.html",
+      "published": "2026-04-20T13:37:29Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What to Expect From Parker-Hannifin's Next Quarterly Earnings Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-parker-hannifins-next-quarterly-123103334.html",
-      "published": "2026-04-20T12:31:03Z",
+      "title": "Is Broadcom (AVGO) The Best AI Chip Stock Pick of Motley Fool?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-best-ai-chip-131740989.html",
+      "published": "2026-04-20T13:17:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Copper at the Edge: Why $6.00 Feels Like a Trap",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/copper-edge-why-6-00-123002062.html",
-      "published": "2026-04-20T12:30:02Z",
+      "title": "Will Tesla (TSLA) Make a Comeback in 2026?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-comeback-2026-131738258.html",
+      "published": "2026-04-20T13:17:38Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Leidos to form security screening joint venture with medical imaging manufacturer",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/leidos-form-security-screening-joint-122302635.html",
-      "published": "2026-04-20T12:23:02Z",
+      "title": "Borealis Foods gets default notice from lender",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/borealis-foods-gets-default-notice-133435758.html",
+      "published": "2026-04-20T13:34:35Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Institutional Investors See Crypto As Portfolio Diversifier: Poll",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/institutional-investors-see-crypto-portfolio-131800280.html",
+      "published": "2026-04-20T13:18:00Z",
       "summary": ""
     }
   ]
