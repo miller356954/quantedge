@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T21:03:20.113811Z",
+  "last_updated": "2026-04-22T22:06:34.928382Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -253,7 +253,7 @@
       "market_cap_fmt": "4.10T",
       "52w_high": 349.0,
       "52w_low": 147.84,
-      "pe_ratio": 25.1677,
+      "pe_ratio": 25.1693,
       "iv": 4.1,
       "beta": 1.128
     },
@@ -1853,7 +1853,7 @@
       "ticker": "LRCX",
       "date": "2026-04-22",
       "days_away": 0,
-      "eps_estimate": 1.3633
+      "eps_estimate": 1.3628
     },
     {
       "ticker": "IBM",
@@ -2839,24 +2839,10 @@
   "news": [
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "NVIDIA vs TSMC vs Broadcom: Which AI Chip Stock Looks Best in 2026? - Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaE9Rb1B0UXpDeGxlRlVYLTNxX2RINmo0NGRCTE11XzBqQTJwMHRhbFRwWmIyT0Y4YlI2TWlaZG5haGZlMDdDc2g4cHl5RTU0aUJtZjc5eHV1dnZBb21lU3d6RWIwckxmX1V4Tl9LZ05RTHBWaUU0cHBiT2RCSXZhNlhJeTNtYUhxazBIMmFR?oc=5",
-      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "summary": "NVIDIA vs TSMC vs Broadcom: Which AI Chip Stock Looks Best in 2026?&nbsp;&nbsp;Gotrade"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real' - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa19fT2dITHVRS0tWZEZmd19RWmttS3picmJaamFNTktFalBoSWxBSkJqWWtzRS1iSjNXQ2JGaURlZWszeldFWkdCN1ZPaWxUR0ZycEdZVW4xQUprZXE4VGNYWXVwcC1nMjFDNUhlNGRfLVd6WGt3TEhnWFRkVHZLRVJYYzZBRWF4MEUwR3NhQTRaR2t6bEI1ZXJ4MUs4bGFJVm52dGI5X2F6ZTZ3LWV6T09veEtIdGF6alJWaw?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real'&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDc4cFNXbjczTkhZbEVydl9qREdPaC10T1NrTzFVZ3pRZTBiYTFDZk53V0FJb0JQcDdXSjdCWW05Sk5vVUNmWHF1Ri10alN4WlFBVS1sWVhlcnh5QlBuV3dJT3hqVkZERF8xWnFUZFlpVlE4bWRRMEhCWnZEa0l2RV9QdUh3bkUtTlhlNlIxNHVCVHpuR2VqQ2J6cjFzRTdGSWlVQml3N01WQdIBrwFBVV95cUxOWU9YQmRIYVRIdmExaEVsVU1COTBmcDdpR3c0WUVYbGNwVWhhSy1aRXNRdlRiUEpkWndqbi1JdU8tWEdaeVRSb29SX2JpUmZ6bWtQRGF3ZDZzWDRlNEx0TFl4ZlV6amdYYVNodksyb3hwZWFhOUROaXFEb2MtZjZDSXJxanUyUGw5QUlpRm5lQk42dW9xNGVNdEJSeFhvUFc4bWRuQzNMdmE0TEZOdHBn?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand&nbsp;&nbsp;CNBC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2878,6 +2864,13 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2NkRXBYaXI5bEpmeDEzOFhLRUU3QmxlNGRUR2tSQWNERkZSWFliUjY3TGpwZ1lqY2J2R1VZdW4xa1hkRFQ3aG1icHdfb0NjZ0JJeXMxYW9lT2ZNWldaa2VXZXIybm1LV2dJN190cXJTNmVodEtib3JPNzNqeHJ5QjQ1LVZMMHF2cDBJX0ZmWWYxaFM1SlRPTm1ic1JSWUVjMDNoZmRib3FUYTFnZnJ5TTlWbkVSOThCdE0yX0NVNkNrbzRwZW5EazhRS2g3TVF0UnBSNTBTVEs3Wkdl?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast&nbsp;&nbsp;CNBC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2913,6 +2906,13 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNempNN0N1amRNYVIxSGREb3RVRzhtV0ZLV0F5OEZoUUxaTEV2WWoteXlSd2gzMmh0VnE2U2EyUk45RHRPakQyY2xDb2tPeE9hSXpzSEhPSEVIUU4zOWZfajlyQjYtN1RSal80UmRoYkNWUmZyaWl3VnFFdFJ4TGFHeGZmQ1hkM3VjNEFEdU1mV2RlcXdUa1E?oc=5",
       "published": "Thu, 16 Oct 2025 07:00:00 GMT",
       "summary": "TSMC crushes earnings, but will 'Silicone Shield' last?&nbsp;&nbsp;www.israelhayom.com"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC Makes the Chips but AMD Gets the Glory - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXNzS2V3cGszR0FvTjkwZGtVdFBjMW40WGxaVnE5VzF5LUpaQ2x5bXlaWVhZMUphLTJ0UU5ScGwzOFpTcF8zdC1BNzNYSHlZaC1SZEI5cEJBYmQ2NWlwR3N5M3hoWDZQcGYzMHlSMGROZUo1eU1lVWh2QXNQTVZMQw?oc=5",
+      "published": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "TSMC Makes the Chips but AMD Gets the Glory&nbsp;&nbsp;Dr. Robert Castellano's Semiconductor Deep Dive Newsletter"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2958,6 +2958,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWlXNmQ4d0pJUWpObkdoRWt6NmtNRUgxZDR0QU9rZ1VCaUIxRU1KTHNPTmFKaEYzT0gtX282d0ZmTXlvT0lnRXRoa2VwQW95WV9XdHVnOGpuU3BEZnNoeEZyTFRSNXh4Z1ZLY0R6Q1NrZ1hSOWJGVEtHMTVUejZiWTJYSW5GT1FLcDB2cElBcw?oc=5",
+      "published": "Sun, 25 Jan 2026 08:00:00 GMT",
+      "summary": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Blockbuster $40b AI Investment Is Only 10% of What\u2019s Coming (NVDA, MSFT, META, BLK) - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOanhDZWxzVWRoM3d2QVN1RWZKZWpRWUtfdmw3ckZWR0kwZDVRZHVTYkxFUTlqdHl2eXhTQWJsNkJoQ3lacmxjcG11a2dLamVmRndmanlLd0tab24wTERWdmsySnBKUVB5VXN0RF9xbXZZV3prUjRzSmMzZlNBU0NGTEx4R3EzLWlHZklfWFFpQlcxZldLQzExUnBqVlBXVXNNNlhVRHp3SVRjc29mX2JhOWdOSzdpb2RZY3BRaWVXdzhzcUJFSzVGTTNMRmFhSHFrRzhjZUlwYWFtREdZ?oc=5",
       "published": "Wed, 22 Oct 2025 07:00:00 GMT",
@@ -2997,13 +3004,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BRm9qY2M0dHNMWnlSVFRUSjRiNm9TQmlHcWxWMlhKV0syN0pOdlZPbVNINVVobi1sZzRtZXl6V2tqZW13aFdvbDZRTjBNVFVkbmphU21aelY5RHNhb3U5QmNUdnNMQkV6dFk4SFM0UkcyQUdBYWc?oc=5",
       "published": "Fri, 28 Nov 2025 08:00:00 GMT",
       "summary": "Nvidia Falls Amid China's DeepSeek AI News. Is Nvidia A Buy Or Sell Now?&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3098,30 +3098,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lloyds pilots AI investment guidance tool as UK regulator studies impact",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/lloyds-pilots-ai-investment-guidance-123026045.html",
-      "published": "2026-04-21T12:30:26Z",
+      "title": "Coinbase Global Launches A.I. App Store",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-launches-app-store-134600286.html",
+      "published": "2026-04-21T13:46:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Reddit Stock Gets New Analyst Buy Rating On 'Compelling Opportunity'",
-      "url": "https://www.investors.com/news/technology/reddit-stock-rddt-buy-da-davidson/?src=A00220&yptr=yahoo",
-      "published": "2026-04-21T12:36:16Z",
+      "title": "Slow-Moving CVS Health (CVS) Stock Could Offer a Surprise for Bullish Options Traders",
+      "url": "https://finance.yahoo.com/markets/options/articles/slow-moving-cvs-health-cvs-134117450.html",
+      "published": "2026-04-21T13:41:17Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "India's HCLTech forecasts weak annual revenue growth as clients rein in discretionary spends",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/indias-hcltech-misses-q4-revenue-123559903.html",
-      "published": "2026-04-21T12:35:59Z",
+      "title": "XPO (XPO) Reported Strong Results in a Challenging Environment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/xpo-xpo-reported-strong-results-134152089.html",
+      "published": "2026-04-21T13:41:52Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "ServisFirst Bancshares, Inc. Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/servisfirst-bancshares-inc-q1-2026-123000374.html",
-      "published": "2026-04-21T12:30:00Z",
+      "title": "Avis stock surges again, bringing monthly gains north of 600% as short squeeze risk remains high",
+      "url": "https://finance.yahoo.com/markets/stocks/article/avis-stock-surges-again-bringing-monthly-gains-north-of-600-as-short-squeeze-risk-remains-high-134329801.html",
+      "published": "2026-04-21T13:43:29Z",
       "summary": ""
     },
     {
@@ -3133,44 +3133,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Flexsteel Industries, Inc. Q3 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/flexsteel-industries-inc-q3-2026-123000337.html",
-      "published": "2026-04-21T12:30:00Z",
+      "title": "Dear Meta Platforms Stock Fans, Mark Your Calendars for May 20",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-meta-platforms-stock-fans-135427846.html",
+      "published": "2026-04-21T13:54:27Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Steel Dynamics, Inc. Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-inc-q1-2026-123000344.html",
-      "published": "2026-04-21T12:30:00Z",
+      "title": "Quanta Services (PWR) Gains from Solid Execution",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-gains-solid-133827490.html",
+      "published": "2026-04-21T13:38:27Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "RBB Bancorp Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rbb-bancorp-q1-2026-earnings-123000749.html",
-      "published": "2026-04-21T12:30:00Z",
+      "title": "Teradyne (TER) Surged on Investors\u2019 Favour",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-surged-investors-favour-133502156.html",
+      "published": "2026-04-21T13:35:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "AGNC Investment Corp. Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnc-investment-corp-q1-2026-123000456.html",
-      "published": "2026-04-21T12:30:00Z",
+      "title": "UnitedHealth stock jumps 8% on earnings outlook beat",
+      "url": "https://finance.yahoo.com/markets/stocks/article/unitedhealth-stock-jumps-8-on-earnings-outlook-beat-125216776.html",
+      "published": "2026-04-21T12:52:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Equifax Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3702_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-22T17:54:02Z",
+      "title": "Chubb (CB) Q4 2025 Earnings Call Transcript",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chubb-cb-q4-2025-earnings-134510299.html",
+      "published": "2026-04-21T13:45:10Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin Rises as Risk Appetite Resumes",
-      "url": "https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-043e606c?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-04-21T12:36:00Z",
+      "title": "Reddit (RDDT) Fell on Disappointing User Engagement Growth",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-fell-disappointing-user-133027663.html",
+      "published": "2026-04-21T13:30:27Z",
       "summary": ""
     }
   ]
