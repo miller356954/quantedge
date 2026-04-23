@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T20:59:10.655070Z",
+  "last_updated": "2026-04-23T21:56:46.006473Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -285,7 +285,7 @@
       "market_cap_fmt": "2.74T",
       "52w_high": 258.6,
       "52w_low": 178.85,
-      "pe_ratio": 26.8889,
+      "pe_ratio": 26.8843,
       "iv": 24.0,
       "beta": 1.383
     },
@@ -301,7 +301,7 @@
       "market_cap_fmt": "506.99B",
       "52w_high": 345.72,
       "52w_low": 132.0,
-      "pe_ratio": 22.0806,
+      "pe_ratio": 22.0804,
       "iv": 48.1,
       "beta": 1.597
     },
@@ -1853,7 +1853,7 @@
       "ticker": "INTC",
       "date": "2026-04-23",
       "days_away": 0,
-      "eps_estimate": 0.0126
+      "eps_estimate": 0.0838
     },
     {
       "ticker": "QCOM",
@@ -1865,7 +1865,7 @@
       "ticker": "MSFT",
       "date": "2026-04-29",
       "days_away": 6,
-      "eps_estimate": 4.072
+      "eps_estimate": 4.0666
     },
     {
       "ticker": "GOOGL",
@@ -1961,7 +1961,7 @@
       "ticker": "ORCL",
       "date": "2026-06-10",
       "days_away": 48,
-      "eps_estimate": 1.9617
+      "eps_estimate": 1.9587
     },
     {
       "ticker": "MU",
@@ -1985,7 +1985,7 @@
       "ticker": "IBM",
       "date": "2026-07-22",
       "days_away": 90,
-      "eps_estimate": 1.8112
+      "eps_estimate": 2.9885
     }
   ],
   "sec_filings": [
@@ -2931,13 +2931,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "If Magnificent 7 Executives Don\u2019t Believe In Their Stocks, Should You? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1c2cEJSUUxtQmhHcnNJX2lkS2dlQ3JRaS16c3hEYmh4akJXMWNfa3N5bmxkeVBhbVZBV09IV2M1NGotV0xmZHNzQS1JWVRjY1YwT2VoLWJMMG5NYXk5eGdOR0wtMkxDWUxXUldXNkZIeEhvUlhPVXMyMXVOTHAwdEhrdEdpN2M5Rk5lQ2RMWVJfbzJ3azRwRGRVcnJXRXdqdGYzTy1GZGR1RGYtN2lMXw?oc=5",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "If Magnificent 7 Executives Don\u2019t Believe In Their Stocks, Should You?&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5",
       "published": "Fri, 16 Jan 2026 08:00:00 GMT",
@@ -2963,6 +2956,13 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWlXNmQ4d0pJUWpObkdoRWt6NmtNRUgxZDR0QU9rZ1VCaUIxRU1KTHNPTmFKaEYzT0gtX282d0ZmTXlvT0lnRXRoa2VwQW95WV9XdHVnOGpuU3BEZnNoeEZyTFRSNXh4Z1ZLY0R6Q1NrZ1hSOWJGVEtHMTVUejZiWTJYSW5GT1FLcDB2cElBcw?oc=5",
       "published": "Sun, 25 Jan 2026 08:00:00 GMT",
       "summary": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Blockbuster $40b AI Investment Is Only 10% of What\u2019s Coming (NVDA, MSFT, META, BLK) - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOanhDZWxzVWRoM3d2QVN1RWZKZWpRWUtfdmw3ckZWR0kwZDVRZHVTYkxFUTlqdHl2eXhTQWJsNkJoQ3lacmxjcG11a2dLamVmRndmanlLd0tab24wTERWdmsySnBKUVB5VXN0RF9xbXZZV3prUjRzSmMzZlNBU0NGTEx4R3EzLWlHZklfWFFpQlcxZldLQzExUnBqVlBXVXNNNlhVRHp3SVRjc29mX2JhOWdOSzdpb2RZY3BRaWVXdzhzcUJFSzVGTTNMRmFhSHFrRzhjZUlwYWFtREdZ?oc=5",
+      "published": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "summary": "Blockbuster $40b AI Investment Is Only 10% of What\u2019s Coming (NVDA, MSFT, META, BLK)&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3029,13 +3029,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "IonQ vs. Rigetti Computing: Which Quantum Computing Stock Has the Edge Now? - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYkEtbkZld2lVM3h0RXVDLW1OaVdjNDRrVUpiZVZhQTFsVWlDVjlZekFEWjlEeVVOS3B3eDEwc2V3aWhHbnkxa3FQTjFHWVVuTnIxdklrOExTdVJEOU1VUGVZSEtTZFNqXzNINlhQaHZiZFVjZzVHUF9fZ2JTS3dfc0d5WkkzdzU1SVdZb0pRRVZaem0tSVRPZW1iOXVFbG5wSEVyeGNZVGpjS2k4ZFZOR0xtQVU5VUJnTG1sSVNrOUctdUhlaEdHRXIxbE9qUFFadUhYMA?oc=5",
-      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
-      "summary": "IonQ vs. Rigetti Computing: Which Quantum Computing Stock Has the Edge Now?&nbsp;&nbsp;TradingKey"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Rigetti, IonQ, and IBM Make Strides. What Quantum Investors Should Know. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVZnalhRYVdQMU5PNjV3S0FKRlFDSnBYSU0ydkduZ1kxMncyNjc1TEdwY2hxdklDT0h2WmQ0dUQ0c21aRTdvYmI2OVZ6bHdwZTJ0R0FIajJJakwxVjhtNHJuRWZqdU11QTlBUUNKeGZweTZLZHd3T29Ud3hTRnBqdVkyaUMyVWlCMndF?oc=5",
       "published": "Thu, 13 Nov 2025 08:00:00 GMT",
@@ -3084,6 +3077,13 @@
       "summary": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now.&nbsp;&nbsp;The Motley Fool"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "The Zacks Analyst Blog Highlights IBM, Amazon, Google, IonQ and D-Wave Quantum - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWtNQWwycThYdndfOFNJX3B3MjRNWS02dlZpaU96Sm5LM1lGSWdHY25IVVZSaFdXWUpOVVV6bVlHaDczRExjSnlYZzhocG9GU192VG42NE54YmJ2S0FDbDZRMmFvZTJ6R0MzellWLS1EdkNEQnk3YkU1dEgzTzZnMVY4TGJWZw?oc=5",
+      "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "summary": "The Zacks Analyst Blog Highlights IBM, Amazon, Google, IonQ and D-Wave Quantum&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
       "source": "Yahoo Finance",
       "title": "Cathie Wood buys $900,000 of surging megacap stock",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-900-000-021700179.html",
@@ -3092,79 +3092,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Gnosis Freight adds Walmart veteran Gary Adams to its board",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/gnosis-freight-adds-walmart-veteran-123500260.html",
-      "published": "2026-04-22T12:35:00Z",
+      "title": "Ares Management Corporation (ARES) Fell 31.6% in Q1 Due to AI Fears",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-management-corporation-ares-fell-134436312.html",
+      "published": "2026-04-22T13:44:36Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Pushing Higher on Wednesday",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-pushing-higher-wednesday-123129390.html",
-      "published": "2026-04-22T12:31:29Z",
+      "title": "What Makes Microsoft Corporation (MSFT) a Strong Long-Term Bet?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-microsoft-corporation-msft-strong-134029149.html",
+      "published": "2026-04-22T13:40:29Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Extending Gains to Wednesday",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-extending-gains-wednesday-123129631.html",
-      "published": "2026-04-22T12:31:29Z",
+      "title": "WTI Stock Just Got A Fresh Outperform Call \u2014 Here\u2019s What Stands Out",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wti-stock-just-got-fresh-135100485.html",
+      "published": "2026-04-22T13:51:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Weatherford International plc Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/weatherford-international-plc-q1-2026-123000507.html",
-      "published": "2026-04-22T12:30:00Z",
+      "title": "Why Analysts Think Par Pacific (PARR) Could Surprise From Here",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/why-analysts-think-par-pacific-134921878.html",
+      "published": "2026-04-22T13:49:21Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Annaly Capital Management Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_5946_AnalystReport_1776963615000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-23T17:00:15Z",
+      "title": "JPMorgan issues blunt warning as investors move to safety",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-issues-blunt-warning-investors-193000280.html",
+      "published": "2026-04-23T19:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Intuitive Surgical Tops Q1 Expectations, Shares Move Higher",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/intuitive-surgical-tops-q1-expectations-123431344.html",
-      "published": "2026-04-22T12:34:31Z",
+      "title": "What Makes SAP (SAP) a Lucrative Investment Bet?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-sap-sap-lucrative-investment-133818891.html",
+      "published": "2026-04-22T13:38:18Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "TrustCo Bank Corp NY Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trustco-bank-corp-ny-q1-123000690.html",
-      "published": "2026-04-22T12:30:00Z",
+      "title": "Solana Forms Bullish \u2018Double Bottom\u2019 Trading Pattern",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-forms-bullish-double-bottom-133100337.html",
+      "published": "2026-04-22T13:31:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bridgewater Bancshares, Inc. Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-bancshares-inc-q1-2026-123000191.html",
-      "published": "2026-04-22T12:30:00Z",
+      "title": "Why Delek US (DK) Is Seeing A Rapid Shift In Sentiment",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/why-delek-us-dk-seeing-135011786.html",
+      "published": "2026-04-22T13:50:11Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Grupo Aerom\u00e9xico, S.A.B. de C.V. Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/grupo-aerom-xico-b-c-123000338.html",
-      "published": "2026-04-22T12:30:00Z",
+      "title": "Simon Property Group's Q1 2026 Earnings: What to Expect",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/simon-property-groups-q1-2026-135423336.html",
+      "published": "2026-04-22T13:54:23Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "National Bank Holdings Corporation Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/national-bank-holdings-corporation-q1-123000205.html",
-      "published": "2026-04-22T12:30:00Z",
+      "title": "LendingClub to rebrand as Happen Bank",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lendingclub-rebrand-happen-bank-134443697.html",
+      "published": "2026-04-22T13:44:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: International Business Machine",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3073_AnalystReport_1776963615000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-23T17:00:15Z",
+      "title": "Get Ready for a New Siri: Will a New Assistant Be a Game-Changer for Apple Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ready-siri-assistant-game-changer-133002359.html",
+      "published": "2026-04-22T13:30:02Z",
       "summary": ""
     }
   ]
