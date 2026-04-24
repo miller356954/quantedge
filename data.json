@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T21:07:39.320690Z",
+  "last_updated": "2026-04-24T22:03:50.973779Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -2022,6 +2022,14 @@
       "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001321655&type=DEF 14A&dateb=&owner=include&count=10"
     },
     {
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "form": "8-K",
+      "date": "2026-04-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1824920/000095014226001187/eh260771393_8k.htm",
+      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001824920&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
       "ticker": "RGTI",
       "company": "Rigetti Computing, Inc.",
       "form": "DEF 14A",
@@ -2502,14 +2510,6 @@
       "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001824920&type=10-K&dateb=&owner=include&count=10"
     },
     {
-      "ticker": "IONQ",
-      "company": "IonQ, Inc.",
-      "form": "8-K",
-      "date": "2026-02-25",
-      "url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526071520/ionq-20260225.htm",
-      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001824920&type=8-K&dateb=&owner=include&count=10"
-    },
-    {
       "ticker": "AMD",
       "company": "ADVANCED MICRO DEVICES INC",
       "form": "8-K",
@@ -2952,13 +2952,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWlXNmQ4d0pJUWpObkdoRWt6NmtNRUgxZDR0QU9rZ1VCaUIxRU1KTHNPTmFKaEYzT0gtX282d0ZmTXlvT0lnRXRoa2VwQW95WV9XdHVnOGpuU3BEZnNoeEZyTFRSNXh4Z1ZLY0R6Q1NrZ1hSOWJGVEtHMTVUejZiWTJYSW5GT1FLcDB2cElBcw?oc=5",
-      "published": "Sun, 25 Jan 2026 08:00:00 GMT",
-      "summary": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Blockbuster $40b AI Investment Is Only 10% of What\u2019s Coming (NVDA, MSFT, META, BLK) - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOanhDZWxzVWRoM3d2QVN1RWZKZWpRWUtfdmw3ckZWR0kwZDVRZHVTYkxFUTlqdHl2eXhTQWJsNkJoQ3lacmxjcG11a2dLamVmRndmanlLd0tab24wTERWdmsySnBKUVB5VXN0RF9xbXZZV3prUjRzSmMzZlNBU0NGTEx4R3EzLWlHZklfWFFpQlcxZldLQzExUnBqVlBXVXNNNlhVRHp3SVRjc29mX2JhOWdOSzdpb2RZY3BRaWVXdzhzcUJFSzVGTTNMRmFhSHFrRzhjZUlwYWFtREdZ?oc=5",
       "published": "Wed, 22 Oct 2025 07:00:00 GMT",
@@ -3000,6 +2993,13 @@
       "summary": "Nvidia Falls Amid China's DeepSeek AI News. Is Nvidia A Buy Or Sell Now?&nbsp;&nbsp;Investor's Business Daily"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "2 top quantum computing stocks to buy in 2026 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQTi1qUGlnaVFMVy1tSlA2OFJqZW1CNVVXb3JMQWtnMVNYT1V1YUlBRGpEWXpHczgzN2FLQllTc2JNMVFLYkE3dHVWLUFEZGZ3UHM4X1VPUGlUSmxIYWtWUVZaaTIyOTRmRVRpQUJ1LVlDVDJ1R1RfQTJ3SktkaXh1c2hWelYwTUZkNUJ0c3g1RE5WdlM1M18yWVh1WlQ2ZEJUQkl4bnZkZDh5dkNlcTRjazI0bUJBZjVYcXJMZk1DUk5icDVtY2NUdExOdXpvb3REazNGOXY4aGZGUnM0RURlTC1vR3QxUVdIdElGd0wyRDJfcWZaZHdZWERnbUdCdWdyVGFmRS1NNEdCZXU2MEtkUGd0bWZtSmhMb1pZMVFLdDlCNUhFM0ZsdWV0VkJHc3VHby1sM2h3cWVQV1FTV21yQXFOSDJkT2NFSWxaODFEQ21HTE84eHlWREN5dzQ5bUNUYjh2a1I3UVBMU0xsX2FhY1JRUHZzc2M?oc=5",
@@ -3012,13 +3012,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFc4Mk9BWHFYRERjd0xNWG1OMU0zdHFuMlJIenN5clh5eWdNS0Z6Y211ajFoU0syZkt2V0UwT3A1N2lkWURBMUVuZUIxRFFLVjZHcmJjOUJqeEN3c0trQUJ6TV9iR3ZZbzMtTlpnMmNIOW03OUxrLUp0QVVmQ0FKYi1oZm9oR08tUG5jTWMydWZOaGR3a19DLUN3?oc=5",
       "published": "Thu, 13 Nov 2025 08:00:00 GMT",
       "summary": "Quantum Computing Stocks: AMD, Qualcomm, IonQ Invest In Startup&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "8 Best Quantum Computing Stocks to Buy - U.S. News Money",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "summary": "8 Best Quantum Computing Stocks to Buy&nbsp;&nbsp;U.S. News Money"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3071,6 +3064,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Top Quantum Computing Stocks to Watch in 2026: IonQ, IBM, and Microsoft - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TSlNtcVpuTzV5dlU5QUVZNlJ3S1RkbVQ2NlJTYzhEckZpME0yYVVhVzNrU3ZrdGRZNmVrRzdlN0MyWW1EU1ljNQ?oc=5",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "Top Quantum Computing Stocks to Watch in 2026: IonQ, IBM, and Microsoft&nbsp;&nbsp;MEXC"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHB3MnhOQmR6OEJwMHZ4TTg1eHhLbHZndndfWFRvUWVhUXdFUEhSS1lBR1VUSUl2TzA0bGpHSWFGbWZ6VzFCQ3pwLTQ0QjczbjVwZzBKUE1GT2VQQTk1V0szZTdBSlJwalVuT3RsYUhUQnc4VU9pXzI5amNWNTA1TFNBT3JTX3JlV201UHo4TWczaGhRcHBF?oc=5",
       "published": "Fri, 13 Feb 2026 08:00:00 GMT",
@@ -3092,30 +3092,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here's What to Expect From Keysight Technologies' Next Earnings Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-keysight-technologies-next-111808826.html",
-      "published": "2026-04-23T11:18:08Z",
+      "title": "6 money moves to make in your 20s to help you get ahead",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/money-moves-to-make-in-your-20s-191339909.html",
+      "published": "2026-04-22T19:13:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mobileye lifts annual revenue forecast as auto industry demand recovers",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mobileye-raises-annual-revenue-forecast-112121570.html",
-      "published": "2026-04-23T11:21:21Z",
+      "title": "Middle East Tensions Support the Dollar",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/middle-east-tensions-support-dollar-143353411.html",
+      "published": "2026-04-23T14:33:53Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Space Stock Just Proved the Bears Wrong Again\u2014Here's What Comes Next",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/space-stock-just-proved-bears-113002370.html",
-      "published": "2026-04-23T11:30:02Z",
+      "title": "UnitedHealth Just Raised Its Full-Year Guidance. Is the Long-Anticipated Turnaround in UNH Stock Finally Here?",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-just-raised-full-guidance-143002429.html",
+      "published": "2026-04-23T14:30:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analysis-Biggest IPO wave in history promises $3 trillion in value \u2013 with no profits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-biggest-ipo-wave-history-111941853.html",
-      "published": "2026-04-23T11:30:50Z",
+      "title": "Intel Reports Earnings Later Today, but Thanks to Elon Musk\u2019s Terafab Project, Its Results Might Not Even Matter",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-reports-earnings-later-today-142534281.html",
+      "published": "2026-04-23T14:25:34Z",
       "summary": ""
     },
     {
@@ -3127,37 +3127,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lululemon appoints former Nike executive as next CEO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-appoints-former-nike-executive-111158071.html",
-      "published": "2026-04-23T11:11:58Z",
+      "title": "American Airlines Group Q1 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-group-q1-earnings-143230535.html",
+      "published": "2026-04-23T14:32:30Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nearly half of Gen Z workers are actively trying to \u2018sabotage\u2019 their workplace\u2019s AI strategies \u2014 but it's backfiring",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/nearly-half-gen-z-workers-113500240.html",
-      "published": "2026-04-23T11:35:00Z",
+      "title": "Palo Alto Networks Earnings Preview: What to Expect",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-earnings-preview-142637549.html",
+      "published": "2026-04-23T14:26:37Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin and ethereum price today, Thursday, April 23, 2026: Strong opening for bitcoin, but traders still cautious",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-23-2026-strong-opening-for-bitcoin-but-traders-still-cautious-114021085.html",
-      "published": "2026-04-23T11:40:21Z",
+      "title": "Top Fiber Optics Stocks In 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-fiber-optics-stocks-2026-142425922.html",
+      "published": "2026-04-23T14:24:25Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "More people are turning to AI to help navigate tight finances",
-      "url": "https://finance.yahoo.com/economy/article/more-people-are-turning-to-ai-to-help-navigate-tight-finances-113321794.html",
-      "published": "2026-04-23T11:33:21Z",
+      "title": "FCX Stock Dives On Copper Output Cut. These Stocks Are Rallying.",
+      "url": "https://www.investors.com/news/fcx-stock-dives-freeport-mcmoran-cuts-copper-output/?src=A00220&yptr=yahoo",
+      "published": "2026-04-23T14:23:06Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ex-Wall Street trader now drives for Uber and Lyft \u2014 how he's surviving high gas prices putting other drivers in the red",
-      "url": "https://finance.yahoo.com/economy/articles/ex-wall-street-trader-now-110500141.html",
-      "published": "2026-04-23T11:05:00Z",
+      "title": "What to Expect From Alliant Energy's Q1 2026 Earnings Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-alliant-energys-q1-2026-142242566.html",
+      "published": "2026-04-23T14:22:42Z",
       "summary": ""
     },
     {
