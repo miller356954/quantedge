@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T21:09:48.493557Z",
+  "last_updated": "2026-04-27T22:08:28.821848Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -46,19 +46,19 @@
       "flat": 0
     },
     "AI / Software": {
-      "avg_change": -0.3,
+      "avg_change": -0.31,
       "gainers": 5,
       "losers": 3,
       "flat": 0
     },
     "Quantum Computing": {
-      "avg_change": 0.91,
+      "avg_change": 0.9,
       "gainers": 5,
       "losers": 1,
       "flat": 0
     },
     "ETFs": {
-      "avg_change": -0.53,
+      "avg_change": -0.55,
       "gainers": 1,
       "losers": 3,
       "flat": 0
@@ -85,8 +85,8 @@
       "sector": "Semiconductors",
       "name": "Advanced Micro Devices, Inc.",
       "price": 334.63,
-      "prev_close": 348.67,
-      "change_pct": -4.03,
+      "prev_close": 348.7493,
+      "change_pct": -4.05,
       "volume": 37876941,
       "volume_fmt": "37.88M",
       "market_cap": 545584388688,
@@ -117,8 +117,8 @@
       "sector": "Semiconductors",
       "name": "Taiwan Semiconductor Manufactur",
       "price": 404.98,
-      "prev_close": 403.4,
-      "change_pct": 0.39,
+      "prev_close": 403.5,
+      "change_pct": 0.37,
       "volume": 13456068,
       "volume_fmt": "13.46M",
       "market_cap": 2100388328979,
@@ -261,7 +261,7 @@
       "sector": "AI / Software",
       "name": "Meta Platforms, Inc.",
       "price": 678.62,
-      "prev_close": 675.185,
+      "prev_close": 675.18,
       "change_pct": 0.51,
       "volume": 15726200,
       "volume_fmt": "15.73M",
@@ -293,8 +293,8 @@
       "sector": "AI / Software",
       "name": "Oracle Corporation",
       "price": 172.96,
-      "prev_close": 172.6007,
-      "change_pct": 0.21,
+      "prev_close": 172.4896,
+      "change_pct": 0.27,
       "volume": 30206312,
       "volume_fmt": "30.21M",
       "market_cap": 497440935469,
@@ -309,8 +309,8 @@
       "sector": "AI / Software",
       "name": "Palantir Technologies Inc.",
       "price": 143.1,
-      "prev_close": 142.4,
-      "change_pct": 0.49,
+      "prev_close": 142.32,
+      "change_pct": 0.55,
       "volume": 52954322,
       "volume_fmt": "52.95M",
       "market_cap": 342248808841,
@@ -325,8 +325,8 @@
       "sector": "AI / Software",
       "name": "SoundHound AI, Inc.",
       "price": 8.16,
-      "prev_close": 8.1901,
-      "change_pct": -0.37,
+      "prev_close": 8.2,
+      "change_pct": -0.49,
       "volume": 26540342,
       "volume_fmt": "26.54M",
       "market_cap": 3477873983,
@@ -341,8 +341,8 @@
       "sector": "AI / Software",
       "name": "Super Micro Computer, Inc.",
       "price": 27.85,
-      "prev_close": 29.11,
-      "change_pct": -4.33,
+      "prev_close": 29.1145,
+      "change_pct": -4.34,
       "volume": 36409942,
       "volume_fmt": "36.41M",
       "market_cap": 16723422592,
@@ -357,8 +357,8 @@
       "sector": "Quantum Computing",
       "name": "IonQ, Inc.",
       "price": 43.84,
-      "prev_close": 43.0495,
-      "change_pct": 1.84,
+      "prev_close": 43.07,
+      "change_pct": 1.79,
       "volume": 25628353,
       "volume_fmt": "25.63M",
       "market_cap": 16073530798,
@@ -469,8 +469,8 @@
       "sector": "ETFs",
       "name": "VanEck Semiconductor ETF",
       "price": 506.26,
-      "prev_close": 506.3476,
-      "change_pct": -0.02,
+      "prev_close": 506.6103,
+      "change_pct": -0.07,
       "volume": 9092522,
       "volume_fmt": "9.09M",
       "market_cap": 0,
@@ -1910,16 +1910,16 @@
       "eps_estimate": -0.035
     },
     {
+      "ticker": "RGTI",
+      "date": "2026-05-11",
+      "days_away": 14,
+      "eps_estimate": -0.0429
+    },
+    {
       "ticker": "QUBT",
       "date": "2026-05-11",
       "days_away": 14,
       "eps_estimate": -0.05
-    },
-    {
-      "ticker": "RGTI",
-      "date": "2026-05-12",
-      "days_away": 15,
-      "eps_estimate": -0.0429
     },
     {
       "ticker": "QBTS",
@@ -2847,10 +2847,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDc4cFNXbjczTkhZbEVydl9qREdPaC10T1NrTzFVZ3pRZTBiYTFDZk53V0FJb0JQcDdXSjdCWW05Sk5vVUNmWHF1Ri10alN4WlFBVS1sWVhlcnh5QlBuV3dJT3hqVkZERF8xWnFUZFlpVlE4bWRRMEhCWnZEa0l2RV9QdUh3bkUtTlhlNlIxNHVCVHpuR2VqQ2J6cjFzRTdGSWlVQml3N01WQdIBrwFBVV95cUxOWU9YQmRIYVRIdmExaEVsVU1COTBmcDdpR3c0WUVYbGNwVWhhSy1aRXNRdlRiUEpkWndqbi1JdU8tWEdaeVRSb29SX2JpUmZ6bWtQRGF3ZDZzWDRlNEx0TFl4ZlV6amdYYVNodksyb3hwZWFhOUROaXFEb2MtZjZDSXJxanUyUGw5QUlpRm5lQk42dW9xNGVNdEJSeFhvUFc4bWRuQzNMdmE0TEZOdHBn?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand&nbsp;&nbsp;CNBC"
+      "title": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZTMtbmF5X09LMktLVGZCTl9PN0R5OF85YTJ0TUc0UWFlaFZ3TktVOFdRc2xtVEJxYjluSWN1aldLX01XZEgtcTZQai15eWJXek44SWZjWUdxQ0FNVXhwZjNpOE5NMXFHa1g5QWk4ZThJbENQdVVHbXA3bjVXRkE?oc=5",
+      "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "summary": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind.&nbsp;&nbsp;Barron's"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2861,13 +2861,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited - StockInvest.us",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2FQenJLMVR6TWNvWUpIZUlTSmlQX1VBOHZrb25fVGc2UjVaLXRDQVlQODN3UVZNS2h2S0hUbTRxUTA4SU1Fc1AyUmNkbDcxb01Nek5HTXp2SElyLWEyODlkaGJvRGo0cWFtQUl4V3NmeVE1aWhwekZBaHA4R1l0a1c2RlNqbzlrcEpzZXNYTHBEdHA2azdXbmhlTG0xaS1LSk5jbTUzUExSNVk?oc=5",
-      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "summary": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited&nbsp;&nbsp;StockInvest.us"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "AMD vs. TSMC: Which Chip Stock Actually Delivers the Smarter Return in 2026? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTB5RjZmWjUzY1ZMWERxQWJfT3Vpa2s1X0lIUFMzNVp5ejU5Mno2Z1Q1YlFVQllseGtNVnloM3UzYkZfQ25FT3JLTDNTb2duTG9ldlRBLUxMcEdFVnE1aWNJbEVBTTVhWDJPMGtDdmh4Tm1BQVJXMjhmSU9XLTFYZE4tb0NrQm9oN2c2UHhNQndVMGJTSVBRcnZrVkZncTVyWWhYU1E3dHAySEd1Z0RnaUlTbDVFWlFH?oc=5",
       "published": "Fri, 13 Mar 2026 07:00:00 GMT",
@@ -2875,10 +2868,24 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited - StockInvest.us",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2FQenJLMVR6TWNvWUpIZUlTSmlQX1VBOHZrb25fVGc2UjVaLXRDQVlQODN3UVZNS2h2S0hUbTRxUTA4SU1Fc1AyUmNkbDcxb01Nek5HTXp2SElyLWEyODlkaGJvRGo0cWFtQUl4V3NmeVE1aWhwekZBaHA4R1l0a1c2RlNqbzlrcEpzZXNYTHBEdHA2azdXbmhlTG0xaS1LSk5jbTUzUExSNVk?oc=5",
+      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "summary": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited&nbsp;&nbsp;StockInvest.us"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made, and It Redefined Dominance - Wccftech",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2FfZEYzOUJCdXY5S29Nb0g4a091SS1kRUxfeklmVG9FYS1iZ1pfWU02cTdoSzM2UHpYMDB6NTZDVFI5c1J6aU1ZN1h5aXYxUGVLdUtrc2kyRzBVMnRxZjBLOGpwV3kxZmhRcmNDMXBvTk80U3hlZnZwc3U5ZUdxaWtKYXA1WUd20gGOAUFVX3lxTE56SlBPd1laWlh1V0FyMHh3eFRCN21VdEVhdkxwWTdPYnFWbmRrbzl1dmVKUDJpcE5leEtzUnI3TGJ1M1ZCUjlQTnY3aG1hNUJrNDZRRHo2ZVVuTHdFOUhNMXZfM3lpb19GZ2xmdFNQLXNuQ3VzVFcyODZqSmktemJHU3JDRFdQZTB4bDRUb0E?oc=5",
       "published": "Sat, 24 Jan 2026 08:00:00 GMT",
       "summary": "NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made, and It Redefined Dominance&nbsp;&nbsp;Wccftech"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast&nbsp;&nbsp;CNBC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2907,13 +2914,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LTEVLOWdBSjNhS1BXQnVkaXdXdy01cldzZXl6bzJEdUNGUU1GMGZCeVRMdndsMG5tMm1PQ3pOZ25KYXVoenNpUS1DNk15b2o5V3lzZW8yak9YbHA2UHFxdXhEY1FPcEZHN25iMFoxT1ZmTWk3dUpiQXpjN0FKQQ?oc=5",
       "published": "Wed, 10 Dec 2025 08:00:00 GMT",
       "summary": "TSMC: The Foundry Behind Nvidia, AMD and Apple Is Setting AI On Fire&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2NkRXBYaXI5bEpmeDEzOFhLRUU3QmxlNGRUR2tSQWNERkZSWFliUjY3TGpwZ1lqY2J2R1VZdW4xa1hkRFQ3aG1icHdfb0NjZ0JJeXMxYW9lT2ZNWldaa2VXZXIybm1LV2dJN190cXJTNmVodEtib3JPNzNqeHJ5QjQ1LVZMMHF2cDBJX0ZmWWYxaFM1SlRPTm1ic1JSWUVjMDNoZmRib3FUYTFnZnJ5TTlWbkVSOThCdE0yX0NVNkNrbzRwZW5EazhRS2g3TVF0UnBSNTBTVEs3Wkdl?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3015,13 +3015,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "IonQ Stock In 10 Years: Will Quantum Computing 10X? #IonQ #QuantumComputing #TechStocks #Investing (6D9aXrCE7A) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GZTJVNzJ6NmJFVHlibVdkeXhJRjNNdWRwSmw0Nmh6aW0zaWVOVEtNSXNBYTZTSGJFemIxblNLNmZOVXpTcWwyT09lVGx4cG5WWFp2bmlEcFdkVTB0TEhHR3BubUQ1VDU0OHZxTFA0Vzc?oc=5",
-      "published": "Fri, 24 Apr 2026 00:42:27 GMT",
-      "summary": "IonQ Stock In 10 Years: Will Quantum Computing 10X? #IonQ #QuantumComputing #TechStocks #Investing (6D9aXrCE7A)&nbsp;&nbsp;Fathom Journal"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Quantum Computing Stocks: AMD, Qualcomm, IonQ Invest In Startup - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFc4Mk9BWHFYRERjd0xNWG1OMU0zdHFuMlJIenN5clh5eWdNS0Z6Y211ajFoU0syZkt2V0UwT3A1N2lkWURBMUVuZUIxRFFLVjZHcmJjOUJqeEN3c0trQUJ6TV9iR3ZZbzMtTlpnMmNIOW03OUxrLUp0QVVmQ0FKYi1oZm9oR08tUG5jTWMydWZOaGR3a19DLUN3?oc=5",
       "published": "Thu, 13 Nov 2025 08:00:00 GMT",
@@ -3054,6 +3047,13 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EajY2ZG93aXVabXdFN0cwekstSGc4QjE1SDlWeXp5ekc2RnRDMFJQWXl3TzZVZ0J0Vk5RUmVKaXI3a3N3M0ZrUWh6NzJ1TzR0OVpGVENZbWVpZmFXTlE4a1huek9GMUVrRFU0MW9BcEpvR3M0Z2hBNzNoejJnUQ?oc=5",
       "published": "Sat, 20 Sep 2025 07:00:00 GMT",
       "summary": "How to Invest in Quantum Stocks \u2014 A Guide to Long-term Investing in Quantum Technology&nbsp;&nbsp;The Quantum Insider"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Top Quantum Computing Stocks to Watch in 2026: IonQ, IBM, and Microsoft - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TSlNtcVpuTzV5dlU5QUVZNlJ3S1RkbVQ2NlJTYzhEckZpME0yYVVhVzNrU3ZrdGRZNmVrRzdlN0MyWW1EU1ljNQ?oc=5",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "Top Quantum Computing Stocks to Watch in 2026: IonQ, IBM, and Microsoft&nbsp;&nbsp;MEXC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3092,36 +3092,36 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Want Income, Diversification and an Inflation Fix? Some Advisors Are Turning to Real Assets",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/want-income-diversification-inflation-fix-120000482.html",
-      "published": "2026-04-26T12:00:00Z",
+      "title": "Better Later Than Never? Tesla Stock Hangs in the Crosshairs as Cybercab Finally Enters Production",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-later-never-tesla-stock-140002269.html",
+      "published": "2026-04-26T14:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Expert issues warning over US bank accounts sitting idle: Money can now be turned over to state. Secure your money ASAP",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-124300584.html",
-      "published": "2026-04-26T12:43:00Z",
+      "title": "Spirit Airlines Stock Is Ready for Takeoff Thanks to Trump, but Can This Plane Stay in the Sky?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spirit-airlines-stock-ready-takeoff-130001669.html",
+      "published": "2026-04-26T13:00:01Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Everyone blamed Endless Shrimp for sinking Red Lobster \u2014 chain's bankruptcy filing points out a very different culprit",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-blamed-endless-shrimp-sinking-112500861.html",
-      "published": "2026-04-26T11:25:00Z",
+      "title": "Intel Could Still Be Undervalued Based on Strong Free Cash Flow",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-could-still-undervalued-based-130002786.html",
+      "published": "2026-04-26T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Bayer's US Supreme Court case means for the thousands of Roundup lawsuits",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/explainer-does-bayers-us-supreme-101635451.html",
-      "published": "2026-04-26T10:16:35Z",
+      "title": "Elon Musk: America will '1,000%' go bankrupt due to debt \u2014 here\u2019s what he claims can save the country",
+      "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-america-1-000-130000517.html",
+      "published": "2026-04-26T13:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Chubb Ltd",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2809_AnalystReport_1777311812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Digital Realty Trust Inc",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_4555_AnalystReport_1777311812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published": "2026-04-27T17:43:32Z",
       "summary": ""
     },
@@ -3141,29 +3141,29 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kevin O'Leary sold 26 altcoins after the 2025 crash, kept only Bitcoin and Ethereum \u2014 says the rest have 'no future'",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-sold-26-altcoins-111500960.html",
-      "published": "2026-04-26T11:15:00Z",
+      "title": "US city with the most people in financial distress revealed. Find out if it's yours \u2014 and how you can dig out of debt",
+      "url": "https://finance.yahoo.com/economy/articles/us-city-most-people-financial-141000878.html",
+      "published": "2026-04-26T14:10:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Elon Musk: America will '1,000%' go bankrupt due to debt \u2014 here\u2019s what he claims can save the country",
-      "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-america-1-000-130000517.html",
-      "published": "2026-04-26T13:00:00Z",
+      "title": "What Bayer's US Supreme Court case means for the thousands of Roundup lawsuits",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/explainer-does-bayers-us-supreme-101635451.html",
+      "published": "2026-04-26T10:16:35Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Spirit Airlines Stock Is Ready for Takeoff Thanks to Trump, but Can This Plane Stay in the Sky?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spirit-airlines-stock-ready-takeoff-130001669.html",
-      "published": "2026-04-26T13:00:01Z",
+      "title": "Is Cameco Corporation (CCJ) One of the Best Nuclear Energy Stocks to Buy for Dividends?",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/cameco-corporation-ccj-one-best-141557484.html",
+      "published": "2026-04-26T14:15:57Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: RTX Corp",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3487_AnalystReport_1777311812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Chubb Ltd",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_2809_AnalystReport_1777311812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published": "2026-04-27T17:43:32Z",
       "summary": ""
     }
