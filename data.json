@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T21:34:59.874801Z",
+  "last_updated": "2026-04-29T22:40:04.766089Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -1853,7 +1853,7 @@
       "ticker": "QCOM",
       "date": "2026-04-29",
       "days_away": 0,
-      "eps_estimate": 2.5563
+      "eps_estimate": 2.5584
     },
     {
       "ticker": "MSFT",
@@ -2854,17 +2854,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDc4cFNXbjczTkhZbEVydl9qREdPaC10T1NrTzFVZ3pRZTBiYTFDZk53V0FJb0JQcDdXSjdCWW05Sk5vVUNmWHF1Ri10alN4WlFBVS1sWVhlcnh5QlBuV3dJT3hqVkZERF8xWnFUZFlpVlE4bWRRMEhCWnZEa0l2RV9QdUh3bkUtTlhlNlIxNHVCVHpuR2VqQ2J6cjFzRTdGSWlVQml3N01WQdIBrwFBVV95cUxOWU9YQmRIYVRIdmExaEVsVU1COTBmcDdpR3c0WUVYbGNwVWhhSy1aRXNRdlRiUEpkWndqbi1JdU8tWEdaeVRSb29SX2JpUmZ6bWtQRGF3ZDZzWDRlNEx0TFl4ZlV6amdYYVNodksyb3hwZWFhOUROaXFEb2MtZjZDSXJxanUyUGw5QUlpRm5lQk42dW9xNGVNdEJSeFhvUFc4bWRuQzNMdmE0TEZOdHBn?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand&nbsp;&nbsp;CNBC"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lKdVl2YzJuZzhOemdUODN1M0xkdk1nUnlacFJMUS13MHpQdWJjOUlYVGtPbU5QaEtqRndlYlRYTWdyd1NHa3VEbWM4bG8tYTlrWm5YRzROa3QwZzJUcXk1OWVqdzBHX3Rwdkl1VVhMUmwwdmsxQS1yOGNSSEwxY2owSkFFS1hvZHF6LXhhMHBuRVE?oc=5",
       "published": "Mon, 23 Mar 2026 07:00:00 GMT",
       "summary": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZTMtbmF5X09LMktLVGZCTl9PN0R5OF85YTJ0TUc0UWFlaFZ3TktVOFdRc2xtVEJxYjluSWN1aldLX01XZEgtcTZQai15eWJXek44SWZjWUdxQ0FNVXhwZjNpOE5NMXFHa1g5QWk4ZThJbENQdVVHbXA3bjVXRkE?oc=5",
+      "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "summary": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind.&nbsp;&nbsp;Barron's"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2879,6 +2879,13 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTB5RjZmWjUzY1ZMWERxQWJfT3Vpa2s1X0lIUFMzNVp5ejU5Mno2Z1Q1YlFVQllseGtNVnloM3UzYkZfQ25FT3JLTDNTb2duTG9ldlRBLUxMcEdFVnE1aWNJbEVBTTVhWDJPMGtDdmh4Tm1BQVJXMjhmSU9XLTFYZE4tb0NrQm9oN2c2UHhNQndVMGJTSVBRcnZrVkZncTVyWWhYU1E3dHAySEd1Z0RnaUlTbDVFWlFH?oc=5",
       "published": "Fri, 13 Mar 2026 07:00:00 GMT",
       "summary": "AMD vs. TSMC: Which Chip Stock Actually Delivers the Smarter Return in 2026?&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast&nbsp;&nbsp;CNBC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2907,13 +2914,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQS1WMVRrSVhHckVpY3FOREhydTc4WlB5WTZ1eHo3bmNuaW9BdmExa3B4d056ZVd5c1IzYnBiM0p6aFNMWXhTaHhBR09WeEJGc1A3d3RCeWo5RlNNTUFDN2xlRzE0LTY5NWhLVFloeTRwYk8zZU5PX1FFbzFoR2NlSEVublBJS1Q2YmFnamtidw?oc=5",
       "published": "Fri, 19 Dec 2025 08:00:00 GMT",
       "summary": "AI Chip Stocks Including Nvidia, AMD, and Taiwan Semiconductor \u2018Could Surge by End of December\u2019&nbsp;&nbsp;ITP.net"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2NkRXBYaXI5bEpmeDEzOFhLRUU3QmxlNGRUR2tSQWNERkZSWFliUjY3TGpwZ1lqY2J2R1VZdW4xa1hkRFQ3aG1icHdfb0NjZ0JJeXMxYW9lT2ZNWldaa2VXZXIybm1LV2dJN190cXJTNmVodEtib3JPNzNqeHJ5QjQ1LVZMMHF2cDBJX0ZmWWYxaFM1SlRPTm1ic1JSWUVjMDNoZmRib3FUYTFnZnJ5TTlWbkVSOThCdE0yX0NVNkNrbzRwZW5EazhRS2g3TVF0UnBSNTBTVEs3Wkdl?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3099,72 +3099,72 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fintech Company Block Now Owns Nearly 9,000 Bitcoin",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/fintech-company-block-now-owns-132000181.html",
-      "published": "2026-04-28T13:20:00Z",
+      "title": "Analysis-Blocking of Meta's AI startup buy raises risk for cross-border China tech deals",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/analysis-blocking-metas-ai-startup-094455580.html",
+      "published": "2026-04-28T14:44:34Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Conestoga Capital Advisors Sold Hillman Solutions Corp. (HLMN) As Secular Challenges Impacted Its Growth.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/conestoga-capital-advisors-sold-hillman-131813784.html",
-      "published": "2026-04-28T13:18:13Z",
+      "title": "Report: SpaceX Ties Elon Musk's Pay To Mars Colony, Space Data Centers",
+      "url": "https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/?src=A00220&yptr=yahoo",
+      "published": "2026-04-28T14:43:34Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Standard Chartered, BlackRock, OKX launch collateral framework for tokenised Treasury fund",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-blackrock-okx-launch-132101169.html",
-      "published": "2026-04-28T13:21:01Z",
+      "title": "Avis Budget Stock Falls 75% in 4 Days. Should You Buy the CAR Crash?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/avis-budget-stock-falls-75-144303128.html",
+      "published": "2026-04-28T14:43:03Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Seagate Tech Hldg PLC",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3420_AnalystReport_1777488955000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-29T18:55:55Z",
+      "title": "Impact of Investor Sentiment and Geopolitical Events Hurt Booking Holdings (BKNG) in Q1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/impact-investor-sentiment-geopolitical-events-144008625.html",
+      "published": "2026-04-28T14:40:08Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Blackline (BL) Slid Despite Strong Results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackline-bl-slid-despite-strong-132150536.html",
-      "published": "2026-04-28T13:21:50Z",
+      "title": "NEXR Expands Into Gulf Energy Security Market \u2014 New Authorization Opens High-Stakes Opportunity",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/nexr-expands-gulf-energy-security-144557035.html",
+      "published": "2026-04-28T14:45:57Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "OpenAI\u2019s Revenue Miss Is Ripples Through S&P 500 While Earnings Pour In",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/openai-revenue-miss-ripples-p-132038121.html",
-      "published": "2026-04-28T13:20:38Z",
+      "title": "Demand Surge Fuels Taiwan Semiconductor Manufacturing Company\u2019s (TSM) Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/demand-surge-fuels-taiwan-semiconductor-143549698.html",
+      "published": "2026-04-28T14:35:49Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Global inflation worries stir on energy price flare-up, but still relatively subdued: Reuters poll",
-      "url": "https://finance.yahoo.com/news/global-inflation-worries-stir-energy-131542125.html",
-      "published": "2026-04-28T13:15:42Z",
+      "title": "Amazon Is Now a Chip Company, and AMZN Stock Is Worth Buying Even at All-Time Highs",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-now-chip-company-amzn-143442462.html",
+      "published": "2026-04-28T14:34:42Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Conestoga Capital Advisors Exited Vertex (VRTX) as the Valuation No Longer Reflects a Favorable Risk-Reward",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/conestoga-capital-advisors-exited-vertex-131451479.html",
-      "published": "2026-04-28T13:14:51Z",
+      "title": "Dollar Gains on Weak Stocks and Soaring Crude Prices",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-gains-weak-stocks-soaring-143610719.html",
+      "published": "2026-04-28T14:36:10Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What time is the Fed meeting?",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-the-fed-meeting-120032257.html",
-      "published": "2025-05-05T12:00:32Z",
+      "title": "Citi Lowers Price Target On Palantir Ahead Of Q1 Earnings Report",
+      "url": "https://www.investors.com/news/technology/palantir-stock-pltr-citi-lowers-price-target-palantir-earnings/?src=A00220&yptr=yahoo",
+      "published": "2026-04-28T14:35:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Moody's Corp",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3648_AnalystReport_1777488955000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-29T18:55:55Z",
+      "title": "Crypto Markets Shed $40 Billion in De-Risking Ahead of Powell\u2019s Final FOMC Decision",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-markets-shed-40-billion-144346507.html",
+      "published": "2026-04-28T14:43:46Z",
       "summary": ""
     }
   ]
