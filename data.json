@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T21:07:20.431753Z",
+  "last_updated": "2026-04-30T22:10:56.776569Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -285,7 +285,7 @@
       "market_cap_fmt": "2.85T",
       "52w_high": 265.91,
       "52w_low": 183.85,
-      "pe_ratio": 27.0916,
+      "pe_ratio": 27.0927,
       "iv": 32.3,
       "beta": 1.383
     },
@@ -1990,6 +1990,14 @@
   ],
   "sec_filings": [
     {
+      "ticker": "INTC",
+      "company": "INTEL CORP",
+      "form": "8-K",
+      "date": "2026-04-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312526197845/d143782d8k.htm",
+      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000050863&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "form": "10-Q",
@@ -2316,14 +2324,6 @@
       "date": "2026-04-06",
       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526142939/d132760d8k.htm",
       "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341439&type=8-K&dateb=&owner=include&count=10"
-    },
-    {
-      "ticker": "INTC",
-      "company": "INTEL CORP",
-      "form": "8-K",
-      "date": "2026-04-03",
-      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000069/intc-20260330.htm",
-      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000050863&type=8-K&dateb=&owner=include&count=10"
     },
     {
       "ticker": "AVGO",
@@ -2973,13 +2973,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Best AI Stocks to Buy in 2026: Complete Investment Guide - techi.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sU1RhYm1kSW93RnN3WVZWaWhleWRVZ0c3UUZveFVUOXZ6Q2gzTWtDMTFIck5vRTIwb09LZXdqek5yQzZROENuMVA2MHJaQQ?oc=5",
-      "published": "Wed, 18 Mar 2026 05:55:27 GMT",
-      "summary": "Best AI Stocks to Buy in 2026: Complete Investment Guide&nbsp;&nbsp;techi.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Tech's $380 billion splurge: This quarter's winners and losers of the AI spending boom - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEd3X2pTanI2bGJ6ZUk3bmFxNkdQYThxYUFEdm0yUUJiRFZuS2haZkhJaG5kV2lickdOWXVhaGFBdmxiRkp4OU1YRFk4R0xIWmpXcXFTMGZIZlRLY3UzRDM5Wm5ESE9pQnA1Nldad1RpeThsYmhwLVY4ZkVjZ1hpcjVkcjVWUdIBiwFBVV95cUxNZFU5RDcxSVNhNEt3SHYtRnZidUl0YmVDNko1clVXcXFKaHRBUl9fenBuYnBGZ2xSTzlYRUduZWRiSy1xQUNaNU5ocFNEMEtMLXN0ZG1BMlIyYXJReHdhTng1YWFmbEZWMlJKTFI1bGxMVFJ6Zkt6dUNlaUJPUWVGZ2N3dFFfUlIwVGJj?oc=5",
       "published": "Fri, 31 Oct 2025 07:00:00 GMT",
@@ -2998,6 +2991,13 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers. - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW0tS3lXaV9xd01LU2NEc3hDbVU2Z2lOa01tSzdZRFY4VldXWW01MkQzc085WVZPMm5adXQ5VWJURGRuemtQUXFsQkNPaFl0bThmMWtjd2VYRU9BUWoyTVZtVkhwQUxTTDhSTHgxSklIamRTYXRkdTE1U184M2JZVDk5MUJUM3hzc2lMWkxfTFhaSHJvQ2lmT0JQbW1FV09ibFZLZEFRdHZNQ3Q1Z0o0UVhaSDlxMm1jUlE?oc=5",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers.&nbsp;&nbsp;Investopedia"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3092,79 +3092,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Humana reports quarterly beat, unchanged forecast underwhelms market",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/humana-beats-quarterly-profit-estimates-100947733.html",
-      "published": "2026-04-29T12:37:15Z",
+      "title": "JPMorgan Maintains Neutral Rating on Church & Dwight (CHD)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-maintains-neutral-rating-church-142958471.html",
+      "published": "2026-04-29T14:29:58Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Polen Focus Growth Sold Its Stake in Boston Scientific (BSX) Over Competition Concerns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/polen-focus-growth-sold-stake-123726996.html",
-      "published": "2026-04-29T12:37:26Z",
+      "title": "Morgan Stanley Maintains Equal Weight Rating on J. M. Smucker (SJM)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-maintains-equal-weight-143033645.html",
+      "published": "2026-04-29T14:30:33Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Are Investors Losing Faith in NVIDIA\u2019s (NVDA) AI Promises?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-losing-faith-nvidia-nvda-123240311.html",
-      "published": "2026-04-29T12:32:40Z",
+      "title": "Erste Group Downgrades Kroger (KR) to Hold",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/erste-group-downgrades-kroger-kr-142940778.html",
+      "published": "2026-04-29T14:29:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here\u2019s What Pressured CoStar Group (CSGP) in Q1",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pressured-costar-group-csgp-q1-124222975.html",
-      "published": "2026-04-29T12:42:22Z",
+      "title": "TD Cowen Maintains Hold Rating on Est\u00e9e Lauder (EL)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-maintains-hold-rating-142952224.html",
+      "published": "2026-04-29T14:29:52Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Nasdaq Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3821_AnalystReport_1777570853000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-30T17:40:53Z",
+      "title": "Real Yields Are Crushing Gold in Short Term but Long-Term Picture Remains Intact",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/real-yields-crushing-gold-short-142819364.html",
+      "published": "2026-04-29T14:28:19Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Symrise Q1 Earnings Call Highlights",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/symrise-q1-earnings-call-highlights-123729934.html",
-      "published": "2026-04-29T12:37:29Z",
+      "title": "TD Cowen Maintains Buy Rating on e.l.f. Beauty (ELF)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-maintains-buy-rating-143042895.html",
+      "published": "2026-04-29T14:30:42Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wheat Pushing to Fresh Highs on Wednesday Morning",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-pushing-fresh-highs-wednesday-123014157.html",
-      "published": "2026-04-29T12:30:14Z",
+      "title": "Is Keurig Dr Pepper (KDP) the Best Consumer Staples Stock to Invest In?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-best-143011220.html",
+      "published": "2026-04-29T14:30:11Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Gains Extend to Wednesday Morning Trade",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-gains-extend-wednesday-morning-123014467.html",
-      "published": "2026-04-29T12:30:14Z",
+      "title": "BJ\u2019s Wholesale Club (BJ) Expands into Texas",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-expands-143017440.html",
+      "published": "2026-04-29T14:30:17Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Back to Higher Trade to Start Wednesday",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-back-higher-trade-start-123014902.html",
-      "published": "2026-04-29T12:30:14Z",
+      "title": "Chevron Stock: Analyst Estimates & Ratings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-analyst-estimates-ratings-142557172.html",
+      "published": "2026-04-29T14:25:57Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Clearwater Paper Corporation Q1 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/clearwater-paper-corporation-q1-2026-123000321.html",
-      "published": "2026-04-29T12:30:00Z",
+      "title": "Oppenheimer Upgrades T-Mobile to Outperform With a $260 Price Target: Can AI Pricing Power Drive the Next Leg?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-upgrades-t-mobile-outperform-142940751.html",
+      "published": "2026-04-29T14:29:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Omnicom Group Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3277_AnalystReport_1777570853000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-04-30T17:40:53Z",
+      "title": "SoFi stock falls after mixed earnings report",
+      "url": "https://finance.yahoo.com/news/sofi-stock-falls-after-mixed-earnings-report-110124274.html",
+      "published": "2026-04-29T11:01:24Z",
       "summary": ""
     }
   ]
