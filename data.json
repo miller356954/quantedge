@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T21:09:04.107461Z",
+  "last_updated": "2026-05-01T22:07:00.980496Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -87,7 +87,7 @@
       "price": 360.54,
       "prev_close": 351.4,
       "change_pct": 2.6,
-      "volume": 38898322,
+      "volume": 38896464,
       "volume_fmt": "38.90M",
       "market_cap": 587828339627,
       "market_cap_fmt": "587.83B",
@@ -317,7 +317,7 @@
       "market_cap_fmt": "345.36B",
       "52w_high": 207.52,
       "52w_low": 105.32,
-      "pe_ratio": 77.2406,
+      "pe_ratio": 77.1624,
       "iv": 7.1,
       "beta": 1.674
     },
@@ -407,7 +407,7 @@
       "price": 232.2,
       "prev_close": 231.35,
       "change_pct": 0.37,
-      "volume": 6453004,
+      "volume": 6452948,
       "volume_fmt": "6.45M",
       "market_cap": 218241359147,
       "market_cap_fmt": "218.24B",
@@ -1979,7 +1979,7 @@
       "ticker": "MSFT",
       "date": "2026-07-29",
       "days_away": 89,
-      "eps_estimate": 4.0583
+      "eps_estimate": 4.2307
     },
     {
       "ticker": "META",
@@ -2881,17 +2881,24 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZTMtbmF5X09LMktLVGZCTl9PN0R5OF85YTJ0TUc0UWFlaFZ3TktVOFdRc2xtVEJxYjluSWN1aldLX01XZEgtcTZQai15eWJXek44SWZjWUdxQ0FNVXhwZjNpOE5NMXFHa1g5QWk4ZThJbENQdVVHbXA3bjVXRkE?oc=5",
+      "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "summary": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind.&nbsp;&nbsp;Barron's"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made, and It Redefined Dominance - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2FfZEYzOUJCdXY5S29Nb0g4a091SS1kRUxfeklmVG9FYS1iZ1pfWU02cTdoSzM2UHpYMDB6NTZDVFI5c1J6aU1ZN1h5aXYxUGVLdUtrc2kyRzBVMnRxZjBLOGpwV3kxZmhRcmNDMXBvTk80U3hlZnZwc3U5ZUdxaWtKYXA1WUd20gGOAUFVX3lxTE56SlBPd1laWlh1V0FyMHh3eFRCN21VdEVhdkxwWTdPYnFWbmRrbzl1dmVKUDJpcE5leEtzUnI3TGJ1M1ZCUjlQTnY3aG1hNUJrNDZRRHo2ZVVuTHdFOUhNMXZfM3lpb19GZ2xmdFNQLXNuQ3VzVFcyODZqSmktemJHU3JDRFdQZTB4bDRUb0E?oc=5",
+      "published": "Sat, 24 Jan 2026 08:00:00 GMT",
+      "summary": "NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made, and It Redefined Dominance&nbsp;&nbsp;Wccftech"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Global AI chip suppliers compete as TSMC remains top foundry partner - digitimes",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWV9LcWQ2QWlMWmtnTlVuV01tVXR6ZFN0U1A2Y3pXVk53NzRJQkMySkEzN0xXcHVXUTk5LUdmZTJVTFpsb3dremZUanljaHNSa1dLREVubGV3RjI2ajFLenQ0ekdZSFAzSDBNMnBiT21DTnJYMTBZNE1aN1FRYjhVNVhacVR6M2c?oc=5",
       "published": "Tue, 07 Apr 2026 07:00:00 GMT",
       "summary": "Global AI chip suppliers compete as TSMC remains top foundry partner&nbsp;&nbsp;digitimes"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made, and It Redefined Dominance - wccftech.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2FfZEYzOUJCdXY5S29Nb0g4a091SS1kRUxfeklmVG9FYS1iZ1pfWU02cTdoSzM2UHpYMDB6NTZDVFI5c1J6aU1ZN1h5aXYxUGVLdUtrc2kyRzBVMnRxZjBLOGpwV3kxZmhRcmNDMXBvTk80U3hlZnZwc3U5ZUdxaWtKYXA1WUd20gGOAUFVX3lxTE56SlBPd1laWlh1V0FyMHh3eFRCN21VdEVhdkxwWTdPYnFWbmRrbzl1dmVKUDJpcE5leEtzUnI3TGJ1M1ZCUjlQTnY3aG1hNUJrNDZRRHo2ZVVuTHdFOUhNMXZfM3lpb19GZ2xmdFNQLXNuQ3VzVFcyODZqSmktemJHU3JDRFdQZTB4bDRUb0E?oc=5",
-      "published": "Sat, 24 Jan 2026 08:00:00 GMT",
-      "summary": "NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made, and It Redefined Dominance&nbsp;&nbsp;wccftech.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2913,13 +2920,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
       "published": "Thu, 26 Feb 2026 08:00:00 GMT",
       "summary": "Top 20+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2NkRXBYaXI5bEpmeDEzOFhLRUU3QmxlNGRUR2tSQWNERkZSWFliUjY3TGpwZ1lqY2J2R1VZdW4xa1hkRFQ3aG1icHdfb0NjZ0JJeXMxYW9lT2ZNWldaa2VXZXIybm1LV2dJN190cXJTNmVodEtib3JPNzNqeHJ5QjQ1LVZMMHF2cDBJX0ZmWWYxaFM1SlRPTm1ic1JSWUVjMDNoZmRib3FUYTFnZnJ5TTlWbkVSOThCdE0yX0NVNkNrbzRwZW5EazhRS2g3TVF0UnBSNTBTVEs3Wkdl?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3056,6 +3056,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "How to Invest in Quantum Stocks \u2014 A Guide to Long-term Investing in Quantum Technology - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EajY2ZG93aXVabXdFN0cwekstSGc4QjE1SDlWeXp5ekc2RnRDMFJQWXl3TzZVZ0J0Vk5RUmVKaXI3a3N3M0ZrUWh6NzJ1TzR0OVpGVENZbWVpZmFXTlE4a1huek9GMUVrRFU0MW9BcEpvR3M0Z2hBNzNoejJnUQ?oc=5",
+      "published": "Sat, 20 Sep 2025 07:00:00 GMT",
+      "summary": "How to Invest in Quantum Stocks \u2014 A Guide to Long-term Investing in Quantum Technology&nbsp;&nbsp;The Quantum Insider"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "2 Top Quantum Computing Stocks to Buy in 2026 - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNm9MZDdxTk9IdFg1OE5mTHd0WG5OUk5zMDJ3d1c1RmJtc2VNcWh6RGtia2JfMXRJdDRjc2dnNmdWdmdBYWZ6Z3AydGN4VHNZaHpzT1VES1M3bzRlVF9aeU1veVQxNHhOY1YtYmJuSmhTVDZOdmhLWnpmaWpQc001aFhTM0hxM1ViUmt5ZUhuRTZWdw?oc=5",
       "published": "Thu, 19 Feb 2026 08:00:00 GMT",
@@ -3083,13 +3090,6 @@
       "summary": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now.&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "The Zacks Analyst Blog Highlights IBM, Amazon, Google, IonQ and D-Wave Quantum - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWtNQWwycThYdndfOFNJX3B3MjRNWS02dlZpaU96Sm5LM1lGSWdHY25IVVZSaFdXWUpOVVV6bVlHaDczRExjSnlYZzhocG9GU192VG42NE54YmJ2S0FDbDZRMmFvZTJ6R0MzellWLS1EdkNEQnk3YkU1dEgzTzZnMVY4TGJWZw?oc=5",
-      "published": "Tue, 09 Dec 2025 08:00:00 GMT",
-      "summary": "The Zacks Analyst Blog Highlights IBM, Amazon, Google, IonQ and D-Wave Quantum&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Cathie Wood buys $18 million of beaten-down AI stock",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-18-million-150700302.html",
@@ -3098,36 +3098,36 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is\u00a0Flutter Entertainment plc (FLUT)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/flutter-entertainment-plc-flut-good-134248950.html",
-      "published": "2026-04-30T13:42:48Z",
+      "title": "Fed's favored inflation gauge shows rising prices as war heated up",
+      "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-shows-rising-prices-as-war-heated-up-131007113.html",
+      "published": "2026-04-30T13:10:07Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is\u00a0Woodward, Inc. (WWD)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/woodward-inc-wwd-good-stock-134045046.html",
-      "published": "2026-04-30T13:40:45Z",
+      "title": "JAPEX Targets Long-Term Value With Norwegian Shelf Expansion",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/japex-targets-long-term-value-143617563.html",
+      "published": "2026-04-30T14:36:17Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Shopify Inc. (SHOP) A Good Stock To Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-inc-shop-good-stock-133912941.html",
-      "published": "2026-04-30T13:39:12Z",
+      "title": "Polymarket Taps Chainalysis to Strengthen Onchain Market Integrity",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/polymarket-taps-chainalysis-strengthen-onchain-143200648.html",
+      "published": "2026-04-30T14:32:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is\u00a0U.S. Physical Therapy, Inc. (USPH)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-physical-therapy-inc-usph-134030511.html",
-      "published": "2026-04-30T13:40:30Z",
+      "title": "Trump bets Hormuz blockade will break Iran before triggering a global crisis",
+      "url": "https://finance.yahoo.com/markets/article/trump-bets-hormuz-blockade-will-break-iran-before-triggering-a-global-crisis-143651937.html",
+      "published": "2026-04-30T14:36:51Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: General Dynamics Corp",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2996_AnalystReport_1777658829000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Viavi Solutions Inc",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3103_AnalystReport_1777658829000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published": "2026-05-01T18:07:09Z",
       "summary": ""
     },
@@ -3140,36 +3140,36 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "When will gas prices go back down? When drivers could finally see relief.",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-back-down-when-drivers-could-finally-see-relief-154506776.html",
-      "published": "2026-04-14T15:45:06Z",
+      "title": "Microsoft stock sinks as AI spending ramps to $190 billion as Q3 earnings top forecasts",
+      "url": "https://finance.yahoo.com/sectors/technology/article/microsoft-stock-sinks-as-ai-spending-ramps-to-190-billion-as-q3-earnings-top-forecasts-211358631.html",
+      "published": "2026-04-27T21:13:58Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stellantis stock drops after reporting Q1 profit but no full-year guidance hike",
-      "url": "https://finance.yahoo.com/markets/stocks/article/stellantis-stock-drops-after-reporting-q1-profit-but-no-full-year-guidance-hike-192737264.html",
-      "published": "2026-04-29T19:27:37Z",
+      "title": "Why the AI Sector Needs a Cold Shower: Reconciling Investment with Consumer Reality",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/why-ai-sector-needs-cold-143324516.html",
+      "published": "2026-04-30T14:33:24Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is\u00a0Diamondback Energy, Inc. (FANG)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-inc-fang-good-133837214.html",
-      "published": "2026-04-30T13:38:37Z",
+      "title": "Medpace Holdings Inc. (MEDP): Bares Capital Trims Stake",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/medpace-holdings-inc-medp-bares-142513385.html",
+      "published": "2026-04-30T14:25:13Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting Hewlett Packard Enterprise Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-hewlett-133707356.html",
-      "published": "2026-04-30T13:37:07Z",
+      "title": "MARA\u2019s $1.5 Billion Long Ridge Deal Adds Power Capacity for AI and Bitcoin Mining",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/mara-1-5-billion-long-142900528.html",
+      "published": "2026-04-30T14:29:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Viavi Solutions Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3103_AnalystReport_1777658829000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Alphabet Inc",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3012_AnalystReport_1777658829000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published": "2026-05-01T18:07:09Z",
       "summary": ""
     }
