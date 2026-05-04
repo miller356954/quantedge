@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T21:39:53.780282Z",
+  "last_updated": "2026-05-04T22:41:51.676100Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -40,7 +40,7 @@
   },
   "sector_stats": {
     "Semiconductors": {
-      "avg_change": -0.97,
+      "avg_change": -0.99,
       "gainers": 5,
       "losers": 5,
       "flat": 0
@@ -85,15 +85,15 @@
       "sector": "Semiconductors",
       "name": "Advanced Micro Devices, Inc.",
       "price": 341.54,
-      "prev_close": 361.797,
-      "change_pct": -5.6,
+      "prev_close": 361.8502,
+      "change_pct": -5.61,
       "volume": 38823317,
       "volume_fmt": "38.82M",
       "market_cap": 556850533591,
       "market_cap_fmt": "556.85B",
       "52w_high": 362.79,
       "52w_low": 96.88,
-      "pe_ratio": 30.5548,
+      "pe_ratio": 30.4431,
       "iv": 93.0,
       "beta": 2.399
     },
@@ -141,7 +141,7 @@
       "market_cap_fmt": "534.27B",
       "52w_high": 1547.22,
       "52w_low": 675.5,
-      "pe_ratio": 28.9978,
+      "pe_ratio": 29.0003,
       "iv": 51.1,
       "beta": 1.373
     },
@@ -149,8 +149,8 @@
       "sector": "Semiconductors",
       "name": "Broadcom Inc.",
       "price": 416.5,
-      "prev_close": 420.27,
-      "change_pct": -0.9,
+      "prev_close": 420.45,
+      "change_pct": -0.94,
       "volume": 25250280,
       "volume_fmt": "25.25M",
       "market_cap": 1971989298636,
@@ -213,8 +213,8 @@
       "sector": "Semiconductors",
       "name": "Lam Research Corporation",
       "price": 258.57,
-      "prev_close": 256.095,
-      "change_pct": 0.97,
+      "prev_close": 256.5899,
+      "change_pct": 0.77,
       "volume": 10273492,
       "volume_fmt": "10.27M",
       "market_cap": 323351878389,
@@ -2888,6 +2888,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZTMtbmF5X09LMktLVGZCTl9PN0R5OF85YTJ0TUc0UWFlaFZ3TktVOFdRc2xtVEJxYjluSWN1aldLX01XZEgtcTZQai15eWJXek44SWZjWUdxQ0FNVXhwZjNpOE5NMXFHa1g5QWk4ZThJbENQdVVHbXA3bjVXRkE?oc=5",
+      "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "summary": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind.&nbsp;&nbsp;Barron's"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "TSMC: The Foundry Behind Nvidia, AMD and Apple Is Setting AI On Fire - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTTJyMnQ3NGhjY29PemFINGlUT3V5aDlmQWtLR3ZQb2MzeE1lTTR4bHhVVFhuMEVMRlAzM2NVRUlYdXpya1lvMHN1ZU5tUHFmMmphWk05ZkQ3VFBxemdmNFBtWTUxVzBONmtyX1VKQ216bEZqNUl6OTJpSnZfdDg1enFIM1owbkFOemlnRmJ6TWZ4cnJrWDUxbjdpWk9SU2VBUlQ4VzZiQVNzRXN0X1lRdGZJcGNQLXJRSHF2YW1HQjhkZnRv?oc=5",
       "published": "Wed, 10 Dec 2025 08:00:00 GMT",
@@ -2913,13 +2920,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast&nbsp;&nbsp;CNBC"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Better AI Stock: Taiwan Semiconductor Manufacturing or AMD - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVk5JNWlXWFhzeGY4TXFUcUptR25jUHZtck5fTkUtNHAzTlZTcFdlelQ1dDUzYkdrRlRERGs2OU0yQTZva0dNWHEwQkRLbGNsLUlhb2FLX2VobTg5MTdjR2ZZSm5pclFSRmNnNXNFZDA2aVNic1B1N2VTVkRySXl6NC1zQkNYcTZwOF9EcU53cGRQT09QUHlUdw?oc=5",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "Better AI Stock: Taiwan Semiconductor Manufacturing or AMD&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2993,10 +2993,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Best AI Stocks to Buy in 2026 and How to Invest in Them - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "Best AI Stocks to Buy in 2026 and How to Invest in Them&nbsp;&nbsp;The Motley Fool"
+      "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdyTkpmMlBYYk5JT3hHbnRGYmp3cmxNY3hmaGRzWTBJMFlvLTJJUWNYRWtmTGlocDJjNlJneG0telNOSUFOcG9TN0FlbDJVUXd3VzJVU2hXcngtSDByTm9XQzFwLTU2S1M4UzUxYUs1aWRHZDlSQ2QtTWRKbUY1WGNoUG16Z01DQ0FPUk9WTUt5MEhRaTRKag?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026?&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3098,44 +3098,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Higher gas prices are eating into Americans' tax refunds",
-      "url": "https://finance.yahoo.com/economy/article/higher-gas-prices-are-eating-into-americans-tax-refunds-133026983.html",
-      "published": "2026-05-02T13:30:26Z",
+      "title": "Gavin Newsom issues \u2018final warning\u2019 amid California\u2019s dire housing crisis \u2014 what\u2019s at stake for millions of residents",
+      "url": "https://finance.yahoo.com/economy/policy/articles/gavin-newsom-issues-final-warning-140000902.html",
+      "published": "2026-05-03T14:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Network shakeups hit Medicare Advantage, forcing retirees to pay up or find new care",
-      "url": "https://finance.yahoo.com/news/network-shakeups-hit-medicare-advantage-forcing-retirees-to-pay-up-or-find-new-care-150000755.html",
-      "published": "2026-05-02T15:00:00Z",
+      "title": "Lizzo loses nearly $4M on her LA mansion \u2014 a third of its value. How to know when selling at a loss is the right move",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lizzo-loses-nearly-4m-her-143500731.html",
+      "published": "2026-05-03T14:35:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "In a low-hire job market, new grads need more than a high GPA",
-      "url": "https://finance.yahoo.com/economy/article/in-a-low-hire-job-market-new-grads-need-more-than-a-high-gpa-140000672.html",
-      "published": "2026-05-02T14:00:00Z",
+      "title": "Amazon's Massive Capex Spending Reduces FCF to a Trickle - But Does the Market Care?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-massive-capex-spending-reduces-133002579.html",
+      "published": "2026-05-03T13:30:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "OPEC Signals Unity After U.A.E. Exit With Pledge to Boost Oil Output",
-      "url": "https://www.wsj.com/world/middle-east/opec-signals-unity-after-u-a-e-exit-with-pledge-to-boost-oil-output-4bd82d07?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-05-03T12:54:00Z",
+      "title": "Stress in private credit could spark 'psychological contagion,' Fed's Barr tells Bloomberg News",
+      "url": "https://finance.yahoo.com/economy/policy/articles/stress-private-credit-could-spark-145636025.html",
+      "published": "2026-05-03T14:56:36Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "PayPal Stock Is Down 15% in 2026. Bulls Are Now Betting on a Reorganization to Turn Things Around",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-down-15-2026-130002785.html",
-      "published": "2026-05-03T13:00:02Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "For out-of-work Americans, Fed's Powell says it 'doesn't feel like a good labor market' even with 4.3% unemployment",
-      "url": "https://finance.yahoo.com/economy/article/for-out-of-work-americans-feds-powell-says-it-doesnt-feel-like-a-good-labor-market-even-with-43-unemployment-212747052.html",
-      "published": "2026-04-29T21:27:47Z",
+      "title": "Louisiana-Pacific AGM: Directors Reelected, Deloitte Ratified, and Say-on-Pay Wins Shareholder OK",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/louisiana-pacific-agm-directors-reelected-141142492.html",
+      "published": "2026-05-03T14:11:42Z",
       "summary": ""
     },
     {
@@ -3147,30 +3140,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Google just had its best month since 2004",
-      "url": "https://finance.yahoo.com/markets/article/google-just-had-its-best-month-since-2004-162717056.html",
-      "published": "2026-05-01T16:27:17Z",
+      "title": "For out-of-work Americans, Fed's Powell says it 'doesn't feel like a good labor market' even with 4.3% unemployment",
+      "url": "https://finance.yahoo.com/economy/article/for-out-of-work-americans-feds-powell-says-it-doesnt-feel-like-a-good-labor-market-even-with-43-unemployment-212747052.html",
+      "published": "2026-04-29T21:27:47Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Trane Technologies plc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3086_AnalystReport_1777916646000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-04T17:44:06Z",
+      "title": "PayPal Stock Is Down 15% in 2026. Bulls Are Now Betting on a Reorganization to Turn Things Around",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-down-15-2026-130002785.html",
+      "published": "2026-05-03T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "2 Medical Marijuana Stocks to Buy Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-medical-marijuana-stocks-buy-125000557.html",
-      "published": "2026-05-03T12:50:00Z",
+      "title": "Higher gas prices are eating into Americans' tax refunds",
+      "url": "https://finance.yahoo.com/economy/article/higher-gas-prices-are-eating-into-americans-tax-refunds-133026983.html",
+      "published": "2026-05-02T13:30:26Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "A new MIT-backed tool shows exactly why your electricity bill is going up in your neighborhood \u2014 you should be concerned",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/mit-backed-tool-shows-exactly-120000574.html",
-      "published": "2026-05-03T12:00:00Z",
+      "title": "CEOs got an 11% pay raise in 2025. Workers got 0.5%",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ceos-got-11-pay-raise-183104955.html",
+      "published": "2026-05-01T18:31:04Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "In a low-hire job market, new grads need more than a high GPA",
+      "url": "https://finance.yahoo.com/economy/article/in-a-low-hire-job-market-new-grads-need-more-than-a-high-gpa-140000672.html",
+      "published": "2026-05-02T14:00:00Z",
       "summary": ""
     }
   ]
