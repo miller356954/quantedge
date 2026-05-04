@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T20:28:24.994833Z",
+  "last_updated": "2026-05-04T21:39:53.780282Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -40,7 +40,7 @@
   },
   "sector_stats": {
     "Semiconductors": {
-      "avg_change": -0.99,
+      "avg_change": -0.97,
       "gainers": 5,
       "losers": 5,
       "flat": 0
@@ -78,15 +78,15 @@
       "52w_high": 216.83,
       "52w_low": 110.82,
       "pe_ratio": 17.6596,
-      "iv": 7.6,
+      "iv": 10.9,
       "beta": 2.244
     },
     "AMD": {
       "sector": "Semiconductors",
       "name": "Advanced Micro Devices, Inc.",
       "price": 341.54,
-      "prev_close": 361.8502,
-      "change_pct": -5.61,
+      "prev_close": 361.797,
+      "change_pct": -5.6,
       "volume": 38823317,
       "volume_fmt": "38.82M",
       "market_cap": 556850533591,
@@ -94,7 +94,7 @@
       "52w_high": 362.79,
       "52w_low": 96.88,
       "pe_ratio": 30.5548,
-      "iv": 93.8,
+      "iv": 93.0,
       "beta": 2.399
     },
     "INTC": {
@@ -110,7 +110,7 @@
       "52w_high": 100.45,
       "52w_low": 18.97,
       "pe_ratio": 64.2151,
-      "iv": 74.5,
+      "iv": 76.7,
       "beta": 2.19
     },
     "TSM": {
@@ -142,15 +142,15 @@
       "52w_high": 1547.22,
       "52w_low": 675.5,
       "pe_ratio": 28.9978,
-      "iv": 49.6,
+      "iv": 51.1,
       "beta": 1.373
     },
     "AVGO": {
       "sector": "Semiconductors",
       "name": "Broadcom Inc.",
       "price": 416.5,
-      "prev_close": 420.45,
-      "change_pct": -0.94,
+      "prev_close": 420.27,
+      "change_pct": -0.9,
       "volume": 25250280,
       "volume_fmt": "25.25M",
       "market_cap": 1971989298636,
@@ -158,7 +158,7 @@
       "52w_high": 429.31,
       "52w_low": 195.94,
       "pe_ratio": 22.9883,
-      "iv": 3.9,
+      "iv": 4.3,
       "beta": 1.44
     },
     "MU": {
@@ -174,7 +174,7 @@
       "52w_high": 545.91,
       "52w_low": 78.54,
       "pe_ratio": 5.681,
-      "iv": 77.5,
+      "iv": 77.2,
       "beta": 1.919
     },
     "QCOM": {
@@ -190,7 +190,7 @@
       "52w_high": 205.95,
       "52w_low": 121.99,
       "pe_ratio": 15.8587,
-      "iv": 52.9,
+      "iv": 50.3,
       "beta": 1.493
     },
     "AMAT": {
@@ -206,15 +206,15 @@
       "52w_high": 420.5,
       "52w_low": 151.51,
       "pe_ratio": 27.8148,
-      "iv": 54.4,
+      "iv": 56.0,
       "beta": 1.654
     },
     "LRCX": {
       "sector": "Semiconductors",
       "name": "Lam Research Corporation",
       "price": 258.57,
-      "prev_close": 256.5899,
-      "change_pct": 0.77,
+      "prev_close": 256.095,
+      "change_pct": 0.97,
       "volume": 10273492,
       "volume_fmt": "10.27M",
       "market_cap": 323351878389,
@@ -222,7 +222,7 @@
       "52w_high": 275.84,
       "52w_low": 72.59,
       "pe_ratio": 32.6726,
-      "iv": 62.3,
+      "iv": 63.1,
       "beta": 1.819
     },
     "MSFT": {
@@ -238,7 +238,7 @@
       "52w_high": 555.45,
       "52w_low": 356.28,
       "pe_ratio": 21.416,
-      "iv": 11.0,
+      "iv": 10.8,
       "beta": 1.093
     },
     "GOOGL": {
@@ -254,7 +254,7 @@
       "52w_high": 386.76,
       "52w_low": 147.84,
       "pe_ratio": 26.6788,
-      "iv": 6.8,
+      "iv": 4.3,
       "beta": 1.267
     },
     "META": {
@@ -270,7 +270,7 @@
       "52w_high": 796.25,
       "52w_low": 520.26,
       "pe_ratio": 16.8724,
-      "iv": 4.7,
+      "iv": 4.0,
       "beta": 1.243
     },
     "AMZN": {
@@ -286,7 +286,7 @@
       "52w_high": 273.88,
       "52w_low": 183.85,
       "pe_ratio": 27.5371,
-      "iv": 2.6,
+      "iv": 2.1,
       "beta": 1.468
     },
     "ORCL": {
@@ -302,7 +302,7 @@
       "52w_high": 345.72,
       "52w_low": 134.57,
       "pe_ratio": 22.4481,
-      "iv": 62.5,
+      "iv": 63.1,
       "beta": 1.544
     },
     "PLTR": {
@@ -318,7 +318,7 @@
       "52w_high": 207.52,
       "52w_low": 105.32,
       "pe_ratio": 78.2122,
-      "iv": 103.2,
+      "iv": 104.7,
       "beta": 1.521
     },
     "SOUN": {
@@ -334,7 +334,7 @@
       "52w_high": 22.17,
       "52w_low": 5.83,
       "pe_ratio": -947.0001,
-      "iv": 189.1,
+      "iv": 201.6,
       "beta": 2.763
     },
     "SMCI": {
@@ -350,7 +350,7 @@
       "52w_high": 62.36,
       "52w_low": 19.48,
       "pe_ratio": 9.3459,
-      "iv": 146.9,
+      "iv": 146.1,
       "beta": 1.684
     },
     "IONQ": {
@@ -382,7 +382,7 @@
       "52w_high": 58.15,
       "52w_low": 9.14,
       "pe_ratio": -97.7307,
-      "iv": 99.4,
+      "iv": 96.9,
       "beta": 1.801
     },
     "QUBT": {
@@ -414,7 +414,7 @@
       "52w_high": 324.9,
       "52w_low": 220.72,
       "pe_ratio": 17.0793,
-      "iv": 33.1,
+      "iv": 32.2,
       "beta": 0.581
     },
     "QBTS": {
@@ -430,7 +430,7 @@
       "52w_high": 46.75,
       "52w_low": 6.82,
       "pe_ratio": -56.5405,
-      "iv": 110.3,
+      "iv": 109.8,
       "beta": 1.945
     },
     "ARQQ": {
@@ -462,7 +462,7 @@
       "52w_high": 466.91,
       "52w_low": 184.27,
       "pe_ratio": 51.8887,
-      "iv": 47.3,
+      "iv": 50.1,
       "beta": null
     },
     "SMH": {
@@ -478,7 +478,7 @@
       "52w_high": 511.99,
       "52w_low": 212.84,
       "pe_ratio": 49.7323,
-      "iv": 43.3,
+      "iv": 45.8,
       "beta": null
     },
     "AIQ": {
@@ -518,208 +518,208 @@
     {
       "ticker": "NVDA",
       "expiry": "2026-05-04",
-      "call_vol": 1097996,
-      "put_vol": 438721,
+      "call_vol": 1101404,
+      "put_vol": 440178,
       "call_oi": 141647,
       "put_oi": 108971,
       "pcr": 0.4,
-      "iv": 7.6
+      "iv": 10.9
     },
     {
       "ticker": "AMD",
       "expiry": "2026-05-08",
-      "call_vol": 124947,
-      "put_vol": 113537,
+      "call_vol": 126021,
+      "put_vol": 113880,
       "call_oi": 106523,
       "put_oi": 109869,
-      "pcr": 0.909,
-      "iv": 93.8
+      "pcr": 0.904,
+      "iv": 93.0
     },
     {
       "ticker": "INTC",
       "expiry": "2026-05-08",
-      "call_vol": 140411,
-      "put_vol": 145585,
+      "call_vol": 141125,
+      "put_vol": 146688,
       "call_oi": 149096,
       "put_oi": 175455,
-      "pcr": 1.037,
-      "iv": 74.5
+      "pcr": 1.039,
+      "iv": 76.7
     },
     {
       "ticker": "TSM",
       "expiry": "2026-05-08",
-      "call_vol": 12140,
-      "put_vol": 25737,
+      "call_vol": 12232,
+      "put_vol": 25870,
       "call_oi": 27896,
       "put_oi": 37170,
-      "pcr": 2.12,
+      "pcr": 2.115,
       "iv": 45.5
     },
     {
       "ticker": "ASML",
       "expiry": "2026-05-08",
-      "call_vol": 3412,
-      "put_vol": 7126,
+      "call_vol": 3430,
+      "put_vol": 7145,
       "call_oi": 4532,
       "put_oi": 6991,
-      "pcr": 2.089,
-      "iv": 49.6
+      "pcr": 2.083,
+      "iv": 51.1
     },
     {
       "ticker": "AVGO",
       "expiry": "2026-05-04",
-      "call_vol": 32295,
-      "put_vol": 39614,
+      "call_vol": 32349,
+      "put_vol": 39809,
       "call_oi": 9238,
       "put_oi": 8042,
-      "pcr": 1.227,
-      "iv": 3.9
+      "pcr": 1.231,
+      "iv": 4.3
     },
     {
       "ticker": "MU",
       "expiry": "2026-05-08",
-      "call_vol": 193503,
-      "put_vol": 152397,
+      "call_vol": 194300,
+      "put_vol": 152964,
       "call_oi": 73569,
       "put_oi": 138997,
-      "pcr": 0.788,
-      "iv": 77.5
+      "pcr": 0.787,
+      "iv": 77.2
     },
     {
       "ticker": "QCOM",
       "expiry": "2026-05-08",
-      "call_vol": 40962,
-      "put_vol": 15106,
+      "call_vol": 41158,
+      "put_vol": 15144,
       "call_oi": 53076,
       "put_oi": 17311,
-      "pcr": 0.369,
-      "iv": 52.9
+      "pcr": 0.368,
+      "iv": 50.3
     },
     {
       "ticker": "AMAT",
       "expiry": "2026-05-08",
-      "call_vol": 3810,
-      "put_vol": 7228,
+      "call_vol": 3826,
+      "put_vol": 7268,
       "call_oi": 13415,
       "put_oi": 13950,
-      "pcr": 1.897,
-      "iv": 54.4
+      "pcr": 1.9,
+      "iv": 56.0
     },
     {
       "ticker": "LRCX",
       "expiry": "2026-05-08",
-      "call_vol": 6532,
-      "put_vol": 10673,
+      "call_vol": 6534,
+      "put_vol": 10688,
       "call_oi": 13678,
       "put_oi": 24124,
-      "pcr": 1.634,
-      "iv": 62.3
+      "pcr": 1.636,
+      "iv": 63.1
     },
     {
       "ticker": "MSFT",
       "expiry": "2026-05-04",
-      "call_vol": 203582,
-      "put_vol": 69589,
+      "call_vol": 205391,
+      "put_vol": 69855,
       "call_oi": 34914,
       "put_oi": 17648,
-      "pcr": 0.342,
-      "iv": 11.0
+      "pcr": 0.34,
+      "iv": 10.8
     },
     {
       "ticker": "GOOGL",
       "expiry": "2026-05-04",
-      "call_vol": 117256,
-      "put_vol": 57133,
+      "call_vol": 117342,
+      "put_vol": 57287,
       "call_oi": 31517,
       "put_oi": 27229,
-      "pcr": 0.487,
-      "iv": 6.8
+      "pcr": 0.488,
+      "iv": 4.3
     },
     {
       "ticker": "META",
       "expiry": "2026-05-04",
-      "call_vol": 149441,
-      "put_vol": 116598,
+      "call_vol": 149646,
+      "put_vol": 117215,
       "call_oi": 42137,
       "put_oi": 18758,
-      "pcr": 0.78,
-      "iv": 4.7
+      "pcr": 0.783,
+      "iv": 4.0
     },
     {
       "ticker": "AMZN",
       "expiry": "2026-05-04",
-      "call_vol": 484928,
-      "put_vol": 145702,
+      "call_vol": 485693,
+      "put_vol": 146179,
       "call_oi": 40402,
       "put_oi": 25566,
-      "pcr": 0.3,
-      "iv": 2.6
+      "pcr": 0.301,
+      "iv": 2.1
     },
     {
       "ticker": "ORCL",
       "expiry": "2026-05-08",
-      "call_vol": 125796,
-      "put_vol": 42604,
+      "call_vol": 126316,
+      "put_vol": 43016,
       "call_oi": 81672,
       "put_oi": 38812,
-      "pcr": 0.339,
-      "iv": 62.5
+      "pcr": 0.341,
+      "iv": 63.1
     },
     {
       "ticker": "PLTR",
       "expiry": "2026-05-08",
-      "call_vol": 239585,
-      "put_vol": 195106,
+      "call_vol": 244452,
+      "put_vol": 198475,
       "call_oi": 166831,
       "put_oi": 102270,
-      "pcr": 0.814,
-      "iv": 103.2
+      "pcr": 0.812,
+      "iv": 104.7
     },
     {
       "ticker": "SOUN",
       "expiry": "2026-05-08",
-      "call_vol": 66181,
-      "put_vol": 19351,
+      "call_vol": 66601,
+      "put_vol": 19380,
       "call_oi": 60474,
       "put_oi": 19291,
-      "pcr": 0.292,
-      "iv": 189.1
+      "pcr": 0.291,
+      "iv": 201.6
     },
     {
       "ticker": "SMCI",
       "expiry": "2026-05-08",
-      "call_vol": 55347,
-      "put_vol": 21499,
+      "call_vol": 56393,
+      "put_vol": 21666,
       "call_oi": 134829,
       "put_oi": 48258,
-      "pcr": 0.388,
-      "iv": 146.9
+      "pcr": 0.384,
+      "iv": 146.1
     },
     {
       "ticker": "IONQ",
       "expiry": "2026-05-08",
-      "call_vol": 21583,
-      "put_vol": 18976,
+      "call_vol": 21629,
+      "put_vol": 18998,
       "call_oi": 24917,
       "put_oi": 35367,
-      "pcr": 0.879,
+      "pcr": 0.878,
       "iv": 140.9
     },
     {
       "ticker": "RGTI",
       "expiry": "2026-05-08",
-      "call_vol": 34457,
-      "put_vol": 10844,
+      "call_vol": 34513,
+      "put_vol": 10685,
       "call_oi": 40041,
       "put_oi": 21331,
-      "pcr": 0.315,
-      "iv": 99.4
+      "pcr": 0.31,
+      "iv": 96.9
     },
     {
       "ticker": "QUBT",
       "expiry": "2026-05-08",
-      "call_vol": 15205,
-      "put_vol": 3609,
+      "call_vol": 15226,
+      "put_vol": 3610,
       "call_oi": 14755,
       "put_oi": 3816,
       "pcr": 0.237,
@@ -728,22 +728,22 @@
     {
       "ticker": "IBM",
       "expiry": "2026-05-08",
-      "call_vol": 6441,
-      "put_vol": 2909,
+      "call_vol": 6482,
+      "put_vol": 2924,
       "call_oi": 10077,
       "put_oi": 7155,
-      "pcr": 0.452,
-      "iv": 33.1
+      "pcr": 0.451,
+      "iv": 32.2
     },
     {
       "ticker": "QBTS",
       "expiry": "2026-05-08",
-      "call_vol": 21545,
-      "put_vol": 9873,
+      "call_vol": 21555,
+      "put_vol": 9899,
       "call_oi": 30536,
       "put_oi": 8686,
-      "pcr": 0.458,
-      "iv": 110.3
+      "pcr": 0.459,
+      "iv": 109.8
     },
     {
       "ticker": "ARQQ",
@@ -758,22 +758,22 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-05-08",
-      "call_vol": 661,
-      "put_vol": 1957,
+      "call_vol": 670,
+      "put_vol": 1976,
       "call_oi": 1165,
       "put_oi": 48163,
-      "pcr": 2.961,
-      "iv": 47.3
+      "pcr": 2.949,
+      "iv": 50.1
     },
     {
       "ticker": "SMH",
       "expiry": "2026-05-08",
-      "call_vol": 9867,
-      "put_vol": 26644,
+      "call_vol": 9902,
+      "put_vol": 26718,
       "call_oi": 22420,
       "put_oi": 62493,
-      "pcr": 2.7,
-      "iv": 43.3
+      "pcr": 2.698,
+      "iv": 45.8
     },
     {
       "ticker": "AIQ",
@@ -802,12 +802,12 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 577.5,
-      "volume": 2316,
+      "volume": 2320,
       "oi": 1,
-      "ratio": 2316.0,
-      "iv": 75.4,
-      "last": 20.7,
-      "bid": 20.65,
+      "ratio": 2320.0,
+      "iv": 75.2,
+      "last": 20.76,
+      "bid": 20.55,
       "ask": 21.0,
       "in_money": true
     },
@@ -816,13 +816,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 582.5,
-      "volume": 2019,
+      "volume": 2022,
       "oi": 1,
-      "ratio": 2019.0,
-      "iv": 75.1,
-      "last": 23.21,
-      "bid": 23.2,
-      "ask": 23.75,
+      "ratio": 2022.0,
+      "iv": 75.2,
+      "last": 23.18,
+      "bid": 23.1,
+      "ask": 23.9,
       "in_money": true
     },
     {
@@ -830,13 +830,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 580.0,
-      "volume": 9868,
+      "volume": 9878,
       "oi": 8,
-      "ratio": 1233.5,
-      "iv": 74.8,
-      "last": 22.03,
-      "bid": 21.8,
-      "ask": 22.25,
+      "ratio": 1234.75,
+      "iv": 76.3,
+      "last": 22.23,
+      "bid": 21.9,
+      "ask": 22.95,
       "in_money": true
     },
     {
@@ -849,8 +849,8 @@
       "ratio": 1193.5,
       "iv": 75.1,
       "last": 25.0,
-      "bid": 24.65,
-      "ask": 25.2,
+      "bid": 24.55,
+      "ask": 25.3,
       "in_money": true
     },
     {
@@ -900,13 +900,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 575.0,
-      "volume": 4752,
+      "volume": 4755,
       "oi": 12,
-      "ratio": 396.0,
-      "iv": 75.3,
-      "last": 19.3,
-      "bid": 19.3,
-      "ask": 19.75,
+      "ratio": 396.25,
+      "iv": 75.1,
+      "last": 19.59,
+      "bid": 19.25,
+      "ask": 19.7,
       "in_money": false
     },
     {
@@ -917,10 +917,10 @@
       "volume": 326,
       "oi": 1,
       "ratio": 326.0,
-      "iv": 84.8,
+      "iv": 76.5,
       "last": 21.21,
-      "bid": 20.25,
-      "ask": 21.45,
+      "bid": 20.65,
+      "ask": 21.9,
       "in_money": true
     },
     {
@@ -928,13 +928,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 557.5,
-      "volume": 577,
+      "volume": 580,
       "oi": 2,
-      "ratio": 288.5,
-      "iv": 76.6,
-      "last": 11.2,
-      "bid": 11.95,
-      "ask": 12.45,
+      "ratio": 290.0,
+      "iv": 76.5,
+      "last": 12.09,
+      "bid": 11.85,
+      "ask": 12.5,
       "in_money": false
     },
     {
@@ -942,13 +942,13 @@
       "type": "PUT",
       "expiry": "2026-05-04",
       "strike": 272.5,
-      "volume": 32354,
+      "volume": 32370,
       "oi": 149,
-      "ratio": 217.14,
-      "iv": 19.0,
-      "last": 0.96,
-      "bid": 0.6,
-      "ask": 1.32,
+      "ratio": 217.25,
+      "iv": 12.2,
+      "last": 0.55,
+      "bid": 0.39,
+      "ask": 0.94,
       "in_money": true
     },
     {
@@ -959,10 +959,10 @@
       "volume": 420,
       "oi": 2,
       "ratio": 210.0,
-      "iv": 152.7,
+      "iv": 150.0,
       "last": 100.62,
       "bid": 99.05,
-      "ask": 102.15,
+      "ask": 102.1,
       "in_money": true
     },
     {
@@ -973,10 +973,10 @@
       "volume": 201,
       "oi": 1,
       "ratio": 201.0,
-      "iv": 285.6,
+      "iv": 312.9,
       "last": 50.87,
-      "bid": 49.0,
-      "ask": 49.4,
+      "bid": 49.05,
+      "ask": 49.5,
       "in_money": true
     },
     {
@@ -998,13 +998,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 587.5,
-      "volume": 1775,
+      "volume": 1779,
       "oi": 10,
-      "ratio": 177.5,
-      "iv": 74.5,
-      "last": 26.6,
-      "bid": 25.95,
-      "ask": 26.55,
+      "ratio": 177.9,
+      "iv": 75.1,
+      "last": 26.3,
+      "bid": 26.0,
+      "ask": 26.8,
       "in_money": true
     },
     {
@@ -1012,13 +1012,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 567.5,
-      "volume": 1038,
+      "volume": 1039,
       "oi": 6,
-      "ratio": 173.0,
-      "iv": 75.7,
-      "last": 16.21,
-      "bid": 15.8,
-      "ask": 16.3,
+      "ratio": 173.17,
+      "iv": 75.8,
+      "last": 15.75,
+      "bid": 15.75,
+      "ask": 16.4,
       "in_money": false
     },
     {
@@ -1029,10 +1029,10 @@
       "volume": 487,
       "oi": 3,
       "ratio": 162.33,
-      "iv": 83.2,
+      "iv": 83.6,
       "last": 0.99,
-      "bid": 0.87,
-      "ask": 1.01,
+      "bid": 0.88,
+      "ask": 1.05,
       "in_money": false
     },
     {
@@ -1040,13 +1040,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 590.0,
-      "volume": 2685,
+      "volume": 2690,
       "oi": 17,
-      "ratio": 157.94,
-      "iv": 74.8,
-      "last": 27.75,
-      "bid": 27.55,
-      "ask": 28.15,
+      "ratio": 158.24,
+      "iv": 75.5,
+      "last": 27.7,
+      "bid": 27.7,
+      "ask": 28.35,
       "in_money": true
     },
     {
@@ -1057,10 +1057,10 @@
       "volume": 314,
       "oi": 2,
       "ratio": 157.0,
-      "iv": 152.0,
+      "iv": 153.1,
       "last": 67.01,
       "bid": 63.5,
-      "ask": 67.0,
+      "ask": 67.05,
       "in_money": true
     },
     {
@@ -1071,10 +1071,10 @@
       "volume": 287,
       "oi": 2,
       "ratio": 143.5,
-      "iv": 270.3,
+      "iv": 296.5,
       "last": 48.82,
       "bid": 47.05,
-      "ask": 47.4,
+      "ask": 47.5,
       "in_money": true
     },
     {
@@ -1085,10 +1085,10 @@
       "volume": 383,
       "oi": 3,
       "ratio": 127.67,
-      "iv": 207.6,
+      "iv": 206.2,
       "last": 96.12,
-      "bid": 93.7,
-      "ask": 96.95,
+      "bid": 93.8,
+      "ask": 96.9,
       "in_money": true
     },
     {
@@ -1096,13 +1096,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 570.0,
-      "volume": 5048,
+      "volume": 5079,
       "oi": 41,
-      "ratio": 123.12,
-      "iv": 75.8,
-      "last": 17.35,
-      "bid": 17.0,
-      "ask": 17.45,
+      "ratio": 123.88,
+      "iv": 75.9,
+      "last": 17.2,
+      "bid": 16.95,
+      "ask": 17.55,
       "in_money": false
     },
     {
@@ -1113,10 +1113,10 @@
       "volume": 3160,
       "oi": 26,
       "ratio": 121.54,
-      "iv": 73.8,
+      "iv": 74.4,
       "last": 33.0,
-      "bid": 32.4,
-      "ask": 32.9,
+      "bid": 32.35,
+      "ask": 33.45,
       "in_money": true
     },
     {
@@ -1124,13 +1124,13 @@
       "type": "PUT",
       "expiry": "2026-05-04",
       "strike": 275.0,
-      "volume": 16736,
+      "volume": 16737,
       "oi": 145,
-      "ratio": 115.42,
-      "iv": 35.8,
-      "last": 3.8,
-      "bid": 3.0,
-      "ask": 3.85,
+      "ratio": 115.43,
+      "iv": 29.4,
+      "last": 3.19,
+      "bid": 2.84,
+      "ask": 3.55,
       "in_money": true
     },
     {
@@ -1141,24 +1141,10 @@
       "volume": 2373,
       "oi": 23,
       "ratio": 103.17,
-      "iv": 45.1,
+      "iv": 66.5,
       "last": 8.9,
-      "bid": 7.9,
-      "ask": 8.3,
-      "in_money": true
-    },
-    {
-      "ticker": "RGTI",
-      "type": "PUT",
-      "expiry": "2026-05-08",
-      "strike": 32.0,
-      "volume": 200,
-      "oi": 2,
-      "ratio": 100.0,
-      "iv": 370.3,
-      "last": 15.6,
-      "bid": 12.95,
-      "ask": 14.7,
+      "bid": 6.85,
+      "ask": 9.05,
       "in_money": true
     },
     {
@@ -1166,41 +1152,41 @@
       "type": "CALL",
       "expiry": "2026-05-04",
       "strike": 197.5,
-      "volume": 234004,
+      "volume": 237246,
       "oi": 2391,
-      "ratio": 97.87,
-      "iv": 7.6,
-      "last": 1.02,
-      "bid": 0.96,
-      "ask": 1.02,
+      "ratio": 99.22,
+      "iv": 10.9,
+      "last": 0.97,
+      "bid": 0.98,
+      "ask": 1.1,
       "in_money": true
     },
     {
       "ticker": "MU",
       "type": "PUT",
       "expiry": "2026-05-08",
-      "strike": 560.0,
-      "volume": 4518,
-      "oi": 51,
-      "ratio": 88.59,
-      "iv": 75.6,
-      "last": 13.0,
-      "bid": 12.75,
-      "ask": 13.05,
+      "strike": 572.5,
+      "volume": 887,
+      "oi": 10,
+      "ratio": 88.7,
+      "iv": 75.7,
+      "last": 17.95,
+      "bid": 18.05,
+      "ask": 18.7,
       "in_money": false
     },
     {
       "ticker": "MU",
       "type": "PUT",
       "expiry": "2026-05-08",
-      "strike": 572.5,
-      "volume": 885,
-      "oi": 10,
-      "ratio": 88.5,
-      "iv": 76.0,
-      "last": 18.1,
-      "bid": 18.2,
-      "ask": 18.75,
+      "strike": 560.0,
+      "volume": 4523,
+      "oi": 51,
+      "ratio": 88.69,
+      "iv": 76.5,
+      "last": 13.05,
+      "bid": 12.9,
+      "ask": 13.35,
       "in_money": false
     },
     {
@@ -1213,8 +1199,8 @@
       "ratio": 87.0,
       "iv": 100.1,
       "last": 61.94,
-      "bid": 59.4,
-      "ask": 61.95,
+      "bid": 59.5,
+      "ask": 61.85,
       "in_money": true
     },
     {
@@ -1222,13 +1208,13 @@
       "type": "PUT",
       "expiry": "2026-05-06",
       "strike": 275.0,
-      "volume": 1468,
+      "volume": 1478,
       "oi": 17,
-      "ratio": 86.35,
-      "iv": 29.2,
+      "ratio": 86.94,
+      "iv": 28.6,
       "last": 4.3,
-      "bid": 4.3,
-      "ask": 4.6,
+      "bid": 4.2,
+      "ask": 4.55,
       "in_money": true
     },
     {
@@ -1236,13 +1222,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 605.0,
-      "volume": 249,
+      "volume": 250,
       "oi": 3,
-      "ratio": 83.0,
-      "iv": 74.5,
-      "last": 36.23,
-      "bid": 37.6,
-      "ask": 38.2,
+      "ratio": 83.33,
+      "iv": 75.8,
+      "last": 38.0,
+      "bid": 37.45,
+      "ask": 38.95,
       "in_money": true
     },
     {
@@ -1250,9 +1236,9 @@
       "type": "PUT",
       "expiry": "2026-05-04",
       "strike": 270.0,
-      "volume": 48678,
+      "volume": 48738,
       "oi": 588,
-      "ratio": 82.79,
+      "ratio": 82.89,
       "iv": 7.4,
       "last": 0.01,
       "bid": 0.0,
@@ -1267,10 +1253,10 @@
       "volume": 3499,
       "oi": 44,
       "ratio": 79.52,
-      "iv": 31.4,
+      "iv": 53.9,
       "last": 6.0,
-      "bid": 5.35,
-      "ask": 5.7,
+      "bid": 4.8,
+      "ask": 6.55,
       "in_money": true
     },
     {
@@ -1281,10 +1267,10 @@
       "volume": 236,
       "oi": 3,
       "ratio": 78.67,
-      "iv": 164.8,
+      "iv": 184.2,
       "last": 81.07,
-      "bid": 80.2,
-      "ask": 82.7,
+      "bid": 78.4,
+      "ask": 82.15,
       "in_money": true
     },
     {
@@ -1295,10 +1281,10 @@
       "volume": 235,
       "oi": 3,
       "ratio": 78.33,
-      "iv": 237.1,
+      "iv": 309.4,
       "last": 61.33,
-      "bid": 59.75,
-      "ask": 62.25,
+      "bid": 60.35,
+      "ask": 62.95,
       "in_money": true
     },
     {
@@ -1306,13 +1292,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 555.0,
-      "volume": 2284,
+      "volume": 2292,
       "oi": 32,
-      "ratio": 71.38,
+      "ratio": 71.62,
       "iv": 76.9,
-      "last": 11.4,
-      "bid": 11.2,
-      "ask": 11.5,
+      "last": 11.31,
+      "bid": 11.15,
+      "ask": 11.55,
       "in_money": false
     },
     {
@@ -1325,7 +1311,7 @@
       "ratio": 71.25,
       "iv": 30.4,
       "last": 6.6,
-      "bid": 6.15,
+      "bid": 6.1,
       "ask": 6.5,
       "in_money": true
     },
@@ -1334,13 +1320,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 565.0,
-      "volume": 2382,
+      "volume": 2417,
       "oi": 34,
-      "ratio": 70.06,
+      "ratio": 71.09,
       "iv": 76.4,
-      "last": 15.15,
+      "last": 15.0,
       "bid": 14.9,
-      "ask": 15.4,
+      "ask": 15.35,
       "in_money": false
     },
     {
@@ -1365,10 +1351,10 @@
       "volume": 318,
       "oi": 5,
       "ratio": 63.6,
-      "iv": 74.4,
+      "iv": 75.8,
       "last": 29.75,
       "bid": 30.6,
-      "ask": 31.3,
+      "ask": 32.0,
       "in_money": true
     },
     {
@@ -1379,10 +1365,10 @@
       "volume": 440,
       "oi": 7,
       "ratio": 62.86,
-      "iv": 157.4,
+      "iv": 170.7,
       "last": 0.01,
       "bid": 0.0,
-      "ask": 0.24,
+      "ask": 0.43,
       "in_money": false
     },
     {
@@ -1407,10 +1393,10 @@
       "volume": 241,
       "oi": 4,
       "ratio": 60.25,
-      "iv": 263.3,
+      "iv": 298.4,
       "last": 47.82,
-      "bid": 46.05,
-      "ask": 46.4,
+      "bid": 46.0,
+      "ask": 47.1,
       "in_money": true
     },
     {
@@ -1421,10 +1407,10 @@
       "volume": 501,
       "oi": 9,
       "ratio": 55.67,
-      "iv": 107.3,
+      "iv": 82.7,
       "last": 50.92,
-      "bid": 47.7,
-      "ask": 50.25,
+      "bid": 46.8,
+      "ask": 49.6,
       "in_money": true
     },
     {
@@ -1435,10 +1421,10 @@
       "volume": 2529,
       "oi": 47,
       "ratio": 53.81,
-      "iv": 28.6,
+      "iv": 27.4,
       "last": 2.89,
-      "bid": 2.82,
-      "ask": 3.05,
+      "bid": 2.76,
+      "ask": 2.93,
       "in_money": true
     },
     {
@@ -1446,12 +1432,12 @@
       "type": "PUT",
       "expiry": "2026-05-15",
       "strike": 570.0,
-      "volume": 3456,
+      "volume": 3483,
       "oi": 68,
-      "ratio": 50.82,
-      "iv": 74.4,
-      "last": 27.63,
-      "bid": 27.5,
+      "ratio": 51.22,
+      "iv": 74.2,
+      "last": 27.45,
+      "bid": 27.3,
       "ask": 27.95,
       "in_money": false
     },
@@ -1460,13 +1446,13 @@
       "type": "PUT",
       "expiry": "2026-05-04",
       "strike": 602.5,
-      "volume": 12337,
+      "volume": 12341,
       "oi": 257,
-      "ratio": 48.0,
-      "iv": 12.2,
+      "ratio": 48.02,
+      "iv": 10.5,
       "last": 0.01,
-      "bid": 0.01,
-      "ask": 0.03,
+      "bid": 0.0,
+      "ask": 0.01,
       "in_money": false
     },
     {
@@ -1474,13 +1460,13 @@
       "type": "CALL",
       "expiry": "2026-05-04",
       "strike": 607.5,
-      "volume": 11533,
+      "volume": 11543,
       "oi": 242,
-      "ratio": 47.66,
-      "iv": 13.5,
-      "last": 2.01,
-      "bid": 2.5,
-      "ask": 3.55,
+      "ratio": 47.7,
+      "iv": 11.5,
+      "last": 2.9,
+      "bid": 2.8,
+      "ask": 3.35,
       "in_money": true
     },
     {
@@ -1488,13 +1474,13 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 552.5,
-      "volume": 556,
+      "volume": 558,
       "oi": 12,
-      "ratio": 46.33,
-      "iv": 76.6,
-      "last": 9.95,
+      "ratio": 46.5,
+      "iv": 76.8,
+      "last": 10.2,
       "bid": 10.2,
-      "ask": 10.65,
+      "ask": 10.75,
       "in_money": false
     },
     {
@@ -1505,10 +1491,10 @@
       "volume": 1236,
       "oi": 27,
       "ratio": 45.78,
-      "iv": 0.0,
+      "iv": 134.9,
       "last": 15.93,
-      "bid": 15.5,
-      "ask": 15.8,
+      "bid": 15.85,
+      "ask": 17.65,
       "in_money": true
     },
     {
@@ -1516,12 +1502,12 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 562.5,
-      "volume": 676,
+      "volume": 682,
       "oi": 15,
-      "ratio": 45.07,
-      "iv": 75.9,
-      "last": 14.0,
-      "bid": 13.75,
+      "ratio": 45.47,
+      "iv": 75.8,
+      "last": 13.59,
+      "bid": 13.7,
       "ask": 14.2,
       "in_money": false
     },
@@ -1530,13 +1516,13 @@
       "type": "CALL",
       "expiry": "2026-05-08",
       "strike": 192.5,
-      "volume": 1496,
+      "volume": 1604,
       "oi": 36,
-      "ratio": 41.56,
-      "iv": 116.0,
-      "last": 0.17,
+      "ratio": 44.56,
+      "iv": 115.4,
+      "last": 0.18,
       "bid": 0.16,
-      "ask": 0.19,
+      "ask": 0.18,
       "in_money": false
     },
     {
@@ -1544,11 +1530,11 @@
       "type": "CALL",
       "expiry": "2026-05-08",
       "strike": 675.0,
-      "volume": 2656,
+      "volume": 2666,
       "oi": 64,
-      "ratio": 41.5,
+      "ratio": 41.66,
       "iv": 82.5,
-      "last": 1.29,
+      "last": 1.28,
       "bid": 1.22,
       "ask": 1.36,
       "in_money": false
@@ -1558,11 +1544,11 @@
       "type": "CALL",
       "expiry": "2026-05-04",
       "strike": 275.0,
-      "volume": 189554,
+      "volume": 189579,
       "oi": 4630,
-      "ratio": 40.94,
+      "ratio": 40.95,
       "iv": 10.0,
-      "last": 0.01,
+      "last": 0.03,
       "bid": 0.0,
       "ask": 0.01,
       "in_money": false
@@ -1575,10 +1561,10 @@
       "volume": 514,
       "oi": 13,
       "ratio": 39.54,
-      "iv": 137.7,
+      "iv": 134.2,
       "last": 3.59,
-      "bid": 3.8,
-      "ask": 4.1,
+      "bid": 3.7,
+      "ask": 4.05,
       "in_money": true
     },
     {
@@ -1586,12 +1572,12 @@
       "type": "CALL",
       "expiry": "2026-05-08",
       "strike": 577.5,
-      "volume": 4037,
+      "volume": 4054,
       "oi": 106,
-      "ratio": 38.08,
-      "iv": 77.5,
-      "last": 20.25,
-      "bid": 20.1,
+      "ratio": 38.25,
+      "iv": 77.2,
+      "last": 20.29,
+      "bid": 19.95,
       "ask": 20.6,
       "in_money": false
     },
@@ -1600,13 +1586,13 @@
       "type": "CALL",
       "expiry": "2026-05-04",
       "strike": 195.0,
-      "volume": 47106,
+      "volume": 47159,
       "oi": 1306,
-      "ratio": 36.07,
-      "iv": 17.8,
-      "last": 3.17,
-      "bid": 3.3,
-      "ask": 3.5,
+      "ratio": 36.11,
+      "iv": 35.0,
+      "last": 3.51,
+      "bid": 3.45,
+      "ask": 3.8,
       "in_money": true
     },
     {
@@ -1614,13 +1600,13 @@
       "type": "CALL",
       "expiry": "2026-05-06",
       "strike": 197.5,
-      "volume": 34632,
+      "volume": 34744,
       "oi": 970,
-      "ratio": 35.7,
-      "iv": 32.5,
-      "last": 2.81,
-      "bid": 2.81,
-      "ask": 2.85,
+      "ratio": 35.82,
+      "iv": 32.9,
+      "last": 2.85,
+      "bid": 2.83,
+      "ask": 2.88,
       "in_money": true
     },
     {
@@ -1628,13 +1614,13 @@
       "type": "PUT",
       "expiry": "2026-05-04",
       "strike": 267.5,
-      "volume": 25439,
+      "volume": 25839,
       "oi": 744,
-      "ratio": 34.19,
-      "iv": 16.2,
+      "ratio": 34.73,
+      "iv": 14.4,
       "last": 0.01,
       "bid": 0.0,
-      "ask": 0.02,
+      "ask": 0.01,
       "in_money": false
     },
     {
@@ -1642,13 +1628,13 @@
       "type": "CALL",
       "expiry": "2026-05-04",
       "strike": 272.5,
-      "volume": 129123,
+      "volume": 129669,
       "oi": 3782,
-      "ratio": 34.14,
-      "iv": 2.6,
-      "last": 0.02,
-      "bid": 0.01,
-      "ask": 0.02,
+      "ratio": 34.29,
+      "iv": 2.1,
+      "last": 0.01,
+      "bid": 0.0,
+      "ask": 0.01,
       "in_money": false
     },
     {
@@ -1656,13 +1642,13 @@
       "type": "PUT",
       "expiry": "2026-05-04",
       "strike": 415.0,
-      "volume": 10687,
+      "volume": 10780,
       "oi": 336,
-      "ratio": 31.81,
-      "iv": 11.0,
-      "last": 0.3,
-      "bid": 0.12,
-      "ask": 0.39,
+      "ratio": 32.08,
+      "iv": 6.0,
+      "last": 0.04,
+      "bid": 0.02,
+      "ask": 0.08,
       "in_money": false
     },
     {
@@ -1687,10 +1673,10 @@
       "volume": 1285,
       "oi": 41,
       "ratio": 31.34,
-      "iv": 74.6,
+      "iv": 75.1,
       "last": 32.68,
       "bid": 34.0,
-      "ask": 34.75,
+      "ask": 35.0,
       "in_money": true
     },
     {
@@ -1698,13 +1684,13 @@
       "type": "CALL",
       "expiry": "2026-05-04",
       "strike": 612.5,
-      "volume": 24994,
+      "volume": 25046,
       "oi": 800,
-      "ratio": 31.24,
-      "iv": 4.5,
-      "last": 0.02,
-      "bid": 0.02,
-      "ask": 0.05,
+      "ratio": 31.31,
+      "iv": 4.0,
+      "last": 0.01,
+      "bid": 0.01,
+      "ask": 0.03,
       "in_money": false
     },
     {
@@ -1729,10 +1715,10 @@
       "volume": 495,
       "oi": 16,
       "ratio": 30.94,
-      "iv": 101.4,
+      "iv": 105.5,
       "last": 1.34,
-      "bid": 1.25,
-      "ask": 1.39,
+      "bid": 1.32,
+      "ask": 1.4,
       "in_money": true
     },
     {
@@ -1740,11 +1726,11 @@
       "type": "CALL",
       "expiry": "2026-05-08",
       "strike": 677.5,
-      "volume": 456,
+      "volume": 457,
       "oi": 15,
-      "ratio": 30.4,
+      "ratio": 30.47,
       "iv": 82.9,
-      "last": 1.27,
+      "last": 1.19,
       "bid": 1.14,
       "ask": 1.27,
       "in_money": false
@@ -1757,10 +1743,10 @@
       "volume": 1000,
       "oi": 33,
       "ratio": 30.3,
-      "iv": 24.0,
+      "iv": 28.1,
       "last": 14.38,
-      "bid": 12.7,
-      "ask": 13.05,
+      "bid": 12.75,
+      "ask": 13.2,
       "in_money": true
     },
     {
@@ -1768,13 +1754,13 @@
       "type": "PUT",
       "expiry": "2026-05-04",
       "strike": 605.0,
-      "volume": 20346,
+      "volume": 20355,
       "oi": 691,
-      "ratio": 29.44,
-      "iv": 8.3,
+      "ratio": 29.46,
+      "iv": 7.6,
       "last": 0.01,
-      "bid": 0.01,
-      "ask": 0.02,
+      "bid": 0.0,
+      "ask": 0.01,
       "in_money": false
     },
     {
@@ -1782,11 +1768,11 @@
       "type": "CALL",
       "expiry": "2026-05-06",
       "strike": 637.5,
-      "volume": 1660,
+      "volume": 1666,
       "oi": 57,
-      "ratio": 29.12,
+      "ratio": 29.23,
       "iv": 30.7,
-      "last": 0.45,
+      "last": 0.39,
       "bid": 0.35,
       "ask": 0.44,
       "in_money": false
@@ -1799,10 +1785,10 @@
       "volume": 576,
       "oi": 20,
       "ratio": 28.8,
-      "iv": 123.3,
+      "iv": 124.3,
       "last": 53.4,
-      "bid": 48.55,
-      "ask": 52.0,
+      "bid": 48.6,
+      "ask": 52.05,
       "in_money": true
     },
     {
@@ -1810,12 +1796,12 @@
       "type": "PUT",
       "expiry": "2026-05-06",
       "strike": 382.5,
-      "volume": 1365,
+      "volume": 1369,
       "oi": 49,
-      "ratio": 27.86,
+      "ratio": 27.94,
       "iv": 25.7,
-      "last": 3.2,
-      "bid": 2.81,
+      "last": 2.71,
+      "bid": 2.72,
       "ask": 3.2,
       "in_money": false
     },
@@ -1824,13 +1810,27 @@
       "type": "PUT",
       "expiry": "2026-05-08",
       "strike": 109.0,
-      "volume": 2655,
+      "volume": 2677,
       "oi": 98,
-      "ratio": 27.09,
-      "iv": 117.6,
-      "last": 0.12,
-      "bid": 0.1,
-      "ask": 0.11,
+      "ratio": 27.32,
+      "iv": 118.4,
+      "last": 0.1,
+      "bid": 0.09,
+      "ask": 0.13,
+      "in_money": false
+    },
+    {
+      "ticker": "MSFT",
+      "type": "CALL",
+      "expiry": "2026-05-04",
+      "strike": 417.5,
+      "volume": 40892,
+      "oi": 1516,
+      "ratio": 26.97,
+      "iv": 8.2,
+      "last": 0.01,
+      "bid": 0.0,
+      "ask": 0.01,
       "in_money": false
     },
     {
@@ -1996,12 +1996,28 @@
   ],
   "sec_filings": [
     {
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "form": "8-K",
+      "date": "2026-05-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526204128/d134616d8k.htm",
+      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
       "ticker": "PLTR",
       "company": "Palantir Technologies Inc.",
       "form": "8-K",
       "date": "2026-05-04",
       "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000026/pltr-20260504.htm",
       "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001321655&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum Inc.",
+      "form": "8-K",
+      "date": "2026-05-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000049/qbts-20260430.htm",
+      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001907982&type=8-K&dateb=&owner=include&count=10"
     },
     {
       "ticker": "IBM",
@@ -2628,14 +2644,6 @@
       "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000006951&type=10-Q&dateb=&owner=include&count=10"
     },
     {
-      "ticker": "QBTS",
-      "company": "D-Wave Quantum Inc.",
-      "form": "8-K",
-      "date": "2026-02-19",
-      "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000020/qbts-20260219.htm",
-      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001907982&type=8-K&dateb=&owner=include&count=10"
-    },
-    {
       "ticker": "AMD",
       "company": "ADVANCED MICRO DEVICES INC",
       "form": "8-K",
@@ -2764,14 +2772,6 @@
       "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000707549&type=10-Q&dateb=&owner=include&count=10"
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms, Inc.",
-      "form": "10-K",
-      "date": "2026-01-29",
-      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
-      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801&type=10-K&dateb=&owner=include&count=10"
-    },
-    {
       "ticker": "AMAT",
       "company": "APPLIED MATERIALS INC /DE",
       "form": "DEF 14A",
@@ -2867,17 +2867,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lKdVl2YzJuZzhOemdUODN1M0xkdk1nUnlacFJMUS13MHpQdWJjOUlYVGtPbU5QaEtqRndlYlRYTWdyd1NHa3VEbWM4bG8tYTlrWm5YRzROa3QwZzJUcXk1OWVqdzBHX3Rwdkl1VVhMUmwwdmsxQS1yOGNSSEwxY2owSkFFS1hvZHF6LXhhMHBuRVE?oc=5",
-      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited - StockInvest.us",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2FQenJLMVR6TWNvWUpIZUlTSmlQX1VBOHZrb25fVGc2UjVaLXRDQVlQODN3UVZNS2h2S0hUbTRxUTA4SU1Fc1AyUmNkbDcxb01Nek5HTXp2SElyLWEyODlkaGJvRGo0cWFtQUl4V3NmeVE1aWhwekZBaHA4R1l0a1c2RlNqbzlrcEpzZXNYTHBEdHA2azdXbmhlTG0xaS1LSk5jbTUzUExSNVk?oc=5",
       "published": "Wed, 25 Feb 2026 08:00:00 GMT",
       "summary": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited&nbsp;&nbsp;StockInvest.us"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lKdVl2YzJuZzhOemdUODN1M0xkdk1nUnlacFJMUS13MHpQdWJjOUlYVGtPbU5QaEtqRndlYlRYTWdyd1NHa3VEbWM4bG8tYTlrWm5YRzROa3QwZzJUcXk1OWVqdzBHX3Rwdkl1VVhMUmwwdmsxQS1yOGNSSEwxY2owSkFFS1hvZHF6LXhhMHBuRVE?oc=5",
+      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "summary": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2902,10 +2902,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2NkRXBYaXI5bEpmeDEzOFhLRUU3QmxlNGRUR2tSQWNERkZSWFliUjY3TGpwZ1lqY2J2R1VZdW4xa1hkRFQ3aG1icHdfb0NjZ0JJeXMxYW9lT2ZNWldaa2VXZXIybm1LV2dJN190cXJTNmVodEtib3JPNzNqeHJ5QjQ1LVZMMHF2cDBJX0ZmWWYxaFM1SlRPTm1ic1JSWUVjMDNoZmRib3FUYTFnZnJ5TTlWbkVSOThCdE0yX0NVNkNrbzRwZW5EazhRS2g3TVF0UnBSNTBTVEs3Wkdl?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD&nbsp;&nbsp;24/7 Wall St."
+      "title": "AMD vs. TSMC: Which Chip Stock Actually Delivers the Smarter Return in 2026? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTB5RjZmWjUzY1ZMWERxQWJfT3Vpa2s1X0lIUFMzNVp5ejU5Mno2Z1Q1YlFVQllseGtNVnloM3UzYkZfQ25FT3JLTDNTb2duTG9ldlRBLUxMcEdFVnE1aWNJbEVBTTVhWDJPMGtDdmh4Tm1BQVJXMjhmSU9XLTFYZE4tb0NrQm9oN2c2UHhNQndVMGJTSVBRcnZrVkZncTVyWWhYU1E3dHAySEd1Z0RnaUlTbDVFWlFH?oc=5",
+      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "summary": "AMD vs. TSMC: Which Chip Stock Actually Delivers the Smarter Return in 2026?&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2937,10 +2937,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Arista Stock Rebounds After Losing Meta, Oracle Deals To Nvidia - Investor's Business Daily",
+      "title": "Arista Stock Rebounds From Nvidia Favoring Meta, Oracle - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSy1FSHlMQW1JS0ZaVkJCM2N4OHV3Rk10bGpJaEM1cjdtQ2l3ZVluX3JxWVV1V0lHWDlhYXRDdDRLaDlFYUdXSml0TkNQWWp0cG9HQmIzTjNGMk45emVRX2l2VXRmaU1aUlFwTUczOTNaN3VYQ1Nsel9od3ZpMnF1LVREcEtVa0Vvb1pmdkh4Rjd3VFh0VXpob0duXzRJSmpwVm1rai10bzV3WjV5M2lzbXVTeEh4Vk9ZaFZZ?oc=5",
       "published": "Mon, 27 Apr 2026 20:00:00 GMT",
-      "summary": "Arista Stock Rebounds After Losing Meta, Oracle Deals To Nvidia&nbsp;&nbsp;Investor's Business Daily"
+      "summary": "Arista Stock Rebounds From Nvidia Favoring Meta, Oracle&nbsp;&nbsp;Investor's Business Daily"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3008,8 +3008,8 @@
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "The Best Quantum Computing Stocks to Buy in 2026 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ3BFOWtsQXd2VW8xR0VLU0szczBfMzc3Y245blYzYkp6OUxnMWx5cXFhV3JSOTZTZ1FhWEtmZ2xqaG9BaDlUeXJZbG5jdmczdWRnZzV0SG9kckwzc19GTEppb3I4Uld3Yk9mYWgzYWNfX29TdnRySVk0WFlDck82dW9zV2tGeS1IU1BoNER4SkJsOFJ0eHhoSXo5ZmJmSWRLQjNfczZGZENHNjd6TkhBdXpnSXZqemc4c2FaTkYzRVhBSWVhMXZ4UlpnQnJzZXM?oc=5",
-      "published": "Mon, 04 May 2026 18:26:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZkdWYlYtcUhCWmZTZnhUcl9weUNsWTNqcVpNeXF5X2pqUUY0OHozdEhJamdNX1BEejFFenBoZlc5ajBjTmFuQjFWdDYyWTZQQm8zeWRTeGdKRVRtMXBGNXpIbmZ4Vy1ENHZJLUFfZnhuTXdlLTV0QnkyOUVkRGtqNmw5OTZlRV9yQURtaUR0MkV2TTBaTGYzd3RTMkhGY0lnRGtRdjVsc2JQYkZ0Q2dMTzRiVFBydWoxMkJGejA2dmhzQnZ4Sk5uOU0wc3BFdw?oc=5",
+      "published": "Mon, 04 May 2026 18:53:31 GMT",
       "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;The Globe and Mail"
     },
     {
@@ -3077,17 +3077,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Got $5,000? 2 Quantum Computing Stocks That Insiders Haven't Stopped Buying - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN21SdzV0THNnMFFUM3BmbGh0TVJJeEFROFl0bE9sNHQ0YWxya1FpMkFRS0E1b3R4T3l6SUVWbGFLY0dRRXlWaWthRGxjMWpSbm4yWmk3Z1YxcndVR1d1RGZ2bTNyNExrbVUyQ01PS2dsNUk5WkUxcEx6VHdUczFuSVRjRHBhR1U3S2RqelA4U1otOUpxYmRz?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Got $5,000? 2 Quantum Computing Stocks That Insiders Haven't Stopped Buying&nbsp;&nbsp;The Motley Fool"
+      "title": "Quantum Computing Stocks: Will Earnings, 2026 Outlooks Reignite Momentum? - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUNTN0owa2x6NHhIR0VfVEQxaFc2b050RjVyckdoczlZZlJmajBaNjQyLWhuT1hzbXNudTI4eUlIY3B5dW1uU3NsOEhKRkMxNlhnald2cDNDZW1jdm9BTVo1c01qMTAzcTlxNnc1REpxMHpsc0JLRm04ZnVDaFJJdlMxbDYxVm1xbnFsT3E4cnNHWFhScWJiWUVFdFlqY2pxZU81QXBR?oc=5",
+      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "summary": "Quantum Computing Stocks: Will Earnings, 2026 Outlooks Reignite Momentum?&nbsp;&nbsp;Investor's Business Daily"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Stocks to Gain From Quantum Computing in 2025: MSFT, IBM, QBTS, IONQ - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRW9wZHVIblFXREt4M2FpeXJxVV9lc2tLakdWZXU0LTFEd2ZxbEMxdVYwQTdYUjF3T0FKV21OQVd2RFBrd3FROC1JVjBDcl90WXhEZXhPMGJ2RGZZSTA0a3lGaXpVX3BpRmZ2dFJqYzk0R2RHMVRNZ1VId01yNWQxRjVnUmtsQmc?oc=5",
-      "published": "Thu, 02 Oct 2025 07:00:00 GMT",
-      "summary": "Stocks to Gain From Quantum Computing in 2025: MSFT, IBM, QBTS, IONQ&nbsp;&nbsp;Yahoo Finance"
+      "title": "Prediction: 5 Quantum Computing Stocks That Will Be Worth More Than IonQ 5 Years From Now - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzladlUtQ3RySW1zRHZ5WUJQN2trTjRwaHgzZkIzaThXY2xoSWN3MWJ2RHp5RWY4MjNWaWk4MnYyTklkWEdRZlNUT3RRSXdXVWl1N1FhanQ0dTJJc1NnbVBqS0ZXc0Y0WHB3dHFtNWZaUXFyZWZ3OVJNZGFnd2h2OVZKbUkxXzZMYnhKNzZjWWsxTHlYdmc?oc=5",
+      "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "summary": "Prediction: 5 Quantum Computing Stocks That Will Be Worth More Than IonQ 5 Years From Now&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Yahoo Finance",
@@ -3098,65 +3098,58 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here is Why TTM Technologies\u00a0(TTMI) is Among the 10 Under-the-Radar Stocks That Are On Fire Right Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ttm-technologies-ttmi-among-105407468.html",
-      "published": "2026-05-03T10:54:07Z",
+      "title": "Higher gas prices are eating into Americans' tax refunds",
+      "url": "https://finance.yahoo.com/economy/article/higher-gas-prices-are-eating-into-americans-tax-refunds-133026983.html",
+      "published": "2026-05-02T13:30:26Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "FORM Raised To $155 As Semiconductor Tailwinds Build",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/form-raised-155-semiconductor-tailwinds-105335764.html",
-      "published": "2026-05-03T10:53:35Z",
+      "title": "Network shakeups hit Medicare Advantage, forcing retirees to pay up or find new care",
+      "url": "https://finance.yahoo.com/news/network-shakeups-hit-medicare-advantage-forcing-retirees-to-pay-up-or-find-new-care-150000755.html",
+      "published": "2026-05-02T15:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Powell Industries\u00a0(POWL)\u00a0Among the Under-the-Radar Stocks That Are On Fire Right Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/powell-industries-powl-among-under-105354962.html",
-      "published": "2026-05-03T10:53:54Z",
+      "title": "In a low-hire job market, new grads need more than a high GPA",
+      "url": "https://finance.yahoo.com/economy/article/in-a-low-hire-job-market-new-grads-need-more-than-a-high-gpa-140000672.html",
+      "published": "2026-05-02T14:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Viavi Solutions Inc.\u00a0(VIAV): 10 Under-the-Radar Stocks That Are On Fire Right Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/viavi-solutions-inc-viav-10-105343061.html",
-      "published": "2026-05-03T10:53:43Z",
+      "title": "OPEC Signals Unity After U.A.E. Exit With Pledge to Boost Oil Output",
+      "url": "https://www.wsj.com/world/middle-east/opec-signals-unity-after-u-a-e-exit-with-pledge-to-boost-oil-output-4bd82d07?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-05-03T12:54:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Did Polaris Just Turn Into a Drone Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-polaris-just-turn-drone-112700803.html",
-      "published": "2026-05-03T11:27:00Z",
+      "title": "PayPal Stock Is Down 15% in 2026. Bulls Are Now Betting on a Reorganization to Turn Things Around",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-down-15-2026-130002785.html",
+      "published": "2026-05-03T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "TeraWulf (WULF): Another Target Hike Keeps The Momentum Going",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/terawulf-wulf-another-target-hike-105318096.html",
-      "published": "2026-05-03T10:53:18Z",
+      "title": "For out-of-work Americans, Fed's Powell says it 'doesn't feel like a good labor market' even with 4.3% unemployment",
+      "url": "https://finance.yahoo.com/economy/article/for-out-of-work-americans-feds-powell-says-it-doesnt-feel-like-a-good-labor-market-even-with-43-unemployment-212747052.html",
+      "published": "2026-04-29T21:27:47Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Planet Labs (PL) May Be Targeting A Bigger Opportunity",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-planet-labs-pl-may-105326739.html",
-      "published": "2026-05-03T10:53:26Z",
+      "title": "Warren Buffett once bragged he could fix the deficit \u2018in 5 minutes\u2019 \u2014 And Elon Musk agrees. Could it actually work?",
+      "url": "https://finance.yahoo.com/economy/policy/articles/warren-buffett-once-bragged-could-130500382.html",
+      "published": "2026-05-03T13:05:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Darling Ingredients Beats Expectations \u2014 But The Bigger Story Is Underneath",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-beats-expectations-bigger-105306060.html",
-      "published": "2026-05-03T10:53:06Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Element Solutions (ESI) Is Riding A Powerful Industry Wave",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-element-solutions-esi-riding-105255796.html",
-      "published": "2026-05-03T10:52:55Z",
+      "title": "Google just had its best month since 2004",
+      "url": "https://finance.yahoo.com/markets/article/google-just-had-its-best-month-since-2004-162717056.html",
+      "published": "2026-05-01T16:27:17Z",
       "summary": ""
     },
     {
@@ -3168,9 +3161,16 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "ExxonMobil vs. Chevron: One of These Energy Stocks Is a Much Better Dividend Buy",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/exxonmobil-vs-chevron-one-energy-113500061.html",
-      "published": "2026-05-03T11:35:00Z",
+      "title": "2 Medical Marijuana Stocks to Buy Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-medical-marijuana-stocks-buy-125000557.html",
+      "published": "2026-05-03T12:50:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A new MIT-backed tool shows exactly why your electricity bill is going up in your neighborhood \u2014 you should be concerned",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/mit-backed-tool-shows-exactly-120000574.html",
+      "published": "2026-05-03T12:00:00Z",
       "summary": ""
     }
   ]
