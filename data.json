@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T21:15:00.721120Z",
+  "last_updated": "2026-05-05T22:15:56.701937Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -221,7 +221,7 @@
       "market_cap_fmt": "344.90B",
       "52w_high": 275.84,
       "52w_low": 72.59,
-      "pe_ratio": 34.8498,
+      "pe_ratio": 34.8543,
       "iv": 63.2,
       "beta": 1.819
     },
@@ -245,7 +245,7 @@
       "sector": "AI / Software",
       "name": "Alphabet Inc.",
       "price": 388.43,
-      "prev_close": 382.9,
+      "prev_close": 382.905,
       "change_pct": 1.44,
       "volume": 32163898,
       "volume_fmt": "32.16M",
@@ -317,7 +317,7 @@
       "market_cap_fmt": "325.80B",
       "52w_high": 207.52,
       "52w_low": 105.32,
-      "pe_ratio": 67.9078,
+      "pe_ratio": 67.5531,
       "iv": 56.7,
       "beta": 1.521
     },
@@ -413,7 +413,7 @@
       "market_cap_fmt": "215.26B",
       "52w_high": 324.9,
       "52w_low": 220.72,
-      "pe_ratio": 17.0458,
+      "pe_ratio": 17.0235,
       "iv": 31.8,
       "beta": 0.581
     },
@@ -1853,7 +1853,7 @@
       "ticker": "AMD",
       "date": "2026-05-05",
       "days_away": 0,
-      "eps_estimate": 1.2947
+      "eps_estimate": 1.4397
     },
     {
       "ticker": "SMCI",
@@ -2853,6 +2853,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDc4cFNXbjczTkhZbEVydl9qREdPaC10T1NrTzFVZ3pRZTBiYTFDZk53V0FJb0JQcDdXSjdCWW05Sk5vVUNmWHF1Ri10alN4WlFBVS1sWVhlcnh5QlBuV3dJT3hqVkZERF8xWnFUZFlpVlE4bWRRMEhCWnZEa0l2RV9QdUh3bkUtTlhlNlIxNHVCVHpuR2VqQ2J6cjFzRTdGSWlVQml3N01WQdIBrwFBVV95cUxOWU9YQmRIYVRIdmExaEVsVU1COTBmcDdpR3c0WUVYbGNwVWhhSy1aRXNRdlRiUEpkWndqbi1JdU8tWEdaeVRSb29SX2JpUmZ6bWtQRGF3ZDZzWDRlNEx0TFl4ZlV6amdYYVNodksyb3hwZWFhOUROaXFEb2MtZjZDSXJxanUyUGw5QUlpRm5lQk42dW9xNGVNdEJSeFhvUFc4bWRuQzNMdmE0TEZOdHBn?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand&nbsp;&nbsp;CNBC"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA vs TSMC vs Broadcom: Which AI Chip Stock Looks Best in 2026? - Gotrade",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaE9Rb1B0UXpDeGxlRlVYLTNxX2RINmo0NGRCTE11XzBqQTJwMHRhbFRwWmIyT0Y4YlI2TWlaZG5haGZlMDdDc2g4cHl5RTU0aUJtZjc5eHV1dnZBb21lU3d6RWIwckxmX1V4Tl9LZ05RTHBWaUU0cHBiT2RCSXZhNlhJeTNtYUhxazBIMmFR?oc=5",
       "published": "Fri, 10 Apr 2026 07:00:00 GMT",
@@ -2874,24 +2881,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast&nbsp;&nbsp;CNBC"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made, and It Redefined Dominance - Wccftech",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2FfZEYzOUJCdXY5S29Nb0g4a091SS1kRUxfeklmVG9FYS1iZ1pfWU02cTdoSzM2UHpYMDB6NTZDVFI5c1J6aU1ZN1h5aXYxUGVLdUtrc2kyRzBVMnRxZjBLOGpwV3kxZmhRcmNDMXBvTk80U3hlZnZwc3U5ZUdxaWtKYXA1WUd20gGOAUFVX3lxTE56SlBPd1laWlh1V0FyMHh3eFRCN21VdEVhdkxwWTdPYnFWbmRrbzl1dmVKUDJpcE5leEtzUnI3TGJ1M1ZCUjlQTnY3aG1hNUJrNDZRRHo2ZVVuTHdFOUhNMXZfM3lpb19GZ2xmdFNQLXNuQ3VzVFcyODZqSmktemJHU3JDRFdQZTB4bDRUb0E?oc=5",
       "published": "Sat, 24 Jan 2026 08:00:00 GMT",
       "summary": "NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made, and It Redefined Dominance&nbsp;&nbsp;Wccftech"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZTMtbmF5X09LMktLVGZCTl9PN0R5OF85YTJ0TUc0UWFlaFZ3TktVOFdRc2xtVEJxYjluSWN1aldLX01XZEgtcTZQai15eWJXek44SWZjWUdxQ0FNVXhwZjNpOE5NMXFHa1g5QWk4ZThJbENQdVVHbXA3bjVXRkE?oc=5",
-      "published": "Thu, 02 Apr 2026 07:00:00 GMT",
-      "summary": "Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind.&nbsp;&nbsp;Barron's"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2920,6 +2913,13 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2NkRXBYaXI5bEpmeDEzOFhLRUU3QmxlNGRUR2tSQWNERkZSWFliUjY3TGpwZ1lqY2J2R1VZdW4xa1hkRFQ3aG1icHdfb0NjZ0JJeXMxYW9lT2ZNWldaa2VXZXIybm1LV2dJN190cXJTNmVodEtib3JPNzNqeHJ5QjQ1LVZMMHF2cDBJX0ZmWWYxaFM1SlRPTm1ic1JSWUVjMDNoZmRib3FUYTFnZnJ5TTlWbkVSOThCdE0yX0NVNkNrbzRwZW5EazhRS2g3TVF0UnBSNTBTVEs3Wkdl?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast&nbsp;&nbsp;CNBC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2972,6 +2972,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
@@ -2983,13 +2990,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5",
       "published": "Fri, 16 Jan 2026 08:00:00 GMT",
       "summary": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdyTkpmMlBYYk5JT3hHbnRGYmp3cmxNY3hmaGRzWTBJMFlvLTJJUWNYRWtmTGlocDJjNlJneG0telNOSUFOcG9TN0FlbDJVUXd3VzJVU2hXcngtSDByTm9XQzFwLTU2S1M4UzUxYUs1aWRHZDlSQ2QtTWRKbUY1WGNoUG16Z01DQ0FPUk9WTUt5MEhRaTRKag?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026?&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3098,37 +3098,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Institutions Keep Buying NVIDIA",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/institutions-keep-buying-nvidia-124113218.html",
-      "published": "2026-05-04T12:41:13Z",
+      "title": "RBC Bearings (RBC) Gained From Multiple Converging Tailwinds",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-bearings-rbc-gained-multiple-135846161.html",
+      "published": "2026-05-04T13:58:46Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "See How Big Money Backs Amazon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/see-big-money-backs-amazon-123326178.html",
-      "published": "2026-05-04T12:33:26Z",
+      "title": "Factbox-Global drugmakers rush to boost US presence as tariff threat looms",
+      "url": "https://finance.yahoo.com/news/factbox-global-drugmakers-rush-boost-174250083.html",
+      "published": "2026-05-04T13:45:52Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Strong Results and Improved Guidance Lifted AstraZeneca PLC (AZN)",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/strong-results-improved-guidance-lifted-125437016.html",
-      "published": "2026-05-04T12:54:37Z",
+      "title": "Do You Believe in GeneDx Holdings Corp.\u2019s (WGS) Durable Competitive Moat?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/believe-genedx-holdings-corp-wgs-140354735.html",
+      "published": "2026-05-04T14:03:54Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Oil Shock + Hawkish Fed = Major EUR/USD Downside? Don't Miss These Trading Opportunities",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/oil-shock-hawkish-fed-major-123002411.html",
-      "published": "2026-05-04T12:30:02Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analyst Report: Carvana Co",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_6065_AnalystReport_1778006282000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-05T18:38:02Z",
+      "title": "For $200 a month, a startup says you'll never have to think about home maintenance again. Is it worth it?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/200-month-startup-says-youll-140500756.html",
+      "published": "2026-05-04T14:05:00Z",
       "summary": ""
     },
     {
@@ -3140,37 +3133,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Starting Monday with Strength",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-starting-monday-strength-122830457.html",
-      "published": "2026-05-04T12:28:30Z",
+      "title": "Ignore the OpenAI Panic and Keep Buying Oracle Stock, Says Wedbush",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ignore-openai-panic-keep-buying-134204857.html",
+      "published": "2026-05-04T13:42:04Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Easing Back to Start Monday Morning",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-easing-back-start-monday-122830987.html",
-      "published": "2026-05-04T12:28:30Z",
+      "title": "An Analysis of AmpliTech Group (AMPG) as an Emerging Growth Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-amplitech-group-ampg-emerging-133743152.html",
+      "published": "2026-05-04T13:37:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wheat Falling Back on Monday Morning",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-falling-back-monday-morning-122830957.html",
-      "published": "2026-05-04T12:28:30Z",
+      "title": "Big Tech profits are being inflated by stakes in private startups",
+      "url": "https://finance.yahoo.com/markets/article/big-tech-profits-are-being-inflated-by-stakes-in-private-startups-133330415.html",
+      "published": "2026-05-04T13:33:30Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Taiwan Semi Just Dumped Its Stake in ARM Stock. Why Investors Don\u2019t Seem to Care.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-just-dumped-stake-125654602.html",
-      "published": "2026-05-04T12:56:54Z",
+      "title": "Amcor Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amcor-stock-outlook-wall-street-141252043.html",
+      "published": "2026-05-04T14:12:52Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Altria Group Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3203_AnalystReport_1778006282000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-05T18:38:02Z",
+      "title": "It Will Take More Than Tariffs to Bring Back U.S. Textile Manufacturing, Industry Insiders Say",
+      "url": "https://finance.yahoo.com/economy/policy/articles/more-tariffs-bring-back-us-135523173.html",
+      "published": "2026-05-04T13:55:23Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here\u2019s What Triggered Agilysys\u2019 (AGYS) Sharp Sell Off",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/triggered-agilysys-agys-sharp-sell-141346190.html",
+      "published": "2026-05-04T14:13:46Z",
       "summary": ""
     }
   ]
