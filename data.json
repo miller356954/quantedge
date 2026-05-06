@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T20:48:01.611065Z",
+  "last_updated": "2026-05-06T22:02:26.405381Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -189,7 +189,7 @@
       "market_cap_fmt": "202.97B",
       "52w_high": 205.95,
       "52w_low": 121.99,
-      "pe_ratio": 18.137,
+      "pe_ratio": 18.1194,
       "iv": 59.8,
       "beta": 1.493
     },
@@ -237,7 +237,7 @@
       "market_cap_fmt": "3.08T",
       "52w_high": 555.45,
       "52w_low": 356.28,
-      "pe_ratio": 21.3198,
+      "pe_ratio": 21.4256,
       "iv": 3.2,
       "beta": 1.093
     },
@@ -758,21 +758,21 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-05-08",
-      "call_vol": 967,
+      "call_vol": 968,
       "put_vol": 11751,
       "call_oi": 1672,
       "put_oi": 49586,
-      "pcr": 12.152,
+      "pcr": 12.139,
       "iv": 47.2
     },
     {
       "ticker": "SMH",
       "expiry": "2026-05-08",
-      "call_vol": 17288,
+      "call_vol": 17304,
       "put_vol": 45262,
       "call_oi": 28668,
       "put_oi": 83938,
-      "pcr": 2.618,
+      "pcr": 2.616,
       "iv": 48.4
     },
     {
@@ -2895,17 +2895,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Top 20+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
-      "published": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "summary": "Top 20+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWYwVEhmbEMyRy1UMkpQZExEYTlXUkZjX3RJLUdweHBIV08yQmJlcmZpX2d4MzVjU3ZlQUpSVUpoTE4tXzNoTEtZMjRfZ2I2LTJIQWdhNEJHeDJBVF9NX1oxODFpR0xlaUw3am9NT1hjRTdTMjRQX0syLTZfazZMUVgtMGFNSzFVdFl0a2ROd3NHYlpOTG81X2tUNTlwM2prZTcybWdKLWpXUjRmOTVqTEhnQ2Zqel9tc2NXb2dybmh4Nk0?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand&nbsp;&nbsp;Investopedia"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Top 20+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
+      "published": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "summary": "Top 20+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2944,6 +2944,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnBfTjB3ZkliTVpmU1hieExoV3J4cjJZeXdMNkNlMFdEcmhHY09QcVRxU05qSVZoTXprZFFsanF6eHhPaEpSVGYwd0Z6ODg4WWhRTThOYXV5eVI4RFJlcGdtTTRXR1lVUVB0eDNIdVMtYjZ0M1VLRTdKYzZiU2N2Uk9US25PVEJ5?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Arista Stock Rebounds From Nvidia Favoring Meta, Oracle - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSy1FSHlMQW1JS0ZaVkJCM2N4OHV3Rk10bGpJaEM1cjdtQ2l3ZVluX3JxWVV1V0lHWDlhYXRDdDRLaDlFYUdXSml0TkNQWWp0cG9HQmIzTjNGMk45emVRX2l2VXRmaU1aUlFwTUczOTNaN3VYQ1Nsel9od3ZpMnF1LVREcEtVa0Vvb1pmdkh4Rjd3VFh0VXpob0duXzRJSmpwVm1rai10bzV3WjV5M2lzbXVTeEh4Vk9ZaFZZ?oc=5",
       "published": "Mon, 27 Apr 2026 07:00:00 GMT",
@@ -2976,13 +2983,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdraFpXMU50UzBuVTJKUmJKd3RQSmliaThhd05sMWhmLVFObm9NXzdRR0JmcWRYY0U4SDcxektNVUlHV1hwWkhzQV9mb3E2dVBwdWpyY2NGNTFBX2plSE9ZQTl6T3M5UW83R1VpUGJhWUFJdUxXbk5uN0syWlpzOUFNNE1ORnlDU0w2eFhnS3FaWHE4QlVR?oc=5",
       "published": "Wed, 22 Apr 2026 07:00:00 GMT",
       "summary": "Nvidia Is Cooling, Microsoft Is Stumbling, and the Fed Won't Cut. Here's Why I'm Still Buying Artificial Intelligence (AI) Stocks.&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3098,37 +3098,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Sleep Number (SNBR) Says Performance Remains on Track with Q1 Expectations",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sleep-number-snbr-says-performance-121805805.html",
-      "published": "2026-05-05T12:18:05Z",
+      "title": "Sugar Prices Are Supported by Global Inflation Worries and Droughts. Where to Buy.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-supported-global-inflation-134852547.html",
+      "published": "2026-05-05T13:48:52Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Canaccord Maintains Buy Rating on Compass Therapeutics (CMPX)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/canaccord-maintains-buy-rating-compass-121653644.html",
-      "published": "2026-05-05T12:16:53Z",
+      "title": "Vertiv Holdings Co. (VRT) Surged on Above-Expected Orders and Backlog",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-surged-134811711.html",
+      "published": "2026-05-05T13:48:11Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Magnachip (MX) Reports Q1 EPS of (11c)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/magnachip-mx-reports-q1-eps-121743659.html",
-      "published": "2026-05-05T12:17:43Z",
+      "title": "Strong Earnings Report Lifted Cognex Corporation (CGNX) in Q1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-earnings-report-lifted-cognex-135056398.html",
+      "published": "2026-05-05T13:50:56Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Greenland Energy (GLND) Signs Halliburton Deal for Consulting Services",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/greenland-energy-glnd-signs-halliburton-121758790.html",
-      "published": "2026-05-05T12:17:58Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analyst Report: Ford Motor Co",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2959_AnalystReport_1778091857000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-06T18:24:17Z",
+      "title": "Compressed Valuation Multiple Hurt Gartner (IT) in Q1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/compressed-valuation-multiple-hurt-gartner-135344883.html",
+      "published": "2026-05-05T13:53:44Z",
       "summary": ""
     },
     {
@@ -3140,37 +3133,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Bed Bath & Beyond (BBBY) the Best Day Trading Penny Stock to Buy?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bed-bath-beyond-bbby-best-121735925.html",
-      "published": "2026-05-05T12:17:35Z",
+      "title": "Why \u2018looking poor\u2019 is crucial for a comfy retirement in America. How fake social status could be ruining your finances",
+      "url": "https://finance.yahoo.com/markets/articles/why-looking-poor-crucial-comfy-135500842.html",
+      "published": "2026-05-05T13:55:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ryde Group (RYDE) Signs MOU with VinaTaxi to Explore Mobility Partnership",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ryde-group-ryde-signs-mou-121704697.html",
-      "published": "2026-05-05T12:17:04Z",
+      "title": "What Makes Once Upon a Farm (OFRM) an Investment Choice?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-once-upon-farm-ofrm-135539329.html",
+      "published": "2026-05-05T13:55:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soluna Holdings (SLNH) Partners with Sazmining",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/soluna-holdings-slnh-partners-sazmining-121713258.html",
-      "published": "2026-05-05T12:17:13Z",
+      "title": "Tigress Financial Raises Boeing (BA) Price Target to $295, Sees Strong Upside Ahead",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tigress-financial-raises-boeing-ba-135825519.html",
+      "published": "2026-05-05T13:58:25Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Huntington Ingalls posts lower quarterly margin as costs weigh",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-posts-lower-quarterly-121344917.html",
-      "published": "2026-05-05T12:13:44Z",
+      "title": "Planet Fitness (PLNT) Slipped on Cautious Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/planet-fitness-plnt-slipped-cautious-135812205.html",
+      "published": "2026-05-05T13:58:12Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: PayPal Holdings Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3645_AnalystReport_1778091857000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-06T18:24:17Z",
+      "title": "Microsoft's Capex Spending for 2026 Is 23% Higher Than What Analysts Were Expecting. The Problem Is Rising Memory Prices",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsofts-capex-spending-2026-23-135000219.html",
+      "published": "2026-05-05T13:50:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Significant Growth in the End Market Lifted RBC Bearings Incorporated (RBC) in Q1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/significant-growth-end-market-lifted-134441622.html",
+      "published": "2026-05-05T13:44:41Z",
       "summary": ""
     }
   ]
