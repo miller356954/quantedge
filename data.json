@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T21:42:22.147289Z",
+  "last_updated": "2026-05-11T22:41:28.760105Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -1859,7 +1859,7 @@
       "ticker": "QUBT",
       "date": "2026-05-11",
       "days_away": 0,
-      "eps_estimate": -0.05
+      "eps_estimate": -0.065
     },
     {
       "ticker": "QBTS",
@@ -2846,13 +2846,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Taiwan Semiconductor Manufacturing Company Stock Jumps as AMD\u2019s AI Surge Puts TSMC Capacity in Focus - TechStock\u00b2",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckRUR05QWG5rdEZOeGRYZ3JjVVE4R2J3aEdpeWwweTBPNXlVT0pRVDlTbVA5MTZNdG9GdUxmVVFaYUdQVmJsVVotU3o3ay1qcmRTeTVwbWNWN25kcEpUM3A3WVJKQkFvQlNRVFRQaVRJV0ptbVRELWItb044cUsyTVJteWtZeksybjE1ZGJHNVpxdDloTFdkMmFBNEZmaTZkRTM1Z2Fhd2hYdE0zS003dFhySjVuQjlSZGFISQ?oc=5",
-      "published": "Wed, 06 May 2026 22:27:26 GMT",
-      "summary": "Taiwan Semiconductor Manufacturing Company Stock Jumps as AMD\u2019s AI Surge Puts TSMC Capacity in Focus&nbsp;&nbsp;TechStock\u00b2"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "AI Demand Is Surging \u2014 But Taiwan Semiconductor Is Controlling the Supply - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXl1ak5ZbC1GM1dLb2t0STVEVklSUEVpMTRpZC16b1FtaDZlSHF2TGk0VTFqQ0xucC1QcmE5Z0lXc3g2LVpOMFJLdjVQLTMwMFk0NVBtMzZiRVBURWkzcmczeGdYQ2NGSjZfQTRKV3JQR2RXVlZEcXo3OUdSYjFEM2xMYXN4VTM5OHdSWEhhdFZ3QlVaYnBoOUZHeEZPOGZud3pPUGtYV0JUU2xZaExGbmx4cUcxYmtVOVE?oc=5",
       "published": "Wed, 29 Apr 2026 07:00:00 GMT",
@@ -2874,17 +2867,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited - StockInvest.us",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2FQenJLMVR6TWNvWUpIZUlTSmlQX1VBOHZrb25fVGc2UjVaLXRDQVlQODN3UVZNS2h2S0hUbTRxUTA4SU1Fc1AyUmNkbDcxb01Nek5HTXp2SElyLWEyODlkaGJvRGo0cWFtQUl4V3NmeVE1aWhwekZBaHA4R1l0a1c2RlNqbzlrcEpzZXNYTHBEdHA2azdXbmhlTG0xaS1LSk5jbTUzUExSNVk?oc=5",
-      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "summary": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited&nbsp;&nbsp;StockInvest.us"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA vs TSMC vs Broadcom: Which AI Chip Stock Looks Best in 2026? - Gotrade",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaE9Rb1B0UXpDeGxlRlVYLTNxX2RINmo0NGRCTE11XzBqQTJwMHRhbFRwWmIyT0Y4YlI2TWlaZG5haGZlMDdDc2g4cHl5RTU0aUJtZjc5eHV1dnZBb21lU3d6RWIwckxmX1V4Tl9LZ05RTHBWaUU0cHBiT2RCSXZhNlhJeTNtYUhxazBIMmFR?oc=5",
       "published": "Fri, 10 Apr 2026 07:00:00 GMT",
       "summary": "NVIDIA vs TSMC vs Broadcom: Which AI Chip Stock Looks Best in 2026?&nbsp;&nbsp;Gotrade"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited - StockInvest.us",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2FQenJLMVR6TWNvWUpIZUlTSmlQX1VBOHZrb25fVGc2UjVaLXRDQVlQODN3UVZNS2h2S0hUbTRxUTA4SU1Fc1AyUmNkbDcxb01Nek5HTXp2SElyLWEyODlkaGJvRGo0cWFtQUl4V3NmeVE1aWhwekZBaHA4R1l0a1c2RlNqbzlrcEpzZXNYTHBEdHA2azdXbmhlTG0xaS1LSk5jbTUzUExSNVk?oc=5",
+      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "summary": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited&nbsp;&nbsp;StockInvest.us"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2922,6 +2915,20 @@
       "summary": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand&nbsp;&nbsp;Investopedia"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC: The Foundry Behind Nvidia, AMD and Apple Is Setting AI On Fire - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LTEVLOWdBSjNhS1BXQnVkaXdXdy01cldzZXl6bzJEdUNGUU1GMGZCeVRMdndsMG5tMm1PQ3pOZ25KYXVoenNpUS1DNk15b2o5V3lzZW8yak9YbHA2UHFxdXhEY1FPcEZHN25iMFoxT1ZmTWk3dUpiQXpjN0FKQQ?oc=5",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "TSMC: The Foundry Behind Nvidia, AMD and Apple Is Setting AI On Fire&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "The Best AI Stocks to Buy Now - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
+      "published": "Thu, 07 May 2026 07:00:00 GMT",
+      "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
+    },
+    {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
@@ -2937,13 +2944,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "The Best AI Stocks to Buy Now - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
-      "published": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnBfTjB3ZkliTVpmU1hieExoV3J4cjJZeXdMNkNlMFdEcmhHY09QcVRxU05qSVZoTXprZFFsanF6eHhPaEpSVGYwd0Z6ODg4WWhRTThOYXV5eVI4RFJlcGdtTTRXR1lVUVB0eDNIdVMtYjZ0M1VLRTdKYzZiU2N2Uk9US25PVEJ5?oc=5",
       "published": "Mon, 16 Mar 2026 07:00:00 GMT",
@@ -2951,10 +2951,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Arista Stock Rebounds From Nvidia Favoring Meta, Oracle - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSy1FSHlMQW1JS0ZaVkJCM2N4OHV3Rk10bGpJaEM1cjdtQ2l3ZVluX3JxWVV1V0lHWDlhYXRDdDRLaDlFYUdXSml0TkNQWWp0cG9HQmIzTjNGMk45emVRX2l2VXRmaU1aUlFwTUczOTNaN3VYQ1Nsel9od3ZpMnF1LVREcEtVa0Vvb1pmdkh4Rjd3VFh0VXpob0duXzRJSmpwVm1rai10bzV3WjV5M2lzbXVTeEh4Vk9ZaFZZ?oc=5",
-      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "Arista Stock Rebounds From Nvidia Favoring Meta, Oracle&nbsp;&nbsp;Investor's Business Daily"
+      "title": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5",
+      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "summary": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats&nbsp;&nbsp;Investor's Business Daily"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2979,6 +2979,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Blockbuster $40b AI Investment Is Only 10% of What\u2019s Coming (NVDA, MSFT, META, BLK) - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOanhDZWxzVWRoM3d2QVN1RWZKZWpRWUtfdmw3ckZWR0kwZDVRZHVTYkxFUTlqdHl2eXhTQWJsNkJoQ3lacmxjcG11a2dLamVmRndmanlLd0tab24wTERWdmsySnBKUVB5VXN0RF9xbXZZV3prUjRzSmMzZlNBU0NGTEx4R3EzLWlHZklfWFFpQlcxZldLQzExUnBqVlBXVXNNNlhVRHp3SVRjc29mX2JhOWdOSzdpb2RZY3BRaWVXdzhzcUJFSzVGTTNMRmFhSHFrRzhjZUlwYWFtREdZ?oc=5",
+      "published": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "summary": "Blockbuster $40b AI Investment Is Only 10% of What\u2019s Coming (NVDA, MSFT, META, BLK)&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Nvidia Is Cooling, Microsoft Is Stumbling, and the Fed Won't Cut. Here's Why I'm Still Buying Artificial Intelligence (AI) Stocks. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdraFpXMU50UzBuVTJKUmJKd3RQSmliaThhd05sMWhmLVFObm9NXzdRR0JmcWRYY0U4SDcxektNVUlHV1hwWkhzQV9mb3E2dVBwdWpyY2NGNTFBX2plSE9ZQTl6T3M5UW83R1VpUGJhWUFJdUxXbk5uN0syWlpzOUFNNE1ORnlDU0w2eFhnS3FaWHE4QlVR?oc=5",
       "published": "Wed, 22 Apr 2026 07:00:00 GMT",
@@ -2990,13 +2997,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODBJV3VIUzZmclJ3c0FQeHJFcjR4c1BoUlNlek8yWWhCblFmRVo3UDhlY2Fuai1GMHJLWnRMN2U0YVRmZTRFNlhGWVdsS2VTZ2xsYXpha2FJeGREUDJsQ3ZISUNhaTFBT2pjUXJZWW05T2wwdFJqdnBXcExiNTh3VkdtYjg5N0FVRGhpbEsyekhPbXRrYzBhRm8zVWc?oc=5",
       "published": "Sun, 29 Mar 2026 07:00:00 GMT",
       "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5",
-      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "summary": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats&nbsp;&nbsp;Investor's Business Daily"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3098,79 +3098,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI Demand Powered 303% Rally in AMD Stock. Huge Growth Could Still Be Ahead.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-demand-powered-303-rally-130002368.html",
-      "published": "2026-05-10T13:00:02Z",
+      "title": "Dan Ives Can\u2019t Make It Any Clearer: Palantir Stock Is Still a \u2018Golden Goose\u2019 Despite Q1 Earnings Fears",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-t-clearer-palantir-140002451.html",
+      "published": "2026-05-10T14:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dave Ramsey says there\u2019s one way to tell if someone is going to \u2018stay middle class.\u2019 Here\u2019s how you can break the cycle",
-      "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-says-one-way-130000316.html",
-      "published": "2026-05-10T13:00:00Z",
+      "title": "Why the Hard Times for Software Stocks May Be Over, At Least for a Little While",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-hard-times-software-stocks-140002339.html",
+      "published": "2026-05-10T14:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mark Cuban \u2018lived like a student\u2019 after making his first $2 million. Here\u2019s what he did and how you can learn from it",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-lived-student-making-131000864.html",
-      "published": "2026-05-10T13:10:00Z",
+      "title": "McDonald's Stock Falls Through 1-Year Lows - Are Sales Slowdown Fears Overdone?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-falls-1-lows-140003926.html",
+      "published": "2026-05-10T14:00:03Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Robert Kiyosaki warns a \u2018Greater Depression\u2019 is coming for the US. How to protect yourself (and stay rich) if he\u2019s right",
-      "url": "https://finance.yahoo.com/economy/articles/robert-kiyosaki-warns-greater-depression-120500082.html",
-      "published": "2026-05-10T12:05:00Z",
+      "title": "Legendary investor who made an estimated $100 million on 1987 crash says investors could see 'negative 10-year returns'",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-made-estimated-100-140000604.html",
+      "published": "2026-05-10T14:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Jacobs Solutions Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3667_AnalystReport_1778516821000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-11T16:27:01Z",
+      "title": "What Saudi Aramco\u2019s CEO Just Said Has Huge Implications for the Trump Bull Market",
+      "url": "https://finance.yahoo.com/economy/articles/saudi-aramco-ceo-just-said-140236619.html",
+      "published": "2026-05-10T14:02:36Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jeff Bezos\u2019 Move to Florida: A $1 Billion Tax Savings Lesson for High Earners",
-      "url": "https://finance.yahoo.com/economy/policy/articles/jeff-bezos-move-florida-1-125505050.html",
-      "published": "2026-05-10T12:55:05Z",
+      "title": "Why Amazon (AMZN) is a Top AI Stock Pick of Cathie Wood?",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/why-amazon-amzn-top-ai-135433982.html",
+      "published": "2026-05-10T13:54:33Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "How to Invest During Geopolitical\u00a0Uncertainty",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-during-geopolitical-uncertainty-120000750.html",
-      "published": "2026-05-10T12:00:00Z",
+      "title": "Should You Buy CoreWeave (CRWV)\u00a0on Post-Earnings Dip?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-coreweave-crwv-post-earnings-135440521.html",
+      "published": "2026-05-10T13:54:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Teen investors have time on their side. Teaching them to avoid 'get rich quick' schemes is key, experts say.",
-      "url": "https://finance.yahoo.com/economy/article/teen-investors-have-time-on-their-side-teaching-them-to-avoid-get-rich-quick-schemes-is-key-experts-say-114726339.html",
-      "published": "2026-05-10T11:47:26Z",
+      "title": "Here\u2019s Cathie Wood\u2019s Top Defensive Stock Pick in 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-top-defensive-stock-134829069.html",
+      "published": "2026-05-10T13:48:29Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Planet Fitness Stock Is Plunging. It Desperately Needs New Gymgoers.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/planet-fitness-stock-plunging-desperately-133002939.html",
-      "published": "2026-05-10T13:30:02Z",
+      "title": "Advanced Micro Devices (AMD) Doesn\u2019t Need to Beat Nvidia (NVDA) To Be a Winner \u2013 Cathie Wood\u2019s Top AI Chip Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-doesn-134832094.html",
+      "published": "2026-05-10T13:48:32Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "This billionaire says the market may be in for a \u2018breathtaking\u2019 correction \u2014 but he\u2019s still buying AI stocks. Here\u2019s why",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-says-market-may-breathtaking-113500640.html",
-      "published": "2026-05-10T11:35:00Z",
+      "title": "Billionaire Mark Cuban Says Buying 2 Years Of Toothpaste At 50% Off Beats Regular Investments \u2014 'It's So Hard To Make A Return'",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-mark-cuban-says-buying-140007957.html",
+      "published": "2026-05-10T14:00:07Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Fidelity Natl Information Serv",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_4020_AnalystReport_1778516821000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-11T16:27:01Z",
+      "title": "The QQQ ETF Has Summited a Very Large Mountain. Make Sure You\u2019re Ready for When It Climbs Back Down.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qqq-etf-summited-very-large-134501828.html",
+      "published": "2026-05-10T13:45:01Z",
       "summary": ""
     }
   ]
