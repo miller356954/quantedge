@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T20:54:21.911306Z",
+  "last_updated": "2026-05-14T22:15:21.400610Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -519,7 +519,7 @@
       "ticker": "NVDA",
       "expiry": "2026-05-15",
       "call_vol": 1521550,
-      "put_vol": 717835,
+      "put_vol": 717787,
       "call_oi": 1178922,
       "put_oi": 1014373,
       "pcr": 0.472,
@@ -558,8 +558,8 @@
     {
       "ticker": "ASML",
       "expiry": "2026-05-15",
-      "call_vol": 5869,
-      "put_vol": 4765,
+      "call_vol": 5868,
+      "put_vol": 4764,
       "call_oi": 20070,
       "put_oi": 30244,
       "pcr": 0.812,
@@ -639,9 +639,9 @@
       "ticker": "META",
       "expiry": "2026-05-15",
       "call_vol": 200915,
-      "put_vol": 58726,
+      "put_vol": 58727,
       "call_oi": 331435,
-      "put_oi": 156112,
+      "put_oi": 156109,
       "pcr": 0.292,
       "iv": 26.1
     },
@@ -659,9 +659,9 @@
       "ticker": "ORCL",
       "expiry": "2026-05-15",
       "call_vol": 175095,
-      "put_vol": 43536,
+      "put_vol": 43535,
       "call_oi": 290338,
-      "put_oi": 167800,
+      "put_oi": 167750,
       "pcr": 0.249,
       "iv": 51.8
     },
@@ -1853,7 +1853,7 @@
       "ticker": "AMAT",
       "date": "2026-05-14",
       "days_away": 0,
-      "eps_estimate": 2.6839
+      "eps_estimate": 2.9014
     },
     {
       "ticker": "NVDA",
@@ -3071,17 +3071,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Quantum Computing Stocks: 'Winner-Take-All Scenario' Possible, Says JPMorgan - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXJXcDFpY3kzeG9GcHJNSDI1MUsweTFhRTN5RHpaREN5dGNRSkVTUGY3LUxjVGlYeUpnUU5kM05pVUw0RGJiRW5Ka3BtTm1ncTZ2dEZySzBlTnZrMVdiQnhQNzM3ZmdDT0FXWDdZUWlwVDRfV0RPNXJydFVHZkFfZllnaEFDdzdIQTVmSEI5LTBMYVVaQXJCaVZXWC1jeUxKdXRN?oc=5",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "summary": "Quantum Computing Stocks: 'Winner-Take-All Scenario' Possible, Says JPMorgan&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Prediction: 5 Quantum Computing Stocks That Will Be Worth More Than IonQ 5 Years From Now - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzladlUtQ3RySW1zRHZ5WUJQN2trTjRwaHgzZkIzaThXY2xoSWN3MWJ2RHp5RWY4MjNWaWk4MnYyTklkWEdRZlNUT3RRSXdXVWl1N1FhanQ0dTJJc1NnbVBqS0ZXc0Y0WHB3dHFtNWZaUXFyZWZ3OVJNZGFnd2h2OVZKbUkxXzZMYnhKNzZjWWsxTHlYdmc?oc=5",
       "published": "Wed, 04 Feb 2026 08:00:00 GMT",
       "summary": "Prediction: 5 Quantum Computing Stocks That Will Be Worth More Than IonQ 5 Years From Now&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "This is the Only Quantum Computing Stock You Should Buy - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVczRldEQUhkUG0zVnJnbUY5M0ZVU1AwVTdPM1hONWRXd3RrNU12bWlQd1dBa1FsdW5NaWhrSmFBck1nTkgzUjN4VGdoeW1zc2FOaDQtLUpUZmUySzRPVGx5bUxPWk54Zk9vbW55OVJVd25pMjRMSk5nZXBsekVpMHc5OG8?oc=5",
-      "published": "Fri, 14 Nov 2025 08:00:00 GMT",
-      "summary": "This is the Only Quantum Computing Stock You Should Buy&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Yahoo Finance",
@@ -3092,79 +3092,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "EQT's pending $14.3B Intertek takeover adds to run of UK take-privates",
-      "url": "https://finance.yahoo.com/news/eqts-pending-14-3b-intertek-121756579.html",
-      "published": "2026-05-13T12:17:56Z",
+      "title": "Softbank\u2019s Eggs are Safe in The OpenAI Basket For Now",
+      "url": "https://finance.yahoo.com/news/softbanks-eggs-safe-openai-basket-144207813.html",
+      "published": "2026-05-13T14:42:07Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Coinbase Holds Above Key Level After Earnings Miss; Is The Stock A Buy Now?",
-      "url": "https://www.investors.com/research/coinbase-stock-buy-now-may-2026/?src=A00220&yptr=yahoo",
-      "published": "2026-05-13T12:15:19Z",
+      "title": "Jim Cramer Considers Steel Dynamics a \u201cGreat Company\u201d",
+      "url": "https://finance.yahoo.com/news/jim-cramer-considers-steel-dynamics-142850820.html",
+      "published": "2026-05-13T14:28:50Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Wall Street Bullish or Bearish on Broadcom Stock?",
-      "url": "https://finance.yahoo.com/news/wall-street-bullish-bearish-broadcom-122048497.html",
-      "published": "2026-05-13T12:20:48Z",
+      "title": "Jim Cramer on Constellation Energy: \u201cThe Earnings Have Been Fine, It\u2019s the Zeitgeist That Matters There\u201d",
+      "url": "https://finance.yahoo.com/news/jim-cramer-constellation-energy-earnings-142826607.html",
+      "published": "2026-05-13T14:28:26Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
-      "published": "2026-05-13T12:15:00Z",
+      "title": "Jim Cramer on United Parcel: \u201cI Don\u2019t Buy Stocks for Yield. I Buy Stocks for Growth\u201d",
+      "url": "https://finance.yahoo.com/news/jim-cramer-united-parcel-don-142840625.html",
+      "published": "2026-05-13T14:28:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: 3M Co",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3200_AnalystReport_1778780968000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-14T17:49:28Z",
+      "title": "Long-Term Optimism",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_47037_PortfolioIdeas_1778789190000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "published": "2026-05-14T20:06:30Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Transcript: Protalix BioTherapeutics Q1 2026 Earnings Conference Call",
-      "url": "https://finance.yahoo.com/news/transcript-protalix-biotherapeutics-q1-2026-121950605.html",
-      "published": "2026-05-13T12:19:50Z",
+      "title": "AI Business Transition Moves Forward as Two Hands Files Change of Business Documents (TWOH)",
+      "url": "https://finance.yahoo.com/news/ai-business-transition-moves-forward-143954370.html",
+      "published": "2026-05-13T14:39:54Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting Fortive Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/news/wall-street-analysts-predicting-fortive-122617625.html",
-      "published": "2026-05-13T12:26:17Z",
+      "title": "Jim Cramer on ASML: \u201cLet\u2019s Just Hope for a Down Day and Get In\u201d",
+      "url": "https://finance.yahoo.com/news/jim-cramer-asml-let-just-142852911.html",
+      "published": "2026-05-13T14:28:52Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Consolidated Edison Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/news/consolidated-edison-stock-outlook-wall-122322284.html",
-      "published": "2026-05-13T12:23:22Z",
+      "title": "Jim Cramer on Affirm: \u201cThis Is Now a Very Profitable Business\u201d",
+      "url": "https://finance.yahoo.com/news/jim-cramer-affirm-now-very-142845263.html",
+      "published": "2026-05-13T14:28:45Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for Cigna Stock?",
-      "url": "https://finance.yahoo.com/news/wall-street-analysts-target-price-121057168.html",
-      "published": "2026-05-13T12:10:57Z",
+      "title": "Jim Cramer Says \u201cValero Will Print Money for You\u201d",
+      "url": "https://finance.yahoo.com/news/jim-cramer-says-valero-print-142842109.html",
+      "published": "2026-05-13T14:28:42Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Pushing Higher Ahead of Trump/Xi Visit",
-      "url": "https://finance.yahoo.com/news/soybeans-pushing-higher-ahead-trump-122542396.html",
-      "published": "2026-05-13T12:25:42Z",
+      "title": "Jim Cramer Calls Qnity an \u201cUnheralded Semiconductor Play\u201d",
+      "url": "https://finance.yahoo.com/news/jim-cramer-calls-qnity-unheralded-142828012.html",
+      "published": "2026-05-13T14:28:28Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Elevance Health Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3524_AnalystReport_1778780968000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-14T17:49:28Z",
+      "title": "Oklo shares fall on wider-than-expected Q1 loss",
+      "url": "https://finance.yahoo.com/news/oklo-shares-fall-wider-expected-144100410.html",
+      "published": "2026-05-13T14:41:00Z",
       "summary": ""
     }
   ]
