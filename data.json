@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T21:14:59.700159Z",
+  "last_updated": "2026-05-20T22:46:39.029034Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -237,7 +237,7 @@
       "market_cap_fmt": "3.13T",
       "52w_high": 555.45,
       "52w_low": 356.28,
-      "pe_ratio": 21.7366,
+      "pe_ratio": 21.774,
       "iv": 7.9,
       "beta": 1.093
     },
@@ -1853,7 +1853,7 @@
       "ticker": "NVDA",
       "date": "2026-05-20",
       "days_away": 0,
-      "eps_estimate": 1.7737
+      "eps_estimate": 1.7719
     },
     {
       "ticker": "ARQQ",
@@ -2959,6 +2959,27 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
+      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;Investopedia"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUpLcGI1RmQyRU9KMHE1dUZTLUYxM1dYQ2htZV9tOERoS1dXazZrUUxvODZXa2FVNWtRaWdhVHZFZFFRaDhaeEEyY0FzZGhocFlDV3VFMnBPalZUTnhfbE9jZ0FtUGlhYVdaeGlzV0loVTZDMDU0QzJXQVZNbmd0aldlTzFSMFhJVWVnX1FXSGdMYi13SmVTMXpJU3o3eF9jSDVvNzFrWmg0QQ?oc=5",
+      "published": "Sat, 31 Jan 2026 08:00:00 GMT",
+      "summary": "Meta and Microsoft: How investors are weighing AI spending vs. results (META:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Nvidia Is Cooling, Microsoft Is Stumbling, and the Fed Won't Cut. Here's Why I'm Still Buying Artificial Intelligence (AI) Stocks. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdraFpXMU50UzBuVTJKUmJKd3RQSmliaThhd05sMWhmLVFObm9NXzdRR0JmcWRYY0U4SDcxektNVUlHV1hwWkhzQV9mb3E2dVBwdWpyY2NGNTFBX2plSE9ZQTl6T3M5UW83R1VpUGJhWUFJdUxXbk5uN0syWlpzOUFNNE1ORnlDU0w2eFhnS3FaWHE4QlVR?oc=5",
       "published": "Wed, 22 Apr 2026 07:00:00 GMT",
@@ -2973,31 +2994,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
-      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;Investopedia"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Can You Invest in DeepSeek in 2026? Details & Alternatives - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWVJWVR1Z2FrTkJjTFl0Tk1SZndndFctRHJ1N1RSSXdPaDVvTHpPR2ZmOGNSUzBzYVFpbkZtYW5CYThjaElqaTVPcTltdy1uSUk2cGo2bnpoTzZYcjNvQV9KVHBHTExaOHYyd3l4NVE4THZhckg5S0tGYlVXUjFZajNrM29LQ2ZsN2VqOQ?oc=5",
-      "published": "Thu, 14 May 2026 19:33:00 GMT",
-      "summary": "Can You Invest in DeepSeek in 2026? Details & Alternatives&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODBJV3VIUzZmclJ3c0FQeHJFcjR4c1BoUlNlek8yWWhCblFmRVo3UDhlY2Fuai1GMHJLWnRMN2U0YVRmZTRFNlhGWVdsS2VTZ2xsYXpha2FJeGREUDJsQ3ZISUNhaTFBT2pjUXJZWW05T2wwdFJqdnBXcExiNTh3VkdtYjg5N0FVRGhpbEsyekhPbXRrYzBhRm8zVWc?oc=5",
-      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
-      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
+      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
+      "published": "Thu, 07 May 2026 07:00:00 GMT",
+      "summary": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3071,100 +3071,100 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "SA Asks: What's the best quantum computing stock play right now? - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXU2WjFFdnMwZkxlcUZxZFNHeTlkSElYLVc3dk1pblJGVzVCTzd3WGxGcjVVdEd0Yk1IR2JYRlJ6bERvYmg1bGxHQVdaSWJFeEVadzJRN2NwdzNXTE9ocjZGNTJIM2NTeFJLUjVfU19MWENadktvaVkwRFcyOWxwRVhXLTJoUUhqUHRCc3Q4V2J4OUhIWXBHV1NONkhQcWkt?oc=5",
+      "published": "Sun, 02 Nov 2025 07:00:00 GMT",
+      "summary": "SA Asks: What's the best quantum computing stock play right now?&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHB3MnhOQmR6OEJwMHZ4TTg1eHhLbHZndndfWFRvUWVhUXdFUEhSS1lBR1VUSUl2TzA0bGpHSWFGbWZ6VzFCQ3pwLTQ0QjczbjVwZzBKUE1GT2VQQTk1V0szZTdBSlJwalVuT3RsYUhUQnc4VU9pXzI5amNWNTA1TFNBT3JTX3JlV201UHo4TWczaGhRcHBF?oc=5",
       "published": "Fri, 13 Feb 2026 08:00:00 GMT",
       "summary": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now.&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum Computing Stocks: 'Winner-Take-All Scenario' Possible, Says JPMorgan - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXJXcDFpY3kzeG9GcHJNSDI1MUsweTFhRTN5RHpaREN5dGNRSkVTUGY3LUxjVGlYeUpnUU5kM05pVUw0RGJiRW5Ka3BtTm1ncTZ2dEZySzBlTnZrMVdiQnhQNzM3ZmdDT0FXWDdZUWlwVDRfV0RPNXJydFVHZkFfZllnaEFDdzdIQTVmSEI5LTBMYVVaQXJCaVZXWC1jeUxKdXRN?oc=5",
-      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "Quantum Computing Stocks: 'Winner-Take-All Scenario' Possible, Says JPMorgan&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
       "source": "Yahoo Finance",
-      "title": "Why Gen Z is saying 'no' more often \u2013 and saving more money",
-      "url": "https://finance.yahoo.com/economy/articles/why-gen-z-saying-no-130023762.html",
-      "published": "2026-05-19T13:00:23Z",
+      "title": "Target sees unexpected shift in customer behavior",
+      "url": "https://finance.yahoo.com/economy/articles/target-sees-unexpected-shift-customer-150445821.html",
+      "published": "2026-05-20T15:04:45Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Cerebras Just Rocketed Onto the Nasdaq. The Biggest IPO of 2026 Isn\u2019t a Buy Here.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-just-rocketed-onto-nasdaq-130002526.html",
-      "published": "2026-05-19T13:00:02Z",
+      "title": "Gary Stevenson says 'your kids will be poorer than you' \u2014 as U.S. income inequality widens",
+      "url": "https://finance.yahoo.com/economy/articles/gary-stevenson-says-kids-poorer-144500289.html",
+      "published": "2026-05-19T14:45:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "The AI Boom Is Likely to Keep Pushing DELL Stock Higher",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-boom-likely-keep-pushing-130002103.html",
-      "published": "2026-05-19T13:00:02Z",
+      "title": "Dollar Edges Higher and Gold Slumps as T-note Yields Soar",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-edges-higher-gold-slumps-144239718.html",
+      "published": "2026-05-19T14:42:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Meta Stock Is Off Its Highs, and Could be Cheap - What's the Best META Play?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-off-highs-could-130002005.html",
-      "published": "2026-05-19T13:00:02Z",
+      "title": "NVIDIA Corporation (NVDA) Faces Long-Term Uncertainty Despite Dominance in Rapidly Evolving Tech Landscape",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-faces-long-144308664.html",
+      "published": "2026-05-19T14:43:08Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "First Advantage (FA) Shares Sold Off Amid AI Disruption Concerns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-advantage-fa-sold-off-130342525.html",
-      "published": "2026-05-19T13:03:42Z",
+      "title": "These 3 AI ETFs Could Be the First to Kill the Stock Market Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-etfs-could-first-143945761.html",
+      "published": "2026-05-19T14:39:45Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Corteva Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_5147_AnalystReport_1779299488000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-20T17:51:28Z",
+      "title": "Lloyds stays mum over rumoured Halifax phase-out",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lloyds-stays-mum-over-rumoured-144747563.html",
+      "published": "2026-05-19T14:47:47Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Want To Buy A House? Iran Is Making US Mortgage Rates Rise",
-      "url": "https://finance.yahoo.com/economy/policy/articles/want-buy-house-iran-making-130047905.html",
-      "published": "2026-05-19T13:00:47Z",
+      "title": "Taiwan Semiconductor Manufacturing Company (TSM) Dominates Today but Faces Risks from Rapid Technological Shifts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-143757876.html",
+      "published": "2026-05-19T14:37:57Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "ServiceNow erases gains as software rebound cools",
-      "url": "https://finance.yahoo.com/markets/article/servicenow-erases-gains-as-software-rebound-cools-125800301.html",
-      "published": "2026-05-19T12:58:00Z",
+      "title": "Global Inflation Fears Are Driving Bond Yields Higher. Make This 1 Trade Now.",
+      "url": "https://finance.yahoo.com/markets/options/articles/global-inflation-fears-driving-bond-143425662.html",
+      "published": "2026-05-19T14:34:25Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Shell (SHEL) Price Target Lowered Despite Q1 Earnings Beat",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/shell-shel-price-target-lowered-130504110.html",
-      "published": "2026-05-19T13:05:04Z",
+      "title": "Are Wall Street Analysts Predicting Brown-Forman Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-brown-143518730.html",
+      "published": "2026-05-19T14:35:18Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Altria Group (MO) Declares Quarterly Dividend of $1.06 per Share",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/altria-group-mo-declares-quarterly-130435511.html",
-      "published": "2026-05-19T13:04:35Z",
+      "title": "What Are Wall Street Analysts' Target Price for Dollar Tree Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-143310219.html",
+      "published": "2026-05-19T14:33:10Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "HSBC Holdings (HSBC) \u2013 Among the Top 12 Undervalued Dividend Stocks to Buy Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-hsbc-among-top-130350933.html",
-      "published": "2026-05-19T13:03:50Z",
+      "title": "Your Portfolio Isn\u2019t Invested in the Right Kind of AI Unless You Hold This ETF",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/portfolio-isn-t-invested-kind-144826518.html",
+      "published": "2026-05-19T14:48:26Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Market Update: D, HD, VSH, FOXA, CTVA, TDOC",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47086_MarketUpdate_1779298588000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-05-20T17:36:28Z",
+      "title": "Incyte Stock: Analyst Estimates & Ratings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/incyte-stock-analyst-estimates-ratings-142948628.html",
+      "published": "2026-05-19T14:29:48Z",
       "summary": ""
     }
   ]
