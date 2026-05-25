@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T17:48:36.847371Z",
+  "last_updated": "2026-05-25T19:49:53.017734Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -2821,6 +2821,13 @@
   "news": [
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Nvidia Stock May or May Not Soar on May 20, But This Super AI Semiconductor Stock Could Pop and Go On a Terrific Bull Run - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzdIeWs5bHFKU1E0bWdFUUZ4QXY0U09MYmk5MWZTcTRsRDVGZjQ0UzN3MGVsOXZqT21vQkZtaFZaUnctd2c5NHFYbW5SMGw4QjhjRm80QjUxNHZ5RG9xSmdiLTBDanc4aFNhYWhsWjZ3SlVZTkJlb2JTZTVwbGtaRGVpZENrN0dUbmtyUFM5X2l3eGluaGx1OQ?oc=5",
+      "published": "Tue, 19 May 2026 09:23:00 GMT",
+      "summary": "Nvidia Stock May or May Not Soar on May 20, But This Super AI Semiconductor Stock Could Pop and Go On a Terrific Bull Run&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
       "published": "Fri, 15 May 2026 07:00:00 GMT",
@@ -2849,10 +2856,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lKdVl2YzJuZzhOemdUODN1M0xkdk1nUnlacFJMUS13MHpQdWJjOUlYVGtPbU5QaEtqRndlYlRYTWdyd1NHa3VEbWM4bG8tYTlrWm5YRzROa3QwZzJUcXk1OWVqdzBHX3Rwdkl1VVhMUmwwdmsxQS1yOGNSSEwxY2owSkFFS1hvZHF6LXhhMHBuRVE?oc=5",
-      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom&nbsp;&nbsp;The Motley Fool"
+      "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDc4cFNXbjczTkhZbEVydl9qREdPaC10T1NrTzFVZ3pRZTBiYTFDZk53V0FJb0JQcDdXSjdCWW05Sk5vVUNmWHF1Ri10alN4WlFBVS1sWVhlcnh5QlBuV3dJT3hqVkZERF8xWnFUZFlpVlE4bWRRMEhCWnZEa0l2RV9QdUh3bkUtTlhlNlIxNHVCVHpuR2VqQ2J6cjFzRTdGSWlVQml3N01WQdIBrwFBVV95cUxOWU9YQmRIYVRIdmExaEVsVU1COTBmcDdpR3c0WUVYbGNwVWhhSy1aRXNRdlRiUEpkWndqbi1JdU8tWEdaeVRSb29SX2JpUmZ6bWtQRGF3ZDZzWDRlNEx0TFl4ZlV6amdYYVNodksyb3hwZWFhOUROaXFEb2MtZjZDSXJxanUyUGw5QUlpRm5lQk42dW9xNGVNdEJSeFhvUFc4bWRuQzNMdmE0TEZOdHBn?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand&nbsp;&nbsp;CNBC"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "The Geopolitics of AI Chips will Define the Future of AI - CIRSD",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObG01ckVBOTRPRW54a0k2VGtzeHBZYUFvWkZSQ1o3dlFlX0p2Q2Z5bzlWWmpNYjZrZnRiSTFYSzNvWlZYcWU2bjBFQ0lRQTFBWFg3VXNXNnc2RV9pTUV0b0p2TUx5cE8ySWd4VlQ1eDM4aDhxLUlpeEpHVEhkQXlrY3dkNlpWampkX3JDWFZXcUJ5bVI4YWc?oc=5",
+      "published": "Wed, 04 Feb 2026 02:50:05 GMT",
+      "summary": "The Geopolitics of AI Chips will Define the Future of AI&nbsp;&nbsp;CIRSD"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2860,13 +2874,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUlY2YWNsbWVaejlLcEpQSnhuc0NOZXFXWnVfbWFrbzBMOXNRR3BvSjJpU0dOUGx6UWw3RXU3c3Qxb0xSeXRuX2lFNFFFSVR4YXVFbVltNVA0Ui1WSWp2a1M1SzU4cVluejF0UGFzTHpvNndwYVBaLWU2WldoSWJPUklTUFM1WkJlcXFmTUxuS2FZVzhtUkVVR1hSUkJfYy1WOVRyaA?oc=5",
       "published": "Sun, 30 Nov 2025 03:07:30 GMT",
       "summary": "The Best Chip Stock That's Not Nvidia: A Case for the \"Boring\" Winners&nbsp;&nbsp;Kavout"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast&nbsp;&nbsp;CNBC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2884,24 +2891,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited - StockInvest.us",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2FQenJLMVR6TWNvWUpIZUlTSmlQX1VBOHZrb25fVGc2UjVaLXRDQVlQODN3UVZNS2h2S0hUbTRxUTA4SU1Fc1AyUmNkbDcxb01Nek5HTXp2SElyLWEyODlkaGJvRGo0cWFtQUl4V3NmeVE1aWhwekZBaHA4R1l0a1c2RlNqbzlrcEpzZXNYTHBEdHA2azdXbmhlTG0xaS1LSk5jbTUzUExSNVk?oc=5",
-      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "summary": "TSMC Shares Climb as AMD-Meta Deal Fuels Chip Demand; Nvidia's Earnings Awaited&nbsp;&nbsp;StockInvest.us"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results. - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDVGY0x4R0hYa0xuMEN0MFBueF9uT2dqSGtvNmtKT2FHRnFoczRVTVlEODRvaEJBY3FBN0dWMFd6UkdhYkpjYTVMQmFVZGxtU0tSRHRHY2hDbkRLTWtPckpnZVJLWlNEX1dJMms1c3dHcEVJd1dXZVR0R0lyMWU5ZFk2SjZRaFNKcTRYZ1FrZGtqcUc4LThyOGtVd1R1ZFk?oc=5",
-      "published": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "summary": "TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results.&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "TSMC: The Foundry Behind Nvidia, AMD and Apple Is Setting AI On Fire - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LTEVLOWdBSjNhS1BXQnVkaXdXdy01cldzZXl6bzJEdUNGUU1GMGZCeVRMdndsMG5tMm1PQ3pOZ25KYXVoenNpUS1DNk15b2o5V3lzZW8yak9YbHA2UHFxdXhEY1FPcEZHN25iMFoxT1ZmTWk3dUpiQXpjN0FKQQ?oc=5",
       "published": "Wed, 10 Dec 2025 08:00:00 GMT",
       "summary": "TSMC: The Foundry Behind Nvidia, AMD and Apple Is Setting AI On Fire&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "NVIDIA vs TSMC vs Broadcom: Which AI Chip Stock Looks Best in 2026? - Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaE9Rb1B0UXpDeGxlRlVYLTNxX2RINmo0NGRCTE11XzBqQTJwMHRhbFRwWmIyT0Y4YlI2TWlaZG5haGZlMDdDc2g4cHl5RTU0aUJtZjc5eHV1dnZBb21lU3d6RWIwckxmX1V4Tl9LZ05RTHBWaUU0cHBiT2RCSXZhNlhJeTNtYUhxazBIMmFR?oc=5",
+      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "summary": "NVIDIA vs TSMC vs Broadcom: Which AI Chip Stock Looks Best in 2026?&nbsp;&nbsp;Gotrade"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2947,13 +2947,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWlXNmQ4d0pJUWpObkdoRWt6NmtNRUgxZDR0QU9rZ1VCaUIxRU1KTHNPTmFKaEYzT0gtX282d0ZmTXlvT0lnRXRoa2VwQW95WV9XdHVnOGpuU3BEZnNoeEZyTFRSNXh4Z1ZLY0R6Q1NrZ1hSOWJGVEtHMTVUejZiWTJYSW5GT1FLcDB2cElBcw?oc=5",
-      "published": "Sun, 25 Jan 2026 08:00:00 GMT",
-      "summary": "Big Tech earnings will test faith in AI spending (MSFT:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
@@ -2988,10 +2981,17 @@
       "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;Yahoo Finance"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Nvidia Is Cooling, Microsoft Is Stumbling, and the Fed Won't Cut. Here's Why I'm Still Buying Artificial Intelligence (AI) Stocks. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdraFpXMU50UzBuVTJKUmJKd3RQSmliaThhd05sMWhmLVFObm9NXzdRR0JmcWRYY0U4SDcxektNVUlHV1hwWkhzQV9mb3E2dVBwdWpyY2NGNTFBX2plSE9ZQTl6T3M5UW83R1VpUGJhWUFJdUxXbk5uN0syWlpzOUFNNE1ORnlDU0w2eFhnS3FaWHE4QlVR?oc=5",
+      "published": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "summary": "Nvidia Is Cooling, Microsoft Is Stumbling, and the Fed Won't Cut. Here's Why I'm Still Buying Artificial Intelligence (AI) Stocks.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "The U.S. Government Is Investing $2 Billion in the Quantum Computing Space, But Did It Miss the Best Stock to Buy? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeXE1d29OeEIzdmNLbmRWVnN5NnpYU2E2WWtiQjJCN0RDUENNc1NwODJxSkRILWtrbEJEeGlROTExMzZzaTI2bTVycUJtUzR3ZzVDODJGdlhZcEtZdkJOS05lN0hJYWc5QldVOHZzLXlIWG9XMjUxV2tUVEtWc2NDUW1vQ3RIdlZJZkUyX2x0WFRjcEtkWEIxZjNqM0JoTVgxT3BBbXZJX0RMZmRZb3FkMWJsY0dXNllJTGVHby1NUW9VTXlDUHJ1NUFLaGhaTWNVczlsTVA3TVloazhXY19pNXpIY0JnNHBlZ05wQVVzMjNSeWVsZEdKNnNTaFdjeFg2R0hFeTNuektEaGR4N0ptcmQ0UWhqRVBaVTh6TFFB?oc=5",
-      "published": "Mon, 25 May 2026 16:41:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOUkNsTWFWSnh6czFXZW53akFpWVc4RUU1bC13Q21jSmRMTk5Ra0RfaTRFeGR4Um1UMHpTaWUxZlJDU2JGNWpUY2JaT2lhNTBPQ1hZT2VVeXJBZl9lM2FPeFNpYmZpdzNKZTBzZDg5OE1oVjlpU0tacXhNS3cxb2dFRHZkNmlQRFMxSXh5bDhfT2QzZDN2ajlJZDUzUHFJS01TY3EwM19xdnpTZ2VraWtzSUZqVWhMdk1CcjBER2pvWHp4VGdOSWN0NVdCR0NCX1BjdXkyQzVtWnRULTVZNGYxalozUWF1eVpXUktycURsekFRbmxTdU95RnVWUDBSM1gyWFZuUk5QU0lsbndUWklDblF4cTFXRGFKNGczWVNhd1NOZw?oc=5",
+      "published": "Mon, 25 May 2026 16:41:43 GMT",
       "summary": "The U.S. Government Is Investing $2 Billion in the Quantum Computing Space, But Did It Miss the Best Stock to Buy?&nbsp;&nbsp;The Globe and Mail"
     },
     {
@@ -3031,6 +3031,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Quantum Computing Stocks Explained: Everything Investors Need to Know - MEXC Exchange",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFByMHNVT21VamhGVGxVS2Q2U0lXUUZEQWZ5c2NWNlAxOUNBOWtRS2U3cTE5YnpzT25udE1zZ0owVDFYaEY3QVVN?oc=5",
+      "published": "Thu, 21 May 2026 18:02:07 GMT",
+      "summary": "Quantum Computing Stocks Explained: Everything Investors Need to Know&nbsp;&nbsp;MEXC Exchange"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Quantum computing is the latest U.S. government equity bet (RGTI:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMV9BVzJOcVlRTTdrN3Jka2t2OV9uMFBUS1F3VUhwalc2cnBPZHJaMDBjZU5SZ2pFMFFBejdWY2FfMnR6TkZtbWRkSFRKRlp5V0NaMnVoU0h4TEgwajBwdXk5SUNJVEw0MWpjTmZCR0c5QkhhSVlSNVVFU01haWg5anJjQ0lWMFRpQWhnNDdrcU5XY092SEhHSHhR?oc=5",
       "published": "Thu, 21 May 2026 10:39:25 GMT",
@@ -3065,13 +3072,6 @@
       "summary": "Quantum Computing Stocks: UBS Eyes IBM, Google, IonQ. Infleqtion To Go Public.&nbsp;&nbsp;Investor's Business Daily"
     },
     {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "SA Asks: What are the most attractive quantum computing stocks? (IBM:NYSE) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmFPeG5FZ2RjeDQ0R2NicXE4NE43dkJJWkhnNnJNeEZGaEgycGY2WUVmaEZELUVlUTNUdVBITlZYQWtzdFlHOE1wT0cybmI3Z2FJUXBMcXg3a3Rtd0xxbGFrQlBTaW9EaEZYTnZkSWNtYUVKZGNjSXZGbXVoeGpYeEUxWnB0ZEc2RXdQaEFqdVhuckZMSXhzSEJXV01BdmtP?oc=5",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "summary": "SA Asks: What are the most attractive quantum computing stocks? (IBM:NYSE)&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Lowe\u2019s sounds the alarm as customers change their tune",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lowe-flags-warning-sign-shoppers-143700930.html",
@@ -3080,79 +3080,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Casey\u2019s (CASY) General Appears To Be A Hidden Jim Cramer Gem",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/casey-casy-general-appears-hidden-171839645.html",
-      "published": "2026-05-25T17:18:39Z",
+      "title": "Medicare doesn\u2019t cover these 3 basic expenses \u2014 and they can cost you over $100,000 a year. Prepare your finances now",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/medicare-doesn-t-cover-3-110500290.html",
+      "published": "2026-05-24T11:05:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Shows How Dollar General (DG) & The Iran War Are Related",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-dollar-general-171832535.html",
-      "published": "2026-05-25T17:18:32Z",
+      "title": "Best CD rates today, May 24, 2026: Lock in up to 4% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-may-24-2026-100000299.html",
+      "published": "2026-05-24T10:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Discusses Hasbro (HAS) Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-hasbro-stock-171825557.html",
-      "published": "2026-05-25T17:18:25Z",
+      "title": "Best high-yield savings interest rates today, Sunday, May 24, 2026: Earn up to 4.1% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-may-24-2026-100000899.html",
+      "published": "2026-05-24T10:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Shares Unsurprising Take On Costco (COST)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-unsurprising-costco-171814494.html",
-      "published": "2026-05-25T17:18:14Z",
+      "title": "Why Poet Technologies Stock Plummeted This Week",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-poet-technologies-stock-plummeted-103500142.html",
+      "published": "2026-05-24T10:35:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Shares Tip For Nike (NKE) To Turnaround",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-tip-nike-171806962.html",
-      "published": "2026-05-25T17:18:06Z",
+      "title": "Best money market account rates today, Sunday, May 24, 2026: Best account provides 4.01% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-may-24-2026-100000098.html",
+      "published": "2026-05-24T10:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Discusses V.F. Corp (VFC)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-v-f-171758389.html",
-      "published": "2026-05-25T17:17:58Z",
+      "title": "HELOC and home equity loan rates Sunday, May 24, 2026: Besides low rates, what makes a HELOC lender the best?",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-may-24-2026-100000230.html",
+      "published": "2026-05-24T10:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Reveals Why International Business Machines (IBM) Should Be Doing Better",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-why-international-171745967.html",
-      "published": "2026-05-25T17:17:45Z",
+      "title": "Mortgage and refinance interest rates today, Sunday, May 24, 2026: Rates mixed compared to last week",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-may-24-2026-100000168.html",
+      "published": "2026-05-24T10:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Shares Why He\u2019s Happy About Palo Alto (PANW)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-why-happy-171738181.html",
-      "published": "2026-05-25T17:17:38Z",
+      "title": "She's 60 and divorcing after 30 years \u2014 buying her husband out of the house could cost her retirement",
+      "url": "https://finance.yahoo.com/markets/articles/shes-60-divorcing-30-years-113000638.html",
+      "published": "2026-05-24T11:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Makes Big Claim About CrowdStrike (CRWD)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-makes-big-claim-171727550.html",
-      "published": "2026-05-25T17:17:27Z",
+      "title": "Is e.l.f. Beauty Stock a Buy as Rhode Drives Growth?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-stock-103500566.html",
+      "published": "2026-05-24T10:35:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Discusses \u201cSilly\u201d Thing About Arm Holdings (ARM)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-silly-thing-171718458.html",
-      "published": "2026-05-25T17:17:18Z",
+      "title": "Office jobs 'are over,' according to the CEO of a huge global hiring firm \u2014 here's how you build a decent career today",
+      "url": "https://finance.yahoo.com/economy/policy/articles/office-jobs-over-according-ceo-091500154.html",
+      "published": "2026-05-24T09:15:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "The One Thing Jim Cramer Demands From Tech-Only Investors Before He\u2019ll Bless the Strategy",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/one-thing-jim-cramer-demands-171612646.html",
-      "published": "2026-05-25T17:16:12Z",
+      "title": "\u2018I need you to listen up\u2019: Suze Orman says Americans underestimate 1 critical retirement cost. 4 ways to get ahead now",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/listen-suze-orman-says-americans-114500346.html",
+      "published": "2026-05-24T11:45:00Z",
       "summary": ""
     }
   ]
