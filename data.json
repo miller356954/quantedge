@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T21:14:10.238169Z",
+  "last_updated": "2026-05-27T22:52:48.212679Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -141,7 +141,7 @@
       "market_cap_fmt": "615.85B",
       "52w_high": 1653.53,
       "52w_low": 683.48,
-      "pe_ratio": 33.5599,
+      "pe_ratio": 33.5582,
       "iv": 48.5,
       "beta": 1.373
     },
@@ -1978,6 +1978,14 @@
   ],
   "sec_filings": [
     {
+      "ticker": "SOUN",
+      "company": "SOUNDHOUND AI, INC.",
+      "form": "8-K",
+      "date": "2026-05-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/1840856/000121390026061610/ea0292095-8k_sound.htm",
+      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840856&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
       "ticker": "QBTS",
       "company": "D-Wave Quantum Inc.",
       "form": "8-K",
@@ -2634,14 +2642,6 @@
       "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000723125&type=8-K&dateb=&owner=include&count=10"
     },
     {
-      "ticker": "SOUN",
-      "company": "SOUNDHOUND AI, INC.",
-      "form": "8-K",
-      "date": "2026-03-18",
-      "url": "https://www.sec.gov/Archives/edgar/data/1840856/000121390026030707/ea0282324-8k_sound.htm",
-      "index_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840856&type=8-K&dateb=&owner=include&count=10"
-    },
-    {
       "ticker": "AMAT",
       "company": "APPLIED MATERIALS INC /DE",
       "form": "8-K",
@@ -3024,10 +3024,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "9 Best Quantum Computing Stocks to Buy in 2026 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbklsdmc3LXh6bDdHQ3BvZ2I3VUFONnNIMUE1SVUyOTZ1OGhYVVZBeUNUT3Y3dHhCZV9wU2xRSEVCQ19FMTUzOEl5S3lnYXpjUlpSVnJId0N3SDlXdF9BcEVDSHhjREdISDUzRGFXTnNKZTRfa3FtaDV5QXFYNzdjLVo0YkY4WEE5VnhPZEZ3ZzE1Tk92Yzh3aVNrMEgxVFQwVnpqdVdyVmtGVVpfQmZ1VVlRMUN6SlRB?oc=5",
-      "published": "Sun, 10 May 2026 07:00:00 GMT",
-      "summary": "9 Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;The Motley Fool"
+      "title": "The Trump Administration Plans to Take Stakes in These Quantum Computing Firms. Their Stocks Are Soaring. - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjgtajgtY2pwWDhxaDRGc1lKOUU4bTJ5bkpZZGE2Y3BKXzdwVlFRWGd0VU1lcklsQVdkVzVkdU1RZENVTmF0NTBRQlZ2LTZoelNMOHV0TGlycjNLTzV6V2VKbHNaUWR3YVAta0NTSzhPRGZnUktneTkxeU11ZmEyQThVUS1sdGpVbWM3QjlmdkV2SDJ2RXpKTEZaSjFkODdlczlLYmc3ak1CRFF5NVNVY3pFdWtrN1ExajIxZ0x1YTdKTWU4ZURvbjVyZFp1Z1lKdWoxUHpCV24?oc=5",
+      "published": "Thu, 21 May 2026 16:50:09 GMT",
+      "summary": "The Trump Administration Plans to Take Stakes in These Quantum Computing Firms. Their Stocks Are Soaring.&nbsp;&nbsp;Investopedia"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "The Best Quantum Computing Stocks to Buy in 2026 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbldnZnhla3MzbEppa3BKSFF4ZU1oZENUbXR1MGR1WXRWLVJldXVUUGJ0NUt0VUhSblBaZzlFcURsMFNidnVidFJSdi1YdGJTSVZYaFB0WndfbWNFajQ3cU0zeFVfQXBkTncxbGtHOUZ6MnNaT0NSRDgxRkk4UjRSYWItbDg1YXE2QnRNQlAyRFB1ZHY1bEE?oc=5",
+      "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3052,10 +3059,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "The Best Quantum Computing Stocks to Buy in 2026 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbldnZnhla3MzbEppa3BKSFF4ZU1oZENUbXR1MGR1WXRWLVJldXVUUGJ0NUt0VUhSblBaZzlFcURsMFNidnVidFJSdi1YdGJTSVZYaFB0WndfbWNFajQ3cU0zeFVfQXBkTncxbGtHOUZ6MnNaT0NSRDgxRkk4UjRSYWItbDg1YXE2QnRNQlAyRFB1ZHY1bEE?oc=5",
-      "published": "Mon, 04 May 2026 07:00:00 GMT",
-      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;The Motley Fool"
+      "title": "9 Best Quantum Computing Stocks to Buy in 2026 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbklsdmc3LXh6bDdHQ3BvZ2I3VUFONnNIMUE1SVUyOTZ1OGhYVVZBeUNUT3Y3dHhCZV9wU2xRSEVCQ19FMTUzOEl5S3lnYXpjUlpSVnJId0N3SDlXdF9BcEVDSHhjREdISDUzRGFXTnNKZTRfa3FtaDV5QXFYNzdjLVo0YkY4WEE5VnhPZEZ3ZzE1Tk92Yzh3aVNrMEgxVFQwVnpqdVdyVmtGVVpfQmZ1VVlRMUN6SlRB?oc=5",
+      "published": "Sun, 10 May 2026 07:00:00 GMT",
+      "summary": "9 Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3065,45 +3072,38 @@
       "summary": "2 Top Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum Computing Stocks: AMD, Qualcomm, IonQ Invest In Startup - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFc4Mk9BWHFYRERjd0xNWG1OMU0zdHFuMlJIenN5clh5eWdNS0Z6Y211ajFoU0syZkt2V0UwT3A1N2lkWURBMUVuZUIxRFFLVjZHcmJjOUJqeEN3c0trQUJ6TV9iR3ZZbzMtTlpnMmNIOW03OUxrLUp0QVVmQ0FKYi1oZm9oR08tUG5jTWMydWZOaGR3a19DLUN3?oc=5",
-      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
-      "summary": "Quantum Computing Stocks: AMD, Qualcomm, IonQ Invest In Startup&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
       "source": "Yahoo Finance",
-      "title": "Prediction: Alphabet Stock Will Reach The $5 Trillion Club on This Date",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-stock-reach-5-130403342.html",
-      "published": "2026-05-26T13:04:03Z",
+      "title": "IDVO\u2019s International Dividend Strategy Carries an Unhedged Currency Risk That Can Wipe Out a Year of Yield",
+      "url": "https://finance.yahoo.com/markets/options/articles/idvo-international-dividend-strategy-carries-150009463.html",
+      "published": "2026-05-26T15:00:09Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Humana (HUM) Slid as Medicare Advantage Rate Fell Short of Expectations",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/humana-hum-slid-medicare-advantage-130544386.html",
-      "published": "2026-05-26T13:05:44Z",
+      "title": "Ecopetrol Launches $492 Million Tender Offer for Brava Energia Stake",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/ecopetrol-launches-492-million-tender-150000795.html",
+      "published": "2026-05-26T15:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Leadership Change Weighs on PayPal Holdings\u2019 (PYPL) Q1 Performance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/leadership-change-weighs-paypal-holdings-130341938.html",
-      "published": "2026-05-26T13:03:41Z",
+      "title": "Do Wall Street Analysts Like Corpay Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-corpay-stock-145038479.html",
+      "published": "2026-05-26T14:50:38Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lam Research Corporation (LRCX) Rallied on AI-Driven Strong Demand",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-rallied-130938725.html",
-      "published": "2026-05-26T13:09:38Z",
+      "title": "Bulls Are Losing Their Grip as Cattle Collapses. What to Watch.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bulls-losing-crip-cattle-collapses-144333525.html",
+      "published": "2026-05-26T14:43:33Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Iran War-Driven Supply Shock Boosted SLB N.V. (SLB) in Q1",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iran-war-driven-supply-shock-131151106.html",
-      "published": "2026-05-26T13:11:51Z",
+      "title": "Workers over 60 are the least worried AI will take their jobs \u2014 but they may have less time than they think",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-144500303.html",
+      "published": "2026-05-26T14:45:00Z",
       "summary": ""
     },
     {
@@ -3115,37 +3115,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "NANO Nuclear shares jump after acquisition of nuclear transport specialist (NNE)",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/nano-nuclear-shares-jump-acquisition-130753388.html",
-      "published": "2026-05-26T13:07:53Z",
+      "title": "Rent the Runway ex-CFO takes Peloton\u2019s finance reins",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rent-runway-ex-cfo-takes-145926746.html",
+      "published": "2026-05-26T14:59:26Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Makes IQVIA Holdings (IQV) an Investment Bet?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-iqvia-holdings-iqv-investment-130133084.html",
-      "published": "2026-05-26T13:01:33Z",
+      "title": "Is Wall Street Bullish or Bearish on West Pharmaceutical Services Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-west-144145526.html",
+      "published": "2026-05-26T14:41:45Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lowe's Delivers Strong Free Cash Flow, But the Stock Fell - Time to Buy LOW?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lowes-delivers-strong-free-cash-130002014.html",
-      "published": "2026-05-26T13:00:02Z",
+      "title": "Dollar Slips as US-Iran Peace Negotiations Progress",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-us-iran-peace-143919288.html",
+      "published": "2026-05-26T14:39:19Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Brent and WTI Crude Price Movements Are Diverging Today",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/why-brent-wti-crude-price-130000784.html",
-      "published": "2026-05-26T13:00:00Z",
+      "title": "Micron joins $1 trillion club as AI race powers memory chip boom",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-joins-1-trillion-club-144022584.html",
+      "published": "2026-05-26T14:40:22Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Pool Corporation Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pool-corporation-stock-wall-street-131345432.html",
-      "published": "2026-05-26T13:13:45Z",
+      "title": "Starbucks Stock is Up YTD \u2013 Thank a Kardashian",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-stock-ytd-thank-kardashian-143723521.html",
+      "published": "2026-05-26T14:37:23Z",
       "summary": ""
     },
     {
