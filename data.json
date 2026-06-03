@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T21:30:38.825199Z",
+  "last_updated": "2026-06-03T23:23:34.850397Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -1853,7 +1853,7 @@
       "ticker": "AVGO",
       "date": "2026-06-03",
       "days_away": 0,
-      "eps_estimate": 2.3972
+      "eps_estimate": 3.1794
     },
     {
       "ticker": "ORCL",
@@ -1895,7 +1895,7 @@
       "ticker": "GOOGL",
       "date": "2026-07-23",
       "days_away": 50,
-      "eps_estimate": 2.8834
+      "eps_estimate": 2.8772
     },
     {
       "ticker": "QCOM",
@@ -2841,17 +2841,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lKdVl2YzJuZzhOemdUODN1M0xkdk1nUnlacFJMUS13MHpQdWJjOUlYVGtPbU5QaEtqRndlYlRYTWdyd1NHa3VEbWM4bG8tYTlrWm5YRzROa3QwZzJUcXk1OWVqdzBHX3Rwdkl1VVhMUmwwdmsxQS1yOGNSSEwxY2owSkFFS1hvZHF6LXhhMHBuRVE?oc=5",
       "published": "Mon, 23 Mar 2026 07:00:00 GMT",
       "summary": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
+      "published": "Fri, 15 May 2026 07:00:00 GMT",
+      "summary": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2897,17 +2897,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results. - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDVGY0x4R0hYa0xuMEN0MFBueF9uT2dqSGtvNmtKT2FHRnFoczRVTVlEODRvaEJBY3FBN0dWMFd6UkdhYkpjYTVMQmFVZGxtU0tSRHRHY2hDbkRLTWtPckpnZVJLWlNEX1dJMms1c3dHcEVJd1dXZVR0R0lyMWU5ZFk2SjZRaFNKcTRYZ1FrZGtqcUc4LThyOGtVd1R1ZFk?oc=5",
-      "published": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "summary": "TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results.&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real' - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa19fT2dITHVRS0tWZEZmd19RWmttS3picmJaamFNTktFalBoSWxBSkJqWWtzRS1iSjNXQ2JGaURlZWszeldFWkdCN1ZPaWxUR0ZycEdZVW4xQUprZXE4VGNYWXVwcC1nMjFDNUhlNGRfLVd6WGt3TEhnWFRkVHZLRVJYYzZBRWF4MEUwR3NhQTRaR2t6bEI1ZXJ4MUs4bGFJVm52dGI5X2F6ZTZ3LWV6T09veEtIdGF6alJWaw?oc=5",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real'&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2NkRXBYaXI5bEpmeDEzOFhLRUU3QmxlNGRUR2tSQWNERkZSWFliUjY3TGpwZ1lqY2J2R1VZdW4xa1hkRFQ3aG1icHdfb0NjZ0JJeXMxYW9lT2ZNWldaa2VXZXIybm1LV2dJN190cXJTNmVodEtib3JPNzNqeHJ5QjQ1LVZMMHF2cDBJX0ZmWWYxaFM1SlRPTm1ic1JSWUVjMDNoZmRib3FUYTFnZnJ5TTlWbkVSOThCdE0yX0NVNkNrbzRwZW5EazhRS2g3TVF0UnBSNTBTVEs3Wkdl?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "Daily Market Alert: Chip Stocks Surge on TSMC, China Moves to Restrict Nvidia, Wells Fargo Upgrades AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3030,17 +3030,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed? - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JGWHl4cHozdW5tcWxYdGNLNnBRUWY4eXowZTlsaDdNVWdmb1lFc2RiMWxhOGIySktLVE1mZ19ubXZwNWNGLXBxUXBoX2V2ZGhZdW9fZ3dEUGZURE1VSWV4UkJEZkNETVFRYUZXSkJZMUJSQkNQcnduTm8weVBVUXZQeExHYjB3MzBMMzZfYnlZRGlXMXByY0NrdjhpU3lEQnJlLTVUX19RSkd2?oc=5",
-      "published": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed?&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "IBM Commits $10B to Quantum as Insiders Sell $931M - Gotrade",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLTFlRnVVNnNpNXVyVlpBYi1veWxhN2l4QmZsQkRTUnBsNFRNZmxTa0x4bDVXT2hKV0hsTm1INF9aQnFXSm1HaUJOQ3FvN201Q1ZDLTNzOXNXNXZJTXdUYk91dkNsT1RwUTg5TUJEVENPQmZGOXNGYkZXTE1xN0dTS1REWHRNcGhiNFM1Nmk1amc3cTBINlJPYTVfREtPY0VzZl91NlFJcw?oc=5",
       "published": "Thu, 28 May 2026 21:02:54 GMT",
       "summary": "IBM Commits $10B to Quantum as Insiders Sell $931M&nbsp;&nbsp;Gotrade"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed? - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JGWHl4cHozdW5tcWxYdGNLNnBRUWY4eXowZTlsaDdNVWdmb1lFc2RiMWxhOGIySktLVE1mZ19ubXZwNWNGLXBxUXBoX2V2ZGhZdW9fZ3dEUGZURE1VSWV4UkJEZkNETVFRYUZXSkJZMUJSQkNQcnduTm8weVBVUXZQeExHYjB3MzBMMzZfYnlZRGlXMXByY0NrdjhpU3lEQnJlLTVUX19RSkd2?oc=5",
+      "published": "Tue, 26 May 2026 07:00:00 GMT",
+      "summary": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed?&nbsp;&nbsp;Investor's Business Daily"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3086,30 +3086,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "We Now Know for Sure That the Software Apocalypse Selloff Was Overdone. Buy Cloud and Software Stocks Now to Profit.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/now-know-sure-software-apocalypse-131502348.html",
-      "published": "2026-06-02T13:15:02Z",
+      "title": "Wise Shares Sink as Europe Probes \u20ac500 Million in Suspicious Transfers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wise-shares-sink-europe-probes-152641787.html",
+      "published": "2026-06-02T15:26:41Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Cigna Stock: Is CI Underperforming the Healthcare Sector?",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/cigna-stock-ci-underperforming-healthcare-132228715.html",
-      "published": "2026-06-02T13:22:28Z",
+      "title": "Stocks Push Higher on US Labor Market Strength and AI Spending",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-push-higher-us-labor-152543892.html",
+      "published": "2026-06-02T15:25:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Star Holdings (STHO) Declined in Q1 Without Cause",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/star-holdings-stho-declined-q1-131839586.html",
-      "published": "2026-06-02T13:18:39Z",
+      "title": "How Is Prologis\u2019 Stock Performance Compared to Other Real Estate Stocks?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prologis-stock-performance-compared-other-152429555.html",
+      "published": "2026-06-02T15:24:29Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Strive Buys 2,500 Bitcoin As Price Falls",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strive-buys-2-500-bitcoin-131900624.html",
-      "published": "2026-06-02T13:19:00Z",
+      "title": "As Nvidia Announces New AI PCs, Dell Stock Could Be a Big Winner",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-announces-ai-pcs-dell-152849564.html",
+      "published": "2026-06-02T15:28:49Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "RNG: Raising target price to $49.00",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_6780_QuantitativeReport_1780444800000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "published": "2026-06-03T00:00:00Z",
       "summary": ""
     },
     {
@@ -3121,44 +3128,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Latham Group (SWIM) Retrenched with Housing Peers",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/latham-group-swim-retrenched-housing-132205344.html",
-      "published": "2026-06-02T13:22:05Z",
+      "title": "Ceasefire Uncertainty Remains the Biggest Driver for Oil Markets",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/ceasefire-uncertainty-remains-biggest-driver-153000845.html",
+      "published": "2026-06-02T15:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Sandisk Stock Outperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-outperforming-p-500-131253809.html",
-      "published": "2026-06-02T13:12:53Z",
+      "title": "He dropped out of high school to work construction for $8/hour \u2014 now 22, he's making $200,000 a year",
+      "url": "https://finance.yahoo.com/economy/articles/dropped-high-school-construction-8-152000895.html",
+      "published": "2026-06-02T15:20:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "American Tower Stock: Is AMT Underperforming the Real Estate Sector?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-tower-stock-amt-underperforming-132216887.html",
-      "published": "2026-06-02T13:22:16Z",
+      "title": "$2.1 trillion sits in 31.9 million forgotten 401(k) accounts \u2014 yours could be one of them",
+      "url": "https://finance.yahoo.com/markets/options/articles/2-1-trillion-sits-31-153318096.html",
+      "published": "2026-06-02T15:33:18Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "XRP Slides 4% As Bitcoin Pulls Down Altcoins",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-slides-4-bitcoin-pulls-132100278.html",
-      "published": "2026-06-02T13:21:00Z",
+      "title": "Abivax Grounded as Cancer Cases Cast a Shadow Over Best-in-Class Trial Data",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/abivax-grounded-cancer-cases-cast-151431336.html",
+      "published": "2026-06-02T15:14:31Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can Hyperliquid Overtake Ethereum? Arthur Hayes Believes HYPE Could Outperform Any Top Ten Crypto By 2027",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-overtake-ethereum-arthur-hayes-131715391.html",
-      "published": "2026-06-02T13:17:15Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SpaceX negotiating underwriting fees under 0.75% for IPO, Bloomberg News reports",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-negotiating-underwriting-fees-under-132346640.html",
-      "published": "2026-06-02T13:23:46Z",
+      "title": "INVA: Lowering target price to $23.00",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_4747_QuantitativeReport_1780444800000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "published": "2026-06-03T00:00:00Z",
       "summary": ""
     }
   ]
