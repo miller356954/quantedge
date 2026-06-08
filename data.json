@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T21:23:16.252723Z",
+  "last_updated": "2026-06-08T22:58:02.158767Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -518,28 +518,28 @@
     {
       "ticker": "NVDA",
       "expiry": "2026-06-08",
-      "call_vol": 1018936,
-      "put_vol": 695837,
+      "call_vol": 1021052,
+      "put_vol": 695978,
       "call_oi": 163218,
       "put_oi": 103335,
-      "pcr": 0.683,
+      "pcr": 0.682,
       "iv": 18.3
     },
     {
       "ticker": "AMD",
       "expiry": "2026-06-12",
-      "call_vol": 91303,
-      "put_vol": 60807,
+      "call_vol": 91314,
+      "put_vol": 60938,
       "call_oi": 77147,
       "put_oi": 92055,
-      "pcr": 0.666,
+      "pcr": 0.667,
       "iv": 77.4
     },
     {
       "ticker": "INTC",
       "expiry": "2026-06-12",
       "call_vol": 225302,
-      "put_vol": 126833,
+      "put_vol": 126857,
       "call_oi": 112885,
       "put_oi": 142565,
       "pcr": 0.563,
@@ -548,8 +548,8 @@
     {
       "ticker": "TSM",
       "expiry": "2026-06-12",
-      "call_vol": 24023,
-      "put_vol": 18304,
+      "call_vol": 24031,
+      "put_vol": 18306,
       "call_oi": 34329,
       "put_oi": 57643,
       "pcr": 0.762,
@@ -558,18 +558,18 @@
     {
       "ticker": "ASML",
       "expiry": "2026-06-12",
-      "call_vol": 7074,
-      "put_vol": 3563,
+      "call_vol": 7078,
+      "put_vol": 3711,
       "call_oi": 5269,
       "put_oi": 6069,
-      "pcr": 0.504,
+      "pcr": 0.524,
       "iv": 58.9
     },
     {
       "ticker": "AVGO",
       "expiry": "2026-06-08",
-      "call_vol": 91156,
-      "put_vol": 57611,
+      "call_vol": 91526,
+      "put_vol": 57853,
       "call_oi": 46703,
       "put_oi": 35645,
       "pcr": 0.632,
@@ -578,8 +578,8 @@
     {
       "ticker": "MU",
       "expiry": "2026-06-12",
-      "call_vol": 193389,
-      "put_vol": 153933,
+      "call_vol": 193393,
+      "put_vol": 153946,
       "call_oi": 110409,
       "put_oi": 265857,
       "pcr": 0.796,
@@ -588,47 +588,47 @@
     {
       "ticker": "QCOM",
       "expiry": "2026-06-12",
-      "call_vol": 18625,
+      "call_vol": 18675,
       "put_vol": 11328,
       "call_oi": 24590,
       "put_oi": 29229,
-      "pcr": 0.608,
+      "pcr": 0.607,
       "iv": 84.3
     },
     {
       "ticker": "AMAT",
       "expiry": "2026-06-12",
-      "call_vol": 5090,
-      "put_vol": 3653,
+      "call_vol": 5221,
+      "put_vol": 3670,
       "call_oi": 8949,
       "put_oi": 7580,
-      "pcr": 0.718,
+      "pcr": 0.703,
       "iv": 67.7
     },
     {
       "ticker": "LRCX",
       "expiry": "2026-06-12",
-      "call_vol": 4026,
-      "put_vol": 2798,
+      "call_vol": 4027,
+      "put_vol": 2809,
       "call_oi": 13879,
       "put_oi": 13077,
-      "pcr": 0.695,
+      "pcr": 0.698,
       "iv": 74.4
     },
     {
       "ticker": "MSFT",
       "expiry": "2026-06-08",
-      "call_vol": 145918,
+      "call_vol": 145968,
       "put_vol": 118713,
       "call_oi": 35501,
       "put_oi": 18941,
-      "pcr": 0.814,
+      "pcr": 0.813,
       "iv": 4.8
     },
     {
       "ticker": "GOOGL",
       "expiry": "2026-06-08",
-      "call_vol": 147959,
+      "call_vol": 148017,
       "put_vol": 77205,
       "call_oi": 19360,
       "put_oi": 10441,
@@ -638,38 +638,38 @@
     {
       "ticker": "META",
       "expiry": "2026-06-08",
-      "call_vol": 147925,
-      "put_vol": 104640,
+      "call_vol": 147953,
+      "put_vol": 104838,
       "call_oi": 22865,
       "put_oi": 18061,
-      "pcr": 0.707,
+      "pcr": 0.709,
       "iv": 8.2
     },
     {
       "ticker": "AMZN",
       "expiry": "2026-06-08",
-      "call_vol": 154584,
-      "put_vol": 97307,
+      "call_vol": 154618,
+      "put_vol": 97381,
       "call_oi": 29503,
       "put_oi": 26205,
-      "pcr": 0.629,
+      "pcr": 0.63,
       "iv": 5.0
     },
     {
       "ticker": "ORCL",
       "expiry": "2026-06-12",
-      "call_vol": 43413,
+      "call_vol": 43553,
       "put_vol": 24655,
       "call_oi": 69590,
       "put_oi": 52924,
-      "pcr": 0.568,
+      "pcr": 0.566,
       "iv": 136.3
     },
     {
       "ticker": "PLTR",
       "expiry": "2026-06-12",
-      "call_vol": 112095,
-      "put_vol": 45216,
+      "call_vol": 112096,
+      "put_vol": 45218,
       "call_oi": 145247,
       "put_oi": 78432,
       "pcr": 0.403,
@@ -679,7 +679,7 @@
       "ticker": "SOUN",
       "expiry": "2026-06-12",
       "call_vol": 25214,
-      "put_vol": 2690,
+      "put_vol": 2691,
       "call_oi": 34467,
       "put_oi": 13844,
       "pcr": 0.107,
@@ -688,8 +688,8 @@
     {
       "ticker": "SMCI",
       "expiry": "2026-06-12",
-      "call_vol": 53664,
-      "put_vol": 32311,
+      "call_vol": 53668,
+      "put_vol": 32320,
       "call_oi": 136489,
       "put_oi": 42665,
       "pcr": 0.602,
@@ -698,8 +698,8 @@
     {
       "ticker": "IONQ",
       "expiry": "2026-06-12",
-      "call_vol": 25309,
-      "put_vol": 14123,
+      "call_vol": 25318,
+      "put_vol": 14126,
       "call_oi": 21493,
       "put_oi": 18605,
       "pcr": 0.558,
@@ -708,8 +708,8 @@
     {
       "ticker": "RGTI",
       "expiry": "2026-06-12",
-      "call_vol": 31718,
-      "put_vol": 8112,
+      "call_vol": 31719,
+      "put_vol": 8123,
       "call_oi": 54265,
       "put_oi": 24033,
       "pcr": 0.256,
@@ -718,18 +718,18 @@
     {
       "ticker": "QUBT",
       "expiry": "2026-06-12",
-      "call_vol": 15541,
-      "put_vol": 2091,
+      "call_vol": 15542,
+      "put_vol": 2107,
       "call_oi": 21958,
       "put_oi": 7266,
-      "pcr": 0.135,
+      "pcr": 0.136,
       "iv": 101.2
     },
     {
       "ticker": "IBM",
       "expiry": "2026-06-12",
-      "call_vol": 14140,
-      "put_vol": 4113,
+      "call_vol": 14143,
+      "put_vol": 4114,
       "call_oi": 24294,
       "put_oi": 10737,
       "pcr": 0.291,
@@ -738,8 +738,8 @@
     {
       "ticker": "QBTS",
       "expiry": "2026-06-12",
-      "call_vol": 30945,
-      "put_vol": 7516,
+      "call_vol": 30965,
+      "put_vol": 7523,
       "call_oi": 21941,
       "put_oi": 12631,
       "pcr": 0.243,
@@ -758,18 +758,18 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-06-12",
-      "call_vol": 5200,
-      "put_vol": 33336,
+      "call_vol": 5357,
+      "put_vol": 33817,
       "call_oi": 5019,
       "put_oi": 22829,
-      "pcr": 6.411,
+      "pcr": 6.313,
       "iv": 60.6
     },
     {
       "ticker": "SMH",
       "expiry": "2026-06-12",
       "call_vol": 19334,
-      "put_vol": 75146,
+      "put_vol": 75150,
       "call_oi": 28851,
       "put_oi": 231208,
       "pcr": 3.887,
@@ -778,8 +778,8 @@
     {
       "ticker": "AIQ",
       "expiry": "2026-06-18",
-      "call_vol": 773,
-      "put_vol": 191,
+      "call_vol": 777,
+      "put_vol": 192,
       "call_oi": 2741,
       "put_oi": 7609,
       "pcr": 0.247,
@@ -2841,24 +2841,52 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Taiwan Semiconductor Manufacturing Co. (TSMC) - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC)&nbsp;&nbsp;Britannica"
+      "title": "NVIDIA and TSMC push AI deeper into semiconductor fabs ... - eeNews Europe",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0RVVmRwQVBjbGplU0pGYlBpb3V6MV8xdm1OeHZIcGUwbXhLdVVhRi1OUlYyQWtCZG1Pc3ZqWUx5Rl9xWWUyWlVsX2M0TEZNR2cwdktmN1d0TXJKbllsYWp3d21nLVpMQ3JZUW1GX1d5Ni1GVWJSay0xR1V3a1BSY2RXSENvMGUydHJSSWxkajQ?oc=5",
+      "published": "Tue, 02 Jun 2026 07:56:44 GMT",
+      "summary": "NVIDIA and TSMC push AI deeper into semiconductor fabs ...&nbsp;&nbsp;eeNews Europe"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDc4cFNXbjczTkhZbEVydl9qREdPaC10T1NrTzFVZ3pRZTBiYTFDZk53V0FJb0JQcDdXSjdCWW05Sk5vVUNmWHF1Ri10alN4WlFBVS1sWVhlcnh5QlBuV3dJT3hqVkZERF8xWnFUZFlpVlE4bWRRMEhCWnZEa0l2RV9QdUh3bkUtTlhlNlIxNHVCVHpuR2VqQ2J6cjFzRTdGSWlVQml3N01WQdIBrwFBVV95cUxOWU9YQmRIYVRIdmExaEVsVU1COTBmcDdpR3c0WUVYbGNwVWhhSy1aRXNRdlRiUEpkWndqbi1JdU8tWEdaeVRSb29SX2JpUmZ6bWtQRGF3ZDZzWDRlNEx0TFl4ZlV6amdYYVNodksyb3hwZWFhOUROaXFEb2MtZjZDSXJxanUyUGw5QUlpRm5lQk42dW9xNGVNdEJSeFhvUFc4bWRuQzNMdmE0TEZOdHBn?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand&nbsp;&nbsp;CNBC"
+      "title": "Computex 2026: Nvidia and TSMC are bringing AI into the fab itself - Electronics360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWJxby13czRZWFM4aWJ3bFBZdTFGMW1fSGtvNFpvTmctREtpenZYcEl2dEFEdmdsb2pNT3VFVW5QaUQwNWM1T3Zvb2VjY0dpRjIzS09uMy1NbGtoUjF2RDhYdTBKdUtxbmgzTGNPLWNFWUZhQm10Sm4tMmlRUWNLVkFERHJVcTltM1JLNHl0R05sQmFjV0RIYkdnNDF1WldXcVFaVWdlbEhnN1V5WmJSR0hZbDg1ZElh?oc=5",
+      "published": "Wed, 03 Jun 2026 12:18:05 GMT",
+      "summary": "Computex 2026: Nvidia and TSMC are bringing AI into the fab itself&nbsp;&nbsp;Electronics360"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa19fT2dITHVRS0tWZEZmd19RWmttS3picmJaamFNTktFalBoSWxBSkJqWWtzRS1iSjNXQ2JGaURlZWszeldFWkdCN1ZPaWxUR0ZycEdZVW4xQUprZXE4VGNYWXVwcC1nMjFDNUhlNGRfLVd6WGt3TEhnWFRkVHZLRVJYYzZBRWF4MEUwR3NhQTRaR2t6bEI1ZXJ4MUs4bGFJVm52dGI5X2F6ZTZ3LWV6T09veEtIdGF6alJWaw?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real'&nbsp;&nbsp;Yahoo Finance"
+      "title": "NVIDIA Works With TSMC and Unitree on AI for Chips and Robots - Thomasnet",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40TE5xOHBnMk45X2pwaDVQcTQxLUt5enFCbGJ4QVpyVXh6SmJmd2xhVUhXa2xjRlpFTGNsQ2pBSUF5Z0ZTd0oyZzdZS1hFY0hZa3pSNWdHOFJibmFxZkZMTGNTek1vOFlMZzRFYXR2TV9tNEctM3Vv?oc=5",
+      "published": "Wed, 03 Jun 2026 10:12:55 GMT",
+      "summary": "NVIDIA Works With TSMC and Unitree on AI for Chips and Robots&nbsp;&nbsp;Thomasnet"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC turns to NVIDIA AI to spot nanometer chip defects faster - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVhZM1JlbWFKeDV0TFFQZDlUQjlObDcwc2txWVRVckR0U3RuZVprS3p1clRmVW5RYU9TRkdLRU42dGc5OEw0MnVmUW52VHpMbWx1b3pNTUFFWWdWOTN1WDgwQ25sU0dOTFpBS2RkbkNVY0d3NVg0UXprbTBoQk9Ddl9nUk5IMWJjY1Nnc2Z0VnZoR3dTb3N4bGlOUFRNVzZtQ21GbkpMeThDNjBQX2RhM1AyRWtFY2VNbDIyR3l3?oc=5",
+      "published": "Sun, 31 May 2026 07:00:00 GMT",
+      "summary": "TSMC turns to NVIDIA AI to spot nanometer chip defects faster&nbsp;&nbsp;Stock Titan"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "NVIDIA AI is Accelerating TSMC's Semiconductor Manufacturing - Manufacturing Digital",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1BlYU9ubkE4VWVYX0tKdXNEUjFGX21oRmc0VnoweXZQRG1CcVJYTzgyRnNManZBUTQwb2ZQRHdyQTdfU08zZUdkUFh6Mk8tejQyeEllb3NJdjdGTUppODB0cXdvdi0xWmxTUlVQX2t1WHpXWi10MVNpcExQUFR2aWt6cFFocGlOSFM1cV9pQkNCYkt2V1ByTkh6WktYUQ?oc=5",
+      "published": "Mon, 01 Jun 2026 11:11:07 GMT",
+      "summary": "NVIDIA AI is Accelerating TSMC's Semiconductor Manufacturing&nbsp;&nbsp;Manufacturing Digital"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC executive drops blunt message on AI chip\u2019s next frontier - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTd4d241LXpkTzdyeG5neWVjRHkyY0xHVkIzSk1MSVJxZVhZVWJ3RjdKaW0xVFlVNmRTdVNnbTk1NVpkVFkwb0RxRXA2eWMwYUkzZXRqQjlITk5zSnVHUGhhZGNBWTZDVWpLbzQ0YjBzckt1bTNLeHY5czFXd0k4VHB6Vzl1dHpqWjBCeXVuUUF5TENSSHoxZ2ZRb1U?oc=5",
+      "published": "Mon, 01 Jun 2026 22:03:00 GMT",
+      "summary": "TSMC executive drops blunt message on AI chip\u2019s next frontier&nbsp;&nbsp;thestreet.com"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "NVDA Gains 23.5% Since April, TSM Up 19.7%: What's Driving the Rally? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPME5rN0RNclh0UEt0R2VMT2d6RE9yOWhubTNaSnZ5SUtVR0RrbEY5LUw0b0NhZzVTSkFCNjJNa01rSWZjOGt1SmNjYml1MGtpeHlRanBzdGt3ei1ISUhnUjhERGRhM3BEaGtZNGhvV0U1ZHdBMC0xaFQ1cVJOY3J5M2VKYjlDdDV3MDhfUXc3V09wYUwtRlBsYXRuZU5XeFdnN3NHb1RlNnVjaVRpc0xXY3h2UXlrRnl1eGY0eg?oc=5",
+      "published": "Tue, 26 May 2026 19:00:00 GMT",
+      "summary": "NVDA Gains 23.5% Since April, TSM Up 19.7%: What's Driving the Rally?&nbsp;&nbsp;TradingView"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2869,45 +2897,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors&nbsp;&nbsp;TechInsights"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "AI Chip Buildout Lifts Nvidia, TSMC, Broadcom Higher - Gotrade",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2Q2V3BGMU96UjBPNDJZVGhQN0xSMFc2VU1VMHRIOGRGREFockVJUWlnbS1rUFNNWTljMFVaQWxhN01zQjJhOXZfUDdVbm1ZaEpJblpnLWhJeE5UcWc3QTB2dS1NTTVxbTVlSWJ2SlRRT3Z2UG94TXcyS1R0d09yaGpPUWlVSDNLSklwcDZjSnpoWmZITGVnalVZRmh6cVBlTzh0Tw?oc=5",
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "summary": "AI Chip Buildout Lifts Nvidia, TSMC, Broadcom Higher&nbsp;&nbsp;Gotrade"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "The Geopolitics of AI Chips will Define the Future of AI - CIRSD",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObG01ckVBOTRPRW54a0k2VGtzeHBZYUFvWkZSQ1o3dlFlX0p2Q2Z5bzlWWmpNYjZrZnRiSTFYSzNvWlZYcWU2bjBFQ0lRQTFBWFg3VXNXNnc2RV9pTUV0b0p2TUx5cE8ySWd4VlQ1eDM4aDhxLUlpeEpHVEhkQXlrY3dkNlpWampkX3JDWFZXcUJ5bVI4YWc?oc=5",
-      "published": "Wed, 04 Feb 2026 02:50:05 GMT",
-      "summary": "The Geopolitics of AI Chips will Define the Future of AI&nbsp;&nbsp;CIRSD"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip Stocks Split: AMAT and TSMC Gain While NVDA and Intel Retreat - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE1nNGV3WDNEdjE1aVM4N3FrWkZaZkNRakd3NGNaVTZxSVZBaVVtRzRCU3RoR3E3ZllFRUpyVlJuTndRa1dzdkhqazdRMDlWcVhTVXR4NkpUemtaNEh5Q0RSZzFLa09FSE5lVjFuRFJjVjEtY2RRbUNWQmw4alNUVE5LT05kTXRndlNKODA4dVEzRkcyZ3lWb2J4NWd1bmR2SHk0OFVaNXdTUGJ0alE?oc=5",
-      "published": "Mon, 16 Feb 2026 08:00:00 GMT",
-      "summary": "Chip Stocks Split: AMAT and TSMC Gain While NVDA and Intel Retreat&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWYwVEhmbEMyRy1UMkpQZExEYTlXUkZjX3RJLUdweHBIV08yQmJlcmZpX2d4MzVjU3ZlQUpSVUpoTE4tXzNoTEtZMjRfZ2I2LTJIQWdhNEJHeDJBVF9NX1oxODFpR0xlaUw3am9NT1hjRTdTMjRQX0syLTZfazZMUVgtMGFNSzFVdFl0a2ROd3NHYlpOTG81X2tUNTlwM2prZTcybWdKLWpXUjRmOTVqTEhnQ2Zqel9tc2NXb2dybmh4Nk0?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "Chip Stocks Are Soaring. An Industry Giant\u2019s Results Sent This Signal About AI Demand&nbsp;&nbsp;Investopedia"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "How World Powers Are Vying for Chip Supremacy - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tOFExUXV2Ty1nZ0Vpa2dvNHFPM1RXcUxEQUo4eTQ1ck9abVhmckVaaWNtSjBQOGVFRW9tX3BCVGptVXBLb1hOTFlDUHNDS2UzMkJBd0VCY05YRVFTcG43b2tzal9zdi04WkVjZG1YdzVQM1hFcEgw?oc=5",
-      "published": "Tue, 09 Dec 2025 08:00:00 GMT",
-      "summary": "How World Powers Are Vying for Chip Supremacy&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2922,6 +2922,13 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "The Smarter Way to Invest in AI Without Taking Extreme Risk - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMmJzcWtQVDRzWERRc0ZBRkVXQXhWVy1rX3h0ay1vcjdkbFlDcVRfSFRDVURNQVAxOEFWZHc0Zm9QSXhzRkdBSkxHelVHQVRTTkgxX2ZrRUxVU3V2SnFHVXdIRUJZcDZEc2Z6cUJNWHhBTURvV29YV1RRc05hb1NlMVpRVVBRakJXQmIxV1VudHNTRTdWTEQxNXdiN1R3TTZSdEVhak1YWUNYSnBrY0Rfd0dqS1R0aDRwZGJaWkxTcUU3a1hOdWMxenVSc0F6THBrV1ZPWGJVTXdMQQ?oc=5",
+      "published": "Sun, 31 May 2026 14:15:00 GMT",
+      "summary": "The Smarter Way to Invest in AI Without Taking Extreme Risk&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2943,13 +2950,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkpidlhhVUs4bkM0azVYQ0VOWjJCMFJZWlBqVmdPU0c3dWZjb2NvTVRMQ2I5bTFTcEVQeG1FUTZ1WmlCcC1lYnk1ZDFVTHJ6X2ZNMkx5WXVTcWZuNGpfeE80V2lNRUhYalBoVXp1ZGl6bmRadVFxOHk2U3pYdnpNSGxqdks?oc=5",
       "published": "Tue, 21 Apr 2026 04:21:44 GMT",
       "summary": "3 Artificial Intelligence (AI) Stocks Warren Buffett Might Buy If He Were a Tech Investor&nbsp;&nbsp;AOL.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2hsc3ZQRmZSOE95UU11cnFxV0FSVzluQnA4NW44eDFMWFNaTERRSEZDZ0NfLW5saFNMeE1UbHRFdmp6RS1IVG1hNG1FeDhTX2s5VWZnZnRqSGNSTWFMVDNhUU9Md0x2RURpVHB5NWU0Zm9UXzZNcHlhVmg1WWtiMW1SMW5Kc0k0aVhhR2dEQWh3OEx1Ny05VnhCNlFHamc4M0JJanhsLW5KWFdRNmJpRGdzajNaTnA2X2Uta2JRb1AzVG1nOXBJbVM5RQ?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2988,17 +2988,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers. - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW0tS3lXaV9xd01LU2NEc3hDbVU2Z2lOa01tSzdZRFY4VldXWW01MkQzc085WVZPMm5adXQ5VWJURGRuemtQUXFsQkNPaFl0bThmMWtjd2VYRU9BUWoyTVZtVkhwQUxTTDhSTHgxSklIamRTYXRkdTE1U184M2JZVDk5MUJUM3hzc2lMWkxfTFhaSHJvQ2lmT0JQbW1FV09ibFZLZEFRdHZNQ3Q1Z0o0UVhaSDlxMm1jUlE?oc=5",
-      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers.&nbsp;&nbsp;Investopedia"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "8 Best Quantum Computing Stocks to Buy in 2026 | Investing - U.S. News - Money",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5",
-      "published": "Mon, 01 Jun 2026 19:46:00 GMT",
-      "summary": "8 Best Quantum Computing Stocks to Buy in 2026 | Investing&nbsp;&nbsp;U.S. News - Money"
+      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2hsc3ZQRmZSOE95UU11cnFxV0FSVzluQnA4NW44eDFMWFNaTERRSEZDZ0NfLW5saFNMeE1UbHRFdmp6RS1IVG1hNG1FeDhTX2s5VWZnZnRqSGNSTWFMVDNhUU9Md0x2RURpVHB5NWU0Zm9UXzZNcHlhVmg1WWtiMW1SMW5Kc0k0aVhhR2dEQWh3OEx1Ny05VnhCNlFHamc4M0JJanhsLW5KWFdRNmJpRGdzajNaTnA2X2Uta2JRb1AzVG1nOXBJbVM5RQ?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3051,6 +3044,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "5 Best Quantum Computing ETFs for 2026 | Investing - U.S. News - Money",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "5 Best Quantum Computing ETFs for 2026 | Investing&nbsp;&nbsp;U.S. News - Money"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "SA Asks: What are the most attractive quantum computing stocks? (IBM:NYSE) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmFPeG5FZ2RjeDQ0R2NicXE4NE43dkJJWkhnNnJNeEZGaEgycGY2WUVmaEZELUVlUTNUdVBITlZYQWtzdFlHOE1wT0cybmI3Z2FJUXBMcXg3a3Rtd0xxbGFrQlBTaW9EaEZYTnZkSWNtYUVKZGNjSXZGbXVoeGpYeEUxWnB0ZEc2RXdQaEFqdVhuckZMSXhzSEJXV01BdmtP?oc=5",
       "published": "Sat, 09 May 2026 07:00:00 GMT",
@@ -3065,51 +3065,51 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "5 Best Quantum Computing ETFs for 2026 | Investing - U.S. News - Money",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
-      "summary": "5 Best Quantum Computing ETFs for 2026 | Investing&nbsp;&nbsp;U.S. News - Money"
+      "title": "The Best Quantum Computing Stocks to Buy in 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGJUUlJNeVFQQ0JfMWJjNzN0b1Q3NHo0RXNoTkIxTXNTMm91R2JWRGFNV3JVWlJCVGs0MG51Ny1wTzlHR2VObzJ0S2VJSFlwbFR0XzRka0RObjRCcFAxLWhtSTdOaC1fd2pCSndGT3ZLWUlFbTdCdDlqOEJQZFVCdlNuOU15OWdpR1lUQl9IaExZYzdET1A4S1I0QmNrdnc?oc=5",
+      "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "2 Top Quantum Computing Stocks to Buy in 2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1FVMEN2R195OW5oVzJfMnJzVFRrM1kzSjBfeXFUdUpTeTdIUXFkMmlUNkhmWWViamJYVUR5V1JoeFg1WndTLVA2RmxHV1FlS0VCS0NBZXB3eFRGdVJOanpoaVJ2QXdDa1VFdEJVZUY5Q2l0UnVCdE5jVXRVRDBwbjZR?oc=5",
-      "published": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "summary": "2 Top Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;Yahoo Finance"
+      "title": "The Best Quantum Computing Stocks to Buy in 2026 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbldnZnhla3MzbEppa3BKSFF4ZU1oZENUbXR1MGR1WXRWLVJldXVUUGJ0NUt0VUhSblBaZzlFcURsMFNidnVidFJSdi1YdGJTSVZYaFB0WndfbWNFajQ3cU0zeFVfQXBkTncxbGtHOUZ6MnNaT0NSRDgxRkk4UjRSYWItbDg1YXE2QnRNQlAyRFB1ZHY1bEE?oc=5",
+      "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Yahoo Finance",
-      "title": "New York District Attorney Looks Into Valuation Discrepancies Across Private Credit Funds",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/york-district-attorney-looks-valuation-123335607.html",
-      "published": "2026-06-07T12:33:35Z",
+      "title": "Microsoft Announces Majorana 2 Quantum Chip as Wedbush Calls It Another \u2018Validation\u2019 for the Industry",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-announces-majorana-2-quantum-141502799.html",
+      "published": "2026-06-07T14:15:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI stock mania is taking over the markets in 2026",
-      "url": "https://finance.yahoo.com/markets/article/ai-stock-mania-is-taking-over-the-markets-in-2026-123000964.html",
-      "published": "2026-06-07T12:30:00Z",
+      "title": "Forget Wall Street\u2019s Ultimate Pharma Value Trap: Here Is a Far Better Stock to Buy Right Now",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/forget-wall-street-ultimate-pharma-141334602.html",
+      "published": "2026-06-07T14:13:34Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "US retirees spend a whopping 52.5% of their income on just 2 categories \u2014 neither is food or healthcare. Do this instead",
-      "url": "https://finance.yahoo.com/economy/articles/us-retirees-spend-whopping-52-120500063.html",
-      "published": "2026-06-07T12:05:00Z",
+      "title": "Americans Still Owe $1.25 Trillion on Credit Cards as Interest Tops 23%: Experts Say This One Call Helped Over 80% of Borrowers Get a Lower Rate",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/americans-still-owe-1-25-140002534.html",
+      "published": "2026-06-07T14:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Joe Rogan stunned after Caleb Hammer says US boomers should have $2M-$5M savings \u2014 no \u2018sympathy\u2019 otherwise. Is he right?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/joe-rogan-stunned-caleb-hammer-124500206.html",
-      "published": "2026-06-07T12:45:00Z",
+      "title": "Dear Qualcomm Stock Fans, Mark Your Calendars for June 24",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-qualcomm-stock-fans-mark-140002013.html",
+      "published": "2026-06-07T14:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Leveraged ETFs Keep Booming. Advisors Keep Hitting the Brakes",
-      "url": "https://finance.yahoo.com/markets/options/articles/leveraged-etfs-keep-booming-advisors-120000201.html",
-      "published": "2026-06-07T12:00:00Z",
+      "title": "Dear Future ERock Stock Fans, Mark Your Calendars for June 10",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-future-erock-stock-fans-134502148.html",
+      "published": "2026-06-07T13:45:02Z",
       "summary": ""
     },
     {
@@ -3121,37 +3121,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin\u2019s Friday Plunge Below 60K Turned a 4 Percent Crypto Drop Into an 11 Percent Wipeout for WGMI Holders",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-friday-plunge-below-60k-123040090.html",
-      "published": "2026-06-07T12:30:40Z",
+      "title": "Cryptocurrency exchange Bybit to open SpaceX tokenized IPO access",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-bybit-open-spacex-144043401.html",
+      "published": "2026-06-07T14:40:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "'A splash of cold water': Wall Street gauges pause in AI trade",
-      "url": "https://finance.yahoo.com/markets/article/a-splash-of-cold-water-wall-street-gauges-pause-in-ai-trade-114012907.html",
-      "published": "2026-06-07T11:40:12Z",
+      "title": "PBDC Holders Face a Hard Question About Sustainability",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pbdc-holders-face-hard-sustainability-141629650.html",
+      "published": "2026-06-07T14:16:29Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Today's stock market leaders are hot \u2014 but not 1999 hot: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/todays-stock-market-leaders-are-hot--but-not-1999-hot-chart-of-the-day-113852559.html",
-      "published": "2026-06-07T11:38:52Z",
+      "title": "Is Columbia Banking System, Inc. (COLB) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/columbia-banking-system-inc-colb-144720551.html",
+      "published": "2026-06-07T14:47:20Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Smart money moves no more? Here are 6 things that you probably shouldn\u2019t throw your money at in 2026",
-      "url": "https://finance.yahoo.com/markets/articles/smart-money-moves-no-more-113000454.html",
-      "published": "2026-06-07T11:30:00Z",
+      "title": "Is AECOM (ACM) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/aecom-acm-good-stock-buy-144643137.html",
+      "published": "2026-06-07T14:46:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Companies are cashing in on consumers' unwillingness to bargain shop",
-      "url": "https://finance.yahoo.com/markets/article/companies-are-cashing-in-on-consumers-unwillingness-to-bargain-shop-131126071.html",
-      "published": "2026-06-07T13:11:26Z",
+      "title": "Is Chevron Corporation (CVX) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-good-stock-144702653.html",
+      "published": "2026-06-07T14:47:02Z",
       "summary": ""
     },
     {
