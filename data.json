@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T21:36:12.432008Z",
+  "last_updated": "2026-06-10T23:15:55.628909Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -1853,7 +1853,7 @@
       "ticker": "ORCL",
       "date": "2026-06-10",
       "days_away": 0,
-      "eps_estimate": 1.9624
+      "eps_estimate": 1.6852
     },
     {
       "ticker": "MU",
@@ -2841,13 +2841,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "AI Chip Buildout Lifts Nvidia, TSMC, Broadcom Higher - Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2Q2V3BGMU96UjBPNDJZVGhQN0xSMFc2VU1VMHRIOGRGREFockVJUWlnbS1rUFNNWTljMFVaQWxhN01zQjJhOXZfUDdVbm1ZaEpJblpnLWhJeE5UcWc3QTB2dS1NTTVxbTVlSWJ2SlRRT3Z2UG94TXcyS1R0d09yaGpPUWlVSDNLSklwcDZjSnpoWmZITGVnalVZRmh6cVBlTzh0Tw?oc=5",
-      "published": "Wed, 13 May 2026 07:00:00 GMT",
-      "summary": "AI Chip Buildout Lifts Nvidia, TSMC, Broadcom Higher&nbsp;&nbsp;Gotrade"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
       "published": "Fri, 15 May 2026 07:00:00 GMT",
@@ -2908,6 +2901,13 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDVGY0x4R0hYa0xuMEN0MFBueF9uT2dqSGtvNmtKT2FHRnFoczRVTVlEODRvaEJBY3FBN0dWMFd6UkdhYkpjYTVMQmFVZGxtU0tSRHRHY2hDbkRLTWtPckpnZVJLWlNEX1dJMms1c3dHcEVJd1dXZVR0R0lyMWU5ZFk2SjZRaFNKcTRYZ1FrZGtqcUc4LThyOGtVd1R1ZFk?oc=5",
       "published": "Sun, 12 Apr 2026 07:00:00 GMT",
       "summary": "TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results.&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Chip Stocks Decline: NVIDIA, TSMC, and AMD Face Significant Drops - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXZodC01T2NueVZyWkxpS0tRMnlmSHFPUXUtbHVHME1yTEVqVnhjNnJ0SVN6Q0tUYkRMNTY4MHBmTWJDMjBZZGVEczJRY0pLMC1sdnlmV05ETzZHTU9mYnZzZ1dxWFhnY0NpTzZITEdiRmFYNHF4dTZpTm9WaEd4UzhURDVuSlBkcmxBWVl0YzR1OUJUbnVpTExnSGRtWnNxSUtYQzFKWUVWUFIyeDg4MzItdw?oc=5",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "summary": "Chip Stocks Decline: NVIDIA, TSMC, and AMD Face Significant Drops&nbsp;&nbsp;GuruFocus"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3051,17 +3051,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "5 Best Quantum Computing ETFs for 2026 | Investing - US News Money",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
-      "summary": "5 Best Quantum Computing ETFs for 2026 | Investing&nbsp;&nbsp;US News Money"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "What IBM's $10-Billion Quantum Project Means For Smaller Players - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkkwWk5WVVVuMlRnRzF2TDVUeDRHd1ZDUmRsc3NrTC1IakVWQ19sdDctcFFyMHJ3Y3R2VVJCaTJXbkI3bDU5LXQ2LWdhTENPNDdacDVqX2l3Z0xKcXl4NWlLNHZGLUJMZlY5eG1IN0I1UDdoRlpvd0RZVE1MV2NaS3lnNDExekJ0ZDUxTXNodXdzYU5oZ0pIaVlvbFpfRjdkM3c?oc=5",
       "published": "Wed, 03 Jun 2026 17:05:46 GMT",
       "summary": "What IBM's $10-Billion Quantum Project Means For Smaller Players&nbsp;&nbsp;MarketBeat"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "5 Best Quantum Computing ETFs for 2026 | Investing - US News Money",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "5 Best Quantum Computing ETFs for 2026 | Investing&nbsp;&nbsp;US News Money"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3086,79 +3086,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corning Stock Soars on Multi-Billion-Dollar Deal With Amazon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-stock-soars-multi-billion-131903249.html",
-      "published": "2026-06-09T13:19:03Z",
+      "title": "When a loved one dies, here are the bills you should pay ASAP, which can wait, and the ones you may never have to touch",
+      "url": "https://finance.yahoo.com/markets/articles/loved-one-dies-bills-pay-153000287.html",
+      "published": "2026-06-09T15:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is AMETEK's Stock Performance Compared to Other Industrial Stocks?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ameteks-stock-performance-compared-other-132058376.html",
-      "published": "2026-06-09T13:20:58Z",
+      "title": "8 things student loan borrowers should consider before July 1",
+      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/8-things-student-loan-borrowers-should-consider-before-july-1-150138641.html",
+      "published": "2026-06-09T15:01:38Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Spike In Oil Prices Boosted Crescent Energy Company (CRGY) in Q1",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/spike-oil-prices-boosted-crescent-131829861.html",
-      "published": "2026-06-09T13:18:29Z",
+      "title": "GSK Just Dropped $10.6 Billion on a Lung Cancer Bet",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/gsk-just-dropped-10-6-152913692.html",
+      "published": "2026-06-09T15:29:13Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Should You Invest in EquipmentShare.com (EQPT)?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-equipmentshare-com-eqpt-132134554.html",
-      "published": "2026-06-09T13:21:34Z",
+      "title": "NIO Inc. (NIO) Announces Vehicle Delivery Results for May 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nio-inc-nio-announces-vehicle-152617334.html",
+      "published": "2026-06-09T15:26:17Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Should You Buy SpaceX Stock? What to Know Before the Biggest IPO in History Hits the Market.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-spacex-stock-know-biggest-132000678.html",
-      "published": "2026-06-09T13:20:00Z",
+      "title": "Jamie Dimon's View That Crypto Companies Offering Stablecoin Rewards Should Be Treated As Banks Is Nonsense, Says Peter Schiff",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jamie-dimons-view-crypto-companies-153116602.html",
+      "published": "2026-06-09T15:31:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Graphic Packaging Holding (GPK) Hurt by Weaker Low-End Consumer",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/graphic-packaging-holding-gpk-hurt-132753522.html",
-      "published": "2026-06-09T13:27:53Z",
+      "title": "Crude Oil Prices Sink as Israel-Iran Ceasefire Holds",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/crude-oil-prices-sink-israel-153729067.html",
+      "published": "2026-06-09T15:37:29Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Enovis Corporation (ENOV) a High-Growth, Under-Valued Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/enovis-corporation-enov-high-growth-132558259.html",
-      "published": "2026-06-09T13:25:58Z",
+      "title": "Stocks Erase Early Gains as Chipmakers Turn Lower",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-erase-early-gains-chipmakers-152334344.html",
+      "published": "2026-06-09T15:23:34Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Permian Resources Corporation (PR) Benefited from Supply Disruptions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-corporation-pr-benefited-131550545.html",
-      "published": "2026-06-09T13:15:50Z",
+      "title": "From Penny Stock to $100 Million in One Day: The Ultimate Meme Stock Has Arrived",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/penny-stock-100-million-one-152034221.html",
+      "published": "2026-06-09T15:20:34Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hive Digital\u2019s Chief Operating Officer Sells Company Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-chief-operating-officer-132800944.html",
-      "published": "2026-06-09T13:28:00Z",
+      "title": "Is General Mills Stock Underperforming the Nasdaq?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/general-mills-stock-underperforming-nasdaq-153846666.html",
+      "published": "2026-06-09T15:38:46Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47283_TechnicalAnalysis_1781090326000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-06-10T11:18:46Z",
+      "title": "If Inflation Stays Sticky, Here's Why These 2 ETFs Win",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/inflation-stays-sticky-heres-why-153054526.html",
+      "published": "2026-06-09T15:30:54Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "BP restructures into upstream and downstream units under new CEO",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/bp-restructures-upstream-downstream-units-131917037.html",
-      "published": "2026-06-09T13:19:17Z",
+      "title": "Retail diesel continues to fall while some voices fear what\u2019s ahead",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/retail-diesel-continues-fall-while-154353036.html",
+      "published": "2026-06-09T15:43:53Z",
       "summary": ""
     }
   ]
