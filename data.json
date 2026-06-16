@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T21:20:14.687719Z",
+  "last_updated": "2026-06-16T23:05:34.449059Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -141,7 +141,7 @@
       "market_cap_fmt": "695.25B",
       "52w_high": 1913.7,
       "52w_low": 683.48,
-      "pe_ratio": 37.4776,
+      "pe_ratio": 37.5184,
       "iv": 53.0,
       "beta": 1.396
     },
@@ -661,7 +661,7 @@
       "call_vol": 49576,
       "put_vol": 27214,
       "call_oi": 393579,
-      "put_oi": 253754,
+      "put_oi": 253720,
       "pcr": 0.549,
       "iv": 51.0
     },
@@ -701,7 +701,7 @@
       "call_vol": 11632,
       "put_vol": 7147,
       "call_oi": 78271,
-      "put_oi": 95517,
+      "put_oi": 95518,
       "pcr": 0.614,
       "iv": 90.3
     },
@@ -741,7 +741,7 @@
       "call_vol": 15351,
       "put_vol": 8990,
       "call_oi": 101491,
-      "put_oi": 50871,
+      "put_oi": 50890,
       "pcr": 0.586,
       "iv": 102.7
     },
@@ -2834,13 +2834,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Taiwan semiconductor ecosystem outmuscles TSMC\u2019s singular might - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjRKUG40aTBHUVlOd0lpMFE4eWNBRm1BaXU5eUFXTFNULS1ZQXBHOWNBV1BnMWV6ZW50bVBUOTlRWE1jSms1MmtUVE4wY1ZWRmQ5Wi0tUHh0M1RkTGlNRmJGbXBmLW5ndk14ako3RG1BNUNMQXNNZnRNWFd0ai1hTHFMVk9kTExFQkstOF9n0gGOAUFVX3lxTE12NEpQbjRpMEdRWU53SWkwUTh5Y0FGbUFpdTl5QVdMU1QtLVlBcEc5Y0FXUGcxZXplbnRtUFQ5OVFYTWNKazUya1RUTjBjVlZGZDlaLS1QeHQzVGRMaU1GYkZtcGYtbmd2TXhqSjdEbUE1Q0xBc01mdE1YV3RqLWFMcUxWT2RMTEVCSy04X2c?oc=5",
-      "published": "Tue, 16 Jun 2026 08:13:00 GMT",
-      "summary": "Taiwan semiconductor ecosystem outmuscles TSMC\u2019s singular might - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
       "published": "Fri, 12 Jun 2026 12:53:55 GMT",
@@ -2869,6 +2862,20 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDc4cFNXbjczTkhZbEVydl9qREdPaC10T1NrTzFVZ3pRZTBiYTFDZk53V0FJb0JQcDdXSjdCWW05Sk5vVUNmWHF1Ri10alN4WlFBVS1sWVhlcnh5QlBuV3dJT3hqVkZERF8xWnFUZFlpVlE4bWRRMEhCWnZEa0l2RV9QdUh3bkUtTlhlNlIxNHVCVHpuR2VqQ2J6cjFzRTdGSWlVQml3N01WQdIBrwFBVV95cUxOWU9YQmRIYVRIdmExaEVsVU1COTBmcDdpR3c0WUVYbGNwVWhhSy1aRXNRdlRiUEpkWndqbi1JdU8tWEdaeVRSb29SX2JpUmZ6bWtQRGF3ZDZzWDRlNEx0TFl4ZlV6amdYYVNodksyb3hwZWFhOUROaXFEb2MtZjZDSXJxanUyUGw5QUlpRm5lQk42dW9xNGVNdEJSeFhvUFc4bWRuQzNMdmE0TEZOdHBn?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand&nbsp;&nbsp;CNBC"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Taiwan Semiconductor Manufacturing Co. (TSMC) - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5",
+      "published": "Tue, 09 Jun 2026 22:00:00 GMT",
+      "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC)&nbsp;&nbsp;Britannica"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA AI is Accelerating TSMC's Semiconductor Manufacturing - Manufacturing Digital Magazine",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1BlYU9ubkE4VWVYX0tKdXNEUjFGX21oRmc0VnoweXZQRG1CcVJYTzgyRnNManZBUTQwb2ZQRHdyQTdfU08zZUdkUFh6Mk8tejQyeEllb3NJdjdGTUppODB0cXdvdi0xWmxTUlVQX2t1WHpXWi10MVNpcExQUFR2aWt6cFFocGlOSFM1cV9pQkNCYkt2V1ByTkh6WktYUQ?oc=5",
       "published": "Mon, 01 Jun 2026 11:11:07 GMT",
@@ -2883,31 +2890,24 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Nvidia Stock May or May Not Soar on May 20, But This Super AI Semiconductor Stock Could Pop and Go On a Terrific Bull Run - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzdIeWs5bHFKU1E0bWdFUUZ4QXY0U09MYmk5MWZTcTRsRDVGZjQ0UzN3MGVsOXZqT21vQkZtaFZaUnctd2c5NHFYbW5SMGw4QjhjRm80QjUxNHZ5RG9xSmdiLTBDanc4aFNhYWhsWjZ3SlVZTkJlb2JTZTVwbGtaRGVpZENrN0dUbmtyUFM5X2l3eGluaGx1OQ?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "Nvidia Stock May or May Not Soar on May 20, But This Super AI Semiconductor Stock Could Pop and Go On a Terrific Bull Run&nbsp;&nbsp;The Motley Fool"
+      "title": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa19fT2dITHVRS0tWZEZmd19RWmttS3picmJaamFNTktFalBoSWxBSkJqWWtzRS1iSjNXQ2JGaURlZWszeldFWkdCN1ZPaWxUR0ZycEdZVW4xQUprZXE4VGNYWXVwcC1nMjFDNUhlNGRfLVd6WGt3TEhnWFRkVHZLRVJYYzZBRWF4MEUwR3NhQTRaR2t6bEI1ZXJ4MUs4bGFJVm52dGI5X2F6ZTZ3LWV6T09veEtIdGF6alJWaw?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real'&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC NVIDIA Alliance Puts AI At The Heart Of Chipmaking - Sahm",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTm5EanlzRFZ3NDM4WXVLYzhJMmI5M1pTNmFkMmI4YnFnVk5PRnJoeGxHdkVVbVVDUWJBYklLRVA4TEpUSERBZDVhTXpxalh6ME50NXhvSnJuRnUxVnZ5akRHUUVNc3NGTjNUcXY0QVVMS3FvOGlYN1NURXhfNHRaUk5wVmpFZ2dJQXIzaVQ2Q0tReHZkYzVpdGRCMFdfMnN4bHdTTUZmdGJEczQ?oc=5",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "summary": "TSMC NVIDIA Alliance Puts AI At The Heart Of Chipmaking&nbsp;&nbsp;Sahm"
+      "title": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lKdVl2YzJuZzhOemdUODN1M0xkdk1nUnlacFJMUS13MHpQdWJjOUlYVGtPbU5QaEtqRndlYlRYTWdyd1NHa3VEbWM4bG8tYTlrWm5YRzROa3QwZzJUcXk1OWVqdzBHX3Rwdkl1VVhMUmwwdmsxQS1yOGNSSEwxY2owSkFFS1hvZHF6LXhhMHBuRVE?oc=5",
+      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "summary": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Computex 2026: Nvidia and TSMC are bringing AI into the fab itself - Electronics360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWJxby13czRZWFM4aWJ3bFBZdTFGMW1fSGtvNFpvTmctREtpenZYcEl2dEFEdmdsb2pNT3VFVW5QaUQwNWM1T3Zvb2VjY0dpRjIzS09uMy1NbGtoUjF2RDhYdTBKdUtxbmgzTGNPLWNFWUZhQm10Sm4tMmlRUWNLVkFERHJVcTltM1JLNHl0R05sQmFjV0RIYkdnNDF1WldXcVFaVWdlbEhnN1V5WmJSR0hZbDg1ZElh?oc=5",
-      "published": "Wed, 03 Jun 2026 12:18:05 GMT",
-      "summary": "Computex 2026: Nvidia and TSMC are bringing AI into the fab itself&nbsp;&nbsp;Electronics360"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "NVDA Gains 23.5% Since April, TSM Up 19.7%: What's Driving the Rally? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPME5rN0RNclh0UEt0R2VMT2d6RE9yOWhubTNaSnZ5SUtVR0RrbEY5LUw0b0NhZzVTSkFCNjJNa01rSWZjOGt1SmNjYml1MGtpeHlRanBzdGt3ei1ISUhnUjhERGRhM3BEaGtZNGhvV0U1ZHdBMC0xaFQ1cVJOY3J5M2VKYjlDdDV3MDhfUXc3V09wYUwtRlBsYXRuZU5XeFdnN3NHb1RlNnVjaVRpc0xXY3h2UXlrRnl1eGY0eg?oc=5",
-      "published": "Tue, 26 May 2026 19:00:00 GMT",
-      "summary": "NVDA Gains 23.5% Since April, TSM Up 19.7%: What's Driving the Rally?&nbsp;&nbsp;TradingView"
+      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjVSdTNvT2hxMUc4Nnp2eDZGT1c4VUxVU25yQ1ZwWTgtYVkzRjVEenZBNzlPdFNnYWdFSnRLMS11bUlleDE2RVJZNW9SdVVfbGpieWJWMFBUN19nWHl2LWxIXzk0Y1lXcXZCTXY1b2tnLUloeDduRHU2Z3NYM1Vyek1pM0RPZWlhTkdPcjFkRTY4Qjg?oc=5",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored&nbsp;&nbsp;The New York Times"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3086,79 +3086,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here\u2019s Why Baron Real Estate Fund is Constructive on Caesars Entertainment (CZR)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-baron-real-estate-fund-125145322.html",
-      "published": "2026-06-15T12:51:45Z",
+      "title": "SpaceX IPO reveals one stunning fact about the stock market: By the numbers",
+      "url": "https://finance.yahoo.com/markets/article/spacex-ipo-reveals-one-stunning-fact-about-the-stock-market-by-the-numbers-144602845.html",
+      "published": "2026-06-15T14:46:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Red Rock Resorts (RRR) a Compelling Bet?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/red-rock-resorts-rrr-compelling-125334270.html",
-      "published": "2026-06-15T12:53:34Z",
+      "title": "Danaher Corporation\u2019s (DHR) Recovery Fell Short of Investor Expectations",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/danaher-corporation-dhr-recovery-fell-144816438.html",
+      "published": "2026-06-15T14:48:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Airbnb (ABNB) Resilient to AI Transition?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-resilient-ai-transition-125546906.html",
-      "published": "2026-06-15T12:55:46Z",
+      "title": "The New World Screwworm Is Still Center Stage for Cattle Prices. Depending on the Day, It\u2019s Either Bullish or Bearish.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/world-screwworm-still-center-stage-143739938.html",
+      "published": "2026-06-15T14:37:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Makes Wynn Resorts, Limited (WYNN) an Attractively Valued Company?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-wynn-resorts-limited-wynn-124901383.html",
-      "published": "2026-06-15T12:49:01Z",
+      "title": "Madison Large Cap Fund Sold Its Position in Accenture (ACN) Amid AI Concerns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/madison-large-cap-fund-sold-143648948.html",
+      "published": "2026-06-15T14:36:48Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Market Update: TEVA, APD, DG",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47346_MarketUpdate_1781629272000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-06-16T17:01:12Z",
+      "title": "SpaceX\u2019s biggest-ever IPO just grew to $85.7 billion raised",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-biggest-ever-ipo-just-144503447.html",
+      "published": "2026-06-15T14:45:03Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "SpaceX Stock Climbs to New Highs After Friday's Record-Setting IPO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-starts-week-higher-125450588.html",
-      "published": "2026-06-15T12:54:50Z",
+      "title": "Dollar Slips and Gold Rallies on US-Iran Peace Deal",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-gold-rallies-us-143540417.html",
+      "published": "2026-06-15T14:35:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Strategy Buys $100 Million Of Bitcoin Ahead Of Price Surge",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-buys-100-million-bitcoin-125700286.html",
-      "published": "2026-06-15T12:57:00Z",
+      "title": "Is Ferrari N.V. (RACE) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-n-v-race-good-145403044.html",
+      "published": "2026-06-15T14:54:03Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Factbox-Global drugmakers invest billions to boost US presence",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/factbox-global-drugmakers-invest-billions-124225331.html",
-      "published": "2026-06-15T12:42:25Z",
+      "title": "Is Perimeter Solutions, Inc. (PRM) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/perimeter-solutions-inc-prm-good-145514038.html",
+      "published": "2026-06-15T14:55:14Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Vail Resorts (MTN) an Attractively Valued Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vail-resorts-mtn-attractively-valued-124329608.html",
-      "published": "2026-06-15T12:43:29Z",
+      "title": "Is Neurocrine Biosciences, Inc. (NBIX) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/neurocrine-biosciences-inc-nbix-good-145527713.html",
+      "published": "2026-06-15T14:55:27Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jones Lang LaSalle Incorporated (JLL) Declined Due to a Rapid Swing in Investor Sentiment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jones-lang-lasalle-incorporated-jll-125824997.html",
-      "published": "2026-06-15T12:58:24Z",
+      "title": "Why Retail Investors Are Piling Into the SpaceX IPO Despite a Historic $2.1 Trillion Valuation",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-investors-piling-spacex-144445929.html",
+      "published": "2026-06-15T14:44:45Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Community Healthcare Trust vs. Sabra Health Care REIT: Which Real Estate Stock Is a Better Buy in 2026?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/community-healthcare-trust-vs-sabra-125125943.html",
-      "published": "2026-06-15T12:51:25Z",
+      "title": "Is Voyager Technologies, Inc. (VOYG) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/voyager-technologies-inc-voyg-good-145416045.html",
+      "published": "2026-06-15T14:54:16Z",
       "summary": ""
     }
   ]
