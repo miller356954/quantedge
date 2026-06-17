@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T21:24:08.801980Z",
+  "last_updated": "2026-06-17T23:01:05.229181Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -661,7 +661,7 @@
       "call_vol": 42893,
       "put_vol": 69728,
       "call_oi": 393249,
-      "put_oi": 253627,
+      "put_oi": 253593,
       "pcr": 1.626,
       "iv": 48.1
     },
@@ -701,7 +701,7 @@
       "call_vol": 10905,
       "put_vol": 6760,
       "call_oi": 78819,
-      "put_oi": 96315,
+      "put_oi": 96316,
       "pcr": 0.62,
       "iv": 81.7
     },
@@ -741,7 +741,7 @@
       "call_vol": 12824,
       "put_vol": 5303,
       "call_oi": 102683,
-      "put_oi": 52717,
+      "put_oi": 52736,
       "pcr": 0.414,
       "iv": 83.2
     },
@@ -2827,17 +2827,17 @@
   "news": [
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Samsung's foundry is booming as TSMC struggles with demand \u2013 bags Nvidia, Tesla, and Qualcomm as new clients - TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXlHMGxTWkhZazNyLWNrZndDZ2ZfVHhicWVOWW5LdW16cnI5ZnI0TXZLdFB6QWhxR1Rha0ZJeUdVbmh0TTJVT043MFg5T3FtN2pRLTNxZHhzZFdUWDRlSHlXZVltTVI2YllCMDgzNjlQOVB0TjRIbm1ZMFlRRmYyQTU1NG5OQUdvLVp6RDF5V3JpWnB0YUF4TFR3Z2ZTeFB6?oc=5",
-      "published": "Wed, 17 Jun 2026 18:23:00 GMT",
-      "summary": "Samsung's foundry is booming as TSMC struggles with demand \u2013 bags Nvidia, Tesla, and Qualcomm as new clients&nbsp;&nbsp;TechSpot"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
       "published": "Sun, 31 May 2026 07:00:00 GMT",
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Samsung's foundry is booming as TSMC struggles with demand \u2013 bags Nvidia, Tesla, and Qualcomm as new clients - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXlHMGxTWkhZazNyLWNrZndDZ2ZfVHhicWVOWW5LdW16cnI5ZnI0TXZLdFB6QWhxR1Rha0ZJeUdVbmh0TTJVT043MFg5T3FtN2pRLTNxZHhzZFdUWDRlSHlXZVltTVI2YllCMDgzNjlQOVB0TjRIbm1ZMFlRRmYyQTU1NG5OQUdvLVp6RDF5V3JpWnB0YUF4TFR3Z2ZTeFB6?oc=5",
+      "published": "Wed, 17 Jun 2026 18:23:00 GMT",
+      "summary": "Samsung's foundry is booming as TSMC struggles with demand \u2013 bags Nvidia, Tesla, and Qualcomm as new clients&nbsp;&nbsp;TechSpot"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2981,17 +2981,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia Falls Amid China's DeepSeek AI News. Is Nvidia A Buy Or Sell Now? - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BRm9qY2M0dHNMWnlSVFRUSjRiNm9TQmlHcWxWMlhKV0syN0pOdlZPbVNINVVobi1sZzRtZXl6V2tqZW13aFdvbDZRTjBNVFVkbmphU21aelY5RHNhb3U5QmNUdnNMQkV6dFk4SFM0UkcyQUdBYWc?oc=5",
-      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "summary": "Nvidia Falls Amid China's DeepSeek AI News. Is Nvidia A Buy Or Sell Now?&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdyTkpmMlBYYk5JT3hHbnRGYmp3cmxNY3hmaGRzWTBJMFlvLTJJUWNYRWtmTGlocDJjNlJneG0telNOSUFOcG9TN0FlbDJVUXd3VzJVU2hXcngtSDByTm9XQzFwLTU2S1M4UzUxYUs1aWRHZDlSQ2QtTWRKbUY1WGNoUG16Z01DQ0FPUk9WTUt5MEhRaTRKag?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026?&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3086,79 +3086,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Cathie Wood Cleans House: Another Day Of Heavy Sales",
-      "url": "https://www.investors.com/news/cathie-wood-spacex-ipo-elon-musk-ark-invest-roku-amd-etf/?src=A00220&yptr=yahoo",
-      "published": "2026-06-16T13:10:58Z",
+      "title": "Hyperscaler\u2019s Multiyear Commitment with Western Digital (WDC) Highlights Robust Demand",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hyperscaler-multiyear-commitment-western-digital-145523194.html",
+      "published": "2026-06-16T14:55:23Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Oil prices tumble below $80 per barrel for first time since March",
-      "url": "https://finance.yahoo.com/markets/article/oil-prices-tumble-below-80-per-barrel-for-first-time-since-march-130219359.html",
-      "published": "2026-06-16T13:02:19Z",
+      "title": "Why Grok Could Be a Reason to Stay Away from the SpaceX IPO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-grok-could-reason-stay-144953545.html",
+      "published": "2026-06-16T14:49:53Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Best hotel credit cards for June 2026",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-hotels-184659649.html",
-      "published": "2025-03-25T18:46:59Z",
+      "title": "Here\u2019s What Boosted Lumentum Holdings (LITE) in Q1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-inclusion-boosted-lumentum-145024414.html",
+      "published": "2026-06-16T14:50:24Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Deere & Company (DE) Surged on Market Favour",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/deere-company-surged-market-favour-131905383.html",
-      "published": "2026-06-16T13:19:05Z",
+      "title": "Strong Results Lifted Applied Materials (AMAT) in Q1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-applied-materials-144639918.html",
+      "published": "2026-06-16T14:46:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Old Dominion Freight Line Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3754_AnalystReport_1781720090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-06-17T18:14:50Z",
+      "title": "Why I Can\u2019t Stop Buying This Cash-Rich Stock After a Massive $145 Billion AI Shift",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-t-stop-buying-cash-145500668.html",
+      "published": "2026-06-16T14:55:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "SpaceX Just Passed TSM. Can It Overtake Amazon This Week?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-passed-tsm-overtake-131500762.html",
-      "published": "2026-06-16T13:15:00Z",
+      "title": "Is Hubbell Incorporated Stock Outperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-incorporated-stock-outperforming-p-144704543.html",
+      "published": "2026-06-16T14:47:04Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "SpaceX Perps Become Hyperliquid\u2019s Biggest Market",
-      "url": "https://finance.yahoo.com/markets/options/articles/spacex-perps-become-hyperliquid-biggest-130500127.html",
-      "published": "2026-06-16T13:05:00Z",
+      "title": "ASML Holding N.V. (ASML) Rallied on Market Dominance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-144055884.html",
+      "published": "2026-06-16T14:40:55Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Chase Freedom Flex vs. Sapphire Preferred: Are they better together?",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/chase-freedom-flex-vs-chase-sapphire-preferred-201522160.html",
-      "published": "2024-10-29T20:15:22Z",
+      "title": "SpaceX Just Passed Amazon and Microsoft Is Next",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-passed-amazon-microsoft-143931322.html",
+      "published": "2026-06-16T14:39:31Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Madison Large Cap Fund Maintains Position on Agilent Technologies (A) Amid AI Fears",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/madison-large-cap-fund-maintains-131604865.html",
-      "published": "2026-06-16T13:16:04Z",
+      "title": "What Makes Taiwan Semiconductor Manufacturing (TSM) a Strong Bet?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-taiwan-semiconductor-manufacturing-tsm-143732310.html",
+      "published": "2026-06-16T14:37:32Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Coherent's Stock Performance Compared to Other Technology Stocks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coherents-stock-performance-compared-other-130019653.html",
-      "published": "2026-06-16T13:00:19Z",
+      "title": "Planet Labs Sinks 10%, Intuitive Machines Drops 8%, Firefly Aerospace Falls 7% as Traders Rush to SpaceX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-sinks-10-intuitive-145533221.html",
+      "published": "2026-06-16T14:55:33Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Rocket Cos Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_5979_AnalystReport_1781720090000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-06-17T18:14:50Z",
+      "title": "Dollar Little Changed on Weak US Housing News",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-little-changed-weak-us-143408574.html",
+      "published": "2026-06-16T14:34:08Z",
       "summary": ""
     }
   ]
