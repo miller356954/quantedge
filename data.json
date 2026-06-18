@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T21:30:36.657643Z",
+  "last_updated": "2026-06-18T23:24:25.541475Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -2862,17 +2862,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Taiwan semiconductor ecosystem outmuscles TSMC\u2019s singular might - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OQ2pycThCbXdUZUNLZ1dxbG43STdCS0ZiVTdxb2hyOGY3R2NMUmJZb053QkRQY1Y2Q1pQQ0NUUUItUkY2TjBwY0NTcFhkaEItd2JZVG1vZ1JoUldaSHJiYXdRZTNJb2lXbllfVUxrdHVKNDJ5SnRYWDNR0gGOAUFVX3lxTE12NEpQbjRpMEdRWU53SWkwUTh5Y0FGbUFpdTl5QVdMU1QtLVlBcEc5Y0FXUGcxZXplbnRtUFQ5OVFYTWNKazUya1RUTjBjVlZGZDlaLS1QeHQzVGRMaU1GYkZtcGYtbmd2TXhqSjdEbUE1Q0xBc01mdE1YV3RqLWFMcUxWT2RMTEVCSy04X2c?oc=5",
-      "published": "Tue, 16 Jun 2026 08:13:00 GMT",
-      "summary": "Taiwan semiconductor ecosystem outmuscles TSMC\u2019s singular might - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA and TSMC push AI deeper into semiconductor fabs ... - eeNews Europe",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0RVVmRwQVBjbGplU0pGYlBpb3V6MV8xdm1OeHZIcGUwbXhLdVVhRi1OUlYyQWtCZG1Pc3ZqWUx5Rl9xWWUyWlVsX2M0TEZNR2cwdktmN1d0TXJKbllsYWp3d21nLVpMQ3JZUW1GX1d5Ni1GVWJSay0xR1V3a1BSY2RXSENvMGUydHJSSWxkajQ?oc=5",
       "published": "Tue, 02 Jun 2026 07:00:00 GMT",
       "summary": "NVIDIA and TSMC push AI deeper into semiconductor fabs ...&nbsp;&nbsp;eeNews Europe"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Taiwan semiconductor ecosystem outmuscles TSMC\u2019s singular might - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OQ2pycThCbXdUZUNLZ1dxbG43STdCS0ZiVTdxb2hyOGY3R2NMUmJZb053QkRQY1Y2Q1pQQ0NUUUItUkY2TjBwY0NTcFhkaEItd2JZVG1vZ1JoUldaSHJiYXdRZTNJb2lXbllfVUxrdHVKNDJ5SnRYWDNR0gGOAUFVX3lxTE12NEpQbjRpMEdRWU53SWkwUTh5Y0FGbUFpdTl5QVdMU1QtLVlBcEc5Y0FXUGcxZXplbnRtUFQ5OVFYTWNKazUya1RUTjBjVlZGZDlaLS1QeHQzVGRMaU1GYkZtcGYtbmd2TXhqSjdEbUE1Q0xBc01mdE1YV3RqLWFMcUxWT2RMTEVCSy04X2c?oc=5",
+      "published": "Tue, 16 Jun 2026 08:13:00 GMT",
+      "summary": "Taiwan semiconductor ecosystem outmuscles TSMC\u2019s singular might - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2883,6 +2883,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Taiwan Semiconductor Manufacturing Co. (TSMC) - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5",
+      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC)&nbsp;&nbsp;Britannica"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA AI is Accelerating TSMC's Semiconductor Manufacturing - Manufacturing Digital Magazine",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1BlYU9ubkE4VWVYX0tKdXNEUjFGX21oRmc0VnoweXZQRG1CcVJYTzgyRnNManZBUTQwb2ZQRHdyQTdfU08zZUdkUFh6Mk8tejQyeEllb3NJdjdGTUppODB0cXdvdi0xWmxTUlVQX2t1WHpXWi10MVNpcExQUFR2aWt6cFFocGlOSFM1cV9pQkNCYkt2V1ByTkh6WktYUQ?oc=5",
       "published": "Mon, 01 Jun 2026 07:00:00 GMT",
@@ -2890,24 +2897,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC NVIDIA Alliance Puts AI At The Heart Of Chipmaking - Sahm",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTm5EanlzRFZ3NDM4WXVLYzhJMmI5M1pTNmFkMmI4YnFnVk5PRnJoeGxHdkVVbVVDUWJBYklLRVA4TEpUSERBZDVhTXpxalh6ME50NXhvSnJuRnUxVnZ5akRHUUVNc3NGTjNUcXY0QVVMS3FvOGlYN1NURXhfNHRaUk5wVmpFZ2dJQXIzaVQ2Q0tReHZkYzVpdGRCMFdfMnN4bHdTTUZmdGJEczQ?oc=5",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "summary": "TSMC NVIDIA Alliance Puts AI At The Heart Of Chipmaking&nbsp;&nbsp;Sahm"
+      "title": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa19fT2dITHVRS0tWZEZmd19RWmttS3picmJaamFNTktFalBoSWxBSkJqWWtzRS1iSjNXQ2JGaURlZWszeldFWkdCN1ZPaWxUR0ZycEdZVW4xQUprZXE4VGNYWXVwcC1nMjFDNUhlNGRfLVd6WGt3TEhnWFRkVHZLRVJYYzZBRWF4MEUwR3NhQTRaR2t6bEI1ZXJ4MUs4bGFJVm52dGI5X2F6ZTZ3LWV6T09veEtIdGF6alJWaw?oc=5",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real'&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Computex 2026: Nvidia and TSMC are bringing AI into the fab itself - Electronics360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWJxby13czRZWFM4aWJ3bFBZdTFGMW1fSGtvNFpvTmctREtpenZYcEl2dEFEdmdsb2pNT3VFVW5QaUQwNWM1T3Zvb2VjY0dpRjIzS09uMy1NbGtoUjF2RDhYdTBKdUtxbmgzTGNPLWNFWUZhQm10Sm4tMmlRUWNLVkFERHJVcTltM1JLNHl0R05sQmFjV0RIYkdnNDF1WldXcVFaVWdlbEhnN1V5WmJSR0hZbDg1ZElh?oc=5",
-      "published": "Wed, 03 Jun 2026 12:18:05 GMT",
-      "summary": "Computex 2026: Nvidia and TSMC are bringing AI into the fab itself&nbsp;&nbsp;Electronics360"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "NVDA Gains 23.5% Since April, TSM Up 19.7%: What's Driving the Rally? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPME5rN0RNclh0UEt0R2VMT2d6RE9yOWhubTNaSnZ5SUtVR0RrbEY5LUw0b0NhZzVTSkFCNjJNa01rSWZjOGt1SmNjYml1MGtpeHlRanBzdGt3ei1ISUhnUjhERGRhM3BEaGtZNGhvV0U1ZHdBMC0xaFQ1cVJOY3J5M2VKYjlDdDV3MDhfUXc3V09wYUwtRlBsYXRuZU5XeFdnN3NHb1RlNnVjaVRpc0xXY3h2UXlrRnl1eGY0eg?oc=5",
-      "published": "Tue, 26 May 2026 19:00:00 GMT",
-      "summary": "NVDA Gains 23.5% Since April, TSM Up 19.7%: What's Driving the Rally?&nbsp;&nbsp;TradingView"
+      "title": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0lKdVl2YzJuZzhOemdUODN1M0xkdk1nUnlacFJMUS13MHpQdWJjOUlYVGtPbU5QaEtqRndlYlRYTWdyd1NHa3VEbWM4bG8tYTlrWm5YRzROa3QwZzJUcXk1OWVqdzBHX3Rwdkl1VVhMUmwwdmsxQS1yOGNSSEwxY2owSkFFS1hvZHF6LXhhMHBuRVE?oc=5",
+      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "summary": "Meet the Super Semiconductor Stock That Isn't Nvidia, AMD, or Broadcom&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2939,6 +2939,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
       "published": "Tue, 18 Nov 2025 08:00:00 GMT",
@@ -2957,13 +2964,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEd3X2pTanI2bGJ6ZUk3bmFxNkdQYThxYUFEdm0yUUJiRFZuS2haZkhJaG5kV2lickdOWXVhaGFBdmxiRkp4OU1YRFk4R0xIWmpXcXFTMGZIZlRLY3UzRDM5Wm5ESE9pQnA1Nldad1RpeThsYmhwLVY4ZkVjZ1hpcjVkcjVWUdIBiwFBVV95cUxNZFU5RDcxSVNhNEt3SHYtRnZidUl0YmVDNko1clVXcXFKaHRBUl9fenBuYnBGZ2xSTzlYRUduZWRiSy1xQUNaNU5ocFNEMEtMLXN0ZG1BMlIyYXJReHdhTng1YWFmbEZWMlJKTFI1bGxMVFJ6Zkt6dUNlaUJPUWVGZ2N3dFFfUlIwVGJj?oc=5",
       "published": "Fri, 31 Oct 2025 07:00:00 GMT",
       "summary": "Tech's $380 billion splurge: This quarter's winners and losers of the AI spending boom&nbsp;&nbsp;CNBC"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2992,13 +2992,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
       "published": "Sun, 29 Mar 2026 07:00:00 GMT",
       "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm9oa3VNV3JUa0M0RHJhczA3UnE5aE9aU3czZG5NRVVxMS1pNm9pV2djUVVpaGRwcTNnWmZhRUE3elVIMDI2ekliVXJEVk1JV1hxemVsM29HOWQ0b2Y5OXhMUWdXR284QzRQQ0NoSVA2OTQ4dkd2MUJuczlJdEdTWWtNNVpSQUNobGc4dks0OXBzaVdnS3JZc3ZxNkpudDBDdl9vdmcwUFpKRHRIU1c1WjJEa2s?oc=5",
-      "published": "Fri, 12 Jun 2026 12:22:10 GMT",
-      "summary": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions&nbsp;&nbsp;The Quantum Insider"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3078,6 +3071,13 @@
       "summary": "5 Best Quantum Computing ETFs for 2026 | Investing&nbsp;&nbsp;U.S. News - Money"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Quantum Computing Stocks: AMD, Qualcomm, IonQ Invest In Startup - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFc4Mk9BWHFYRERjd0xNWG1OMU0zdHFuMlJIenN5clh5eWdNS0Z6Y211ajFoU0syZkt2V0UwT3A1N2lkWURBMUVuZUIxRFFLVjZHcmJjOUJqeEN3c0trQUJ6TV9iR3ZZbzMtTlpnMmNIOW03OUxrLUp0QVVmQ0FKYi1oZm9oR08tUG5jTWMydWZOaGR3a19DLUN3?oc=5",
+      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "summary": "Quantum Computing Stocks: AMD, Qualcomm, IonQ Invest In Startup&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
       "source": "Yahoo Finance",
       "title": "Grocery chain pays massive fine, accused of inflated price reporting",
       "url": "https://finance.yahoo.com/healthcare/articles/grocery-chain-pays-massive-fine-231700048.html",
@@ -3086,30 +3086,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Howmet Aerospace (HWM) Gains From Competitive Edge",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-gains-competitive-132143719.html",
-      "published": "2026-06-17T13:21:43Z",
+      "title": "Allbirds stock surges over 50% after company rebrands to Smartbird, appoints AWS exec as CEO",
+      "url": "https://finance.yahoo.com/markets/stocks/article/allbirds-stock-surges-over-50-after-company-rebrands-to-smartbird-appoints-aws-exec-as-ceo-155224745.html",
+      "published": "2026-06-17T15:52:24Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Billionaire Dan Loeb Is Selling Old Economy Stocks and Buying This AI Play",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-dan-loeb-selling-old-132657494.html",
-      "published": "2026-06-17T13:26:57Z",
+      "title": "Is Textron Stock Underperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/textron-stock-underperforming-p-500-154912137.html",
+      "published": "2026-06-17T15:49:12Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Cboe Global Markets Stock Underperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cboe-global-markets-stock-underperforming-132350163.html",
-      "published": "2026-06-17T13:23:50Z",
+      "title": "Fed and BoE to Hold Fire as Markets Search for the Next Signal",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-boe-hold-fire-markets-154917738.html",
+      "published": "2026-06-17T15:49:17Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Alphabet (GOOGL) The Best AI Stock in Billionaire Dan Loeb\u2019s Portfolio?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-best-ai-stock-132659992.html",
-      "published": "2026-06-17T13:26:59Z",
+      "title": "Crude Oil Prices Jump as US Domestic Supplies Tumble",
+      "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-jump-us-154645801.html",
+      "published": "2026-06-17T15:46:45Z",
       "summary": ""
     },
     {
@@ -3121,44 +3121,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "United Airlines Stock: Is UAL Outperforming the Industrial Sector?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-stock-ual-outperforming-132649865.html",
-      "published": "2026-06-17T13:26:49Z",
+      "title": "'The conflicted middle': Half of America belongs to a new financial class where you still feel broke despite good income",
+      "url": "https://finance.yahoo.com/markets/articles/conflicted-middle-half-america-belongs-155500120.html",
+      "published": "2026-06-17T15:55:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Billionaire Dan Loeb\u2019s Top AI Stock Pick: Taiwan Semiconductor (TSM)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-dan-loeb-top-ai-132655659.html",
-      "published": "2026-06-17T13:26:55Z",
+      "title": "Bernstein Assigns Outperform Rating to Celsius Holdings (CELH)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-assigns-outperform-rating-celsius-155541067.html",
+      "published": "2026-06-17T15:55:41Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hyperliquid Open Interest Tops $10B as Perps Move Into Equities and Commodities",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-open-interest-tops-10b-132900873.html",
-      "published": "2026-06-17T13:29:00Z",
+      "title": "Watsco Inc. (WSO) Fuels Optimism After Jackson Supply Acquisition",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/watsco-inc-wso-fuels-optimism-155524678.html",
+      "published": "2026-06-17T15:55:24Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Billionaire Dan Loeb is Buying This AI Data Center and Crypto Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-ai-132702509.html",
-      "published": "2026-06-17T13:27:02Z",
+      "title": "Vaxcyte (PCVX) Conducts Initial Dosage for VAX-A1 Phase 1 Study",
+      "url": "https://finance.yahoo.com/healthcare/articles/vaxcyte-pcvx-conducts-initial-dosage-155536532.html",
+      "published": "2026-06-17T15:55:36Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "3 Underrated Dividend Stocks That Could Generate Reliable Cash Flow for Your Portfolio for Decades",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-underrated-dividend-stocks-could-132000498.html",
-      "published": "2026-06-17T13:20:00Z",
+      "title": "AMD Is Up 149% Year to Date. Is the AI Chip Rally Getting Dangerously Crowded, or Is There Still Room to Run?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-149-date-ai-chip-155300162.html",
+      "published": "2026-06-17T15:53:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Supermicro Is Struggling to Handle AI Demand, But Here\u2019s Why the Bears Might Be Wrong on This One",
-      "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-struggling-handle-ai-demand-133002611.html",
-      "published": "2026-06-17T13:30:02Z",
+      "title": "Vera Therapeutics (VERA) Appears Attractive After Latest FDA Agreement",
+      "url": "https://finance.yahoo.com/healthcare/articles/vera-therapeutics-vera-appears-attractive-155535716.html",
+      "published": "2026-06-17T15:55:35Z",
       "summary": ""
     }
   ]
