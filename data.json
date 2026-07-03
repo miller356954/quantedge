@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T21:18:53.964482Z",
+  "last_updated": "2026-07-03T22:35:48.499394Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -1853,7 +1853,7 @@
       "ticker": "ASML",
       "date": "2026-07-15",
       "days_away": 12,
-      "eps_estimate": 6.8833
+      "eps_estimate": 6.8837
     },
     {
       "ticker": "TSM",
@@ -1901,13 +1901,13 @@
       "ticker": "META",
       "date": "2026-07-29",
       "days_away": 26,
-      "eps_estimate": 7.494
+      "eps_estimate": 7.5089
     },
     {
       "ticker": "AMZN",
       "date": "2026-07-30",
       "days_away": 27,
-      "eps_estimate": 1.8102
+      "eps_estimate": 1.812
     },
     {
       "ticker": "PLTR",
@@ -2911,13 +2911,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "The Best AI Stocks to Buy Now - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Zacks Investment Ideas feature highlights: JPMorgan, Sandisk, Micron Technology, Nvidia, Broadcom, AMD, Taiwan Semiconductor, Arista Networks, Meta Platforms and Microsoft - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQd3o5MUdua3lkZmZ6SXB3OUQxQVZGUmVRNjJiLUktM1NtRldCREE2ZUFvQzl6VFJDSlJiZmpuUjJMQjh3b1VBbUk2MUtia1g3VllzV2VKM1hRelkyak5SX3ZhNUgwUW9WNWZkVjM4YnFFak1YR05LQjBVR1oxN0RlRnFOM1NDNzB2bkZFdlpuNzlZWlNqSXdxRWdHLTlWRWNXSFUxR0NQTm9tMkM1ZTRwamViRWR0czR4MzRsWF9JME9ZdmdKaFd0Y0VBMTBObkNXb0xlLUNsQ0t6WkRGVUVWZ3Q5Y0hvSDRTalY4R1VSbDBUcEZUc2N1bXlEaHBwWGRkME5LeUVqTmQzdFlEZUhtdkRJNWVOUmFUR015LU9vdW9EWHE2X2IybVhtd1RpUGlkenh4YzRVMVdER2N5dFhMdnJHY2hTeEJUbEhkc2FDc2lhT29jeXJWbGpJdmVoWGVWWm5nZXdR?oc=5",
       "published": "Thu, 02 Jul 2026 14:24:00 GMT",
@@ -2932,17 +2925,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "The Best AI Stocks to Buy Now - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "3 Cheap Artificial Intelligence Stocks to Buy Right Now - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUjdZTE5YakZKQW5WYnEzZk5tUENjMUNGcWpVRGlObGFzVXp2QzRkV2dIMVBtaU5ieTRBWFRYYlJOVy1DV2pFNklLbzNacEFqalVSVVJKV2luQjlqOFF4VE1SUDQ1TjNPakJFSlBqeWRwaUh2OEVWTmVzUUp4VGF3QjlXNzRVMWlCd09GTnZhVWprRV9DWkRlNA?oc=5",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
       "summary": "3 Cheap Artificial Intelligence Stocks to Buy Right Now&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODBJV3VIUzZmclJ3c0FQeHJFcjR4c1BoUlNlek8yWWhCblFmRVo3UDhlY2Fuai1GMHJLWnRMN2U0YVRmZTRFNlhGWVdsS2VTZ2xsYXpha2FJeGREUDJsQ3ZISUNhaTFBT2pjUXJZWW05T2wwdFJqdnBXcExiNTh3VkdtYjg5N0FVRGhpbEsyekhPbXRrYzBhRm8zVWc?oc=5",
-      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2953,6 +2946,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODBJV3VIUzZmclJ3c0FQeHJFcjR4c1BoUlNlek8yWWhCblFmRVo3UDhlY2Fuai1GMHJLWnRMN2U0YVRmZTRFNlhGWVdsS2VTZ2xsYXpha2FJeGREUDJsQ3ZISUNhaTFBT2pjUXJZWW05T2wwdFJqdnBXcExiNTh3VkdtYjg5N0FVRGhpbEsyekhPbXRrYzBhRm8zVWc?oc=5",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026 - Zacks Investment Research",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDN0X3hVSm1Ba1h2aEZLVkF4d0lFOHk2WmtacDk1dTBPam9kYU1qaV9FYmxaaVFRdWxzU1B5akFjcWw0LVlUTVVCd2cxbWJjN24tT0JSZVhpN0lmU0VUZld4WlRxR1ROaDNscVhwVGFoNTFneDRSSkNGTGVSYlMyRWJWQ3pyX25JeWpDY1VsR1YtUQ?oc=5",
       "published": "Mon, 16 Mar 2026 07:00:00 GMT",
@@ -2960,10 +2960,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Investors Are Ditching the Magnificent 7 For a New Group of Stocks: The MANGOS - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnFTR0dlNWRwakNscTBwVENXNlFVT3h3dkFKWG9BbkZ4U1RUdEcwYlViMjRER0p5Vl9ndHZvS2I0UF9ja0JETTNKZnFhX1FDU0drVDFwVlZzb0hLa2tqQUVVY0lXT1VnQklkSjlSX1d2WEZJQ3p4dS1rb3Q0X3hxcHd4STNxM2hVRWFMSFJtTWRqMjZYdmRKNE1jV0hWMFpDMlEwaGNQR0xHdWhvOWxpcGtoQVZjelRzN0lEanl3?oc=5",
-      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "summary": "Investors Are Ditching the Magnificent 7 For a New Group of Stocks: The MANGOS&nbsp;&nbsp;24/7 Wall St."
+      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
+      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;Investopedia"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2971,6 +2971,13 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5",
       "published": "Fri, 16 Jan 2026 08:00:00 GMT",
       "summary": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Investors Are Ditching the Magnificent 7 For a New Group of Stocks: The MANGOS - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnFTR0dlNWRwakNscTBwVENXNlFVT3h3dkFKWG9BbkZ4U1RUdEcwYlViMjRER0p5Vl9ndHZvS2I0UF9ja0JETTNKZnFhX1FDU0drVDFwVlZzb0hLa2tqQUVVY0lXT1VnQklkSjlSX1d2WEZJQ3p4dS1rb3Q0X3hxcHd4STNxM2hVRWFMSFJtTWRqMjZYdmRKNE1jV0hWMFpDMlEwaGNQR0xHdWhvOWxpcGtoQVZjelRzN0lEanl3?oc=5",
+      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "summary": "Investors Are Ditching the Magnificent 7 For a New Group of Stocks: The MANGOS&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2985,13 +2992,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3FqSWx2dV9UTnh4bHhVRENVNk1IWnBxWEZYaEROTGY1MXFhVUJSTHBfdXZsVlBwSG9QREhUX1RERWVBSkpsQlRhMEtnMU9aNGstTHFXNGVEcTE2QTctYjJHR2x2d2tSRFh1LWp0cnBNdTZtTVNEaHFBOUwwdHNleXN1RUhPbnlHTHhKM0Y3a18wb0JiYzVF?oc=5",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
       "summary": "My Top 5 Artificial Intelligence (AI) Stocks to Buy Right Now&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
-      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3079,86 +3079,86 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Binance News: Bstocks Hits $1B AUM in 30 Days as Anchorage Joins Tokenized Stocks Network",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/binance-news-bstocks-hits-1b-135742638.html",
-      "published": "2026-07-02T13:57:42Z",
+      "title": "Forget the Retail Tech Glitz: I Am Loading Up on This Unassailable Enterprise Cash Cow",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-retail-tech-glitz-am-151844766.html",
+      "published": "2026-07-02T15:18:44Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ford Q2 sales slide 10% on EV drop and model phase-outs; Bronco and Maverick hybrid set records",
-      "url": "https://finance.yahoo.com/markets/stocks/article/ford-q2-sales-slide-10-on-ev-drop-and-model-phase-outs-bronco-and-maverick-hybrid-set-records-135627404.html",
-      "published": "2026-07-02T13:56:27Z",
+      "title": "Stock Indexes Turn Mixed as Chipmakers Sink",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-turn-mixed-chipmakers-151823193.html",
+      "published": "2026-07-02T15:18:23Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "A Longlasting Russia-Ukraine War Creates a Catalyst to Buy AeroVironment Stock Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/longlasting-russia-ukraine-war-creates-135016146.html",
-      "published": "2026-07-02T13:50:16Z",
+      "title": "This Global Utility Stock Looks Very Cheap Right Now as It Invests Nearly $2 Billion in the U.S. Energy Buildout",
+      "url": "https://finance.yahoo.com/energy/articles/global-utility-stock-looks-very-151738374.html",
+      "published": "2026-07-02T15:17:38Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Robinhood Markets Launches Public Blockchain",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-markets-launches-public-blockchain-135000798.html",
-      "published": "2026-07-02T13:50:00Z",
+      "title": "Finding Value in the Crowded AI Trade",
+      "url": "https://finance.yahoo.com/technology/ai/articles/finding-value-crowded-ai-trade-151534794.html",
+      "published": "2026-07-02T15:15:34Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Changpeng Zhao Forecasts Bitcoin\u2019s Price Will Reach $1 Million",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/changpeng-zhao-forecasts-bitcoin-price-135300311.html",
-      "published": "2026-07-02T13:53:00Z",
+      "title": "AI Data Center Leader Everus Construction Poised To Hit New Buy Point After Surging 100% In 2026",
+      "url": "https://www.investors.com/research/the-new-america/ai-stock-everus-stock-ecg-stock-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-07-02T15:08:30Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Half of the $60 Billion Tokenization Market Has No Real Activity",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/half-60-billion-tokenization-market-135716712.html",
-      "published": "2026-07-02T13:57:16Z",
+      "title": "Prediction: Realty Income's Data Center Pivot Will Supercharge Its Dividend Growth Over the Next Decade",
+      "url": "https://finance.yahoo.com/real-estate/articles/prediction-realty-incomes-data-center-152000018.html",
+      "published": "2026-07-02T15:20:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hardman Johnston\u2019s Bullish Stance on Universal Display Corporation (OLED)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hardman-johnston-bullish-stance-universal-135332543.html",
-      "published": "2026-07-02T13:53:32Z",
+      "title": "Is travel insurance worth it? Here's when to get travel insurance.",
+      "url": "https://finance.yahoo.com/personal-finance/insurance/article/is-travel-insurance-worth-it-212547618.html",
+      "published": "2026-03-03T21:25:47Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Silver prices today, Thursday, July 2: Prices crest $62 following soft June employment report",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-2-prices-crest-62-following-soft-june-employment-report-121527595.html",
-      "published": "2026-07-02T12:15:27Z",
+      "title": "What to Expect From Digital Realty Trust's Next Quarterly Earnings Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-digital-realty-trusts-next-153146546.html",
+      "published": "2026-07-02T15:31:46Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Impact of War and a Proposed Merger Hurt Estee Lauder Companies (EL) in Q1",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/impact-war-proposed-merger-hurt-135106527.html",
-      "published": "2026-07-02T13:51:06Z",
+      "title": "Crude Prices Tumble as Global Oil Supplies Normalize",
+      "url": "https://finance.yahoo.com/energy/articles/crude-prices-tumble-global-oil-153516488.html",
+      "published": "2026-07-02T15:35:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock analysts may be setting up the market for a summer failure",
-      "url": "https://finance.yahoo.com/markets/article/stock-analysts-may-be-setting-up-the-market-for-a-summer-failure-135125532.html",
-      "published": "2026-07-02T13:51:25Z",
+      "title": "Brown Advisory Large-Cap Growth Strategy Picked Axon Enterprises (AXON) Amid Broader Sell-Off",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brown-advisory-large-cap-growth-144841246.html",
+      "published": "2026-07-02T14:48:41Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "1 Magnificent ETF I'm Buying Hand Over Fist in 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-etf-im-buying-135000250.html",
-      "published": "2026-07-02T13:50:00Z",
+      "title": "Goldman Sachs to contribute $1,000 to Trump Accounts for eligible children of employees",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-contribute-1-000-151625841.html",
+      "published": "2026-07-02T15:16:25Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Cantor Fitzgerald Says Crypto Winter Is Near An End",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cantor-fitzgerald-says-crypto-winter-135100158.html",
-      "published": "2026-07-02T13:51:00Z",
+      "title": "Job growth in truck transportation remains muted",
+      "url": "https://finance.yahoo.com/economy/articles/job-growth-truck-transportation-remains-144719851.html",
+      "published": "2026-07-02T14:47:19Z",
       "summary": ""
     }
   ]
