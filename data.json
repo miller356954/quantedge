@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T21:42:35.139483Z",
+  "last_updated": "2026-07-07T22:45:41.334525Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -518,8 +518,8 @@
     {
       "ticker": "NVDA",
       "expiry": "2026-07-08",
-      "call_vol": 730895,
-      "put_vol": 401358,
+      "call_vol": 731955,
+      "put_vol": 401612,
       "call_oi": 82358,
       "put_oi": 84662,
       "pcr": 0.549,
@@ -528,10 +528,10 @@
     {
       "ticker": "AMD",
       "expiry": "2026-07-10",
-      "call_vol": 99327,
-      "put_vol": 80979,
-      "call_oi": 91882,
-      "put_oi": 111614,
+      "call_vol": 99339,
+      "put_vol": 80984,
+      "call_oi": 91884,
+      "put_oi": 111627,
       "pcr": 0.815,
       "iv": 76.4
     },
@@ -549,8 +549,8 @@
       "ticker": "TSM",
       "expiry": "2026-07-10",
       "call_vol": 18386,
-      "put_vol": 29692,
-      "call_oi": 63328,
+      "put_vol": 29694,
+      "call_oi": 63331,
       "put_oi": 113248,
       "pcr": 1.615,
       "iv": 53.4
@@ -558,29 +558,29 @@
     {
       "ticker": "ASML",
       "expiry": "2026-07-10",
-      "call_vol": 3334,
-      "put_vol": 4040,
-      "call_oi": 9555,
-      "put_oi": 9456,
-      "pcr": 1.212,
+      "call_vol": 3408,
+      "put_vol": 4892,
+      "call_oi": 9558,
+      "put_oi": 10036,
+      "pcr": 1.435,
       "iv": 63.7
     },
     {
       "ticker": "AVGO",
       "expiry": "2026-07-08",
-      "call_vol": 35522,
-      "put_vol": 22336,
-      "call_oi": 11008,
+      "call_vol": 35717,
+      "put_vol": 22342,
+      "call_oi": 11032,
       "put_oi": 9670,
-      "pcr": 0.629,
+      "pcr": 0.626,
       "iv": 39.8
     },
     {
       "ticker": "MU",
       "expiry": "2026-07-10",
-      "call_vol": 174535,
-      "put_vol": 164469,
-      "call_oi": 123389,
+      "call_vol": 174570,
+      "put_vol": 164508,
+      "call_oi": 123423,
       "put_oi": 443580,
       "pcr": 0.942,
       "iv": 105.2
@@ -588,9 +588,9 @@
     {
       "ticker": "QCOM",
       "expiry": "2026-07-10",
-      "call_vol": 9387,
+      "call_vol": 9388,
       "put_vol": 7194,
-      "call_oi": 36359,
+      "call_oi": 36366,
       "put_oi": 28298,
       "pcr": 0.766,
       "iv": 68.6
@@ -598,79 +598,79 @@
     {
       "ticker": "AMAT",
       "expiry": "2026-07-10",
-      "call_vol": 7222,
-      "put_vol": 14718,
-      "call_oi": 21065,
+      "call_vol": 7332,
+      "put_vol": 14753,
+      "call_oi": 21103,
       "put_oi": 31019,
-      "pcr": 2.038,
+      "pcr": 2.012,
       "iv": 88.8
     },
     {
       "ticker": "LRCX",
       "expiry": "2026-07-10",
-      "call_vol": 15328,
-      "put_vol": 9934,
-      "call_oi": 22851,
-      "put_oi": 22678,
-      "pcr": 0.648,
+      "call_vol": 15337,
+      "put_vol": 9955,
+      "call_oi": 22852,
+      "put_oi": 22687,
+      "pcr": 0.649,
       "iv": 92.9
     },
     {
       "ticker": "MSFT",
       "expiry": "2026-07-08",
-      "call_vol": 168670,
-      "put_vol": 46376,
-      "call_oi": 26093,
-      "put_oi": 13444,
+      "call_vol": 169000,
+      "put_vol": 46434,
+      "call_oi": 26094,
+      "put_oi": 13445,
       "pcr": 0.275,
       "iv": 26.8
     },
     {
       "ticker": "GOOGL",
       "expiry": "2026-07-08",
-      "call_vol": 82886,
-      "put_vol": 25696,
-      "call_oi": 11370,
-      "put_oi": 10998,
-      "pcr": 0.31,
+      "call_vol": 82888,
+      "put_vol": 26182,
+      "call_oi": 11374,
+      "put_oi": 11034,
+      "pcr": 0.316,
       "iv": 24.9
     },
     {
       "ticker": "META",
       "expiry": "2026-07-08",
-      "call_vol": 220502,
-      "put_vol": 66160,
-      "call_oi": 25276,
-      "put_oi": 13093,
-      "pcr": 0.3,
+      "call_vol": 220583,
+      "put_vol": 66587,
+      "call_oi": 25281,
+      "put_oi": 13103,
+      "pcr": 0.302,
       "iv": 35.2
     },
     {
       "ticker": "AMZN",
       "expiry": "2026-07-08",
-      "call_vol": 177591,
-      "put_vol": 73063,
-      "call_oi": 27416,
+      "call_vol": 177881,
+      "put_vol": 73749,
+      "call_oi": 27470,
       "put_oi": 11541,
-      "pcr": 0.411,
+      "pcr": 0.415,
       "iv": 26.9
     },
     {
       "ticker": "ORCL",
       "expiry": "2026-07-10",
-      "call_vol": 75414,
+      "call_vol": 75608,
       "put_vol": 22244,
-      "call_oi": 79197,
+      "call_oi": 79234,
       "put_oi": 52019,
-      "pcr": 0.295,
+      "pcr": 0.294,
       "iv": 56.1
     },
     {
       "ticker": "PLTR",
       "expiry": "2026-07-10",
-      "call_vol": 181645,
-      "put_vol": 79410,
-      "call_oi": 176489,
+      "call_vol": 181659,
+      "put_vol": 79411,
+      "call_oi": 176497,
       "put_oi": 93598,
       "pcr": 0.437,
       "iv": 54.2
@@ -688,61 +688,61 @@
     {
       "ticker": "SMCI",
       "expiry": "2026-07-10",
-      "call_vol": 28748,
-      "put_vol": 14349,
-      "call_oi": 139279,
+      "call_vol": 28753,
+      "put_vol": 14420,
+      "call_oi": 139328,
       "put_oi": 56022,
-      "pcr": 0.499,
+      "pcr": 0.502,
       "iv": 82.4
     },
     {
       "ticker": "IONQ",
       "expiry": "2026-07-10",
-      "call_vol": 9468,
-      "put_vol": 11783,
-      "call_oi": 21357,
-      "put_oi": 27391,
-      "pcr": 1.245,
+      "call_vol": 9901,
+      "put_vol": 11786,
+      "call_oi": 21398,
+      "put_oi": 27393,
+      "pcr": 1.19,
       "iv": 94.8
     },
     {
       "ticker": "RGTI",
       "expiry": "2026-07-10",
-      "call_vol": 18328,
+      "call_vol": 18339,
       "put_vol": 16634,
-      "call_oi": 28528,
-      "put_oi": 21313,
-      "pcr": 0.908,
+      "call_oi": 28532,
+      "put_oi": 21333,
+      "pcr": 0.907,
       "iv": 90.6
     },
     {
       "ticker": "QUBT",
       "expiry": "2026-07-10",
       "call_vol": 6149,
-      "put_vol": 3834,
-      "call_oi": 19258,
-      "put_oi": 5953,
+      "put_vol": 3835,
+      "call_oi": 19260,
+      "put_oi": 5954,
       "pcr": 0.624,
       "iv": 89.5
     },
     {
       "ticker": "IBM",
       "expiry": "2026-07-10",
-      "call_vol": 23000,
-      "put_vol": 6498,
-      "call_oi": 18332,
-      "put_oi": 13431,
-      "pcr": 0.283,
+      "call_vol": 23243,
+      "put_vol": 6710,
+      "call_oi": 18355,
+      "put_oi": 13467,
+      "pcr": 0.289,
       "iv": 48.3
     },
     {
       "ticker": "QBTS",
       "expiry": "2026-07-10",
       "call_vol": 11480,
-      "put_vol": 4994,
+      "put_vol": 5128,
       "call_oi": 20975,
-      "put_oi": 9381,
-      "pcr": 0.435,
+      "put_oi": 9386,
+      "pcr": 0.447,
       "iv": 93.4
     },
     {
@@ -758,21 +758,21 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-07-10",
-      "call_vol": 4389,
-      "put_vol": 27052,
-      "call_oi": 15377,
-      "put_oi": 37893,
-      "pcr": 6.164,
+      "call_vol": 4441,
+      "put_vol": 27145,
+      "call_oi": 15384,
+      "put_oi": 37963,
+      "pcr": 6.112,
       "iv": 61.4
     },
     {
       "ticker": "SMH",
       "expiry": "2026-07-10",
-      "call_vol": 24793,
-      "put_vol": 60036,
-      "call_oi": 37542,
-      "put_oi": 235624,
-      "pcr": 2.421,
+      "call_vol": 24869,
+      "put_vol": 60055,
+      "call_oi": 37561,
+      "put_oi": 250634,
+      "pcr": 2.415,
       "iv": 53.5
     },
     {
@@ -780,8 +780,8 @@
       "expiry": "2026-07-17",
       "call_vol": 135,
       "put_vol": 141,
-      "call_oi": 1707,
-      "put_oi": 4038,
+      "call_oi": 1779,
+      "put_oi": 4110,
       "pcr": 1.044,
       "iv": 42.1
     },
@@ -797,6 +797,34 @@
     }
   ],
   "unusual_activity": [
+    {
+      "ticker": "AMD",
+      "type": "CALL",
+      "expiry": "2026-07-13",
+      "strike": 510.0,
+      "volume": 1056,
+      "oi": 1,
+      "ratio": 1056.0,
+      "iv": 68.0,
+      "last": 22.38,
+      "bid": 21.15,
+      "ask": 23.8,
+      "in_money": true
+    },
+    {
+      "ticker": "INTC",
+      "type": "CALL",
+      "expiry": "2026-07-13",
+      "strike": 110.0,
+      "volume": 759,
+      "oi": 1,
+      "ratio": 759.0,
+      "iv": 81.8,
+      "last": 5.1,
+      "bid": 4.85,
+      "ask": 5.5,
+      "in_money": true
+    },
     {
       "ticker": "RGTI",
       "type": "PUT",
@@ -852,6 +880,34 @@
       "bid": 54.1,
       "ask": 59.9,
       "in_money": true
+    },
+    {
+      "ticker": "MU",
+      "type": "CALL",
+      "expiry": "2026-07-13",
+      "strike": 925.0,
+      "volume": 812,
+      "oi": 4,
+      "ratio": 203.0,
+      "iv": 92.3,
+      "last": 55.0,
+      "bid": 51.8,
+      "ask": 57.15,
+      "in_money": true
+    },
+    {
+      "ticker": "INTC",
+      "type": "CALL",
+      "expiry": "2026-07-13",
+      "strike": 115.0,
+      "volume": 610,
+      "oi": 4,
+      "ratio": 152.5,
+      "iv": 79.1,
+      "last": 3.15,
+      "bid": 2.76,
+      "ask": 3.15,
+      "in_money": false
     },
     {
       "ticker": "META",
@@ -1022,6 +1078,34 @@
       "in_money": true
     },
     {
+      "ticker": "SMH",
+      "type": "PUT",
+      "expiry": "2026-07-13",
+      "strike": 550.0,
+      "volume": 277,
+      "oi": 3,
+      "ratio": 92.33,
+      "iv": 51.6,
+      "last": 5.8,
+      "bid": 4.35,
+      "ask": 5.75,
+      "in_money": false
+    },
+    {
+      "ticker": "AMD",
+      "type": "CALL",
+      "expiry": "2026-07-13",
+      "strike": 520.0,
+      "volume": 540,
+      "oi": 6,
+      "ratio": 90.0,
+      "iv": 67.3,
+      "last": 17.47,
+      "bid": 16.75,
+      "ask": 18.0,
+      "in_money": false
+    },
+    {
       "ticker": "MSFT",
       "type": "PUT",
       "expiry": "2026-07-08",
@@ -1048,6 +1132,20 @@
       "bid": 4.05,
       "ask": 4.8,
       "in_money": true
+    },
+    {
+      "ticker": "MU",
+      "type": "CALL",
+      "expiry": "2026-07-13",
+      "strike": 980.0,
+      "volume": 1121,
+      "oi": 13,
+      "ratio": 86.23,
+      "iv": 91.8,
+      "last": 28.05,
+      "bid": 28.75,
+      "ask": 32.5,
+      "in_money": false
     },
     {
       "ticker": "META",
@@ -1246,6 +1344,20 @@
       "in_money": false
     },
     {
+      "ticker": "MU",
+      "type": "PUT",
+      "expiry": "2026-07-13",
+      "strike": 940.0,
+      "volume": 340,
+      "oi": 8,
+      "ratio": 42.5,
+      "iv": 90.1,
+      "last": 55.78,
+      "bid": 44.85,
+      "ask": 50.2,
+      "in_money": true
+    },
+    {
       "ticker": "MSFT",
       "type": "PUT",
       "expiry": "2026-07-08",
@@ -1299,6 +1411,20 @@
       "last": 46.7,
       "bid": 44.1,
       "ask": 49.4,
+      "in_money": true
+    },
+    {
+      "ticker": "AMZN",
+      "type": "PUT",
+      "expiry": "2026-07-10",
+      "strike": 267.5,
+      "volume": 2296,
+      "oi": 62,
+      "ratio": 37.03,
+      "iv": 55.1,
+      "last": 21.94,
+      "bid": 21.45,
+      "ask": 22.0,
       "in_money": true
     },
     {
@@ -1470,6 +1596,20 @@
       "in_money": true
     },
     {
+      "ticker": "AMD",
+      "type": "PUT",
+      "expiry": "2026-07-13",
+      "strike": 515.0,
+      "volume": 243,
+      "oi": 8,
+      "ratio": 30.38,
+      "iv": 66.9,
+      "last": 19.29,
+      "bid": 17.1,
+      "ask": 19.9,
+      "in_money": false
+    },
+    {
       "ticker": "INTC",
       "type": "CALL",
       "expiry": "2026-07-10",
@@ -1554,20 +1694,6 @@
       "in_money": false
     },
     {
-      "ticker": "MU",
-      "type": "CALL",
-      "expiry": "2026-07-17",
-      "strike": 2080.0,
-      "volume": 1834,
-      "oi": 65,
-      "ratio": 28.22,
-      "iv": 143.4,
-      "last": 0.15,
-      "bid": 0.01,
-      "ask": 0.12,
-      "in_money": false
-    },
-    {
       "ticker": "SOXX",
       "type": "PUT",
       "expiry": "2026-07-10",
@@ -1638,6 +1764,34 @@
       "in_money": false
     },
     {
+      "ticker": "MU",
+      "type": "CALL",
+      "expiry": "2026-07-13",
+      "strike": 1010.0,
+      "volume": 662,
+      "oi": 27,
+      "ratio": 24.52,
+      "iv": 91.8,
+      "last": 17.87,
+      "bid": 19.85,
+      "ask": 23.35,
+      "in_money": false
+    },
+    {
+      "ticker": "INTC",
+      "type": "PUT",
+      "expiry": "2026-07-13",
+      "strike": 105.0,
+      "volume": 341,
+      "oi": 14,
+      "ratio": 24.36,
+      "iv": 82.8,
+      "last": 2.75,
+      "bid": 2.41,
+      "ask": 2.97,
+      "in_money": false
+    },
+    {
       "ticker": "META",
       "type": "CALL",
       "expiry": "2026-07-08",
@@ -1692,160 +1846,6 @@
       "bid": 5.95,
       "ask": 6.7,
       "in_money": true
-    },
-    {
-      "ticker": "MSFT",
-      "type": "CALL",
-      "expiry": "2026-07-08",
-      "strike": 405.0,
-      "volume": 9956,
-      "oi": 463,
-      "ratio": 21.5,
-      "iv": 30.7,
-      "last": 0.11,
-      "bid": 0.1,
-      "ask": 0.13,
-      "in_money": false
-    },
-    {
-      "ticker": "META",
-      "type": "CALL",
-      "expiry": "2026-07-08",
-      "strike": 617.5,
-      "volume": 8774,
-      "oi": 411,
-      "ratio": 21.35,
-      "iv": 34.1,
-      "last": 4.9,
-      "bid": 4.95,
-      "ask": 5.3,
-      "in_money": false
-    },
-    {
-      "ticker": "RGTI",
-      "type": "CALL",
-      "expiry": "2026-07-10",
-      "strike": 17.0,
-      "volume": 2730,
-      "oi": 128,
-      "ratio": 21.33,
-      "iv": 93.0,
-      "last": 0.45,
-      "bid": 0.43,
-      "ask": 0.47,
-      "in_money": false
-    },
-    {
-      "ticker": "NVDA",
-      "type": "CALL",
-      "expiry": "2026-07-08",
-      "strike": 180.0,
-      "volume": 3343,
-      "oi": 157,
-      "ratio": 21.29,
-      "iv": 56.6,
-      "last": 16.85,
-      "bid": 16.85,
-      "ask": 17.1,
-      "in_money": true
-    },
-    {
-      "ticker": "MU",
-      "type": "CALL",
-      "expiry": "2026-07-10",
-      "strike": 910.0,
-      "volume": 4055,
-      "oi": 193,
-      "ratio": 21.01,
-      "iv": 104.6,
-      "last": 57.12,
-      "bid": 54.2,
-      "ask": 58.0,
-      "in_money": true
-    },
-    {
-      "ticker": "META",
-      "type": "CALL",
-      "expiry": "2026-07-08",
-      "strike": 627.5,
-      "volume": 6950,
-      "oi": 335,
-      "ratio": 20.75,
-      "iv": 33.9,
-      "last": 1.87,
-      "bid": 1.85,
-      "ask": 2.0,
-      "in_money": false
-    },
-    {
-      "ticker": "GOOGL",
-      "type": "PUT",
-      "expiry": "2026-07-10",
-      "strike": 367.5,
-      "volume": 1367,
-      "oi": 66,
-      "ratio": 20.71,
-      "iv": 32.7,
-      "last": 5.1,
-      "bid": 4.7,
-      "ask": 5.25,
-      "in_money": true
-    },
-    {
-      "ticker": "GOOGL",
-      "type": "CALL",
-      "expiry": "2026-07-08",
-      "strike": 375.0,
-      "volume": 23768,
-      "oi": 1153,
-      "ratio": 20.61,
-      "iv": 24.7,
-      "last": 0.41,
-      "bid": 0.35,
-      "ask": 0.4,
-      "in_money": false
-    },
-    {
-      "ticker": "GOOGL",
-      "type": "PUT",
-      "expiry": "2026-07-08",
-      "strike": 367.5,
-      "volume": 4545,
-      "oi": 222,
-      "ratio": 20.47,
-      "iv": 24.6,
-      "last": 2.9,
-      "bid": 2.53,
-      "ask": 2.91,
-      "in_money": true
-    },
-    {
-      "ticker": "MU",
-      "type": "CALL",
-      "expiry": "2026-07-17",
-      "strike": 2130.0,
-      "volume": 3082,
-      "oi": 151,
-      "ratio": 20.41,
-      "iv": 148.0,
-      "last": 0.18,
-      "bid": 0.02,
-      "ask": 0.12,
-      "in_money": false
-    },
-    {
-      "ticker": "META",
-      "type": "CALL",
-      "expiry": "2026-07-08",
-      "strike": 637.5,
-      "volume": 3231,
-      "oi": 161,
-      "ratio": 20.07,
-      "iv": 36.0,
-      "last": 0.68,
-      "bid": 0.61,
-      "ask": 0.74,
-      "in_money": false
     }
   ],
   "earnings": [
@@ -2932,20 +2932,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "3 Screaming Buy Artificial Intelligence (AI) Stocks Set for a Massive Summer Rebound - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc21aYWMzNk5LazFtQ1I3TTFFd2JNNjdsYVZHT2ljTTRIclJvVEhuTWw3TEtPNUlIRllFSExfc1BKWGM4MWtxWmZSZ09ldkdHUlgyV1hUUDRsMVU2QjZxNTdNUFY5VFpLSXpIMXZRWjFfaUVLOWxoejRwUTh3SlhiWnZEdmc1dEtmX2RhYmt3VDNONmlqeTAzNVBINThMdG5pb25fM2xWcmVtenpTbHZ4YkVHRlQtemdnZXBua0w3VDRnUFplOVNMYTkxRVJWVjdTOF8tVlBCRUNzNlo3Q3ZnblE2UTU4bm9sR2RxeWlzVExhUGM?oc=5",
-      "published": "Tue, 23 Jun 2026 16:34:00 GMT",
-      "summary": "3 Screaming Buy Artificial Intelligence (AI) Stocks Set for a Massive Summer Rebound&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026 - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDN0X3hVSm1Ba1h2aEZLVkF4d0lFOHk2WmtacDk1dTBPam9kYU1qaV9FYmxaaVFRdWxzU1B5akFjcWw0LVlUTVVCd2cxbWJjN24tT0JSZVhpN0lmU0VUZld4WlRxR1ROaDNscVhwVGFoNTFneDRSSkNGTGVSYlMyRWJWQ3pyX25JeWpDY1VsR1YtUQ?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026&nbsp;&nbsp;Zacks Investment Research"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5",
       "published": "Fri, 16 Jan 2026 08:00:00 GMT",
@@ -2994,6 +2980,20 @@
       "summary": "Tech Companies Are Still Spending Heavily on AI. Investors Want to See More Than Big Numbers.&nbsp;&nbsp;Investopedia"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Zacks Investment Ideas feature highlights: Microsoft, Meta Platforms, Alphabet, Amazon, NVIDIA, IGV and MNDY - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN1NYV3c4bjFuQmgzWkNYWFZnR01xNUlMYlR0VGpsVlFEQVRYMkc4c2wtVWlkYl8waU9RejkwLVdsdWFDYjBtb1hiR0pJbHlZbGdMb2lXem9hZ3lPUDFMRXNKall3bE9rbldVQzhPNFdqVUxQUVAxSFR4c1NZelkxMU5ZUTFKaXZkMWNZYkhqYkk?oc=5",
+      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "summary": "Zacks Investment Ideas feature highlights: Microsoft, Meta Platforms, Alphabet, Amazon, NVIDIA, IGV and MNDY&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Trump's Quantum Mandate: Catalyzing Commercial Breakthroughs for IBM and IonQ - Kavout | AI",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2tMdTItQjZoRDFOeWRjVmttdEF0WThjVnlHT1JpNFlmR1htRzBxNXJKcVp2LTg4QV84UmtBUnVydHdxTFhWTFhVZ29yWktneERoVEZuN3lMb0lkT2RKa0pJN1RLVksyS0ZRSC1GSlhSeUJ3bVN5dFBITnl4eTdtX21valczQlN4cW5ZM0JGUkxrdS1IekZUaEFMbFhjMkdmU0paY3dCWFQ1T055MFRGSQ?oc=5",
@@ -3016,17 +3016,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum Computing Stocks Could Be The Generational Buy Of The Decade, With (NYSE: IBM), (NASDAQ: NVDA), And (NYSE: IONQ) Leading The Pack - foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS1ZMTURyaWU4ak5FeUxFNzdFOExIX2xRd01XNHl6ZU9vQWxScVEyVXRsVW1HZzNibC1qU3BEVnl6VG9VUjl5dmZlbTJWaEJ2MGlONTJta2g2MkVTenJpMjBBV0tyLVlyb29YMXY4blBzeVBMTXA5WWxVRUZwS042OUotcXR3RU1vcUhxcTZ3d2cyM3kzNUdxNGtrVEZsekFaVUR3NC0xRnVMQXJDTjJ2d0htWXpNZmtRM09Tbzgzd2s3eUN3TkJScGs1TzYyWVpxWGhxMjR2NVFMbzJiRWFlWFBYX3RqMmp1Y2FvT1VGelNhR290d1hKSW10MDJqaHZmdERuNA?oc=5",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "Quantum Computing Stocks Could Be The Generational Buy Of The Decade, With (NYSE: IBM), (NASDAQ: NVDA), And (NYSE: IONQ) Leading The Pack&nbsp;&nbsp;foreignpolicyjournal.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Uncle Sam Is Buying Into Quantum Computing Stocks. Should You? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlFfVkVzSG1OeEVxN2ZKclZqV1ZyelJmWkgtTWpCV1I4S3NtOS1YcV9IWHNQYUhPSnF1SzhRa0ZHNGd1b2MwQklaMzI0TldOMTY1QjJnSlg1MWtRRTNva0pZRFY0b2dncDVRb0p5RFZlWEVWMUZsU0wyeUstNVhYOF8xbFZIQlhxX212dkFBeDU2a1BiUDZYV2ZJYjVZVURH?oc=5",
       "published": "Mon, 01 Jun 2026 07:00:00 GMT",
       "summary": "Uncle Sam Is Buying Into Quantum Computing Stocks. Should You?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Quantum Computing Stocks Could Be The Generational Buy Of The Decade, With (NYSE: IBM), (NASDAQ: NVDA), And (NYSE: IONQ) Leading The Pack - foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS1ZMTURyaWU4ak5FeUxFNzdFOExIX2xRd01XNHl6ZU9vQWxScVEyVXRsVW1HZzNibC1qU3BEVnl6VG9VUjl5dmZlbTJWaEJ2MGlONTJta2g2MkVTenJpMjBBV0tyLVlyb29YMXY4blBzeVBMTXA5WWxVRUZwS042OUotcXR3RU1vcUhxcTZ3d2cyM3kzNUdxNGtrVEZsekFaVUR3NC0xRnVMQXJDTjJ2d0htWXpNZmtRM09Tbzgzd2s3eUN3TkJScGs1TzYyWVpxWGhxMjR2NVFMbzJiRWFlWFBYX3RqMmp1Y2FvT1VGelNhR290d1hKSW10MDJqaHZmdERuNA?oc=5",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "Quantum Computing Stocks Could Be The Generational Buy Of The Decade, With (NYSE: IBM), (NASDAQ: NVDA), And (NYSE: IONQ) Leading The Pack&nbsp;&nbsp;foreignpolicyjournal.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3037,17 +3037,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Watch Why the US Is Investing in Quantum Computing - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeURHbUc4OXdsajNNajRnczNQQVItTU5vY3VWMlU2Q3VDSUFtWW9aa2hkZ3ktTWllTWcyNDBVdUJBZURLTHQ4QmJPeVdXTUkwOExOQi15Wlp1THhtTGZHY2IxRHE1dTNJZHRZbGFzaHpzeHgxTkNweVhxeGhYQ19KMzhZaTAtUmluLXQ1WDVzcElFb29RVHk2ZG9EUnlTM1dU?oc=5",
-      "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Watch Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Washington\u2019s Quantum Push Puts IBM and IonQ on the Throne - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3F6RGVONlE2Ny1TQkg1R0VnSVlCeTlxMThKS2dFR0xqWWszcVdFdzQxd082Q25mTVB2eVR2UTFMR29yckxuYk4yYnlFX1dRV2lxVzF1MF9kMkdWUjNIQ0RxWUN5XzhKRjllZEpDUmRQQlMxdi1YV0h4a3Zra3lVTmpabDVVZW1KTHRhMnhlbFFSc2gxTmFHdFMwVTBjQ2FJdndJNE5IcEx4U2pxUDJadV9SODJRNFE1UHc?oc=5",
       "published": "Thu, 25 Jun 2026 11:40:00 GMT",
       "summary": "Washington\u2019s Quantum Push Puts IBM and IonQ on the Throne&nbsp;&nbsp;TradingView"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Watch Why the US Is Investing in Quantum Computing - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeURHbUc4OXdsajNNajRnczNQQVItTU5vY3VWMlU2Q3VDSUFtWW9aa2hkZ3ktTWllTWcyNDBVdUJBZURLTHQ4QmJPeVdXTUkwOExOQi15Wlp1THhtTGZHY2IxRHE1dTNJZHRZbGFzaHpzeHgxTkNweVhxeGhYQ19KMzhZaTAtUmluLXQ1WDVzcElFb29RVHk2ZG9EUnlTM1dU?oc=5",
+      "published": "Sat, 13 Jun 2026 07:00:00 GMT",
+      "summary": "Watch Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3086,79 +3086,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here\u2019s Why The Fund Chose to Exit The Trade Desk (TTD)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fund-chose-exit-trade-131901560.html",
-      "published": "2026-07-06T13:19:01Z",
+      "title": "Costco Wholesale Corporation (COST) Benefits from Investors\u2019 Focus on Resilient Businesses",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-cost-benefits-142209292.html",
+      "published": "2026-07-06T14:22:09Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "SK Hynix seeks $28 billion in US IPO listing as memory maker rides AI wave",
-      "url": "https://finance.yahoo.com/markets/article/sk-hynix-seeks-28-billion-in-us-ipo-listing-as-memory-maker-rides-ai-wave-132016294.html",
-      "published": "2026-07-06T13:20:16Z",
+      "title": "Halliburton Stock Offers an Unusual Contrarian Opportunity for Daredevils",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-stock-offers-unusual-contrarian-142144201.html",
+      "published": "2026-07-06T14:21:44Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin and ethereum prices today, Monday, July 6, 2026: Prices falling after last week's rebound",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-weeks-rebound-131307981.html",
-      "published": "2026-07-06T13:13:07Z",
+      "title": "Kids and Congressmen Just Love SpaceX Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kids-congressmen-just-love-spacex-141933375.html",
+      "published": "2026-07-06T14:19:33Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What You Need to Know Ahead of Meta Platforms' Earnings Release",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-meta-platforms-earnings-130933203.html",
-      "published": "2026-07-06T13:09:33Z",
+      "title": "A couple owes $200,000 in student loans at 64 \u2014 and they'd need $700K in savings to comfortably cover the payments",
+      "url": "https://finance.yahoo.com/small-business/articles/couple-owes-200-000-student-143000350.html",
+      "published": "2026-07-06T14:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Solana News: Solana Hits $5.77B Tokenized Asset Volume in Q2 2026 All-Time High",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-news-solana-hits-5-132000556.html",
-      "published": "2026-07-06T13:20:00Z",
+      "title": "Bank of America warns America now has 2 economies",
+      "url": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
+      "published": "2026-07-07T20:23:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "PTC Inc. Earnings Preview: What to Expect",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ptc-inc-earnings-preview-expect-132206410.html",
-      "published": "2026-07-06T13:22:06Z",
+      "title": "Core Natural Wins DOE Selection for Rare Earth Extraction Pilot",
+      "url": "https://finance.yahoo.com/energy/articles/core-natural-wins-doe-selection-143000269.html",
+      "published": "2026-07-06T14:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trump accounts are now live \u2014 here's one big challenge they must overcome",
-      "url": "https://finance.yahoo.com/markets/article/trump-accounts-are-now-live--heres-one-big-challenge-they-must-overcome-132338042.html",
-      "published": "2026-07-06T13:23:38Z",
+      "title": "Invitation Homes' Quarterly Earnings Preview: What You Need to Know",
+      "url": "https://finance.yahoo.com/real-estate/articles/invitation-homes-quarterly-earnings-preview-141545925.html",
+      "published": "2026-07-06T14:15:45Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Michael Burry Is Betting Against Tesla Again. He\u2019s Not Buying the AI Hype Story.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-betting-against-tesla-130002860.html",
-      "published": "2026-07-06T13:00:02Z",
+      "title": "Should You Consider Selling Veralto Corp (VLTO)?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/consider-selling-veralto-corp-vlto-141501266.html",
+      "published": "2026-07-06T14:15:01Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Microsoft Stock Too Cheap Here? One Play is to Short Cash-Secured MSFT Puts",
-      "url": "https://finance.yahoo.com/markets/options/articles/microsoft-stock-too-cheap-one-130002960.html",
-      "published": "2026-07-06T13:00:02Z",
+      "title": "Honeywell Spinoff Solstice Inks $14.5 Billion Deal For 'Increased Exposure' To AI Boom",
+      "url": "https://www.investors.com/news/honeywell-spinoff-solstice-inks-14-5-billion-deal-element-solutions-ai-boom/?src=A00220&yptr=yahoo",
+      "published": "2026-07-06T14:33:51Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "TeraWulf Shares Surge After Anthropic Lease and Abernathy Stake Sale (WULF)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/terawulf-shares-surge-anthropic-lease-131745434.html",
-      "published": "2026-07-06T13:17:45Z",
+      "title": "AI Is Selling Off, But These 5 Stocks Could Benefit Next",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-selling-off-5-stocks-142500412.html",
+      "published": "2026-07-06T14:25:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Has the Bond Market Missed the Oil Collapse? The Case for Lower Treasury Yields Into Early September",
-      "url": "https://finance.yahoo.com/markets/options/articles/bond-market-missed-oil-collapse-130003073.html",
-      "published": "2026-07-06T13:00:03Z",
+      "title": "Is Costco Wholesale Corporation (COST) a Durable Long-Term Compounder?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-cost-durable-143432797.html",
+      "published": "2026-07-06T14:34:32Z",
       "summary": ""
     }
   ]
