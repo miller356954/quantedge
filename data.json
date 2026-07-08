@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T21:32:29.721856Z",
+  "last_updated": "2026-07-08T22:44:41.317718Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -269,7 +269,7 @@
       "market_cap_fmt": "1.53T",
       "52w_high": 796.25,
       "52w_low": 520.26,
-      "pe_ratio": 16.374,
+      "pe_ratio": 16.3768,
       "iv": 7.3,
       "beta": 1.246
     },
@@ -519,7 +519,7 @@
       "ticker": "NVDA",
       "expiry": "2026-07-08",
       "call_vol": 1922788,
-      "put_vol": 824466,
+      "put_vol": 824456,
       "call_oi": 145387,
       "put_oi": 119265,
       "pcr": 0.429,
@@ -529,7 +529,7 @@
       "ticker": "AMD",
       "expiry": "2026-07-10",
       "call_vol": 73810,
-      "put_vol": 61918,
+      "put_vol": 61920,
       "call_oi": 109647,
       "put_oi": 121603,
       "pcr": 0.839,
@@ -549,7 +549,7 @@
       "ticker": "TSM",
       "expiry": "2026-07-10",
       "call_vol": 10587,
-      "put_vol": 15647,
+      "put_vol": 15645,
       "call_oi": 63659,
       "put_oi": 112745,
       "pcr": 1.478,
@@ -558,18 +558,18 @@
     {
       "ticker": "ASML",
       "expiry": "2026-07-10",
-      "call_vol": 4899,
-      "put_vol": 5110,
-      "call_oi": 9992,
-      "put_oi": 12074,
-      "pcr": 1.043,
+      "call_vol": 4880,
+      "put_vol": 4890,
+      "call_oi": 9957,
+      "put_oi": 12065,
+      "pcr": 1.002,
       "iv": 59.0
     },
     {
       "ticker": "AVGO",
       "expiry": "2026-07-08",
-      "call_vol": 246505,
-      "put_vol": 85001,
+      "call_vol": 246479,
+      "put_vol": 84995,
       "call_oi": 23387,
       "put_oi": 15136,
       "pcr": 0.345,
@@ -578,9 +578,9 @@
     {
       "ticker": "MU",
       "expiry": "2026-07-10",
-      "call_vol": 146645,
-      "put_vol": 124805,
-      "call_oi": 145340,
+      "call_vol": 146616,
+      "put_vol": 124780,
+      "call_oi": 145339,
       "put_oi": 437277,
       "pcr": 0.851,
       "iv": 97.8
@@ -588,7 +588,7 @@
     {
       "ticker": "QCOM",
       "expiry": "2026-07-10",
-      "call_vol": 11586,
+      "call_vol": 11585,
       "put_vol": 4430,
       "call_oi": 38064,
       "put_oi": 28447,
@@ -598,18 +598,18 @@
     {
       "ticker": "AMAT",
       "expiry": "2026-07-10",
-      "call_vol": 7074,
+      "call_vol": 7029,
       "put_vol": 11616,
-      "call_oi": 22344,
+      "call_oi": 22315,
       "put_oi": 35910,
-      "pcr": 1.642,
+      "pcr": 1.653,
       "iv": 81.5
     },
     {
       "ticker": "LRCX",
       "expiry": "2026-07-10",
-      "call_vol": 6186,
-      "put_vol": 2584,
+      "call_vol": 6177,
+      "put_vol": 2583,
       "call_oi": 27335,
       "put_oi": 23674,
       "pcr": 0.418,
@@ -619,27 +619,27 @@
       "ticker": "MSFT",
       "expiry": "2026-07-08",
       "call_vol": 136976,
-      "put_vol": 59673,
+      "put_vol": 59635,
       "call_oi": 42686,
       "put_oi": 21914,
-      "pcr": 0.436,
+      "pcr": 0.435,
       "iv": 4.0
     },
     {
       "ticker": "GOOGL",
       "expiry": "2026-07-08",
-      "call_vol": 111886,
-      "put_vol": 49175,
+      "call_vol": 111885,
+      "put_vol": 49166,
       "call_oi": 22128,
       "put_oi": 18297,
-      "pcr": 0.44,
+      "pcr": 0.439,
       "iv": 3.5
     },
     {
       "ticker": "META",
       "expiry": "2026-07-08",
       "call_vol": 159567,
-      "put_vol": 115182,
+      "put_vol": 115170,
       "call_oi": 42717,
       "put_oi": 22532,
       "pcr": 0.722,
@@ -661,7 +661,7 @@
       "call_vol": 79098,
       "put_vol": 25056,
       "call_oi": 86114,
-      "put_oi": 57544,
+      "put_oi": 57497,
       "pcr": 0.317,
       "iv": 52.6
     },
@@ -669,7 +669,7 @@
       "ticker": "PLTR",
       "expiry": "2026-07-10",
       "call_vol": 133319,
-      "put_vol": 76745,
+      "put_vol": 76744,
       "call_oi": 181792,
       "put_oi": 101974,
       "pcr": 0.576,
@@ -689,10 +689,10 @@
       "ticker": "SMCI",
       "expiry": "2026-07-10",
       "call_vol": 50406,
-      "put_vol": 12042,
+      "put_vol": 11971,
       "call_oi": 143925,
       "put_oi": 57145,
-      "pcr": 0.239,
+      "pcr": 0.237,
       "iv": 81.5
     },
     {
@@ -700,7 +700,7 @@
       "expiry": "2026-07-10",
       "call_vol": 5669,
       "put_vol": 9508,
-      "call_oi": 23822,
+      "call_oi": 23814,
       "put_oi": 33755,
       "pcr": 1.677,
       "iv": 93.4
@@ -719,7 +719,7 @@
       "ticker": "QUBT",
       "expiry": "2026-07-10",
       "call_vol": 7294,
-      "put_vol": 1305,
+      "put_vol": 1304,
       "call_oi": 20639,
       "put_oi": 6826,
       "pcr": 0.179,
@@ -728,11 +728,11 @@
     {
       "ticker": "IBM",
       "expiry": "2026-07-10",
-      "call_vol": 17195,
-      "put_vol": 4188,
+      "call_vol": 17193,
+      "put_vol": 4150,
       "call_oi": 21408,
       "put_oi": 16088,
-      "pcr": 0.244,
+      "pcr": 0.241,
       "iv": 42.3
     },
     {
@@ -740,7 +740,7 @@
       "expiry": "2026-07-10",
       "call_vol": 6924,
       "put_vol": 5585,
-      "call_oi": 24409,
+      "call_oi": 24406,
       "put_oi": 10225,
       "pcr": 0.807,
       "iv": 88.5
@@ -758,21 +758,21 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-07-10",
-      "call_vol": 4725,
-      "put_vol": 16424,
-      "call_oi": 16022,
-      "put_oi": 41484,
-      "pcr": 3.476,
+      "call_vol": 4718,
+      "put_vol": 16337,
+      "call_oi": 16019,
+      "put_oi": 41482,
+      "pcr": 3.463,
       "iv": 58.2
     },
     {
       "ticker": "SMH",
       "expiry": "2026-07-10",
-      "call_vol": 17763,
-      "put_vol": 37155,
-      "call_oi": 43113,
+      "call_vol": 17687,
+      "put_vol": 37141,
+      "call_oi": 43109,
       "put_oi": 259753,
-      "pcr": 2.092,
+      "pcr": 2.1,
       "iv": 49.9
     },
     {
@@ -781,7 +781,7 @@
       "call_vol": 90,
       "put_vol": 1611,
       "call_oi": 1771,
-      "put_oi": 4123,
+      "put_oi": 4116,
       "pcr": 17.9,
       "iv": 56.9
     },
@@ -790,8 +790,8 @@
       "expiry": "2026-07-17",
       "call_vol": 207,
       "put_vol": 143,
-      "call_oi": 1896,
-      "put_oi": 979,
+      "call_oi": 1889,
+      "put_oi": 859,
       "pcr": 0.691,
       "iv": 48.7
     }
@@ -1862,6 +1862,12 @@
       "eps_estimate": 3.8314
     },
     {
+      "ticker": "GOOGL",
+      "date": "2026-07-22",
+      "days_away": 14,
+      "eps_estimate": 2.8811
+    },
+    {
       "ticker": "IBM",
       "date": "2026-07-22",
       "days_away": 14,
@@ -1872,12 +1878,6 @@
       "date": "2026-07-23",
       "days_away": 15,
       "eps_estimate": 0.2113
-    },
-    {
-      "ticker": "GOOGL",
-      "date": "2026-07-23",
-      "days_away": 15,
-      "eps_estimate": 2.8811
     },
     {
       "ticker": "QCOM",
@@ -3016,6 +3016,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Quantum Computing Stocks Could Be The Generational Buy Of The Decade, With (NYSE: IBM), (NASDAQ: NVDA), And (NYSE: IONQ) Leading The Pack - foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS1ZMTURyaWU4ak5FeUxFNzdFOExIX2xRd01XNHl6ZU9vQWxScVEyVXRsVW1HZzNibC1qU3BEVnl6VG9VUjl5dmZlbTJWaEJ2MGlONTJta2g2MkVTenJpMjBBV0tyLVlyb29YMXY4blBzeVBMTXA5WWxVRUZwS042OUotcXR3RU1vcUhxcTZ3d2cyM3kzNUdxNGtrVEZsekFaVUR3NC0xRnVMQXJDTjJ2d0htWXpNZmtRM09Tbzgzd2s3eUN3TkJScGs1TzYyWVpxWGhxMjR2NVFMbzJiRWFlWFBYX3RqMmp1Y2FvT1VGelNhR290d1hKSW10MDJqaHZmdERuNA?oc=5",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "Quantum Computing Stocks Could Be The Generational Buy Of The Decade, With (NYSE: IBM), (NASDAQ: NVDA), And (NYSE: IONQ) Leading The Pack&nbsp;&nbsp;foreignpolicyjournal.com"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Should Investors Choose IonQ Over a More Established Quantum Computing Stock? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWE1vdzdzY2xONjhLc1BGNVVhVGctWHhLcmxwdHRqUFQ0M21uYnczbFBXenBHQ3ZxRDBSblIxUHlpVHdSV014dFgzb1lLNldybmVXdmlNeHZSaGJiS09VSmVoU3k2Qjh2cEpGel9QQUFTcHVtRGUxODloNEs5T3RjNm9QS3N4R3VJLV80VFFQSUJtR2Q1LXh3Sw?oc=5",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
@@ -3030,17 +3037,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum Computing Stocks Could Be The Generational Buy Of The Decade, With (NYSE: IBM), (NASDAQ: NVDA), And (NYSE: IONQ) Leading The Pack - foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS1ZMTURyaWU4ak5FeUxFNzdFOExIX2xRd01XNHl6ZU9vQWxScVEyVXRsVW1HZzNibC1qU3BEVnl6VG9VUjl5dmZlbTJWaEJ2MGlONTJta2g2MkVTenJpMjBBV0tyLVlyb29YMXY4blBzeVBMTXA5WWxVRUZwS042OUotcXR3RU1vcUhxcTZ3d2cyM3kzNUdxNGtrVEZsekFaVUR3NC0xRnVMQXJDTjJ2d0htWXpNZmtRM09Tbzgzd2s3eUN3TkJScGs1TzYyWVpxWGhxMjR2NVFMbzJiRWFlWFBYX3RqMmp1Y2FvT1VGelNhR290d1hKSW10MDJqaHZmdERuNA?oc=5",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "Quantum Computing Stocks Could Be The Generational Buy Of The Decade, With (NYSE: IBM), (NASDAQ: NVDA), And (NYSE: IONQ) Leading The Pack&nbsp;&nbsp;foreignpolicyjournal.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Watch Why the US Is Investing in Quantum Computing - Bloomberg",
+      "title": "Watch Why the US Is Investing in Quantum Computing - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeURHbUc4OXdsajNNajRnczNQQVItTU5vY3VWMlU2Q3VDSUFtWW9aa2hkZ3ktTWllTWcyNDBVdUJBZURLTHQ4QmJPeVdXTUkwOExOQi15Wlp1THhtTGZHY2IxRHE1dTNJZHRZbGFzaHpzeHgxTkNweVhxeGhYQ19KMzhZaTAtUmluLXQ1WDVzcElFb29RVHk2ZG9EUnlTM1dU?oc=5",
       "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Watch Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg"
+      "summary": "Watch Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3086,30 +3086,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "What to Expect From Everest Group's Next Quarterly Earnings Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-everest-groups-next-quarterly-132222691.html",
-      "published": "2026-07-07T13:22:22Z",
+      "title": "Analysts: Fiserv Sale Of Debit Card Network To Banks Unlikely",
+      "url": "https://www.investors.com/news/technology/fiserv-stock-climbs-possible-sale-debit-card-network-banks/?src=A00220&yptr=yahoo",
+      "published": "2026-07-07T14:42:26Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rivian stock down on 75 million share sale, preannounces Q2 revenue",
-      "url": "https://finance.yahoo.com/markets/stocks/article/rivian-stock-down-on-75-million-share-sale-preannounces-q2-revenue-131646447.html",
-      "published": "2026-07-07T13:16:46Z",
+      "title": "Brookfield, Bloom Energy Expand AI Infrastructure Partnership to $25 Billion",
+      "url": "https://finance.yahoo.com/technology/ai/articles/brookfield-bloom-energy-expand-ai-143638861.html",
+      "published": "2026-07-07T14:36:38Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Humana Earnings Preview: What to Expect",
-      "url": "https://finance.yahoo.com/healthcare/articles/humana-earnings-preview-expect-132607239.html",
-      "published": "2026-07-07T13:26:07Z",
+      "title": "AI startup CEO pleaded guilty in US to trading on insider tips from lawyers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-startup-ceo-pleaded-guilty-143543113.html",
+      "published": "2026-07-07T14:35:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is the Constitution behind the US debt crisis? Coinbase tsar says it\u2019s \u2018missing' 2 key pieces. Protect your riches now",
-      "url": "https://finance.yahoo.com/economy/policy/articles/constitution-behind-us-debt-crisis-131500126.html",
-      "published": "2026-07-07T13:15:00Z",
+      "title": "Dollar Firms on Stock Weakness and Hawkish Williams",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-firms-stock-weakness-hawkish-143247687.html",
+      "published": "2026-07-07T14:32:47Z",
       "summary": ""
     },
     {
@@ -3121,44 +3121,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "International ETF TOUS Signals Diversification Buy",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/international-etf-tous-signals-diversification-131539315.html",
-      "published": "2026-07-07T13:15:39Z",
+      "title": "RIA Holding Firm Aspen Standard Pens Deal for $1.3B Michigan-Based RIA",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ria-holding-firm-aspen-standard-144241364.html",
+      "published": "2026-07-07T14:42:41Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What to Expect From Allstate Corporation's Q2 2026 Earnings Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-allstate-corporations-q2-2026-131428022.html",
-      "published": "2026-07-07T13:14:28Z",
+      "title": "As prices fall, crack spread signals a split in oil markets",
+      "url": "https://finance.yahoo.com/energy/articles/prices-fall-crack-spread-signals-143125610.html",
+      "published": "2026-07-07T14:31:25Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Berkshire Hathaway Stock Rallied Last Month But Don\u2019t Expect Fireworks in H2",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-rallied-last-133002101.html",
-      "published": "2026-07-07T13:30:02Z",
+      "title": "Weather Problems Create a Buying Opportunity in Wheat Prices Here",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/weather-problems-create-buying-opportunity-142900839.html",
+      "published": "2026-07-07T14:29:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stubborn Dollar Threatens Major Breakout Against Euro and Franc",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/stubborn-dollar-threatens-major-breakout-131004981.html",
-      "published": "2026-07-07T13:10:04Z",
+      "title": "Dear TSLA Stock Investors, Don\u2019t Count on Tesla\u2019s Latest Robotaxi Win Driving Share Price Growth Anytime Soon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-tsla-stock-investors-don-142828010.html",
+      "published": "2026-07-07T14:28:28Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "How To Target A 10% Yield While Catching The BSX Stock Knife?",
-      "url": "https://finance.yahoo.com/markets/options/articles/target-10-yield-while-catching-132228641.html",
-      "published": "2026-07-07T13:22:28Z",
+      "title": "SpaceX Stock May Suddenly Seem Boring, But Don\u2019t Miss This Chance to Make a Low-Risk, High-Reward Option Trade",
+      "url": "https://finance.yahoo.com/markets/options/articles/spacex-stock-may-suddenly-seem-143002512.html",
+      "published": "2026-07-07T14:30:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Coinbase Gets U.K. Approval To Offer Stock Trading",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-gets-u-k-approval-131000733.html",
-      "published": "2026-07-07T13:10:00Z",
+      "title": "ULTY Distributes Real Cash From Real Sales, But Expect Volatile Paychecks",
+      "url": "https://finance.yahoo.com/markets/options/articles/ulty-distributes-real-cash-real-144532540.html",
+      "published": "2026-07-07T14:45:32Z",
       "summary": ""
     }
   ]
