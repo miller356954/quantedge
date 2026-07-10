@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T20:43:59.570041Z",
+  "last_updated": "2026-07-10T21:44:37.324337Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -77,7 +77,7 @@
       "market_cap_fmt": "5.11T",
       "52w_high": 236.54,
       "52w_low": 162.02,
-      "pe_ratio": 16.528,
+      "pe_ratio": 16.4941,
       "iv": 7.0,
       "beta": 2.211
     },
@@ -158,7 +158,7 @@
       "52w_high": 495.0,
       "52w_low": 269.58,
       "pe_ratio": 20.6215,
-      "iv": 5.8,
+      "iv": 6.9,
       "beta": 1.462
     },
     "MU": {
@@ -269,7 +269,7 @@
       "market_cap_fmt": "1.70T",
       "52w_high": 796.25,
       "52w_low": 520.26,
-      "pe_ratio": 18.1117,
+      "pe_ratio": 18.4208,
       "iv": 5.5,
       "beta": 1.246
     },
@@ -478,7 +478,7 @@
       "52w_high": 671.83,
       "52w_low": 279.19,
       "pe_ratio": 39.556,
-      "iv": 11.2,
+      "iv": 12.8,
       "beta": null
     },
     "AIQ": {
@@ -519,7 +519,7 @@
       "ticker": "NVDA",
       "expiry": "2026-07-10",
       "call_vol": 2286991,
-      "put_vol": 810098,
+      "put_vol": 810350,
       "call_oi": 502623,
       "put_oi": 304871,
       "pcr": 0.354,
@@ -538,11 +538,11 @@
     {
       "ticker": "INTC",
       "expiry": "2026-07-10",
-      "call_vol": 108556,
+      "call_vol": 108730,
       "put_vol": 111170,
       "call_oi": 180800,
       "put_oi": 156306,
-      "pcr": 1.024,
+      "pcr": 1.022,
       "iv": 9.6
     },
     {
@@ -568,12 +568,12 @@
     {
       "ticker": "AVGO",
       "expiry": "2026-07-10",
-      "call_vol": 78816,
-      "put_vol": 30176,
+      "call_vol": 78819,
+      "put_vol": 30255,
       "call_oi": 86847,
       "put_oi": 60244,
-      "pcr": 0.383,
-      "iv": 5.8
+      "pcr": 0.384,
+      "iv": 6.9
     },
     {
       "ticker": "MU",
@@ -689,10 +689,10 @@
       "ticker": "SMCI",
       "expiry": "2026-07-10",
       "call_vol": 119798,
-      "put_vol": 18504,
+      "put_vol": 18530,
       "call_oi": 153004,
       "put_oi": 55570,
-      "pcr": 0.154,
+      "pcr": 0.155,
       "iv": 14.1
     },
     {
@@ -758,11 +758,11 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-07-10",
-      "call_vol": 3791,
+      "call_vol": 3788,
       "put_vol": 10986,
       "call_oi": 20516,
       "put_oi": 46874,
-      "pcr": 2.898,
+      "pcr": 2.9,
       "iv": 23.4
     },
     {
@@ -773,7 +773,7 @@
       "call_oi": 53920,
       "put_oi": 252387,
       "pcr": 1.255,
-      "iv": 11.2
+      "iv": 12.8
     },
     {
       "ticker": "AIQ",
@@ -858,11 +858,11 @@
       "type": "PUT",
       "expiry": "2026-07-10",
       "strike": 212.5,
-      "volume": 12060,
+      "volume": 12061,
       "oi": 2,
-      "ratio": 6030.0,
+      "ratio": 6030.5,
       "iv": 20.0,
-      "last": 1.73,
+      "last": 1.88,
       "bid": 1.46,
       "ask": 1.86,
       "in_money": true
@@ -989,7 +989,7 @@
       "ratio": 624.5,
       "iv": 21.9,
       "last": 6.9,
-      "bid": 6.65,
+      "bid": 6.6,
       "ask": 6.75,
       "in_money": true
     },
@@ -1029,10 +1029,10 @@
       "volume": 435,
       "oi": 1,
       "ratio": 435.0,
-      "iv": 56.6,
+      "iv": 55.7,
       "last": 15.22,
       "bid": 13.95,
-      "ask": 14.95,
+      "ask": 14.9,
       "in_money": true
     },
     {
@@ -1376,11 +1376,11 @@
       "type": "PUT",
       "expiry": "2026-07-13",
       "strike": 160.0,
-      "volume": 9720,
+      "volume": 9721,
       "oi": 105,
-      "ratio": 92.57,
+      "ratio": 92.58,
       "iv": 92.2,
-      "last": 0.01,
+      "last": 0.02,
       "bid": 0.0,
       "ask": 0.02,
       "in_money": false
@@ -1404,9 +1404,9 @@
       "type": "PUT",
       "expiry": "2026-07-13",
       "strike": 207.5,
-      "volume": 28606,
+      "volume": 28630,
       "oi": 332,
-      "ratio": 86.16,
+      "ratio": 86.23,
       "iv": 22.3,
       "last": 0.69,
       "bid": 0.66,
@@ -1432,12 +1432,12 @@
       "type": "PUT",
       "expiry": "2026-07-13",
       "strike": 610.0,
-      "volume": 578,
+      "volume": 579,
       "oi": 7,
-      "ratio": 82.57,
+      "ratio": 82.71,
       "iv": 30.6,
-      "last": 6.8,
-      "bid": 6.3,
+      "last": 6.3,
+      "bid": 5.3,
       "ask": 7.3,
       "in_money": false
     },
@@ -1533,10 +1533,10 @@
       "volume": 4812,
       "oi": 82,
       "ratio": 58.68,
-      "iv": 22.7,
+      "iv": 21.9,
       "last": 4.63,
-      "bid": 4.55,
-      "ask": 4.65,
+      "bid": 4.45,
+      "ask": 4.6,
       "in_money": true
     },
     {
@@ -1670,9 +1670,9 @@
       "type": "PUT",
       "expiry": "2026-07-10",
       "strike": 207.5,
-      "volume": 192033,
+      "volume": 192233,
       "oi": 4346,
-      "ratio": 44.19,
+      "ratio": 44.23,
       "iv": 14.8,
       "last": 0.01,
       "bid": 0.0,
@@ -1740,13 +1740,13 @@
       "type": "PUT",
       "expiry": "2026-07-13",
       "strike": 212.5,
-      "volume": 6657,
+      "volume": 6659,
       "oi": 154,
-      "ratio": 43.23,
-      "iv": 21.9,
-      "last": 2.76,
-      "bid": 2.76,
-      "ask": 2.8,
+      "ratio": 43.24,
+      "iv": 21.0,
+      "last": 2.75,
+      "bid": 2.67,
+      "ask": 2.73,
       "in_money": true
     },
     {
@@ -2960,17 +2960,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
-      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;Investopedia"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "3 Cheap Artificial Intelligence Stocks to Buy Right Now - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUjdZTE5YakZKQW5WYnEzZk5tUENjMUNGcWpVRGlObGFzVXp2QzRkV2dIMVBtaU5ieTRBWFRYYlJOVy1DV2pFNklLbzNacEFqalVSVVJKV2luQjlqOFF4VE1SUDQ1TjNPakJFSlBqeWRwaUh2OEVWTmVzUUp4VGF3QjlXNzRVMWlCd09GTnZhVWprRV9DWkRlNA?oc=5",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
       "summary": "3 Cheap Artificial Intelligence Stocks to Buy Right Now&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
+      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;Investopedia"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3086,41 +3086,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Reuben Trane Transformed The HVAC Industry",
-      "url": "https://www.investors.com/news/management/leaders-and-success/reuben-trane-transformed-the-hvac-industry/?src=A00220&yptr=yahoo",
-      "published": "2026-07-09T11:00:04Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Options Strategies for Netflix Earnings Next Week",
-      "url": "https://finance.yahoo.com/markets/options/articles/3-options-strategies-netflix-earnings-110002813.html",
-      "published": "2026-07-09T11:00:02Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Electrification Surge Fuels Case for Clean Energy ETF ACES",
-      "url": "https://finance.yahoo.com/energy/articles/electrification-surge-fuels-case-clean-110057096.html",
-      "published": "2026-07-09T11:00:57Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gold Resource (GORO) Shareholders Approve Goldgroup Merger",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gold-goro-shareholders-approve-goldgroup-111027523.html",
-      "published": "2026-07-09T11:10:27Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analyst Report: Monster Beverage Corp",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-07-10T18:33:46Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today",
       "url": "https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html",
       "published": "2026-07-09T22:22:00Z",
@@ -3128,37 +3093,72 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Vizsla Silver (VZLA): The Best Silver Mining Penny Stock to Buy",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/vizsla-silver-vzla-best-silver-110953435.html",
-      "published": "2026-07-09T11:09:53Z",
+      "title": "Ford\u2019s Q2 2026 Earnings: What to Expect",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ford-q2-2026-earnings-expect-141918855.html",
+      "published": "2026-07-09T14:19:18Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Solitario (XPL) Advances 2026 Ponderosa Drilling Program",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/solitario-xpl-advances-2026-ponderosa-111040229.html",
-      "published": "2026-07-09T11:10:40Z",
+      "title": "Bacon, Lettuce, and Tomato Season Is Almost Here. Lean Hog Prices Could Head Even Higher.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bacon-lettuce-tomato-season-almost-141511170.html",
+      "published": "2026-07-09T14:15:11Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alliance Global Raises its Price Target on Paramount Gold Nevada (PZG)",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/alliance-global-raises-price-target-111020902.html",
-      "published": "2026-07-09T11:10:20Z",
+      "title": "Stocks Climb on Strength in Chipmakers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-climb-strength-chipmakers-141716361.html",
+      "published": "2026-07-09T14:17:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trilogy Metals (TMQ) Begins Summer Exploration Program in Alaska",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/trilogy-metals-tmq-begins-summer-111012390.html",
-      "published": "2026-07-09T11:10:12Z",
+      "title": "Home sales stayed muted in June as affordability challenges persisted",
+      "url": "https://finance.yahoo.com/real-estate/article/home-sales-stayed-muted-in-june-as-affordability-challenges-persisted-141243340.html",
+      "published": "2026-07-09T14:12:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Deere & Co",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2888_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-07-10T18:33:46Z",
+      "title": "Elon Musk SEC settlement raises 'red flags,' judge says",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html",
+      "published": "2026-07-10T16:47:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What to Expect From Cigna's Next Quarterly Earnings Report",
+      "url": "https://finance.yahoo.com/healthcare/articles/expect-cignas-next-quarterly-earnings-140620191.html",
+      "published": "2026-07-09T14:06:20Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What the Plaintiff Attorney Who Won at the Supreme Court Looks for in Broker Negligent Selection Cases",
+      "url": "https://finance.yahoo.com/small-business/articles/plaintiff-attorney-won-supreme-court-140646792.html",
+      "published": "2026-07-09T14:06:46Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "With Iran Tensions Heating Up Again, Chevron Stock Looks Enticing",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iran-tensions-heating-again-chevron-140551893.html",
+      "published": "2026-07-09T14:05:51Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US home prices hit an all-time high as sales slow and mortgage rates rise",
+      "url": "https://finance.yahoo.com/real-estate/articles/us-home-prices-hit-time-140124097.html",
+      "published": "2026-07-09T14:01:24Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3 Reasons to Buy This 4.2%-Yielding Dividend King Stock in July",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-4-2-142300622.html",
+      "published": "2026-07-09T14:23:00Z",
       "summary": ""
     }
   ]
