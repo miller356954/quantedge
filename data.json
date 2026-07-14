@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T21:31:33.183419Z",
+  "last_updated": "2026-07-14T22:40:46.908362Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -77,7 +77,7 @@
       "market_cap_fmt": "5.13T",
       "52w_high": 236.54,
       "52w_low": 164.07,
-      "pe_ratio": 16.559,
+      "pe_ratio": 16.5405,
       "iv": 29.8,
       "beta": 2.211
     },
@@ -93,7 +93,7 @@
       "market_cap_fmt": "893.78B",
       "52w_high": 584.73,
       "52w_low": 149.22,
-      "pe_ratio": 41.1745,
+      "pe_ratio": 41.1182,
       "iv": 61.7,
       "beta": 2.469
     },
@@ -2835,8 +2835,8 @@
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3I3Nll0d2FscWJNUC1KQWR6Y3FPWjV3TE9rZXFaOFRSTGtlUGNWbVREY3ktQ1hsR3RWTmZfazlDc29lXy1obVplM0FBN3JGU1IwdGlpQWw3Vy1EZGowTmFNOHQxa2ZiYWhXSnRCc1RkRlBjT0U5U2RBMExBa1BHbmFyUmtHUm9VanZ6bFVNTXZtX3Z1WFUxb2ZOdDFlaEFzZjVhcnVacDFveGlEaTktYy0xOWo1VkxKYVVJNkRkbFBZZFVucnJvalRxSWFmLWQxSEp6bjRJZTRYUU01NGRHbTRjMmI?oc=5",
-      "published": "Mon, 13 Jul 2026 09:39:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOEFmN3VSNW1CREdtR0NmSzBoVF9tbEx2M1NOSk9scTdrb2l1X3VZLUdJbFF1S2dIVFlpMDZ0Q3BvNy1LN3pGRDQ2V1JaZEVndFBkNlN0YW9QXzZfYmRyMVBYaFhhZEU3TGFBNnh2OFo2WXJUWlE2OXZQaXlIbEtIYWN3akE0dHRoZ0I2SVNlMzI4T2RiRHRvWkt2X1hSUklkX3I3MUdBYi1vSnpmMVFlNGtKOERadkk1MzI1akNuRlprMFRGT29mb25TeTRnSmstX2RGbDRCZUFfN1JkMTV5RzZxQTZ4TnR5?oc=5",
+      "published": "Mon, 13 Jul 2026 09:10:24 GMT",
       "summary": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch.&nbsp;&nbsp;The Globe and Mail"
     },
     {
@@ -3065,10 +3065,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed? - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JGWHl4cHozdW5tcWxYdGNLNnBRUWY4eXowZTlsaDdNVWdmb1lFc2RiMWxhOGIySktLVE1mZ19ubXZwNWNGLXBxUXBoX2V2ZGhZdW9fZ3dEUGZURE1VSWV4UkJEZkNETVFRYUZXSkJZMUJSQkNQcnduTm8weVBVUXZQeExHYjB3MzBMMzZfYnlZRGlXMXByY0NrdjhpU3lEQnJlLTVUX19RSkd2?oc=5",
-      "published": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed?&nbsp;&nbsp;Investor's Business Daily"
+      "title": "What IBM's $10-Billion Quantum Project Means For Smaller Players - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONy1VOWhMLWlZYjQxSVBDa2tHdy1rb0JiSTRGM1h2Tkpra0t0TXN5X2pTTEM1QWtURkJfYWdlZmNkZjIwWC05cWFBenFVRUJXOGxaMUJxaFFLa2pDaTduWXpoYzNVTF9sLUk1cVlfbEI4STdVTi03b241ZWE0cjNFUF9IWnB4MW5Ta0tMVXY2RHZCcVRkd1lRTTdqcnJ5Sktk?oc=5",
+      "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "summary": "What IBM's $10-Billion Quantum Project Means For Smaller Players&nbsp;&nbsp;MarketBeat"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3086,37 +3086,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "'Dirty Jobs' host Mike Rowe: We have become untethered from the definition of work",
-      "url": "https://finance.yahoo.com/markets/article/dirty-jobs-host-mike-rowe-we-have-become-untethered-from-the-definition-of-work-131443987.html",
-      "published": "2026-07-13T13:14:43Z",
+      "title": "Market Favored Fortune Brands Innovations (FBIN) Despite Soft Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-favored-fortune-brands-innovations-142702248.html",
+      "published": "2026-07-13T14:27:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Netflix Stock is at New Lows, But Its FCF Is Strong - Is NFLX Too Cheap?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-lows-fcf-strong-130002093.html",
-      "published": "2026-07-13T13:00:02Z",
+      "title": "Thanks to Escalating Iran Tensions, Delta Air Lines Stock Could Face Turbulence. How to Trade It Here.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/thanks-escalating-iran-tensions-delta-142103671.html",
+      "published": "2026-07-13T14:21:03Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wheat's Bullish Fundamentals Are Growing\u2014So Why Do Prices Keep Falling?",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wheats-bullish-fundamentals-growing-why-130002544.html",
-      "published": "2026-07-13T13:00:02Z",
+      "title": "What You Need To Know Ahead of AvalonBay Communities' Earnings Release",
+      "url": "https://finance.yahoo.com/real-estate/articles/know-ahead-avalonbay-communities-earnings-142141729.html",
+      "published": "2026-07-13T14:21:41Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Strategy Leaves Bitcoin Holdings Unchanged",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-131900091.html",
-      "published": "2026-07-13T13:19:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analyst Report: Fedex Corp",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-07-14T17:38:51Z",
+      "title": "Europe Gets Hit by the Hormuz Oil Squeeze",
+      "url": "https://finance.yahoo.com/energy/articles/europe-gets-hit-hormuz-oil-142925628.html",
+      "published": "2026-07-13T14:29:25Z",
       "summary": ""
     },
     {
@@ -3128,37 +3121,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is ATI (ATI) a Winning Bet?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ati-ati-winning-bet-132222572.html",
-      "published": "2026-07-13T13:22:22Z",
+      "title": "AMD Is Following Nvidia\u2019s Playbook. Here\u2019s Why Investors Should Pay Attention.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-following-nvidia-playbook-why-142016457.html",
+      "published": "2026-07-13T14:20:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Silver prices today, Monday, July 13, 2026: Silver prices falling after latest airstrikes on Iran",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-13-2026-silver-prices-falling-after-latest-airstrikes-on-iran-124725365.html",
-      "published": "2026-07-13T12:47:25Z",
+      "title": "Avantor (AVTR) Gains Traction Under New Management",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/avantor-avtr-gains-traction-due-142940466.html",
+      "published": "2026-07-13T14:29:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Netflix may be sitting on another tough quarter",
-      "url": "https://finance.yahoo.com/markets/stocks/article/netflix-may-be-sitting-on-another-tough-quarter-132259475.html",
-      "published": "2026-07-13T13:22:59Z",
+      "title": "Get Ready for Cattle Prices to Keep Falling as Crude Oil Pops Higher",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/ready-cattle-prices-keep-falling-143024335.html",
+      "published": "2026-07-13T14:30:24Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Argan (AGX) Strengthens from Current Demand Trend",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/argan-agx-strengthens-current-demand-132403474.html",
-      "published": "2026-07-13T13:24:03Z",
+      "title": "Dear Microsoft Stock Fans, Mark Your Calendars for July 13",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-microsoft-stock-fans-mark-143059341.html",
+      "published": "2026-07-13T14:30:59Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: JPMorgan Chase & Co",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3110_AnalystReport_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-07-14T17:38:51Z",
+      "title": "Is AI Running Out Of Money?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-running-money-142416986.html",
+      "published": "2026-07-13T14:24:16Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is CNX Resources Corporation (CNX) Stock Pullback an Opportunity?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cnx-resources-corporation-cnx-stock-143147373.html",
+      "published": "2026-07-13T14:31:47Z",
       "summary": ""
     }
   ]
