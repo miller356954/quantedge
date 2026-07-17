@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T21:01:53.438775Z",
+  "last_updated": "2026-07-17T22:07:34.609968Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -83,7 +83,7 @@
     },
     "AMD": {
       "sector": "Semiconductors",
-      "name": "Advanced Micro Devices, Inc.",
+      "name": "AMD",
       "price": 495.76,
       "prev_close": 494.3,
       "change_pct": 0.3,
@@ -143,7 +143,7 @@
       "52w_low": 683.48,
       "pe_ratio": 30.2416,
       "iv": 22.3,
-      "beta": 1.394
+      "beta": null
     },
     "AVGO": {
       "sector": "Semiconductors",
@@ -163,7 +163,7 @@
     },
     "MU": {
       "sector": "Semiconductors",
-      "name": "Micron Technology, Inc.",
+      "name": "MU",
       "price": 848.95,
       "prev_close": 832.41,
       "change_pct": 1.99,
@@ -558,7 +558,7 @@
     {
       "ticker": "ASML",
       "expiry": "2026-07-17",
-      "call_vol": 6400,
+      "call_vol": 6401,
       "put_vol": 6501,
       "call_oi": 21084,
       "put_oi": 31695,
@@ -761,7 +761,7 @@
       "call_vol": 15492,
       "put_vol": 27638,
       "call_oi": 62441,
-      "put_oi": 104983,
+      "put_oi": 104981,
       "pcr": 1.784,
       "iv": 50.1
     },
@@ -2967,17 +2967,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Tech stocks today: Anthropic says Pentagon ban could cost it billions, Meta announces new AI chips - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYW1laDM1NGEtQS1DZlJOWC15QkUzWFgzODFRSWUxekdFRXNUMGZNbVJmdW03ZUE2aWR0OGVCeC11QXkwdm1qQ3l0MzJxM28xOEM0N1pzenEtb28wSVhjYUdqSHVOV3hGcVh5SFpNc3JBMk1DQWRTQWVyTGg3cTFxamNlVkZBNHBrMnNKSk5WZDNzdGw1bG5mRE1POFlKT2s4bUhsOFRMY0RJUUtYWkxneEo5WTFybVNKMm9EVlFHRkVkNTR5SVdvTGRJMmI1SzBMdkt4LXdfRmszU1pZRmIyaw?oc=5",
-      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "summary": "Tech stocks today: Anthropic says Pentagon ban could cost it billions, Meta announces new AI chips&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnBfTjB3ZkliTVpmU1hieExoV3J4cjJZeXdMNkNlMFdEcmhHY09QcVRxU05qSVZoTXprZFFsanF6eHhPaEpSVGYwd0Z6ODg4WWhRTThOYXV5eVI4RFJlcGdtTTRXR1lVUVB0eDNIdVMtYjZ0M1VLRTdKYzZiU2N2Uk9US25PVEJ5?oc=5",
       "published": "Mon, 16 Mar 2026 07:00:00 GMT",
       "summary": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2988,10 +2988,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
+      "title": "5 Solid Artificial Intelligence (AI) Stocks That Also Pay Dividends - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnhZVEVwczk2cUxmYU5ZbDE1UWFHY2Nac2Jpano0aW0zbG9wZ2ZuS05qd05yNDMyWl9FeEU0ekV5am5iTXhlV2hCa1Y2QkpSX04xdTNoU210U1o2SExnUjM4aUtnVVItMThKMG5hLWQ2b3gzb3V0cDJNWkhHWThhVUN0Wm5MMkdLdUVhMjNDbXZaZ1VZa2x6Vg?oc=5",
+      "published": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "summary": "5 Solid Artificial Intelligence (AI) Stocks That Also Pay Dividends&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3051,17 +3051,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum Stocks Face a 2028 Cash Test. Here's What Investors Should Know. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZFlXWVZqbkNZcnNxWHFCUFFfOGFoMzEyQXpYbExSWFpETnpwbjdfMy1Remc2eEJxX2xISmpDNGYwSjNIWGR0VkZIRk5kNmdDQy1JeWhxXzRzLS0wYVl0OVdjZ1JYR1dIMWJ2ZkNPLTJkYmFSb0p1X211UnhMdHEzbXpwR1RDaUlJME52czlKNXRJVzctcm8taWd3VTA0eW5ldWVZMFphUlRrUFhvY1B6LWh6ZVJ1U1Eyb2s3ODNEWGlweGlsSllyZnJib0VBcTM5X1lDRk5PWGpaeTRROTBwUkFfVTBLR0JQb3c?oc=5",
-      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Quantum Stocks Face a 2028 Cash Test. Here's What Investors Should Know.&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "What IBM's $10-Billion Quantum Project Means For Smaller Players - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONy1VOWhMLWlZYjQxSVBDa2tHdy1rb0JiSTRGM1h2Tkpra0t0TXN5X2pTTEM1QWtURkJfYWdlZmNkZjIwWC05cWFBenFVRUJXOGxaMUJxaFFLa2pDaTduWXpoYzNVTF9sLUk1cVlfbEI4STdVTi03b241ZWE0cjNFUF9IWnB4MW5Ta0tMVXY2RHZCcVRkd1lRTTdqcnJ5Sktk?oc=5",
       "published": "Wed, 03 Jun 2026 07:00:00 GMT",
       "summary": "What IBM's $10-Billion Quantum Project Means For Smaller Players&nbsp;&nbsp;MarketBeat"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Quantum Stocks Face a 2028 Cash Test. Here's What Investors Should Know. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZFlXWVZqbkNZcnNxWHFCUFFfOGFoMzEyQXpYbExSWFpETnpwbjdfMy1Remc2eEJxX2xISmpDNGYwSjNIWGR0VkZIRk5kNmdDQy1JeWhxXzRzLS0wYVl0OVdjZ1JYR1dIMWJ2ZkNPLTJkYmFSb0p1X211UnhMdHEzbXpwR1RDaUlJME52czlKNXRJVzctcm8taWd3VTA0eW5ldWVZMFphUlRrUFhvY1B6LWh6ZVJ1U1Eyb2s3ODNEWGlweGlsSllyZnJib0VBcTM5X1lDRk5PWGpaeTRROTBwUkFfVTBLR0JQb3c?oc=5",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Quantum Stocks Face a 2028 Cash Test. Here's What Investors Should Know.&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3079,86 +3079,86 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Leyland Packaging appoints Rebecca Dolan as business development manager",
-      "url": "https://finance.yahoo.com/small-business/articles/leyland-packaging-appoints-rebecca-dolan-110528385.html",
-      "published": "2026-07-16T11:05:28Z",
+      "title": "Is ZoomInfo Technologies (GTM) One of the Most Undervalued Stocks Under $5 to Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-one-most-144816235.html",
+      "published": "2026-07-16T14:48:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "\u2018Portfolios are becoming much riskier\u2019: How to make defensive investments before the AI bubble pops",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/portfolios-becoming-much-riskier-defensive-111000269.html",
-      "published": "2026-07-16T11:10:00Z",
+      "title": "The Digital Fashion Academy Partners with NASTEX",
+      "url": "https://finance.yahoo.com/technology/ai/articles/digital-fashion-academy-partners-nastex-145005850.html",
+      "published": "2026-07-16T14:50:05Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "VettaFi\u2019s Murphy Discusses AI Value Chain on Yahoo! Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/vettafi-murphy-discusses-ai-value-111504350.html",
-      "published": "2026-07-16T11:15:04Z",
+      "title": "Kosmos Energy (KOS): One of the Most Undervalued\u00a0Stocks\u00a0Under $5 to Buy",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kosmos-energy-kos-one-most-144728001.html",
+      "published": "2026-07-16T14:47:28Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "8 Small Stocks Soar So Explosively You'll Forget About The 'Mag 7'",
-      "url": "https://www.investors.com/etfs-and-funds/etfs/sp500-small-stocks-soar-so-explosively-youll-forget-about-the-mag-7/?src=A00220&yptr=yahoo",
-      "published": "2026-07-16T11:15:51Z",
+      "title": "Oracle Corporation (ORCL) Declining, Piper Sandler Remains a Buy",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-orcl-declining-piper-144520462.html",
+      "published": "2026-07-16T14:45:20Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Supreme Court triggers massive $49 billion refund \u2013 corporate giants are already snatching it up. Is your wallet safe?",
-      "url": "https://finance.yahoo.com/economy/policy/articles/supreme-court-triggers-massive-49-112500358.html",
-      "published": "2026-07-16T11:25:00Z",
+      "title": "RDW Stock Alert: What to Know as Redwire Scores $21.5 Million Follow-On Contract",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rdw-stock-alert-know-redwire-144157949.html",
+      "published": "2026-07-16T14:41:57Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Eli Lilly to acquire psychedelic drugmaker AtaiBeckley for $2.8 billion",
-      "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-acquire-psychedelic-drugmaker-111006119.html",
-      "published": "2026-07-16T11:10:06Z",
+      "title": "Why McDonald's stock is at nearly 2-year lows",
+      "url": "https://finance.yahoo.com/markets/stocks/article/why-mcdonalds-stock-is-at-nearly-2-year-lows-145439928.html",
+      "published": "2026-07-16T14:54:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Retirement Plan Problem Most Couples Don't See Coming",
-      "url": "https://www.investors.com/etfs-and-funds/retirement/retirement-plan-problem-most-couples-dont-see-coming/?src=A00220&yptr=yahoo",
-      "published": "2026-07-16T11:00:59Z",
+      "title": "AST SpaceMobile vs. Rocket Lab: 1 Number Separates These Space Stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-rocket-lab-145000630.html",
+      "published": "2026-07-16T14:50:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alternatives ETFs Punching Above Their Weight in 2026",
-      "url": "https://finance.yahoo.com/markets/options/articles/alternatives-etfs-punching-above-weight-110050229.html",
-      "published": "2026-07-16T11:00:50Z",
+      "title": "Here\u2019s Why McKesson Corporation (MCK) Slid in Q2",
+      "url": "https://finance.yahoo.com/healthcare/articles/why-mckesson-corporation-mck-slid-143621685.html",
+      "published": "2026-07-16T14:36:21Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "2 Reasons to Feel Bullish on GOOGL Stock Ahead of Alphabet\u2019s Q2 Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-feel-bullish-googl-113002127.html",
-      "published": "2026-07-16T11:30:02Z",
+      "title": "EUR/USD Outlook: Why European Gas Prices Could Become the Euro\u2019s Biggest Driver",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/eur-usd-outlook-why-european-145611942.html",
+      "published": "2026-07-16T14:56:11Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Micron Technology Bear Call Spread Could Net\u00a016% in Five Weeks",
-      "url": "https://finance.yahoo.com/markets/options/articles/micron-technology-bear-call-spread-110002881.html",
-      "published": "2026-07-16T11:00:02Z",
+      "title": "Dollar Boosted by Better-Than-Expected US Economic News",
+      "url": "https://finance.yahoo.com/economy/articles/dollar-boosted-better-expected-us-143339730.html",
+      "published": "2026-07-16T14:33:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Financial close achieved on Sol Systems\u2019 123MWac Peoria Solar Project",
-      "url": "https://finance.yahoo.com/energy/articles/financial-close-achieved-sol-systems-110914890.html",
-      "published": "2026-07-16T11:09:14Z",
+      "title": "GME Stock Alert: What to Know as GameStop Teams Up With Uber Eats",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gme-stock-alert-know-gamestop-143230995.html",
+      "published": "2026-07-16T14:32:30Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Morning Bid: Damp Squib",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-damp-squib-113147751.html",
-      "published": "2026-07-16T11:31:47Z",
+      "title": "PayPal Stock Surges on $53 Billion Stripe-Advent Buyout Bid",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-surges-53-billion-145000340.html",
+      "published": "2026-07-16T14:50:00Z",
       "summary": ""
     }
   ]
