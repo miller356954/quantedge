@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T20:26:08.494360Z",
+  "last_updated": "2026-07-20T21:45:10.527938Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -110,7 +110,7 @@
       "52w_high": 142.35,
       "52w_low": 18.97,
       "pe_ratio": 60.149,
-      "iv": 9.8,
+      "iv": 17.2,
       "beta": 2.187
     },
     "TSM": {
@@ -158,7 +158,7 @@
       "52w_high": 495.0,
       "52w_low": 273.0,
       "pe_ratio": 19.4758,
-      "iv": 7.9,
+      "iv": 11.8,
       "beta": 1.462
     },
     "MU": {
@@ -254,7 +254,7 @@
       "52w_high": 408.61,
       "52w_low": 186.15,
       "pe_ratio": 24.0284,
-      "iv": 3.5,
+      "iv": 4.7,
       "beta": 1.247
     },
     "META": {
@@ -285,7 +285,7 @@
       "market_cap_fmt": "2.69T",
       "52w_high": 278.56,
       "52w_low": 196.0,
-      "pe_ratio": 25.1614,
+      "pe_ratio": 25.1923,
       "iv": 4.3,
       "beta": 1.461
     },
@@ -477,7 +477,7 @@
       "market_cap_fmt": "0",
       "52w_high": 671.83,
       "52w_low": 279.19,
-      "pe_ratio": null,
+      "pe_ratio": 36.1768,
       "iv": 14.6,
       "beta": null
     },
@@ -518,8 +518,8 @@
     {
       "ticker": "NVDA",
       "expiry": "2026-07-20",
-      "call_vol": 1015634,
-      "put_vol": 623783,
+      "call_vol": 1015646,
+      "put_vol": 623997,
       "call_oi": 115322,
       "put_oi": 81245,
       "pcr": 0.614,
@@ -528,8 +528,8 @@
     {
       "ticker": "AMD",
       "expiry": "2026-07-20",
-      "call_vol": 200901,
-      "put_vol": 83164,
+      "call_vol": 200904,
+      "put_vol": 83273,
       "call_oi": 24752,
       "put_oi": 25370,
       "pcr": 0.414,
@@ -538,12 +538,12 @@
     {
       "ticker": "INTC",
       "expiry": "2026-07-20",
-      "call_vol": 140586,
+      "call_vol": 140592,
       "put_vol": 70019,
       "call_oi": 36197,
       "put_oi": 17455,
       "pcr": 0.498,
-      "iv": 9.8
+      "iv": 17.2
     },
     {
       "ticker": "TSM",
@@ -568,18 +568,18 @@
     {
       "ticker": "AVGO",
       "expiry": "2026-07-20",
-      "call_vol": 42245,
-      "put_vol": 24789,
+      "call_vol": 42209,
+      "put_vol": 24799,
       "call_oi": 9869,
       "put_oi": 9664,
-      "pcr": 0.587,
-      "iv": 7.9
+      "pcr": 0.588,
+      "iv": 11.8
     },
     {
       "ticker": "MU",
       "expiry": "2026-07-20",
-      "call_vol": 242640,
-      "put_vol": 182579,
+      "call_vol": 242649,
+      "put_vol": 182583,
       "call_oi": 32818,
       "put_oi": 48764,
       "pcr": 0.752,
@@ -588,8 +588,8 @@
     {
       "ticker": "QCOM",
       "expiry": "2026-07-24",
-      "call_vol": 10755,
-      "put_vol": 7536,
+      "call_vol": 10765,
+      "put_vol": 7543,
       "call_oi": 29671,
       "put_oi": 21140,
       "pcr": 0.701,
@@ -628,18 +628,18 @@
     {
       "ticker": "GOOGL",
       "expiry": "2026-07-20",
-      "call_vol": 187298,
+      "call_vol": 187308,
       "put_vol": 105226,
       "call_oi": 24612,
       "put_oi": 12353,
       "pcr": 0.562,
-      "iv": 3.5
+      "iv": 4.7
     },
     {
       "ticker": "META",
       "expiry": "2026-07-20",
-      "call_vol": 183905,
-      "put_vol": 89986,
+      "call_vol": 183953,
+      "put_vol": 90001,
       "call_oi": 30120,
       "put_oi": 15729,
       "pcr": 0.489,
@@ -668,7 +668,7 @@
     {
       "ticker": "PLTR",
       "expiry": "2026-07-24",
-      "call_vol": 182296,
+      "call_vol": 182311,
       "put_vol": 53884,
       "call_oi": 140046,
       "put_oi": 100146,
@@ -688,8 +688,8 @@
     {
       "ticker": "SMCI",
       "expiry": "2026-07-24",
-      "call_vol": 28836,
-      "put_vol": 13636,
+      "call_vol": 28855,
+      "put_vol": 13649,
       "call_oi": 135444,
       "put_oi": 23379,
       "pcr": 0.473,
@@ -758,41 +758,41 @@
     {
       "ticker": "SOXX",
       "expiry": "2026-07-24",
-      "call_vol": 3541,
-      "put_vol": 12622,
+      "call_vol": 3558,
+      "put_vol": 12628,
       "call_oi": 14651,
       "put_oi": 18504,
-      "pcr": 3.565,
+      "pcr": 3.549,
       "iv": 71.6
     },
     {
       "ticker": "SMH",
       "expiry": "2026-07-20",
-      "call_vol": 5745,
-      "put_vol": 14247,
+      "call_vol": 5639,
+      "put_vol": 14250,
       "call_oi": 6000,
       "put_oi": 37628,
-      "pcr": 2.48,
+      "pcr": 2.527,
       "iv": 14.6
     },
     {
       "ticker": "AIQ",
       "expiry": "2026-08-21",
       "call_vol": 355,
-      "put_vol": 294,
+      "put_vol": 292,
       "call_oi": 4001,
       "put_oi": 3768,
-      "pcr": 0.828,
+      "pcr": 0.823,
       "iv": 45.6
     },
     {
       "ticker": "QTUM",
       "expiry": "2026-08-21",
-      "call_vol": 182,
+      "call_vol": 183,
       "put_vol": 42,
       "call_oi": 526,
       "put_oi": 378,
-      "pcr": 0.231,
+      "pcr": 0.23,
       "iv": 52.8
     }
   ],
@@ -833,10 +833,10 @@
       "volume": 767,
       "oi": 1,
       "ratio": 767.0,
-      "iv": 204.2,
+      "iv": 205.4,
       "last": 120.76,
       "bid": 115.3,
-      "ask": 122.8,
+      "ask": 122.85,
       "in_money": true
     },
     {
@@ -931,10 +931,10 @@
       "volume": 401,
       "oi": 1,
       "ratio": 401.0,
-      "iv": 188.1,
+      "iv": 189.2,
       "last": 111.66,
       "bid": 105.3,
-      "ask": 112.8,
+      "ask": 112.85,
       "in_money": true
     },
     {
@@ -945,10 +945,10 @@
       "volume": 325,
       "oi": 1,
       "ratio": 325.0,
-      "iv": 268.4,
+      "iv": 250.6,
       "last": 163.84,
       "bid": 157.55,
-      "ask": 165.35,
+      "ask": 164.9,
       "in_money": true
     },
     {
@@ -987,10 +987,10 @@
       "volume": 539,
       "oi": 2,
       "ratio": 269.5,
-      "iv": 206.2,
+      "iv": 213.3,
       "last": 141.1,
       "bid": 135.0,
-      "ask": 142.25,
+      "ask": 142.4,
       "in_money": true
     },
     {
@@ -1015,10 +1015,10 @@
       "volume": 510,
       "oi": 2,
       "ratio": 255.0,
-      "iv": 210.0,
+      "iv": 217.2,
       "last": 143.28,
       "bid": 137.5,
-      "ask": 144.75,
+      "ask": 144.9,
       "in_money": true
     },
     {
@@ -1057,10 +1057,10 @@
       "volume": 493,
       "oi": 2,
       "ratio": 246.5,
-      "iv": 176.7,
+      "iv": 181.7,
       "last": 108.35,
       "bid": 102.3,
-      "ask": 110.5,
+      "ask": 110.7,
       "in_money": true
     },
     {
@@ -1113,10 +1113,10 @@
       "volume": 646,
       "oi": 3,
       "ratio": 215.33,
-      "iv": 228.7,
+      "iv": 230.1,
       "last": 136.76,
       "bid": 130.3,
-      "ask": 137.8,
+      "ask": 137.85,
       "in_money": true
     },
     {
@@ -1306,11 +1306,11 @@
       "type": "PUT",
       "expiry": "2026-07-20",
       "strike": 647.5,
-      "volume": 10881,
+      "volume": 10882,
       "oi": 126,
-      "ratio": 86.36,
+      "ratio": 86.37,
       "iv": 11.7,
-      "last": 2.1,
+      "last": 1.99,
       "bid": 1.32,
       "ask": 2.54,
       "in_money": true
@@ -1334,13 +1334,13 @@
       "type": "PUT",
       "expiry": "2026-07-20",
       "strike": 507.5,
-      "volume": 9281,
+      "volume": 9282,
       "oi": 114,
-      "ratio": 81.41,
-      "iv": 33.6,
-      "last": 3.87,
+      "ratio": 81.42,
+      "iv": 32.5,
+      "last": 3.97,
       "bid": 2.87,
-      "ask": 5.85,
+      "ask": 5.75,
       "in_money": true
     },
     {
@@ -1348,9 +1348,9 @@
       "type": "PUT",
       "expiry": "2026-07-22",
       "strike": 360.0,
-      "volume": 382,
+      "volume": 383,
       "oi": 5,
-      "ratio": 76.4,
+      "ratio": 76.6,
       "iv": 132.8,
       "last": 0.06,
       "bid": 0.02,
@@ -1365,10 +1365,10 @@
       "volume": 226,
       "oi": 3,
       "ratio": 75.33,
-      "iv": 172.0,
+      "iv": 148.4,
       "last": 93.52,
-      "bid": 89.85,
-      "ask": 93.9,
+      "bid": 88.45,
+      "ask": 94.15,
       "in_money": true
     },
     {
@@ -1432,9 +1432,9 @@
       "type": "PUT",
       "expiry": "2026-07-20",
       "strike": 642.5,
-      "volume": 9267,
+      "volume": 9277,
       "oi": 132,
-      "ratio": 70.2,
+      "ratio": 70.28,
       "iv": 6.7,
       "last": 0.02,
       "bid": 0.02,
@@ -1603,10 +1603,10 @@
       "volume": 10693,
       "oi": 182,
       "ratio": 58.75,
-      "iv": 48.9,
+      "iv": 40.6,
       "last": 19.55,
       "bid": 18.0,
-      "ask": 21.9,
+      "ask": 20.95,
       "in_money": true
     },
     {
@@ -1659,10 +1659,10 @@
       "volume": 333,
       "oi": 6,
       "ratio": 55.5,
-      "iv": 139.3,
+      "iv": 143.3,
       "last": 84.21,
       "bid": 78.45,
-      "ask": 84.4,
+      "ask": 84.6,
       "in_money": true
     },
     {
@@ -1715,10 +1715,10 @@
       "volume": 16584,
       "oi": 322,
       "ratio": 51.5,
-      "iv": 49.9,
+      "iv": 33.6,
       "last": 14.0,
       "bid": 11.35,
-      "ask": 18.15,
+      "ask": 15.95,
       "in_money": true
     },
     {
@@ -1827,10 +1827,10 @@
       "volume": 8952,
       "oi": 196,
       "ratio": 45.67,
-      "iv": 12.2,
+      "iv": 12.8,
       "last": 0.06,
       "bid": 0.03,
-      "ask": 0.06,
+      "ask": 0.08,
       "in_money": false
     },
     {
@@ -1904,6 +1904,12 @@
       "eps_estimate": 0.3467
     },
     {
+      "ticker": "AMD",
+      "date": "2026-08-04",
+      "days_away": 15,
+      "eps_estimate": 1.609
+    },
+    {
       "ticker": "SMCI",
       "date": "2026-08-04",
       "days_away": 15,
@@ -1956,6 +1962,12 @@
       "date": "2026-09-09",
       "days_away": 51,
       "eps_estimate": 1.7387
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-09-23",
+      "days_away": 65,
+      "eps_estimate": 31.329
     },
     {
       "ticker": "ASML",
@@ -3074,30 +3086,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Peter Thiel said real estate \u2018catastrophe\u2019 will deal massive blow to young Americans. Are the numbers proving him right?",
-      "url": "https://finance.yahoo.com/real-estate/articles/peter-thiel-said-real-estate-112500659.html",
-      "published": "2026-07-19T11:25:00Z",
+      "title": "5 things no one tells you about becoming a millionaire in America \u2014 are you ready for them?",
+      "url": "https://finance.yahoo.com/markets/articles/5-things-no-one-tells-124500743.html",
+      "published": "2026-07-19T12:45:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Baby boomers didn't save enough for retirement \u2014 now their kids are paying the price. What\u2019s behind the crisis",
-      "url": "https://finance.yahoo.com/economy/articles/baby-boomers-didnt-save-enough-110000818.html",
-      "published": "2026-07-19T11:00:00Z",
+      "title": "Microsoft cut 4,800 jobs, filed 2,879 H-1B visas \u2014 but the real reason behind its $1.2T market value drop is far bigger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-cut-4-800-jobs-130000440.html",
+      "published": "2026-07-19T13:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "REIT Bargains Still Exist If You Know Where to Look",
-      "url": "https://finance.yahoo.com/real-estate/articles/reit-bargains-still-exist-know-120000276.html",
-      "published": "2026-07-19T12:00:00Z",
+      "title": "A $1.7 Billion Reason to Buy Bloom Energy Stock Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-7-billion-reason-buy-130002738.html",
+      "published": "2026-07-19T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can the Australian model rescue the US retirement system? Trump seems to think so.",
-      "url": "https://finance.yahoo.com/economy/article/can-the-australian-model-rescue-the-us-retirement-system-trump-seems-to-think-so-120923475.html",
-      "published": "2026-07-19T12:09:23Z",
+      "title": "What IBM, Micron, and Sandisk all have in common",
+      "url": "https://finance.yahoo.com/markets/article/what-ibm-micron-and-sandisk-all-have-in-common-123000163.html",
+      "published": "2026-07-19T12:30:00Z",
       "summary": ""
     },
     {
@@ -3116,30 +3128,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Netflix's growth slowdown exposes a classic shareholder trap: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/netflixs-growth-slowdown-exposes-a-classic-shareholder-trap-chart-of-the-day-120918891.html",
-      "published": "2026-07-19T12:09:18Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gen Z is breaking our biggest social taboo by sharing their salaries online \u2014 but 'loud budgeting' can cost everyone",
-      "url": "https://finance.yahoo.com/small-business/articles/gen-z-breaking-biggest-social-103000350.html",
-      "published": "2026-07-19T10:30:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI recruitment startup Refer can help find you a job instead of stealing yours \u2014 but it will cost you",
-      "url": "https://finance.yahoo.com/small-business/articles/ai-recruitment-startup-refer-help-103000913.html",
-      "published": "2026-07-19T10:30:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Peter Schiff called the 2008 housing market crash \u2014 now he warns a 'housing emergency' is coming. Are you ready?",
       "url": "https://finance.yahoo.com/real-estate/articles/peter-schiff-called-2008-housing-121500369.html",
       "published": "2026-07-19T12:15:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why IBM Stock Crashed 25% Even as AI Spending Exploded",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ibm-stock-crashed-25-131037960.html",
+      "published": "2026-07-19T13:10:37Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can the Australian model rescue the US retirement system? Trump seems to think so.",
+      "url": "https://finance.yahoo.com/economy/article/can-the-australian-model-rescue-the-us-retirement-system-trump-seems-to-think-so-120923475.html",
+      "published": "2026-07-19T12:09:23Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Netflix's growth slowdown exposes a classic shareholder trap: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/netflixs-growth-slowdown-exposes-a-classic-shareholder-trap-chart-of-the-day-120918891.html",
+      "published": "2026-07-19T12:09:18Z",
       "summary": ""
     },
     {
