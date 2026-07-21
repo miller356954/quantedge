@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T21:16:52.652492Z",
+  "last_updated": "2026-07-21T22:28:32.709890Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -173,7 +173,7 @@
       "market_cap_fmt": "1.10T",
       "52w_high": 1255.0,
       "52w_low": 103.38,
-      "pe_ratio": 6.433,
+      "pe_ratio": 6.3147,
       "iv": 75.6,
       "beta": 2.142
     },
@@ -269,7 +269,7 @@
       "market_cap_fmt": "1.63T",
       "52w_high": 796.25,
       "52w_low": 520.26,
-      "pe_ratio": 17.7217,
+      "pe_ratio": 17.6342,
       "iv": 36.4,
       "beta": 1.246
     },
@@ -538,9 +538,9 @@
     {
       "ticker": "INTC",
       "expiry": "2026-07-22",
-      "call_vol": 194782,
+      "call_vol": 194783,
       "put_vol": 80468,
-      "call_oi": 55256,
+      "call_oi": 55259,
       "put_oi": 42398,
       "pcr": 0.413,
       "iv": 74.8
@@ -669,10 +669,10 @@
       "ticker": "PLTR",
       "expiry": "2026-07-24",
       "call_vol": 80356,
-      "put_vol": 38238,
+      "put_vol": 38646,
       "call_oi": 193745,
-      "put_oi": 115784,
-      "pcr": 0.476,
+      "put_oi": 116780,
+      "pcr": 0.481,
       "iv": 52.4
     },
     {
@@ -2850,17 +2850,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC - Global Taiwan Institute",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnV0dmhoTGNXRWVQVlh4bWR0ZXExOXlTNEN5VS1BQWgxaUNPU0p1bDlOMjNtLVhwS3VlbGFCUDUyZm1iRnNVcjRsdkhPNU5ycjlWRnVnNTdMRFF1SXcwUWZkcFI5TXdhQ1JYNXNyQXpvVG9VSHhieWJJNG4xTEZQUVVncGg?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC&nbsp;&nbsp;Global Taiwan Institute"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Why AI Chip Stocks Are Falling: Nvidia, Micron, AMD and TSMC All Slide - Stocks Down Under",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PYnA2MXlIZ2syLTBCaWkyYkJBb29YUGVxaGtITDlkcWw2T3hoNkdXeEdibDNRYjRLcTFuQ2xuWDB6cjd4RWRCaGJpYXNzRC1xOV9IV2NkWWFnTVloVXhKRXVSeE5xcmhSdHpF?oc=5",
       "published": "Thu, 16 Jul 2026 17:53:41 GMT",
       "summary": "Why AI Chip Stocks Are Falling: Nvidia, Micron, AMD and TSMC All Slide&nbsp;&nbsp;Stocks Down Under"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC - Global Taiwan Institute",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnV0dmhoTGNXRWVQVlh4bWR0ZXExOXlTNEN5VS1BQWgxaUNPU0p1bDlOMjNtLVhwS3VlbGFCUDUyZm1iRnNVcjRsdkhPNU5ycjlWRnVnNTdMRFF1SXcwUWZkcFI5TXdhQ1JYNXNyQXpvVG9VSHhieWJJNG4xTEZQUVVncGg?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "summary": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC&nbsp;&nbsp;Global Taiwan Institute"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2899,17 +2899,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Goldman Sachs Warns on AI\u2019s Debt Tsunami \u2014 Is This the End of the AI Boom? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3ZCa2JHdW82UjcxTVlkSGx1OGcxVmRUd3JtV0RZaWEwVlUxNWZJbkdOMWJfeW1LcEFYZlhlcmFkN1JQQmdTU2ZKdUstaUhjMXNsNDNaOWd4U1g1ZDlkX1lmRUY3bTgyVnYzNzVmQU1pQzNCM3AtalBWWUtUR2ZmM1p6MUZCT3JSdVlHOXF5SU0tOUdhM3pQeUVib2hPTUk?oc=5",
-      "published": "Sun, 19 Jul 2026 15:07:48 GMT",
-      "summary": "Goldman Sachs Warns on AI\u2019s Debt Tsunami \u2014 Is This the End of the AI Boom?&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "The Best AI Stocks to Buy Now - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
       "published": "Mon, 06 Jul 2026 07:00:00 GMT",
       "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Goldman Sachs Warns on AI\u2019s Debt Tsunami \u2014 Is This the End of the AI Boom? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3ZCa2JHdW82UjcxTVlkSGx1OGcxVmRUd3JtV0RZaWEwVlUxNWZJbkdOMWJfeW1LcEFYZlhlcmFkN1JQQmdTU2ZKdUstaUhjMXNsNDNaOWd4U1g1ZDlkX1lmRUY3bTgyVnYzNzVmQU1pQzNCM3AtalBWWUtUR2ZmM1p6MUZCT3JSdVlHOXF5SU0tOUdhM3pQeUVib2hPTUk?oc=5",
+      "published": "Sun, 19 Jul 2026 15:07:48 GMT",
+      "summary": "Goldman Sachs Warns on AI\u2019s Debt Tsunami \u2014 Is This the End of the AI Boom?&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2920,17 +2920,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlVsMnNqN19ONWQtNllqRlIwLVZzak1jbHBtNDFtakJRWUxqSlloNWZLUTN5U2FpcTc0bTdVYXlLeTUtV1J0cHM5YXJ5bTlqVVZ6YW9RbFE2NnRpUHhsQVBBMUtOWGNTTkoyV3Y0WWpjdlFaNDZzX25sQ0k5aHlqTXlMUUlTdDdUa0xuMDR5T3JjWWhvX0NTdU5oV1V1LUJaaDE0SkpJdXh2QUwzaVBSbjJnaFMxSkxWeDhRallxTUZpZmE3ZlE?oc=5",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks&nbsp;&nbsp;TradingView"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODBJV3VIUzZmclJ3c0FQeHJFcjR4c1BoUlNlek8yWWhCblFmRVo3UDhlY2Fuai1GMHJLWnRMN2U0YVRmZTRFNlhGWVdsS2VTZ2xsYXpha2FJeGREUDJsQ3ZISUNhaTFBT2pjUXJZWW05T2wwdFJqdnBXcExiNTh3VkdtYjg5N0FVRGhpbEsyekhPbXRrYzBhRm8zVWc?oc=5",
       "published": "Sun, 29 Mar 2026 07:00:00 GMT",
       "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlVsMnNqN19ONWQtNllqRlIwLVZzak1jbHBtNDFtakJRWUxqSlloNWZLUTN5U2FpcTc0bTdVYXlLeTUtV1J0cHM5YXJ5bTlqVVZ6YW9RbFE2NnRpUHhsQVBBMUtOWGNTTkoyV3Y0WWpjdlFaNDZzX25sQ0k5aHlqTXlMUUlTdDdUa0xuMDR5T3JjWWhvX0NTdU5oV1V1LUJaaDE0SkpJdXh2QUwzaVBSbjJnaFMxSkxWeDhRallxTUZpZmE3ZlE?oc=5",
+      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "summary": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks&nbsp;&nbsp;TradingView"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2962,13 +2962,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "3 Top-Tech Stocks to Buy With $1,000 Right Now - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFpldEVHR3RHSlFGTWg0aWQ0azRXNmZUTGloVERmQ3g1eDc1b2g3ZEdWenJMdS11Q05VU1Z6bmM1WVZSLTJvdlE5WGtjWjNhWHBhVjJTeENkajBXWUZ3ajZHM3hNM0RxSW9VU3BXWmtveEZlNlhEZlJPS3BwbXkwOWE4RXVxSV9RR254Z25rcw?oc=5",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "3 Top-Tech Stocks to Buy With $1,000 Right Now&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
       "published": "Sun, 29 Mar 2026 07:00:00 GMT",
@@ -2980,6 +2973,13 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0FSamJIcUJ3TmloYWI1SmZWb1lFOC1sYXdrSGluR0JEbGF6UjNaQ01HRDBmRTZDakhyeWVQNEFXNTJURm0zNHQ5ZWhVY0JlQ1JHNTQzbjlCVnVJOVZYX0F2WEttSmYzVjd0ZmpIWTJRTmZuOVV6cWk4LTZBVTRRN0hnWHR3YzdpTEt1QkJwSmlLV2NOcXVaUVRGa3BkLTdocENQallWR1MtNlFYU0x6ZklMdGpCek4zRGVua0pIWGpoVzZpSENwTkxBN2lnTEdldTkwZXNBNDU?oc=5",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
       "summary": "3 Cheap Artificial Intelligence Stocks to Buy Right Now&nbsp;&nbsp;The Globe and Mail"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnBfTjB3ZkliTVpmU1hieExoV3J4cjJZeXdMNkNlMFdEcmhHY09QcVRxU05qSVZoTXprZFFsanF6eHhPaEpSVGYwd0Z6ODg4WWhRTThOYXV5eVI4RFJlcGdtTTRXR1lVUVB0eDNIdVMtYjZ0M1VLRTdKYzZiU2N2Uk9US25PVEJ5?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026?&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3074,30 +3074,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "NRG Energy Earnings Preview: What to Expect",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-earnings-preview-expect-124906551.html",
-      "published": "2026-07-20T12:49:06Z",
+      "title": "Stocks Edge Higher as Chipmakers Rebound",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-edge-higher-chipmakers-rebound-141232116.html",
+      "published": "2026-07-20T14:12:32Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Expeditors International's Quarterly Earnings Preview: What You Need to Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expeditors-internationals-quarterly-earnings-preview-124833991.html",
-      "published": "2026-07-20T12:48:33Z",
+      "title": "Newmont Stock Suddenly Offers a Double-Sided Debit Trade on U.S.-Iran Tensions and Upcoming Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-stock-suddenly-offers-double-141253807.html",
+      "published": "2026-07-20T14:12:53Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Investors\u2019 Concerns Hurt Insmed Incorporated (INSM) Despite Better-Than-Expected Results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-concerns-hurt-insmed-incorporated-124829264.html",
-      "published": "2026-07-20T12:48:29Z",
+      "title": "There\u2019s a Trainwreck Happening in Cattle Prices. Here\u2019s What You Need to Watch This Week.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/trainwreck-happening-cattle-prices-watch-140654335.html",
+      "published": "2026-07-20T14:06:54Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What to Expect From Booking Holdings\u2019 Q2 2026 Earnings Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-booking-holdings-q2-2026-123956188.html",
-      "published": "2026-07-20T12:39:56Z",
+      "title": "Here's What to Expect From Corpay's Next Earnings Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-corpays-next-earnings-141445102.html",
+      "published": "2026-07-20T14:14:45Z",
       "summary": ""
     },
     {
@@ -3116,30 +3116,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "GFL Environmental (GFL) Slid Following the Deal Reveal",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gfl-environmental-gfl-slid-following-123612638.html",
-      "published": "2026-07-20T12:36:12Z",
+      "title": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon",
+      "url": "https://finance.yahoo.com/energy/articles/u-gasoline-prices-climb-back-141500772.html",
+      "published": "2026-07-20T14:15:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Amgen Earnings Preview: What to Expect",
-      "url": "https://finance.yahoo.com/healthcare/articles/amgen-earnings-preview-expect-123553239.html",
-      "published": "2026-07-20T12:35:53Z",
+      "title": "Strategy stock rises after the company raises $263 million without selling bitcoin",
+      "url": "https://finance.yahoo.com/markets/stocks/article/strategy-stock-rises-after-the-company-raises-263-million-without-selling-bitcoin-140454002.html",
+      "published": "2026-07-20T14:04:54Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Rallying Again Out of the Weekend",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-rallying-again-weekend-123202706.html",
-      "published": "2026-07-20T12:32:02Z",
+      "title": "Should You Be Bullish on Universal Technical Institute (UTI)?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bullish-universal-technical-institute-uti-141505627.html",
+      "published": "2026-07-20T14:15:05Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wheat Showing Modest Monday Morning Strength",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-showing-modest-monday-morning-123202295.html",
-      "published": "2026-07-20T12:32:02Z",
+      "title": "Google Stock: Alphabet Readies AI Chip With Built-In Gemini Brains",
+      "url": "https://www.investors.com/news/technology/google-stock-ai-chip-frozen-earnings-ironwood/?src=A00220&yptr=yahoo",
+      "published": "2026-07-20T14:03:46Z",
       "summary": ""
     },
     {
