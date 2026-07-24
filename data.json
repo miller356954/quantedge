@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T21:13:06.778613Z",
+  "last_updated": "2026-07-24T22:29:36.054376Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -109,7 +109,7 @@
       "market_cap_fmt": "464.00B",
       "52w_high": 142.35,
       "52w_low": 18.97,
-      "pe_ratio": 52.7926,
+      "pe_ratio": 47.6097,
       "iv": 15.8,
       "beta": 2.187
     },
@@ -415,7 +415,7 @@
       "52w_low": 199.19,
       "pe_ratio": 16.2133,
       "iv": 9.6,
-      "beta": 0.675
+      "beta": null
     },
     "QBTS": {
       "sector": "Quantum Computing",
@@ -528,7 +528,7 @@
     {
       "ticker": "AMD",
       "expiry": "2026-07-24",
-      "call_vol": 180967,
+      "call_vol": 180934,
       "put_vol": 148870,
       "call_oi": 125987,
       "put_oi": 128921,
@@ -588,8 +588,8 @@
     {
       "ticker": "QCOM",
       "expiry": "2026-07-24",
-      "call_vol": 18813,
-      "put_vol": 12313,
+      "call_vol": 18803,
+      "put_vol": 12306,
       "call_oi": 38158,
       "put_oi": 27227,
       "pcr": 0.654,
@@ -658,7 +658,7 @@
     {
       "ticker": "ORCL",
       "expiry": "2026-07-24",
-      "call_vol": 124888,
+      "call_vol": 124886,
       "put_vol": 67866,
       "call_oi": 139092,
       "put_oi": 65064,
@@ -669,7 +669,7 @@
       "ticker": "PLTR",
       "expiry": "2026-07-24",
       "call_vol": 93294,
-      "put_vol": 65672,
+      "put_vol": 65671,
       "call_oi": 195551,
       "put_oi": 123966,
       "pcr": 0.704,
@@ -729,7 +729,7 @@
       "ticker": "IBM",
       "expiry": "2026-07-24",
       "call_vol": 49280,
-      "put_vol": 29029,
+      "put_vol": 29030,
       "call_oi": 98509,
       "put_oi": 47492,
       "pcr": 0.589,
@@ -1925,7 +1925,7 @@
       "ticker": "SMCI",
       "date": "2026-08-11",
       "days_away": 18,
-      "eps_estimate": 0.9022
+      "eps_estimate": 0.9575
     },
     {
       "ticker": "AMAT",
@@ -1973,7 +1973,7 @@
       "ticker": "IBM",
       "date": "2026-10-21",
       "days_away": 89,
-      "eps_estimate": 2.8729
+      "eps_estimate": 2.9036
     },
     {
       "ticker": "INTC",
@@ -3072,10 +3072,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "The U.S. Government Is Investing $2 Billion in the Quantum Computing Space, But Did It Miss the Best Stock to Buy? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnIyNmtELWR4LUZCTVBVN0FNM056Z2ZzaWhFMHFpc3lRbHVJelA3MmV1OFJoZ2tJdDFUdFgwQU1ZRUpwbktEQ1dtNW52bjRQM1U4NFh6SXVETmpGSmdEOERkcWxyb05QTjl3UkRvZHozUU5ONXlsMlhuclNpRXFMdnNoZm5xQmVTOFZzSWhZMC1JNlR6TFFhT1k4VER0ZEZDTXV3?oc=5",
-      "published": "Mon, 25 May 2026 07:00:00 GMT",
-      "summary": "The U.S. Government Is Investing $2 Billion in the Quantum Computing Space, But Did It Miss the Best Stock to Buy?&nbsp;&nbsp;Yahoo Finance"
+      "title": "Should Investors Choose IonQ Over a More Established Quantum Computing Stock? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1Ffa1NwQVQxMjJCWm1HYjNLc09WbHlJMkYxdW9NV2xVakVJS0RkWUNNVUktd3EtNGtybmFZVmt5R3hNc21TcGQ5WTI3UVhZN0VGT041ZThLckRXdl82NklNYjlWN3B6WU1vSEZ1X1F6cFNyR2FMTUZwWndyWm50ZHBWQk9idVN4c1VMNk96Z3hGV19PMWhwMy11azk?oc=5",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "summary": "Should Investors Choose IonQ Over a More Established Quantum Computing Stock?&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Yahoo Finance",
@@ -3086,79 +3086,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Equities surpass real estate as top US wealth driver for first time since WW2, Goldman says",
-      "url": "https://finance.yahoo.com/news/equities-surpass-real-estate-top-134728037.html",
-      "published": "2026-07-23T13:47:28Z",
+      "title": "Key Catalysts Behind Salesforce\u2019s (CRM) Compelling Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/key-catalyst-behind-salesforce-crm-150523248.html",
+      "published": "2026-07-23T15:05:23Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Will Costco (COST) be Able to Continue High Dividend Growth?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-able-continue-high-134259200.html",
-      "published": "2026-07-23T13:42:59Z",
+      "title": "Does Mispricing Offer Opportunity in Mastercard (MA)?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-mispricing-offer-opportunity-mastercard-150317069.html",
+      "published": "2026-07-23T15:03:17Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Nvidia (NVDA) Stock Faces Sell-the-News Risk Following Its Q2 Earnings Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-faces-134729861.html",
-      "published": "2026-07-23T13:47:29Z",
+      "title": "Oklo Joins Trump\u2019s $200M Nuclear Push for AI. Here\u2019s What It Means for OKLO Stock.",
+      "url": "https://finance.yahoo.com/energy/articles/oklo-joins-trump-200m-nuclear-150131038.html",
+      "published": "2026-07-23T15:01:31Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bristol Gate US Equity Strategy: W.R. Berkley (WRB) Offers Ballast to the Portfolio",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-gate-us-equity-strategy-133925592.html",
-      "published": "2026-07-23T13:39:25Z",
+      "title": "Is Visa (V) an Overlooked Opportunity?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-overlooked-opportunity-150156430.html",
+      "published": "2026-07-23T15:01:56Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: ServiceNow Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3664_AnalystReport_1784913967000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-07-24T17:26:07Z",
+      "title": "Outdoor giant now closing 91 stores in Chapter 11 bankruptcy",
+      "url": "https://finance.yahoo.com/small-business/articles/outdoor-giant-now-closing-91-161700671.html",
+      "published": "2026-07-24T16:17:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "American Airlines shares fall despite second-quarter earnings beat on weaker outlook (NASDAQ:AAL)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-shares-fall-despite-134804281.html",
-      "published": "2026-07-23T13:48:04Z",
+      "title": "The Wrong Truck at the Dock Can Create Shipper Liability",
+      "url": "https://finance.yahoo.com/small-business/articles/wrong-truck-dock-create-shipper-151636149.html",
+      "published": "2026-07-23T15:16:36Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Howmet Aerospace (HWM) Positions to Benefit from Prudent Capital Allocation",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-positions-benefit-134120581.html",
-      "published": "2026-07-23T13:41:20Z",
+      "title": "Dollar Rises on Houthi Tanker Attack and Higher Oil Prices",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-houthi-tanker-attack-145421920.html",
+      "published": "2026-07-23T14:54:21Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Generative AI Disruption Fears Hurt Intuit (INTU)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/generative-ai-disruption-fears-hurt-133606749.html",
-      "published": "2026-07-23T13:36:06Z",
+      "title": "Consider This Prudent Approach to International Stocks",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/consider-prudent-approach-international-stocks-152058422.html",
+      "published": "2026-07-23T15:20:58Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here\u2019s the Investment Thesis for Celestica (CLS)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investment-thesis-celestica-cls-133224477.html",
-      "published": "2026-07-23T13:32:24Z",
+      "title": "Jim Cramer Highlights Strong Travel Numbers as Fuel for American Express",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-strong-travel-143749098.html",
+      "published": "2026-07-23T14:37:49Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "US energy shares gain as Houthi tanker attacks push Brent to $100",
-      "url": "https://finance.yahoo.com/energy/articles/us-energy-shares-gain-houthi-133228733.html",
-      "published": "2026-07-23T13:32:28Z",
+      "title": "Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html",
+      "published": "2026-07-23T15:26:54Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: American Express Co",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_2751_AnalystReport_1784913967000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-07-24T17:26:07Z",
+      "title": "Temporary Concerns Present Entry Point in Zoetis (ZTS)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/temporary-concerns-present-entry-point-143424674.html",
+      "published": "2026-07-23T14:34:24Z",
       "summary": ""
     }
   ]
