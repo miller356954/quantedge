@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T20:55:16.316606Z",
+  "last_updated": "2026-07-27T22:11:43.642800Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -141,7 +141,7 @@
       "market_cap_fmt": "635.79B",
       "52w_high": 1999.96,
       "52w_low": 683.48,
-      "pe_ratio": 28.5808,
+      "pe_ratio": 28.5302,
       "iv": 69.5,
       "beta": 1.394
     },
@@ -237,7 +237,7 @@
       "market_cap_fmt": "2.89T",
       "52w_high": 555.45,
       "52w_low": 349.2,
-      "pe_ratio": 20.0847,
+      "pe_ratio": 20.0913,
       "iv": 3.9,
       "beta": 1.13
     },
@@ -253,7 +253,7 @@
       "market_cap_fmt": "3.99T",
       "52w_high": 408.61,
       "52w_low": 187.82,
-      "pe_ratio": 22.1623,
+      "pe_ratio": 22.206,
       "iv": 4.4,
       "beta": 1.247
     },
@@ -3030,6 +3030,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "IBM Jumps 7%; IonQ, Rigetti Sell Off as Quantum Trade Concentrates - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1YtQUdFcERwUDNjaTJLRDgxWGdkdnFiUHVoejVvZDhsTnlTY0kycUw2Q21GbVJFNDhENDRuOWdYTHdYa1pFbzdacFNwTGxCaGlUcElPTkZHSGZWVTcxR09hS0JfM2N6TThZU3ZKa2pIMl9xamNmeE5vWkhKQVlqTWo2aTZ0MFZvbzBSZnJIQ1ZxRzVUenVuTHFvTzhNQ0o4cEt0N3pWQ2FpZ2M?oc=5",
+      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "summary": "IBM Jumps 7%; IonQ, Rigetti Sell Off as Quantum Trade Concentrates&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions - The Quantum Insider",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm9oa3VNV3JUa0M0RHJhczA3UnE5aE9aU3czZG5NRVVxMS1pNm9pV2djUVVpaGRwcTNnWmZhRUE3elVIMDI2ekliVXJEVk1JV1hxemVsM29HOWQ0b2Y5OXhMUWdXR284QzRQQ0NoSVA2OTQ4dkd2MUJuczlJdEdTWWtNNVpSQUNobGc4dks0OXBzaVdnS3JZc3ZxNkpudDBDdl9vdmcwUFpKRHRIU1c1WjJEa2s?oc=5",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -3048,13 +3055,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JGWHl4cHozdW5tcWxYdGNLNnBRUWY4eXowZTlsaDdNVWdmb1lFc2RiMWxhOGIySktLVE1mZ19ubXZwNWNGLXBxUXBoX2V2ZGhZdW9fZ3dEUGZURE1VSWV4UkJEZkNETVFRYUZXSkJZMUJSQkNQcnduTm8weVBVUXZQeExHYjB3MzBMMzZfYnlZRGlXMXByY0NrdjhpU3lEQnJlLTVUX19RSkd2?oc=5",
       "published": "Tue, 26 May 2026 07:00:00 GMT",
       "summary": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed?&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Washington\u2019s Quantum Push Puts IBM and IonQ on the Throne - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3F6RGVONlE2Ny1TQkg1R0VnSVlCeTlxMThKS2dFR0xqWWszcVdFdzQxd082Q25mTVB2eVR2UTFMR29yckxuYk4yYnlFX1dRV2lxVzF1MF9kMkdWUjNIQ0RxWUN5XzhKRjllZEpDUmRQQlMxdi1YV0h4a3Zra3lVTmpabDVVZW1KTHRhMnhlbFFSc2gxTmFHdFMwVTBjQ2FJdndJNE5IcEx4U2pxUDJadV9SODJRNFE1UHc?oc=5",
-      "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "summary": "Washington\u2019s Quantum Push Puts IBM and IonQ on the Throne&nbsp;&nbsp;TradingView"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3079,13 +3079,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
-      "published": "2026-07-26T15:07:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "52-year-old international restaurant chain closing all locations",
       "url": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
       "published": "2026-07-27T14:57:07Z",
@@ -3093,72 +3086,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wall Street Wants Alternatives in 401(k)s. Advisors Aren\u2019t Convinced",
-      "url": "https://finance.yahoo.com/markets/options/articles/wall-street-wants-alternatives-401-120000633.html",
-      "published": "2026-07-26T12:00:00Z",
+      "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
+      "published": "2026-07-26T15:07:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dave Ramsey says this 'really, extremely' stupid purchase is the No. 1 thing new college graduates get wrong",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-really-extremely-120000045.html",
-      "published": "2026-07-26T12:00:00Z",
+      "title": "Intel Corp Shows Strong Q2 Results and Free Cash Flow - Shorting INTC Puts is Still the Best Play",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-shows-strong-q2-133002161.html",
+      "published": "2026-07-26T13:30:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "GE HealthCare Technologies Inc. (GEHC) Beats Q2 Expectations, Reaffirms 2026 Outlook Despite CFO Transition",
-      "url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-technologies-inc-gehc-115820182.html",
-      "published": "2026-07-26T11:58:20Z",
+      "title": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shein-reveals-key-financials-ahead-134128865.html",
+      "published": "2026-07-26T13:41:28Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Kinder Morgan Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3637_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "ICE uses a $125 million Thomson Reuters deal to access your credit card data without a warrant",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ice-uses-125-million-thomson-140000150.html",
+      "published": "2026-07-26T14:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
+      "published": "2026-07-26T14:00:02Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Caterpillar Stock Is Up 100% in a Year. Here's the Data Center Math Behind the Rally.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-stock-100-heres-data-133500632.html",
+      "published": "2026-07-26T13:35:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
+      "url": "https://finance.yahoo.com/technology/ai/articles/major-anthropic-chip-deal-really-130002547.html",
+      "published": "2026-07-26T13:00:02Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 crystal-clear signs you\u2019re (very) well prepared for retirement. Can you finally stop stressing?",
+      "url": "https://finance.yahoo.com/markets/articles/5-crystal-clear-signs-very-125500900.html",
+      "published": "2026-07-26T12:55:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dave Ramsey says you can save money by raising your car insurance deductible. We did the math to see if it works",
+      "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-says-save-money-124500438.html",
+      "published": "2026-07-26T12:45:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Analyst Report: W R Berkley Corp",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_4381_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published": "2026-07-27T17:47:32Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Elon Musk flags that America is \u20181,000% going to go bankrupt\u2019 and \u2018fail as a country\u2019 \u2014 Here\u2019s what he says can save us",
-      "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-flags-america-1-113500554.html",
-      "published": "2026-07-26T11:35:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Farmland real estate values jumped nearly 40% since 2020 \u2014 these 2 publicly traded REITs let everyday investors buy in",
-      "url": "https://finance.yahoo.com/real-estate/articles/farmland-real-estate-values-jumped-113000607.html",
-      "published": "2026-07-26T11:30:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Does Boeing\u2019s (BA) FAA Win Signal the 737 MAX Turnaround Is Finally Underway?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-boeing-ba-faa-win-111941439.html",
-      "published": "2026-07-26T11:19:41Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
-      "url": "https://finance.yahoo.com/markets/article/the-ai-trade-is-still-on-wall-street-sees-big-techs-spending-as-positive-for-semiconductor-stocks-121056519.html",
-      "published": "2026-07-26T12:10:56Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analyst Report: 3M Co",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3200_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "published": "2026-07-27T17:47:32Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kiyosaki says \u2018greatest depression in world history\u2019 is starting \u2014 with boomers facing disaster. Protect your money now",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/kiyosaki-says-greatest-depression-world-121500890.html",
-      "published": "2026-07-26T12:15:00Z",
+      "title": "Elizabeth Warren says House stock trading ban has 'major loopholes' \u2014 48% of Congress still owns individual stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elizabeth-warren-says-house-stock-143000935.html",
+      "published": "2026-07-26T14:30:00Z",
       "summary": ""
     }
   ]
