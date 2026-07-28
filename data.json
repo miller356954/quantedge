@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T21:41:48.006600Z",
+  "last_updated": "2026-07-28T22:43:37.554894Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -237,7 +237,7 @@
       "market_cap_fmt": "2.92T",
       "52w_high": 555.45,
       "52w_low": 349.2,
-      "pe_ratio": 20.2852,
+      "pe_ratio": 20.298,
       "iv": 87.3,
       "beta": 1.13
     },
@@ -719,7 +719,7 @@
       "ticker": "QUBT",
       "expiry": "2026-07-31",
       "call_vol": 3887,
-      "put_vol": 1755,
+      "put_vol": 1757,
       "call_oi": 28237,
       "put_oi": 5929,
       "pcr": 0.452,
@@ -1901,7 +1901,7 @@
       "ticker": "IONQ",
       "date": "2026-08-05",
       "days_away": 8,
-      "eps_estimate": -0.303
+      "eps_estimate": -0.2977
     },
     {
       "ticker": "RGTI",
@@ -2904,10 +2904,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2VRN25rYmNnOHptTXE1c2VUVk9ycjJkZE9VSDVwVnJKSkZwNTNvWVJJUjZ4dF9rWkNpWEdta1VJMjVCalVld2NpYzJLeFItSlBKU2JQRzg4dnVNRFdMLWdYVTlzZnNyTGZFTkhrczNDbmpwcUxMUm5iVFVESHU5YXlwX0ZLdzJoLUt3VGRVd1cyMmxjVldVQXVEWnU1dXJwMEdYZU1nTmZ4aTdXZUxBeWJrMmlBZk9RbHlB?oc=5",
-      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "summary": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD&nbsp;&nbsp;24/7 Wall St."
+      "title": "NVIDIA and TSMC push AI deeper into semiconductor fabs ... - eeNews Europe",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0RVVmRwQVBjbGplU0pGYlBpb3V6MV8xdm1OeHZIcGUwbXhLdVVhRi1OUlYyQWtCZG1Pc3ZqWUx5Rl9xWWUyWlVsX2M0TEZNR2cwdktmN1d0TXJKbllsYWp3d21nLVpMQ3JZUW1GX1d5Ni1GVWJSay0xR1V3a1BSY2RXSENvMGUydHJSSWxkajQ?oc=5",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "NVIDIA and TSMC push AI deeper into semiconductor fabs ...&nbsp;&nbsp;eeNews Europe"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2929,6 +2929,13 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODBJV3VIUzZmclJ3c0FQeHJFcjR4c1BoUlNlek8yWWhCblFmRVo3UDhlY2Fuai1GMHJLWnRMN2U0YVRmZTRFNlhGWVdsS2VTZ2xsYXpha2FJeGREUDJsQ3ZISUNhaTFBT2pjUXJZWW05T2wwdFJqdnBXcExiNTh3VkdtYjg5N0FVRGhpbEsyekhPbXRrYzBhRm8zVWc?oc=5",
       "published": "Sun, 29 Mar 2026 07:00:00 GMT",
       "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTzlTZU9xWklRTzdGQU5GcXBKazlLNjdOYTN6NlZ2VG9VTFdYQVpFR2dQWXE4UHRrV2NIOVVtMUZIZFh0ZDAzeVZoWFhINDNaX3NKSFJ3eU5tMm1Mdmg0aFJJYk5vX1JoNzd3UTl2TlFYMXUyemFFSmNpblUzWDJDVTNjVWZ5QlVnR1dJUDFTelgzclJLdjFycmlMMFFPbEQ0Sk9ua1Y2Y1FETHN1Rk1CR1NmTjBxanVSUkV1b1BtOEFfaVVCbWkwc2w4MVdkYW1fV1lvTkJPRloyeWVfV01ibEsyUFQ4cVZY?oc=5",
+      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "summary": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future?&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2960,13 +2967,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia Will Soon Make More than Apple and Microsoft Combined - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0twUGY3VWhQbUpTRXBRZnhFNXR2c0JzUTVrTEtpWDRpNG9rVXk1cXA4ZWtpci1HWWF1NTh0TDN3cEJPVnZ3MThVamE4V1M3WDBhdU8tWlYtOXNzRzJJQTVVTzlUM2F0ekducnp2MXE5Vk1tMmhmR040Z2NRY19ZSkQxaGFzcjhINlh2aUR0dXFBNWVtbEpJX0I0RjZNb0d4b3l4R0tOVQ?oc=5",
-      "published": "Wed, 13 May 2026 07:00:00 GMT",
-      "summary": "Nvidia Will Soon Make More than Apple and Microsoft Combined&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5",
       "published": "Fri, 16 Jan 2026 08:00:00 GMT",
@@ -2981,17 +2981,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Tech stocks today: Anthropic says Pentagon ban could cost it billions, Meta announces new AI chips - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYW1laDM1NGEtQS1DZlJOWC15QkUzWFgzODFRSWUxekdFRXNUMGZNbVJmdW03ZUE2aWR0OGVCeC11QXkwdm1qQ3l0MzJxM28xOEM0N1pzenEtb28wSVhjYUdqSHVOV3hGcVh5SFpNc3JBMk1DQWRTQWVyTGg3cTFxamNlVkZBNHBrMnNKSk5WZDNzdGw1bG5mRE1POFlKT2s4bUhsOFRMY0RJUUtYWkxneEo5WTFybVNKMm9EVlFHRkVkNTR5SVdvTGRJMmI1SzBMdkt4LXdfRmszU1pZRmIyaw?oc=5",
-      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "summary": "Tech stocks today: Anthropic says Pentagon ban could cost it billions, Meta announces new AI chips&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
       "published": "Sun, 29 Mar 2026 07:00:00 GMT",
       "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Nvidia Stock Investors Just Got Good News From Amazon, Google, Meta Platforms, and Microsoft - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZTTjRuM21WQ0FwbjdmdERDbDl4VkFDbGROU1c5VW5wXy1zYWFNcjNaLU1IZ2Y4cWttT0xmLU9lQy1LVmxDRnJIRmlkbFBVTl9nSkJlLS1JeTU3MlF2b0o3Yks5NXRnRHNKbEhSMnZZVldwY2FXV0F3RUMyU2czNWVJMA?oc=5",
+      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "summary": "Nvidia Stock Investors Just Got Good News From Amazon, Google, Meta Platforms, and Microsoft&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3093,72 +3093,72 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "SiTime Corporation (SITM) Rose on AI Infrastructure Demand and Margin Expansion",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-rose-ai-131730881.html",
-      "published": "2026-07-27T13:17:30Z",
+      "title": "Data Centre Cooling Demand Boosted AAON (AAON)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/data-centre-cooling-demand-boosted-142442906.html",
+      "published": "2026-07-27T14:24:42Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "ConocoPhillips Stock Has Attractive Short-Put Yields for One Month As Oil Price Rise",
-      "url": "https://finance.yahoo.com/markets/options/articles/conocophillips-stock-attractive-short-put-131502973.html",
-      "published": "2026-07-27T13:15:02Z",
+      "title": "Despite Challenges, AST SpaceMobile Stock Could Make a Compelling Options Trade for Contrarians Here",
+      "url": "https://finance.yahoo.com/markets/options/articles/despite-challenges-ast-spacemobile-stock-142525095.html",
+      "published": "2026-07-27T14:25:25Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Modine Manufacturing (MOD) Rose on Strong Data Center Demand and Improved Visibility",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/modine-manufacturing-mod-rose-strong-131421863.html",
-      "published": "2026-07-27T13:14:21Z",
+      "title": "Everus Construction Group (ECG) Strengthens from Long-Term Infrastructure Demand",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/everus-construction-group-ecg-strengthens-142305939.html",
+      "published": "2026-07-27T14:23:05Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "AutoZone Earnings Preview: What to Expect",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/autozone-earnings-preview-expect-131556973.html",
-      "published": "2026-07-27T13:15:56Z",
+      "title": "3 realities from the summer tech stock rout you are probably overlooking",
+      "url": "https://finance.yahoo.com/markets/article/3-realities-from-the-summer-tech-stock-rout-you-are-probably-overlooking-142723054.html",
+      "published": "2026-07-27T14:27:23Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed Chair leads two-day meeting as fear grips markets",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-leads-two-day-191144302.html",
-      "published": "2026-07-28T19:11:44Z",
+      "title": "Toyota doubles down on EVs while rivals retreat",
+      "url": "https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html",
+      "published": "2026-07-28T03:33:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Colliers International Group (CIGI) Lost Appeal Over Strategic Diversification Concerns",
-      "url": "https://finance.yahoo.com/real-estate/articles/colliers-international-group-cigi-lost-131010109.html",
-      "published": "2026-07-27T13:10:10Z",
+      "title": "Jabil's Quarterly Earnings Preview: What You Need to Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jabils-quarterly-earnings-preview-know-141631185.html",
+      "published": "2026-07-27T14:16:31Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fanatics to buy BGC Group assets to launch prediction market exchange",
-      "url": "https://finance.yahoo.com/markets/options/articles/fanatics-buy-bgc-group-assets-130941346.html",
-      "published": "2026-07-27T13:09:41Z",
+      "title": "Procore Technologies (PCOR) Slid Amid AI Disruption Concerns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-pcor-slid-amid-141517010.html",
+      "published": "2026-07-27T14:15:17Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Flex Ltd. (FLEX) Outgrew the Fund\u2019s Small-Cap Mandate on AI Data Center Strength",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/flex-ltd-flex-outgrew-fund-130621301.html",
-      "published": "2026-07-27T13:06:21Z",
+      "title": "JFrog Ltd. (FROG) Overcomes AI Challenges and Gains Momentum",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jfrog-ltd-frog-overcomes-ai-141218122.html",
+      "published": "2026-07-27T14:12:18Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why another shocking Meta capex number may keep the stock underwater",
-      "url": "https://finance.yahoo.com/technology/article/why-another-shocking-meta-capex-number-may-keep-the-stock-underwater-130420154.html",
-      "published": "2026-07-27T13:04:20Z",
+      "title": "Here\u2019s Why Ollie\u2019s Bargain Outlet Holdings (OLLI) Traded Lower in Q2",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ollie-bargain-outlet-holdings-141015086.html",
+      "published": "2026-07-27T14:10:15Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Forget Tesla: These 2 Earnings Reports Reveal Where the Auto Market Is Heading",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-tesla-2-earnings-reports-132000550.html",
-      "published": "2026-07-27T13:20:00Z",
+      "title": "Secretary Bessent cracks down on non-profit tax loopholes",
+      "url": "https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html",
+      "published": "2026-07-28T16:06:00Z",
       "summary": ""
     }
   ]
