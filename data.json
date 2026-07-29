@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T20:37:15.717840Z",
+  "last_updated": "2026-07-29T21:39:49.957028Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -1853,7 +1853,7 @@
       "ticker": "QCOM",
       "date": "2026-07-29",
       "days_away": 0,
-      "eps_estimate": 2.2208
+      "eps_estimate": 2.3765
     },
     {
       "ticker": "LRCX",
@@ -1871,7 +1871,7 @@
       "ticker": "META",
       "date": "2026-07-29",
       "days_away": 0,
-      "eps_estimate": 7.3982
+      "eps_estimate": 7.3637
     },
     {
       "ticker": "AMZN",
@@ -2841,17 +2841,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPckx6Rzh3VGYyZ2N3VlVTWldYQnhaVW1MdEV4eW1aYWUwbW9WdjNRal9zM3NybUpzMXRNZjZuNC1wRWxDV1BCQ1k4M3NaeWtOWU9TcW9ZZHF1bFRPc3ZpelhSWnZVSnF0ekx2WGFiQ1MyeFVzUVVhaWVuZGpPRDNzLUJvN2xtOUUtaElmdlNNVnJnVEJnZXpwWW8xUWk2bTVpMW5kd0xPbW9obU5xemUtQ0VVTVhlNEJhbEFRa1l1SlpYMUVnMHlMbkFnVTZxaGdDM2VlaHM4MXVvT09aX2hCclFsb2RiaHVaSmdCMHpJYjh6S3AtVmZwdGlNSmRlaW5kVUZnX052THV3OE9NM1RFd081RQ?oc=5",
-      "published": "Thu, 23 Jul 2026 15:46:00 GMT",
-      "summary": "The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEtLT0pUSHFicmNvSlZYRUtLLXJob2xXV2VEZndWcEY3TV8tU3ltX08waTg1RDVpeEQ4S3VsRHhGNzZYQWdCT0lkaENNXzN5d0RLX3R2NVRZWm5fc1htZjE2S24xamZiS0FwNXJpdDdhMURoUUFDUWtEeEp3RUZ6ZV9sbEo5dGpWN3ZMZm13Ym9KOFo2VmZ3cUlsUnlWd3F6YVJDNHc5TC00NWlLS2U3a3ZmNXVpVzJXdjAzYy1GR29JUi1Vd1kxLTBsbw?oc=5",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
       "summary": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPckx6Rzh3VGYyZ2N3VlVTWldYQnhaVW1MdEV4eW1aYWUwbW9WdjNRal9zM3NybUpzMXRNZjZuNC1wRWxDV1BCQ1k4M3NaeWtOWU9TcW9ZZHF1bFRPc3ZpelhSWnZVSnF0ekx2WGFiQ1MyeFVzUVVhaWVuZGpPRDNzLUJvN2xtOUUtaElmdlNNVnJnVEJnZXpwWW8xUWk2bTVpMW5kd0xPbW9obU5xemUtQ0VVTVhlNEJhbEFRa1l1SlpYMUVnMHlMbkFnVTZxaGdDM2VlaHM4MXVvT09aX2hCclFsb2RiaHVaSmdCMHpJYjh6S3AtVmZwdGlNSmRlaW5kVUZnX052THV3OE9NM1RFd081RQ?oc=5",
+      "published": "Thu, 23 Jul 2026 15:46:00 GMT",
+      "summary": "The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2883,10 +2883,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong - cnbc.com",
+      "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTXFOajBvclRZZ0Nxem9tYThILUkwVWRHLTRWMTB5aDNySFM3RHlIeUxvdFNUbGtXRnEySUtWQ0M4RmFWR2hLUEFUTjUzaUdNOVlySWFMZHpIUWU1U2ZMdEEtaHJ5WTE5MXgwR19DUFVwREFfSVF4U05TZk5aVmgtanRySW5OMklP0gGOAUFVX3lxTE11Ul9BWEVTUzFWcER2YkE5SUM4Z09ZV2xNRU82Qlh2Y241ZlZrT242R2F5UENuTFBwTXhaeVNzcWxtX0E2VkUyRVMwa2VWU0pnVVZXczhUWk11U2pReVU4XzV5cHRNWU1mY1BhbW5RbEFnZndNR1FCOGlsaUFwSE5MdlBtZXZsRkktaVk0U2c?oc=5",
       "published": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "summary": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong&nbsp;&nbsp;cnbc.com"
+      "summary": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong&nbsp;&nbsp;CNBC"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2918,10 +2918,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia (NASDAQ:NVDA) shares fall following projected $238 billion loss amid scrutiny of AI investment - ts2.tech",
+      "title": "Nvidia (NASDAQ:NVDA) shares fall following projected $238 billion loss amid scrutiny of AI investment - TechStock\u00b2",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFd0UkhjOWRaM2ZETkM5dUhybFJmZ2NzSUozYVo0cFpCamNoUzFxY0NIZlh3XzZfX29EWElmVzZBU2xveFNNd3ZxajdNODd2X0RzZFdSQzZFUERNRzEzeU9mVWl6SUJoenN4M3V0Vy03QU9NbVJqU0pqMGdTNTFYVEJyaTlYN1pwckhvVnRmWDZDREZ2Q1RTdm9zWjlHZmVUeDJVSGVVSHhzdk1WLTVCQ1hLUFd4Ql9reFE?oc=5",
       "published": "Wed, 29 Jul 2026 08:54:12 GMT",
-      "summary": "Nvidia (NASDAQ:NVDA) shares fall following projected $238 billion loss amid scrutiny of AI investment&nbsp;&nbsp;ts2.tech"
+      "summary": "Nvidia (NASDAQ:NVDA) shares fall following projected $238 billion loss amid scrutiny of AI investment&nbsp;&nbsp;TechStock\u00b2"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2995,17 +2995,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Is IonQ Stock a No-Brainer Buy? Here's What History Says. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGZlcXV4VVdjVkZWbEFJQlJ3YnM4M0xlNTZfdW5PZ2tST0ZadW9Oa2RDMy13TjZlQWtnRXpMaTJnMjd3cDRLYWg3Wk9vcXl6OHpQVFBFNzREX05FT0xVR2xHN2tybUFJRjR5bVMyR2RIMEI3ZnJQc3dJZmNMQzNBOGpSNHhVbUFSdVllMWZDTUlnazdhYkJEMUtnVkdjQ01NV3loeUxKUERvZFd5UE1yNzZHYUtyMUp2RUJZdjgyQTd1MmV2dC1ZelhxcHFzd05QekUwNA?oc=5",
-      "published": "Thu, 23 Jul 2026 09:46:00 GMT",
-      "summary": "Is IonQ Stock a No-Brainer Buy? Here's What History Says.&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Should Investors Choose IonQ Over a More Established Quantum Computing Stock? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1Ffa1NwQVQxMjJCWm1HYjNLc09WbHlJMkYxdW9NV2xVakVJS0RkWUNNVUktd3EtNGtybmFZVmt5R3hNc21TcGQ5WTI3UVhZN0VGT041ZThLckRXdl82NklNYjlWN3B6WU1vSEZ1X1F6cFNyR2FMTUZwWndyWm50ZHBWQk9idVN4c1VMNk96Z3hGV19PMWhwMy11azk?oc=5",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "summary": "Should Investors Choose IonQ Over a More Established Quantum Computing Stock?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Is IonQ Stock a No-Brainer Buy? Here's What History Says. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGZlcXV4VVdjVkZWbEFJQlJ3YnM4M0xlNTZfdW5PZ2tST0ZadW9Oa2RDMy13TjZlQWtnRXpMaTJnMjd3cDRLYWg3Wk9vcXl6OHpQVFBFNzREX05FT0xVR2xHN2tybUFJRjR5bVMyR2RIMEI3ZnJQc3dJZmNMQzNBOGpSNHhVbUFSdVllMWZDTUlnazdhYkJEMUtnVkdjQ01NV3loeUxKUERvZFd5UE1yNzZHYUtyMUp2RUJZdjgyQTd1MmV2dC1ZelhxcHFzd05QekUwNA?oc=5",
+      "published": "Thu, 23 Jul 2026 09:46:00 GMT",
+      "summary": "Is IonQ Stock a No-Brainer Buy? Here's What History Says.&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3058,10 +3058,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Watch Why the US Is Investing in Quantum Computing - bloomberg.com",
+      "title": "Watch Why the US Is Investing in Quantum Computing - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeURHbUc4OXdsajNNajRnczNQQVItTU5vY3VWMlU2Q3VDSUFtWW9aa2hkZ3ktTWllTWcyNDBVdUJBZURLTHQ4QmJPeVdXTUkwOExOQi15Wlp1THhtTGZHY2IxRHE1dTNJZHRZbGFzaHpzeHgxTkNweVhxeGhYQ19KMzhZaTAtUmluLXQ1WDVzcElFb29RVHk2ZG9EUnlTM1dU?oc=5",
       "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Watch Why the US Is Investing in Quantum Computing&nbsp;&nbsp;bloomberg.com"
+      "summary": "Watch Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3086,30 +3086,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dave (DAVE) Lost Appeal as Valuation Became Too Expensive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dave-dave-lost-appeal-valuation-121737782.html",
-      "published": "2026-07-28T12:17:37Z",
+      "title": "Core Scientific Partners With Chipmaker AMD On A.I. Data Centre",
+      "url": "https://finance.yahoo.com/technology/ai/articles/core-scientific-partners-chipmaker-amd-132600527.html",
+      "published": "2026-07-28T13:26:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Silver prices today, Tuesday, July 28, 2026: Silver edges lower ahead of today's Fed meeting",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-28-2026-silver-edges-lower-ahead-of-todays-fed-meeting-120508650.html",
-      "published": "2026-07-28T12:05:08Z",
+      "title": "Advanced Micro Devices (AMD) Surged on an Agentic AI-Driven Server CPU Renaissance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-surged-132709500.html",
+      "published": "2026-07-28T13:27:09Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "AT&T Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-stock-outlook-wall-street-120752024.html",
-      "published": "2026-07-28T12:07:52Z",
+      "title": "Applied Materials (AMAT) Rose on AI-Driven Wafer Fabrication Spending",
+      "url": "https://finance.yahoo.com/technology/articles/applied-materials-amat-rose-ai-133054061.html",
+      "published": "2026-07-28T13:30:54Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Centene lifts annual profit forecast on improved cost management",
-      "url": "https://finance.yahoo.com/healthcare/articles/centene-raises-annual-profit-forecast-101126025.html",
-      "published": "2026-07-28T12:20:09Z",
+      "title": "Boeing Q2 revenue tops estimates as jet deliveries climb, cash turns positive",
+      "url": "https://finance.yahoo.com/markets/stocks/article/boeing-q2-revenue-tops-estimates-as-jet-deliveries-climb-cash-turns-positive-120622920.html",
+      "published": "2026-07-28T12:06:22Z",
       "summary": ""
     },
     {
@@ -3128,30 +3128,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "AtriCure, Inc. (ATRC) Beat Earnings Estimates. Here\u2019s What Could Drive ATRC Stock Next",
-      "url": "https://finance.yahoo.com/healthcare/articles/atricure-inc-atrc-beat-earnings-120800905.html",
-      "published": "2026-07-28T12:08:00Z",
+      "title": "Under pressure over China backers, Mercedes CEO pledges to defend US business",
+      "url": "https://finance.yahoo.com/news/under-pressure-over-china-backers-131815159.html",
+      "published": "2026-07-28T13:18:15Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Makes Celsius Holdings (CELH) an Attractive Bet?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-celsius-holdings-celh-attractive-122354305.html",
-      "published": "2026-07-28T12:23:54Z",
+      "title": "Forex Forecasts \u2013 US Dollar Flexes Strength Across EUR/USD, GBP/USD, and USD/CHF",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/forex-forecasts-us-dollar-flexes-131610240.html",
+      "published": "2026-07-28T13:16:10Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Showing Fractional Gains Early Turnaround Tuesday",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-showing-fractional-gains-early-122853575.html",
-      "published": "2026-07-28T12:28:53Z",
+      "title": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-remains-well-131455654.html",
+      "published": "2026-07-28T13:14:55Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Continuing Slide to Tuesday Morning",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-continuing-slide-tuesday-morning-122853725.html",
-      "published": "2026-07-28T12:28:53Z",
+      "title": "Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-rose-131350670.html",
+      "published": "2026-07-28T13:13:50Z",
       "summary": ""
     },
     {
