@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T21:10:39.007975Z",
+  "last_updated": "2026-08-03T22:18:45.576438Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -477,7 +477,7 @@
       "market_cap_fmt": "0",
       "52w_high": 671.83,
       "52w_low": 281.15,
-      "pe_ratio": 35.3112,
+      "pe_ratio": null,
       "iv": 35.7,
       "beta": null
     },
@@ -519,7 +519,7 @@
       "ticker": "NVDA",
       "expiry": "2026-08-03",
       "call_vol": 1764501,
-      "put_vol": 716826,
+      "put_vol": 716827,
       "call_oi": 116688,
       "put_oi": 65419,
       "pcr": 0.406,
@@ -529,7 +529,7 @@
       "ticker": "AMD",
       "expiry": "2026-08-03",
       "call_vol": 167630,
-      "put_vol": 85334,
+      "put_vol": 85335,
       "call_oi": 34198,
       "put_oi": 35436,
       "pcr": 0.509,
@@ -558,17 +558,17 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-07",
-      "call_vol": 4834,
-      "put_vol": 4119,
+      "call_vol": 4983,
+      "put_vol": 4123,
       "call_oi": 7152,
       "put_oi": 7293,
-      "pcr": 0.852,
+      "pcr": 0.827,
       "iv": 67.0
     },
     {
       "ticker": "AVGO",
       "expiry": "2026-08-03",
-      "call_vol": 51270,
+      "call_vol": 51272,
       "put_vol": 31053,
       "call_oi": 7643,
       "put_oi": 10976,
@@ -2833,10 +2833,10 @@
   "news": [
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration - Wccftech",
+      "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration - wccftech.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YQ3hGRHZqVjRTSERCOXI3bW41b2JhRjBWbWo0UTJ5b1ZpVWxlRU1UeWJwbm1JQTVOV1l3M0xWLW5NOHl5eDJiMXlqM3lOeUhPaXhBMGNUT1Z2MWMwUkJwU1lJaGRkdS1HSjhpVk9rbWpsVTVyZ0dr0gF8QVVfeXFMUDFjX0dQQnliYkwyZTBBZXE5NWcxcVhoSEFIRVpod3Q0RFBMZnJ3YnpXdFFvZk5ycWJqTzZWUVQ0TzRXWEs5eWlWNEpnZEh3dEVnUDgxT2hIYW1TTjNXYzU3bVROQ0hRZkFEM2tGU3RmenNkY05VT1NaSFFEQg?oc=5",
       "published": "Mon, 03 Aug 2026 11:57:07 GMT",
-      "summary": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration&nbsp;&nbsp;Wccftech"
+      "summary": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration&nbsp;&nbsp;wccftech.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2847,10 +2847,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - techinsights.com",
+      "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
       "published": "Mon, 27 Jul 2026 18:35:37 GMT",
-      "summary": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors&nbsp;&nbsp;techinsights.com"
+      "summary": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors&nbsp;&nbsp;TechInsights"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2889,10 +2889,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company\u2019s wafer business \u2014 Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs - tomshardware.com",
+      "title": "TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company\u2019s wafer business \u2014 Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUzZfVU5UYUJlN25scnJhdjh0MHRrUTVJOTd1WmwzeVZzaDFfTURKeTVldElwN2h1ZU5PMW9mckdDeWY3R1hQSUtPMkRYOEVPQ2NDZzdjYjBQakdCU2VtM2pKLUNwcGRnVmR6dXpCeGxEdV9LTVRoNUE1ck1lbUV2blhKMUVhZTAwRTdaVE5XMXJBR3F5NEdsSFU0cWtKbzh4T1BOT2tvV1VxMTVneXR3azd5UGFQVzJ3RlZxcHhxQ0NvNnl4Z1cxY1pZYnFJdkZjaTM4cTZ5WVhfUmh2a3E2TmlLX1h2Vi1pX1Z6MEE3dHF1Tk9ZdVR4Q1BKRnlWZk1YN0JYSVdfd1YySk1NdS1hV0djRF92Uk9QXzRxRlNrSEFURjVlLWozRm5vSy1SSmF4NlpRNy1jcFFzWG9rQ2V2UzQ0VHFXSGZObEJuckN3c2xLSTNrR1hZ?oc=5",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company\u2019s wafer business \u2014 Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs&nbsp;&nbsp;tomshardware.com"
+      "summary": "TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company\u2019s wafer business \u2014 Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs&nbsp;&nbsp;Tom's Hardware"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2959,13 +2959,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026 - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDN0X3hVSm1Ba1h2aEZLVkF4d0lFOHk2WmtacDk1dTBPam9kYU1qaV9FYmxaaVFRdWxzU1B5akFjcWw0LVlUTVVCd2cxbWJjN24tT0JSZVhpN0lmU0VUZld4WlRxR1ROaDNscVhwVGFoNTFneDRSSkNGTGVSYlMyRWJWQ3pyX25JeWpDY1VsR1YtUQ?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026&nbsp;&nbsp;Zacks Investment Research"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "AI Stocks At A Crossroads: Google Rises, TSMC Sparks Rally, Software Retreats - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5",
       "published": "Fri, 16 Jan 2026 08:00:00 GMT",
@@ -2973,10 +2966,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - investopedia.com",
+      "title": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble? - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNwc3BSMVhsM2Jxc3JmRjFmT0tLTTVEbUdtSVRZTGRSUThJNzJpU2VIRnBMaUFJbVY2SmJhNHdsTUx3NW9uOTF4VkUtWk0zVWdrYk1abUZ4TTQtdnpsN1NSLVlqcUpiMzhEUF9fQ3c1Tzg5U1o5VzlnN0tIbGh6dW12M19Sdw?oc=5",
       "published": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;investopedia.com"
+      "summary": "Nvidia and Microsoft Just Teamed Up For a Massive AI Deal. Is It The Latest Sign of an AI Bubble?&nbsp;&nbsp;Investopedia"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026 - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDN0X3hVSm1Ba1h2aEZLVkF4d0lFOHk2WmtacDk1dTBPam9kYU1qaV9FYmxaaVFRdWxzU1B5akFjcWw0LVlUTVVCd2cxbWJjN24tT0JSZVhpN0lmU0VUZld4WlRxR1ROaDNscVhwVGFoNTFneDRSSkNGTGVSYlMyRWJWQ3pyX25JeWpDY1VsR1YtUQ?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026&nbsp;&nbsp;Zacks Investment Research"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3029,10 +3029,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "5 Best Quantum Computing ETFs for 2026 - US News Money",
+      "title": "5 Best Quantum Computing ETFs for 2026 - U.S. News - Money",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5",
       "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "summary": "5 Best Quantum Computing ETFs for 2026&nbsp;&nbsp;US News Money"
+      "summary": "5 Best Quantum Computing ETFs for 2026&nbsp;&nbsp;U.S. News - Money"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3043,10 +3043,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions - The Quantum Insider",
+      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions - thequantuminsider.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm9oa3VNV3JUa0M0RHJhczA3UnE5aE9aU3czZG5NRVVxMS1pNm9pV2djUVVpaGRwcTNnWmZhRUE3elVIMDI2ekliVXJEVk1JV1hxemVsM29HOWQ0b2Y5OXhMUWdXR284QzRQQ0NoSVA2OTQ4dkd2MUJuczlJdEdTWWtNNVpSQUNobGc4dks0OXBzaVdnS3JZc3ZxNkpudDBDdl9vdmcwUFpKRHRIU1c1WjJEa2s?oc=5",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions&nbsp;&nbsp;The Quantum Insider"
+      "summary": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions&nbsp;&nbsp;thequantuminsider.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3099,72 +3099,72 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Xi Jinping warns world is \u2018crumbling into disarray\u2019 as 'dangerous' U.S. blockade hits markets. Protect your nest egg now",
-      "url": "https://finance.yahoo.com/economy/articles/xi-jinping-warns-world-crumbling-121000621.html",
-      "published": "2026-08-02T12:10:00Z",
+      "title": "Stock Market Week Ahead: Citadel, SpaceX, Palantir And This Key Market Signal",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-citadel-spacex-palantir-and-a-possible-follow-through-day/?src=A00220&yptr=yahoo",
+      "published": "2026-08-02T13:33:18Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "The tech stock dumpster fire should remind you of this important investing lesson",
-      "url": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html",
-      "published": "2026-08-02T12:30:00Z",
+      "title": "Ramit Sethi helps newlyweds tackle $165,000 in debt \u2014 including the $30,000 he hid before their wedding",
+      "url": "https://finance.yahoo.com/small-business/articles/ramit-sethi-helps-newlyweds-tackle-133000103.html",
+      "published": "2026-08-02T13:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "55% of Americans say their finances are getting worse \u2014 here's how to budget when your income changes every month",
-      "url": "https://finance.yahoo.com/markets/articles/55-americans-finances-getting-worse-123000953.html",
-      "published": "2026-08-02T12:30:00Z",
+      "title": "After a More Than 20% Sell-Off on Earnings, Corning Stock Is Still a \u2018Buy\u2019 for the AI Infrastructure Trade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/more-20-sell-off-earnings-133002721.html",
+      "published": "2026-08-02T13:30:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "South Dakota couple built a 3,600 sq. ft. home for $410,000 \u2014 but 3 advantages helped make it possible",
-      "url": "https://finance.yahoo.com/real-estate/articles/south-dakota-couple-built-3-123000126.html",
-      "published": "2026-08-02T12:30:00Z",
+      "title": "Why Steel Stocks Are the Perfect Blend Between a Hot AI Trade and a Crash-Proof Portfolio",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/why-steel-stocks-perfect-blend-140002138.html",
+      "published": "2026-08-02T14:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "IonQ vs. Alphabet:  What Revenue Trends Reveal About the Quantum Computing Chipmaker and the Artificial Intelligence Giant",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-vs-alphabet-revenue-trends-122501708.html",
-      "published": "2026-08-02T12:25:01Z",
+      "title": "Your 12-Months-Till-Retirement Countdown: 5 Crucial Moves to Make.",
+      "url": "https://finance.yahoo.com/markets/articles/12-months-till-retirement-countdown-133800583.html",
+      "published": "2026-08-02T13:38:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Leopold Aschenbrenner just learned Wall Street's oldest lesson: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/leopold-aschenbrenner-just-learned-wall-streets-oldest-lesson-chart-of-the-day-120146045.html",
-      "published": "2026-08-02T12:01:46Z",
+      "title": "Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-debt-nearly-doubled-129-140000968.html",
+      "published": "2026-08-02T14:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer says Wall Street is 'fleeing' AI stocks after a 7% drop \u2014 and buying Salesforce, Walmart instead",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wall-street-120000352.html",
-      "published": "2026-08-02T12:00:00Z",
+      "title": "Carmelo Anthony breaks down how a $100M contract shrinks to under $50M \u2014 and where the rest goes",
+      "url": "https://finance.yahoo.com/small-business/articles/carmelo-anthony-breaks-down-100m-140000809.html",
+      "published": "2026-08-02T14:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Has Index Investing Gone Too Far?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/index-investing-gone-too-far-120000039.html",
-      "published": "2026-08-02T12:00:00Z",
+      "title": "Wedbush Flags Near-Term Risks From Nvidia\u2019s Alleged OpenAI Data Center Support",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wedbush-flags-near-term-risks-130002595.html",
+      "published": "2026-08-02T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "3 brilliant quotes on the challenge of valuing companies",
-      "url": "https://finance.yahoo.com/economy/article/3-brilliant-quotes-on-the-challenge-of-valuing-companies-123224694.html",
-      "published": "2026-08-02T12:32:24Z",
+      "title": "Apple Delivers Strong Free Cash Flow, But What is the Best AAPL Play?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-delivers-strong-free-cash-130002188.html",
+      "published": "2026-08-02T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jensen Huang Says the Chip Industry's Usual Boom-Bust Cycle Won't Hit for a While, a Bullish Signal for AI Stocks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-chip-industrys-122300506.html",
-      "published": "2026-08-02T12:23:00Z",
+      "title": "Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-meta-platforms-better-134300858.html",
+      "published": "2026-08-02T13:43:00Z",
       "summary": ""
     }
   ]
