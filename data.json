@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T20:38:18.877484Z",
+  "last_updated": "2026-08-04T21:57:37.219443Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -189,7 +189,7 @@
       "market_cap_fmt": "170.80B",
       "52w_high": 259.92,
       "52w_low": 121.99,
-      "pe_ratio": 15.7992,
+      "pe_ratio": 15.7979,
       "iv": 63.2,
       "beta": 1.663
     },
@@ -285,7 +285,7 @@
       "market_cap_fmt": "2.99T",
       "52w_high": 287.2,
       "52w_low": 196.0,
-      "pe_ratio": 26.8585,
+      "pe_ratio": 26.8885,
       "iv": 31.7,
       "beta": 1.454
     },
@@ -317,7 +317,7 @@
       "market_cap_fmt": "389.95B",
       "52w_high": 207.52,
       "52w_low": 106.37,
-      "pe_ratio": 75.1018,
+      "pe_ratio": 74.2974,
       "iv": 65.5,
       "beta": null
     },
@@ -365,7 +365,7 @@
       "market_cap_fmt": "15.57B",
       "52w_high": 84.64,
       "52w_low": 25.89,
-      "pe_ratio": -37.0601,
+      "pe_ratio": -37.1601,
       "iv": 145.6,
       "beta": 3.301
     },
@@ -477,7 +477,7 @@
       "market_cap_fmt": "0",
       "52w_high": 671.83,
       "52w_low": 281.15,
-      "pe_ratio": 37.2695,
+      "pe_ratio": null,
       "iv": 54.1,
       "beta": null
     },
@@ -529,7 +529,7 @@
       "ticker": "AMD",
       "expiry": "2026-08-05",
       "call_vol": 166180,
-      "put_vol": 93410,
+      "put_vol": 93411,
       "call_oi": 34146,
       "put_oi": 24452,
       "pcr": 0.562,
@@ -538,7 +538,7 @@
     {
       "ticker": "INTC",
       "expiry": "2026-08-05",
-      "call_vol": 244293,
+      "call_vol": 244315,
       "put_vol": 95472,
       "call_oi": 58429,
       "put_oi": 23753,
@@ -558,11 +558,11 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-07",
-      "call_vol": 2438,
-      "put_vol": 5427,
+      "call_vol": 2587,
+      "put_vol": 5431,
       "call_oi": 8044,
       "put_oi": 9233,
-      "pcr": 2.226,
+      "pcr": 2.099,
       "iv": 65.5
     },
     {
@@ -578,8 +578,8 @@
     {
       "ticker": "MU",
       "expiry": "2026-08-05",
-      "call_vol": 174081,
-      "put_vol": 107768,
+      "call_vol": 174082,
+      "put_vol": 107797,
       "call_oi": 34190,
       "put_oi": 44236,
       "pcr": 0.619,
@@ -2854,10 +2854,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance - Benzinga",
+      "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance - benzinga.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMHJkTEQ3aXZ1ajg4Ri1iYTZidmFnZlpsZFp5ckJ4S0FOUFN6MFFJM0NqcFhYd09DajNlN1oyNnd5QnNLbTdwT3UyT1pEbHRCV3Z3WVBiVV9maXBVU19zZ1BqYjlrckhXemR2Yl94N3R0N2NOalJOaU81Vng2WmZVNXM4ZFZBY1NpUEkxSlJMaWNfeDJFQk1IdDlFT3FRNXZhTEZVVjVqZkYyeV84ZWRzUTNpSTFyNjBUMEpFVVJPYU9vMHpsbkZEb25MT1FPUzFRbVN6OWI3dTA?oc=5",
       "published": "Fri, 31 Jul 2026 08:54:58 GMT",
-      "summary": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance&nbsp;&nbsp;Benzinga"
+      "summary": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance&nbsp;&nbsp;benzinga.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2910,10 +2910,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "NVIDIA AI is Accelerating TSMC's Semiconductor Manufacturing - Manufacturing Digital",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1BlYU9ubkE4VWVYX0tKdXNEUjFGX21oRmc0VnoweXZQRG1CcVJYTzgyRnNManZBUTQwb2ZQRHdyQTdfU08zZUdkUFh6Mk8tejQyeEllb3NJdjdGTUppODB0cXdvdi0xWmxTUlVQX2t1WHpXWi10MVNpcExQUFR2aWt6cFFocGlOSFM1cV9pQkNCYkt2V1ByTkh6WktYUQ?oc=5",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "summary": "NVIDIA AI is Accelerating TSMC's Semiconductor Manufacturing&nbsp;&nbsp;Manufacturing Digital"
+      "title": "TSMC Just Announced Incredible News for Nvidia and Broadcom Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE9VR3pmY01OVjZXTjd4SUpPNjJCOTBBMHFoNThYa0kybjNfNTNzb3Y5ZlpZWjB3RU84eDkzak1kb3ZpS2NwRXZrM1B2RWEtQjdwWHhrTHluSExBbzVNdTVoWUVrNnZwclczczlXY1ZaOV9NbS1ZYWY0Ui1DSzNCYXRNV2hxMlJCV05MQ1ln?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "summary": "TSMC Just Announced Incredible News for Nvidia and Broadcom Investors&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2973,6 +2973,13 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026 - zacks.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDN0X3hVSm1Ba1h2aEZLVkF4d0lFOHk2WmtacDk1dTBPam9kYU1qaV9FYmxaaVFRdWxzU1B5akFjcWw0LVlUTVVCd2cxbWJjN24tT0JSZVhpN0lmU0VUZld4WlRxR1ROaDNscVhwVGFoNTFneDRSSkNGTGVSYlMyRWJWQ3pyX25JeWpDY1VsR1YtUQ?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026&nbsp;&nbsp;zacks.com"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
       "published": "Wed, 08 Jul 2026 07:00:00 GMT",
@@ -2980,10 +2987,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTzlTZU9xWklRTzdGQU5GcXBKazlLNjdOYTN6NlZ2VG9VTFdYQVpFR2dQWXE4UHRrV2NIOVVtMUZIZFh0ZDAzeVZoWFhINDNaX3NKSFJ3eU5tMm1Mdmg0aFJJYk5vX1JoNzd3UTl2TlFYMXUyemFFSmNpblUzWDJDVTNjVWZ5QlVnR1dJUDFTelgzclJLdjFycmlMMFFPbEQ0Sk9ua1Y2Y1FETHN1Rk1CR1NmTjBxanVSUkV1b1BtOEFfaVVCbWkwc2w4MVdkYW1fV1lvTkJPRloyeWVfV01ibEsyUFQ4cVZY?oc=5",
-      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "summary": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future?&nbsp;&nbsp;24/7 Wall St."
+      "title": "Goldman Sachs Warns on AI\u2019s Debt Tsunami \u2014 Is This the End of the AI Boom? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3ZCa2JHdW82UjcxTVlkSGx1OGcxVmRUd3JtV0RZaWEwVlUxNWZJbkdOMWJfeW1LcEFYZlhlcmFkN1JQQmdTU2ZKdUstaUhjMXNsNDNaOWd4U1g1ZDlkX1lmRUY3bTgyVnYzNzVmQU1pQzNCM3AtalBWWUtUR2ZmM1p6MUZCT3JSdVlHOXF5SU0tOUdhM3pQeUVib2hPTUk?oc=5",
+      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "summary": "Goldman Sachs Warns on AI\u2019s Debt Tsunami \u2014 Is This the End of the AI Boom?&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2991,13 +2998,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc21aYWMzNk5LazFtQ1I3TTFFd2JNNjdsYVZHT2ljTTRIclJvVEhuTWw3TEtPNUlIRllFSExfc1BKWGM4MWtxWmZSZ09ldkdHUlgyV1hUUDRsMVU2QjZxNTdNUFY5VFpLSXpIMXZRWjFfaUVLOWxoejRwUTh3SlhiWnZEdmc1dEtmX2RhYmt3VDNONmlqeTAzNVBINThMdG5pb25fM2xWcmVtenpTbHZ4YkVHRlQtemdnZXBua0w3VDRnUFplOVNMYTkxRVJWVjdTOF8tVlBCRUNzNlo3Q3ZnblE2UTU4bm9sR2RxeWlzVExhUGM?oc=5",
       "published": "Tue, 23 Jun 2026 07:00:00 GMT",
       "summary": "3 Screaming Buy Artificial Intelligence (AI) Stocks Set for a Massive Summer Rebound&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3029,10 +3029,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "5 Best Quantum Computing ETFs for 2026 - money.usnews.com",
+      "title": "5 Best Quantum Computing ETFs for 2026 - U.S. News - Money",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5",
       "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "summary": "5 Best Quantum Computing ETFs for 2026&nbsp;&nbsp;money.usnews.com"
+      "summary": "5 Best Quantum Computing ETFs for 2026&nbsp;&nbsp;U.S. News - Money"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3050,10 +3050,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions - The Quantum Insider",
+      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions - thequantuminsider.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm9oa3VNV3JUa0M0RHJhczA3UnE5aE9aU3czZG5NRVVxMS1pNm9pV2djUVVpaGRwcTNnWmZhRUE3elVIMDI2ekliVXJEVk1JV1hxemVsM29HOWQ0b2Y5OXhMUWdXR284QzRQQ0NoSVA2OTQ4dkd2MUJuczlJdEdTWWtNNVpSQUNobGc4dks0OXBzaVdnS3JZc3ZxNkpudDBDdl9vdmcwUFpKRHRIU1c1WjJEa2s?oc=5",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions&nbsp;&nbsp;The Quantum Insider"
+      "summary": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions&nbsp;&nbsp;thequantuminsider.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3092,79 +3092,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trump brothers-backed American Bitcoin swings to second-quarter loss",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-brothers-backed-american-bitcoin-114602551.html",
-      "published": "2026-08-03T11:46:02Z",
+      "title": "A $65,000 401(k) projects just $4,300 in annual retirement income \u2014 here's why that number is wildly misleading",
+      "url": "https://finance.yahoo.com/markets/options/articles/65-000-401-k-projects-133000640.html",
+      "published": "2026-08-03T13:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rivals\u2019 Loss Signals Netflix\u2019s (NFLX) Strong Moat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rivals-loss-signals-netflix-nflx-114440212.html",
-      "published": "2026-08-03T11:44:40Z",
+      "title": "Indian Oil Subsidiary CPCL Plans 280,000 Bpd Manali Refinery",
+      "url": "https://finance.yahoo.com/energy/articles/indian-oil-subsidiary-cpcl-plans-133000950.html",
+      "published": "2026-08-03T13:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Yum! Brands (YUM): Rapid Global Expansion Drives Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-yum-rapid-global-115035059.html",
-      "published": "2026-08-03T11:50:35Z",
+      "title": "Here\u2019s Why Market Mispriced Bel Fuse (BELFB)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-mispriced-bel-fuse-133205657.html",
+      "published": "2026-08-03T13:32:05Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "My mom is convinced she can\u2019t afford to retire \u2014 but I ran the numbers and realized she's better off than she thinks",
-      "url": "https://finance.yahoo.com/small-business/articles/mom-convinced-she-t-afford-114500310.html",
-      "published": "2026-08-03T11:45:00Z",
+      "title": "APi Group Corporation (APG): Powering Infrastructure with Precision",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/api-group-corporation-apg-powering-131801377.html",
+      "published": "2026-08-03T13:18:01Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Which Is the Better State Street Healthcare ETF: The Broad XLV or the Biotech XBI?",
-      "url": "https://finance.yahoo.com/healthcare/articles/better-state-street-healthcare-etf-114523520.html",
-      "published": "2026-08-03T11:45:23Z",
+      "title": "Company Insider Sells $560,000 of Financial Stock in Tax-Driven Transaction, According to Latest SEC Filing",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-insider-sells-560-000-133001408.html",
+      "published": "2026-08-03T13:30:01Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Exploring Unmatched Scale of GE Vernova (GEV)",
-      "url": "https://finance.yahoo.com/energy/articles/exploring-unmatched-scale-ge-vernova-115925359.html",
-      "published": "2026-08-03T11:59:25Z",
+      "title": "Chevron Stock Moves Higher on Strong Results -Shorting CVX Puts and Calls Works Here",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-moves-higher-strong-131501317.html",
+      "published": "2026-08-03T13:15:01Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like EOG Resources Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-eog-resources-114742238.html",
-      "published": "2026-08-03T11:47:42Z",
+      "title": "Is Limbach Holdings (LMB) a Hidden Gem in Industrial Services?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/limbach-holdings-lmb-hidden-gem-133357591.html",
+      "published": "2026-08-03T13:33:57Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM):  An Unmatched Technological Lead in Semiconductors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-115224595.html",
-      "published": "2026-08-03T11:52:24Z",
+      "title": "Bitcoin and ethereum prices today, Monday, August 3, 2026: Prices pulling back this morning despite de-escalation with Iran",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-3-2026-prices-pulling-back-this-morning-despite-de-escalation-with-iran-131220661.html",
+      "published": "2026-08-03T13:12:20Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "The TJX Companies (TJX) Positioned to Benefit from Retail Experience E-Commerce Can\u2019t Match",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-positioned-benefit-114727568.html",
-      "published": "2026-08-03T11:47:27Z",
+      "title": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
+      "url": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo",
+      "published": "2026-08-03T13:10:35Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Huntington Bancshares Inc/OH",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_4046_AnalystReport_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Nasdaq Inc",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3821_AnalystReport_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published": "2026-08-04T18:29:46Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "KKR to take Integer private for $5.7B",
-      "url": "https://finance.yahoo.com/healthcare/articles/kkr-integer-private-5-7b-114241847.html",
-      "published": "2026-08-03T11:42:41Z",
+      "title": "USD/JPY, USD/CAD and USD/CHF Forecasts \u2013 Joint Intervention Tests 155 Support in USD/JPY",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/usd-jpy-usd-cad-usd-133507895.html",
+      "published": "2026-08-03T13:35:07Z",
       "summary": ""
     }
   ]
