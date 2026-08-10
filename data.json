@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T21:20:42.312957Z",
+  "last_updated": "2026-08-10T22:08:20.119673Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -173,7 +173,7 @@
       "market_cap_fmt": "972.41B",
       "52w_high": 1255.0,
       "52w_low": 113.46,
-      "pe_ratio": 5.5526,
+      "pe_ratio": 5.5588,
       "iv": 19.4,
       "beta": 2.213
     },
@@ -558,11 +558,11 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-14",
-      "call_vol": 2814,
-      "put_vol": 5639,
+      "call_vol": 2817,
+      "put_vol": 5641,
       "call_oi": 5659,
       "put_oi": 6200,
-      "pcr": 2.004,
+      "pcr": 2.002,
       "iv": 52.4
     },
     {
@@ -2848,17 +2848,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing - fool.com",
+      "title": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcEM2MU1UdmdPTkMwenNRWG01YWp4c3VheEtySUtsS3ZCd1JoZWlBcWdjMFdGRzJNX0wwaVRKX2Y2QTNodk02RzQzaXB0UlZyVlhkcHJsek9rS2ZFcnJWMDZMOW0xRVBQNlY2RTQxOTR1U0VnR2hRR1dCSGJOWHZqZTREb0E3MEVaN1E?oc=5",
       "published": "Tue, 04 Aug 2026 10:45:00 GMT",
-      "summary": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing&nbsp;&nbsp;fool.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC vs. Nvidia: Which AI Stock is a Better Investment? - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXJCVjIyVV9HeUpVSVJzUHFDNFJ6Z0hGNlZHb0RCeV9ZYmZ4cUlpSnlrc2paYVlfam1VdEFyRkpzNlA0eWJjdzVXS1drUFFfbVZoQjI1WlNFNFpjalBOVEZkc1FVZTJ1TEo4OTRJdzdYZXJ5WG5Pb1VWX1JmVHFvem44bnJwWnN0SEU4VXNjM2M1RU5CcHQtOVVfSDBxdm5fQnZFYm9fVEdZdmh0VFV1aHBqaVBkR1FqVzVONzJQZHFwdw?oc=5",
-      "published": "Sun, 09 Aug 2026 13:28:29 GMT",
-      "summary": "TSMC vs. Nvidia: Which AI Stock is a Better Investment?&nbsp;&nbsp;TradingKey"
+      "summary": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2869,17 +2862,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YQ3hGRHZqVjRTSERCOXI3bW41b2JhRjBWbWo0UTJ5b1ZpVWxlRU1UeWJwbm1JQTVOV1l3M0xWLW5NOHl5eDJiMXlqM3lOeUhPaXhBMGNUT1Z2MWMwUkJwU1lJaGRkdS1HSjhpVk9rbWpsVTVyZ0dr0gF8QVVfeXFMUDFjX0dQQnliYkwyZTBBZXE5NWcxcVhoSEFIRVpod3Q0RFBMZnJ3YnpXdFFvZk5ycWJqTzZWUVQ0TzRXWEs5eWlWNEpnZEh3dEVnUDgxT2hIYW1TTjNXYzU3bVROQ0hRZkFEM2tGU3RmenNkY05VT1NaSFFEQg?oc=5",
+      "published": "Mon, 03 Aug 2026 11:57:07 GMT",
+      "summary": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration&nbsp;&nbsp;Wccftech"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNME1FREJyaDFUcTZVNEo4R0lwUTlDMWpPYTByVFF2NkdnSHFQbm9FUEt6cjFRM01FdEFQNHh0VUNpbGRtaHBmcmVvR3hHdXpwZ3FWdWt6M3gzNU9waktMdjZFaFdMUVotb21TREhnYmttNVluNTRHcGhyNGd4UVdMOVpHR19UR1Y0dXB1SEN4T003b0RhdFkxeUVVNFBVRVBvUlh4aXNMd1lubjA5eDZMREhjTVBWRml5RmpJbzRjSWhwRFBNRVNtbUVWU216Um5CelhuaklTcmlUSUsxUDVuN2ZyX2ZCTXJ0SXctRWVZVmQ3ZldiNFZLQnY2WDh2aE83amNZMW1aV1RoZ2xWT3FCYUZoN1ppSFZXZUpxY1J6STlwS19XeU1vdlFqZw?oc=5",
       "published": "Tue, 04 Aug 2026 10:05:00 GMT",
       "summary": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration - wccftech.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YQ3hGRHZqVjRTSERCOXI3bW41b2JhRjBWbWo0UTJ5b1ZpVWxlRU1UeWJwbm1JQTVOV1l3M0xWLW5NOHl5eDJiMXlqM3lOeUhPaXhBMGNUT1Z2MWMwUkJwU1lJaGRkdS1HSjhpVk9rbWpsVTVyZ0dr0gF8QVVfeXFMUDFjX0dQQnliYkwyZTBBZXE5NWcxcVhoSEFIRVpod3Q0RFBMZnJ3YnpXdFFvZk5ycWJqTzZWUVQ0TzRXWEs5eWlWNEpnZEh3dEVnUDgxT2hIYW1TTjNXYzU3bVROQ0hRZkFEM2tGU3RmenNkY05VT1NaSFFEQg?oc=5",
-      "published": "Mon, 03 Aug 2026 11:57:07 GMT",
-      "summary": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration&nbsp;&nbsp;wccftech.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2890,17 +2883,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand - finance.yahoo.com",
+      "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEtLT0pUSHFicmNvSlZYRUtLLXJob2xXV2VEZndWcEY3TV8tU3ltX08waTg1RDVpeEQ4S3VsRHhGNzZYQWdCT0lkaENNXzN5d0RLX3R2NVRZWm5fc1htZjE2S24xamZiS0FwNXJpdDdhMURoUUFDUWtEeEp3RUZ6ZV9sbEo5dGpWN3ZMZm13Ym9KOFo2VmZ3cUlsUnlWd3F6YVJDNHc5TC00NWlLS2U3a3ZmNXVpVzJXdjAzYy1GR29JUi1Vd1kxLTBsbw?oc=5",
       "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "summary": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand&nbsp;&nbsp;finance.yahoo.com"
+      "summary": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC - globaltaiwan.org",
+      "title": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC - Global Taiwan Institute",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnV0dmhoTGNXRWVQVlh4bWR0ZXExOXlTNEN5VS1BQWgxaUNPU0p1bDlOMjNtLVhwS3VlbGFCUDUyZm1iRnNVcjRsdkhPNU5ycjlWRnVnNTdMRFF1SXcwUWZkcFI5TXdhQ1JYNXNyQXpvVG9VSHhieWJJNG4xTEZQUVVncGg?oc=5",
       "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC&nbsp;&nbsp;globaltaiwan.org"
+      "summary": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC&nbsp;&nbsp;Global Taiwan Institute"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2910,11 +2903,18 @@
       "summary": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance&nbsp;&nbsp;Benzinga"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC, SK Hynix, NVIDIA: Only 1 Chip Stock is a Screaming Buy Amid the Semi Meltdown - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmp3TlplTFlObkdRa1p1Q3YteS14aUZFSFFZOGZSbGRqVElaMDZXcWN0VDVVak9vTXFrQllYaWU0UVltLXNYRDktUW1lM2d5MVZtcTZLOE9LSmVINHJHRmtKR0NHWUR5RjVYdFVBcDFSRnlaUllOT2lyazlDVmJGWDZqT3pzNGpjZGlnbzdTLXVQaE5CWHBsUVJ6ZG1TckwzV25MaVZvUVh5eno1NENxS1VnQ29veEY4eEFfR3dPWkdTdw?oc=5",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "summary": "TSMC, SK Hynix, NVIDIA: Only 1 Chip Stock is a Screaming Buy Amid the Semi Meltdown&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year - fool.com",
+      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkpGNjhZZ0dpZ1lBTC1VeGdRTUF4WVJWZ3prNGtzbkFjNjVockpQRi1PR0hZLUZtTU94aE9vNk14LTI3R1lFa1VFeUdaSXpNVVZZOTM3a3VBZVUySmJxUXg4Tk14ZmNERmVybnZvLUEwd2kyV3lFNW00dHBPc1FFbGw3VEdwUEVENGdhNkx4RUpYWW1aeWhGNg?oc=5",
       "published": "Fri, 07 Aug 2026 05:00:00 GMT",
-      "summary": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year&nbsp;&nbsp;fool.com"
+      "summary": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2932,10 +2932,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - fool.com",
+      "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
       "published": "Wed, 05 Aug 2026 21:45:00 GMT",
-      "summary": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest&nbsp;&nbsp;fool.com"
+      "summary": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2953,10 +2953,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - finance.yahoo.com",
+      "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;finance.yahoo.com"
+      "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2988,10 +2988,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Trump revamps portfolio, adding Nvidia and other AI names - finance.yahoo.com",
+      "title": "Trump revamps portfolio, adding Nvidia and other AI names - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3VDUFhXRDhadnRpT0lpZFVGNDludU9mNkxWdTJjbllaUklxSWVPcE5mcElnRjQxTTNrUGhOTll6akpybk54RzRyb0lVMFR3WVRabkJlYTB0UFp3dU91SjRnUURhOWl4SWQ3ZC1fNFN0YjlDVzUtdlJVb0ZqTjctV0QxcXdCNzVZMWM5S0d0STFNRU5ZZ3ZMUExVRHhoNzVKWkdvUFltMnlqTGNDVU52TnZhcTI0VXhtM29tRmVR?oc=5",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "Trump revamps portfolio, adding Nvidia and other AI names&nbsp;&nbsp;finance.yahoo.com"
+      "summary": "Trump revamps portfolio, adding Nvidia and other AI names&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3009,10 +3009,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Uncle Sam Is Buying Into Quantum Computing Stocks. Should You? - finance.yahoo.com",
+      "title": "Uncle Sam Is Buying Into Quantum Computing Stocks. Should You? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlFfVkVzSG1OeEVxN2ZKclZqV1ZyelJmWkgtTWpCV1I4S3NtOS1YcV9IWHNQYUhPSnF1SzhRa0ZHNGd1b2MwQklaMzI0TldOMTY1QjJnSlg1MWtRRTNva0pZRFY0b2dncDVRb0p5RFZlWEVWMUZsU0wyeUstNVhYOF8xbFZIQlhxX212dkFBeDU2a1BiUDZYV2ZJYjVZVURH?oc=5",
       "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "summary": "Uncle Sam Is Buying Into Quantum Computing Stocks. Should You?&nbsp;&nbsp;finance.yahoo.com"
+      "summary": "Uncle Sam Is Buying Into Quantum Computing Stocks. Should You?&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3044,10 +3044,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "The Best Quantum Computing Stocks to Buy in 2026 - fool.com",
+      "title": "The Best Quantum Computing Stocks to Buy in 2026 - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbldnZnhla3MzbEppa3BKSFF4ZU1oZENUbXR1MGR1WXRWLVJldXVUUGJ0NUt0VUhSblBaZzlFcURsMFNidnVidFJSdi1YdGJTSVZYaFB0WndfbWNFajQ3cU0zeFVfQXBkTncxbGtHOUZ6MnNaT0NSRDgxRkk4UjRSYWItbDg1YXE2QnRNQlAyRFB1ZHY1bEE?oc=5",
       "published": "Mon, 04 May 2026 07:00:00 GMT",
-      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;fool.com"
+      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3072,10 +3072,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Watch Why the US Is Investing in Quantum Computing - bloomberg.com",
+      "title": "Watch Why the US Is Investing in Quantum Computing - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeURHbUc4OXdsajNNajRnczNQQVItTU5vY3VWMlU2Q3VDSUFtWW9aa2hkZ3ktTWllTWcyNDBVdUJBZURLTHQ4QmJPeVdXTUkwOExOQi15Wlp1THhtTGZHY2IxRHE1dTNJZHRZbGFzaHpzeHgxTkNweVhxeGhYQ19KMzhZaTAtUmluLXQ1WDVzcElFb29RVHk2ZG9EUnlTM1dU?oc=5",
       "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Watch Why the US Is Investing in Quantum Computing&nbsp;&nbsp;bloomberg.com"
+      "summary": "Watch Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "source": "Yahoo Finance",
@@ -3086,79 +3086,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trump plan may make it harder to compare airfares and find the best price \u2014 but you can still sound off on the proposal",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-plan-may-harder-compare-123000587.html",
-      "published": "2026-08-09T12:30:00Z",
+      "title": "Advanced Micro Devices Reported Record Revenue. AMD Stock Sank Anyway.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-reported-record-131502549.html",
+      "published": "2026-08-09T13:15:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Oklo\u2019s (OKLO) Groves Reactor Hits Criticality In Under A Year",
-      "url": "https://finance.yahoo.com/energy/articles/oklo-oklo-groves-reactor-hits-121315063.html",
-      "published": "2026-08-09T12:13:15Z",
+      "title": "Wide-Moat Stocks Are the Sedative Your Tech-Dominated Portfolio Desperately Needs",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wide-moat-stocks-sedative-tech-140002032.html",
+      "published": "2026-08-09T14:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
-      "url": "https://finance.yahoo.com/technology/articles/apple-tests-chinas-cxmt-memory-120655649.html",
-      "published": "2026-08-09T12:06:55Z",
+      "title": "Advanced Micro Devices Dips on Lower FCF, But Short Put Plays Attract Value Investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-dips-lower-140002117.html",
+      "published": "2026-08-09T14:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Far more Americans are filing for bankruptcy \u2014 but maybe not enough, as people don't get 'how good of a deal' it can be",
-      "url": "https://finance.yahoo.com/small-business/articles/far-more-americans-filing-bankruptcy-115500738.html",
-      "published": "2026-08-09T11:55:00Z",
+      "title": "Dear Intuitive Machines Stock Fans, Mark Your Calendars for August 13",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-intuitive-machines-stock-fans-130002352.html",
+      "published": "2026-08-09T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "3 Artificial Intelligence (AI) Stocks to Load Up On in August",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-123000785.html",
-      "published": "2026-08-09T12:30:00Z",
+      "title": "Johnson & Johnson Has Increased Its Dividend for 64 Consecutive Years. Here's How Much $10,000 Invested in the Dividend King Pays Annually.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-increased-dividend-64-133500464.html",
+      "published": "2026-08-09T13:35:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "New cars just hit $52K and Social Security faces a 24% cut \u2014 5 things to buy before you retire",
-      "url": "https://finance.yahoo.com/economy/policy/articles/cars-just-hit-52k-social-114500144.html",
-      "published": "2026-08-09T11:45:00Z",
+      "title": "Dear Palo Alto Stock Fans, Mark Your Calendars for September 1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-palo-alto-stock-fans-130002528.html",
+      "published": "2026-08-09T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-      "url": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html",
-      "published": "2026-08-09T11:35:29Z",
+      "title": "Dear Baidu Stock Fans, Mark Your Calendars for August 18",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-baidu-stock-fans-mark-130002368.html",
+      "published": "2026-08-09T13:00:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Gold's breakout could force investors back in: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/golds-breakout-could-force-investors-back-in-chart-of-the-day-113004349.html",
-      "published": "2026-08-09T11:30:04Z",
+      "title": "You saved $1.5M in your 401(k) \u2014 now the IRS wants $56,603 a year, and that's just the start",
+      "url": "https://finance.yahoo.com/markets/options/articles/saved-1-5m-401-k-130000096.html",
+      "published": "2026-08-09T13:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "IRS warns crypto investors of fake letters from fraudsters aimed at stealing wallet keys and passwords",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/irs-warns-crypto-investors-fake-113000642.html",
-      "published": "2026-08-09T11:30:00Z",
+      "title": "\u2018I\u2019m going with you\u2019: Shaq reveals why he picked 1 advisor over the rest, now he's worth $500M. Use the same tactic now",
+      "url": "https://finance.yahoo.com/small-business/articles/m-going-shaq-reveals-why-125500822.html",
+      "published": "2026-08-09T12:55:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analyst Report: Sterling Infrastructure Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_6630_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Enbridge Inc",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3799_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published": "2026-08-10T18:03:15Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why every company wants an AI model router right now",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-every-company-wants-ai-123000709.html",
-      "published": "2026-08-09T12:30:00Z",
+      "title": "SK Hynix\u2019s $38 billion buildout has a name attached: Nvidia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-38-billion-buildout-133300135.html",
+      "published": "2026-08-09T13:33:00Z",
       "summary": ""
     }
   ]
