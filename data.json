@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T20:50:12.901649Z",
+  "last_updated": "2026-08-13T21:52:40.926838Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -349,7 +349,7 @@
       "market_cap_fmt": "25.33B",
       "52w_high": 58.78,
       "52w_low": 19.48,
-      "pe_ratio": 7.2826,
+      "pe_ratio": 7.3278,
       "iv": 69.9,
       "beta": 1.967
     },
@@ -487,7 +487,7 @@
       "price": 64.62,
       "prev_close": 63.94,
       "change_pct": 1.06,
-      "volume": 2494973,
+      "volume": 2485919,
       "volume_fmt": "2.49M",
       "market_cap": 0,
       "market_cap_fmt": "0",
@@ -558,8 +558,8 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-14",
-      "call_vol": 4552,
-      "put_vol": 6348,
+      "call_vol": 4549,
+      "put_vol": 6347,
       "call_oi": 8466,
       "put_oi": 11062,
       "pcr": 1.395,
@@ -579,7 +579,7 @@
       "ticker": "MU",
       "expiry": "2026-08-14",
       "call_vol": 363189,
-      "put_vol": 251334,
+      "put_vol": 251333,
       "call_oi": 120187,
       "put_oi": 192437,
       "pcr": 0.692,
@@ -1853,7 +1853,7 @@
       "ticker": "AMAT",
       "date": "2026-08-13",
       "days_away": 0,
-      "eps_estimate": 3.3944
+      "eps_estimate": 3.6913
     },
     {
       "ticker": "NVDA",
@@ -1937,7 +1937,7 @@
       "ticker": "AMZN",
       "date": "2026-10-29",
       "days_away": 77,
-      "eps_estimate": 1.9456
+      "eps_estimate": 1.9435
     },
     {
       "ticker": "PLTR",
@@ -1955,7 +1955,7 @@
       "ticker": "SMCI",
       "date": "2026-11-03",
       "days_away": 82,
-      "eps_estimate": 0.7554
+      "eps_estimate": 1.0353
     },
     {
       "ticker": "IONQ",
@@ -1967,7 +1967,7 @@
       "ticker": "SOUN",
       "date": "2026-11-05",
       "days_away": 84,
-      "eps_estimate": -0.056
+      "eps_estimate": -0.0475
     },
     {
       "ticker": "QBTS",
@@ -1979,7 +1979,7 @@
       "ticker": "QUBT",
       "date": "2026-11-09",
       "days_away": 88,
-      "eps_estimate": -0.07
+      "eps_estimate": -0.0533
     },
     {
       "ticker": "RGTI",
@@ -2868,10 +2868,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+      "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - techinsights.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
       "published": "Fri, 07 Aug 2026 13:37:49 GMT",
-      "summary": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors&nbsp;&nbsp;TechInsights"
+      "summary": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors&nbsp;&nbsp;techinsights.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2980,13 +2980,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026 - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDN0X3hVSm1Ba1h2aEZLVkF4d0lFOHk2WmtacDk1dTBPam9kYU1qaV9FYmxaaVFRdWxzU1B5akFjcWw0LVlUTVVCd2cxbWJjN24tT0JSZVhpN0lmU0VUZld4WlRxR1ROaDNscVhwVGFoNTFneDRSSkNGTGVSYlMyRWJWQ3pyX25JeWpDY1VsR1YtUQ?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026&nbsp;&nbsp;Zacks Investment Research"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "3 Cheap Artificial Intelligence Stocks to Buy Right Now - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0FSamJIcUJ3TmloYWI1SmZWb1lFOC1sYXdrSGluR0JEbGF6UjNaQ01HRDBmRTZDakhyeWVQNEFXNTJURm0zNHQ5ZWhVY0JlQ1JHNTQzbjlCVnVJOVZYX0F2WEttSmYzVjd0ZmpIWTJRTmZuOVV6cWk4LTZBVTRRN0hnWHR3YzdpTEt1QkJwSmlLV2NOcXVaUVRGa3BkLTdocENQallWR1MtNlFYU0x6ZklMdGpCek4zRGVua0pIWGpoVzZpSENwTkxBN2lnTEdldTkwZXNBNDU?oc=5",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -2998,6 +2991,13 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFYMkRUU20tZXcwTjlzNEdxNXF4MlBBVTQ5a3pKQzhwSHlEQjVkZFhLTGdHOGtzTFVJR3puVF9GN2lfTWZzTzZpc29vSHVsRi1vVmpOZnhNRTJCVzRPX2owU20zRFZaYUY2Rk9lRXZmZGJxMWhrcUF5MlE0MHcwaVNBYXB2M1Vkamx1VUpaOEVHNHpGQTNUSmYzcW05SXQ2Ni0zWllhM0F6aG9ERGpN?oc=5",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "Big Tech set to spend $650 billion in 2026 as AI investments soar&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3022,17 +3022,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Congress Moves To Boost Quantum Funding By 68% As China's $10 Billion Push Intensifies (NASDAQ: IONQ) (NYSE: IBM) (NASDAQ: GOOG) (NASDAQ: MSFT) - foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVFBqUmxSZ1JoM2xzQzhaaExKNzgteGRiT0JMaUo3TTdJRlA5OXFiT1lodmFpaVhmWjl1d1lTc29yb0M5WlFCZEYta1pUTTNFa21nbEMwVV9ZWkdUMlNacDdla2I3eThlVzhMOW9Oek9VSlJFZWJsU3ZweWQyczgwSEI2QVhDUE83YVhKZnMycFJJdjVZNC1sUmZybHBNVnhoQ2FjRDZkTC1ZZHhWNHc5R2dWeVhRSXFxVk1oOHB2RE56Q3dnR3ZfaUtsQldpSEpRRWVoNXZ2cEloUHZ6ME15TTU3N2twbkE2MmtHVGJfYmR2ay1VZHZzTWF4RFRGMGRkREJyNGhFeGM?oc=5",
-      "published": "Sat, 08 Aug 2026 12:36:00 GMT",
-      "summary": "Congress Moves To Boost Quantum Funding By 68% As China's $10 Billion Push Intensifies (NASDAQ: IONQ) (NYSE: IBM) (NASDAQ: GOOG) (NASDAQ: MSFT)&nbsp;&nbsp;foreignpolicyjournal.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Quantum computing stocks outlook: IonQ, Rigetti, and D-Wave after a brutal selloff - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOE5hazVhdGl2Q0ZjMGh2aDB2TS16NEZ4MXlKVlVGYzNBVUNVRl84SFVfNEwtdlFOdjYzYW9jcDhQa1pSaDVmR3ZUYVdNNS1tSVJJczZiR3pVSzhSZUppb04zU29OdmQzbHZtV240Y0NDdUF1eVJYRTFRTzNMN2dXdGg5ZFNMVkZLQWVBOGZjY3Vtc012UGpnVkFVam9UZmNsc3pXUU00aG02YXAtY2VES1VrTlo4MmlwandaMTJZYzVSa2JCbXJnamVZbnR4ZHRwSTdiUFJ1NA?oc=5",
       "published": "Fri, 17 Jul 2026 07:00:00 GMT",
       "summary": "Quantum computing stocks outlook: IonQ, Rigetti, and D-Wave after a brutal selloff&nbsp;&nbsp;Investing.com"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Congress Moves To Boost Quantum Funding By 68% As China's $10 Billion Push Intensifies (NASDAQ: IONQ) (NYSE: IBM) (NASDAQ: GOOG) (NASDAQ: MSFT) - foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVFBqUmxSZ1JoM2xzQzhaaExKNzgteGRiT0JMaUo3TTdJRlA5OXFiT1lodmFpaVhmWjl1d1lTc29yb0M5WlFCZEYta1pUTTNFa21nbEMwVV9ZWkdUMlNacDdla2I3eThlVzhMOW9Oek9VSlJFZWJsU3ZweWQyczgwSEI2QVhDUE83YVhKZnMycFJJdjVZNC1sUmZybHBNVnhoQ2FjRDZkTC1ZZHhWNHc5R2dWeVhRSXFxVk1oOHB2RE56Q3dnR3ZfaUtsQldpSEpRRWVoNXZ2cEloUHZ6ME15TTU3N2twbkE2MmtHVGJfYmR2ay1VZHZzTWF4RFRGMGRkREJyNGhFeGM?oc=5",
+      "published": "Sat, 08 Aug 2026 12:36:00 GMT",
+      "summary": "Congress Moves To Boost Quantum Funding By 68% As China's $10 Billion Push Intensifies (NASDAQ: IONQ) (NYSE: IBM) (NASDAQ: GOOG) (NASDAQ: MSFT)&nbsp;&nbsp;foreignpolicyjournal.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3092,34 +3092,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lean Hog Futures Reach 4-Week Low. Hit the Sell Button Here.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/lean-hog-futures-reach-4-122314239.html",
-      "published": "2026-08-12T12:23:14Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here's the biggest risk to America's data center building boom",
-      "url": "https://finance.yahoo.com/economy/article/heres-the-biggest-risk-to-americas-data-center-building-boom-121942236.html",
-      "published": "2026-08-12T12:19:42Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Accel deepens Europe presence with $800M allocation",
-      "url": "https://finance.yahoo.com/small-business/articles/accel-deepens-europe-presence-800m-121854601.html",
-      "published": "2026-08-12T12:18:54Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for Waste Management Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121901530.html",
-      "published": "2026-08-12T12:19:01Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "AARP issues urgent call on Medicare drug costs",
       "url": "https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html",
       "published": "2026-08-12T22:17:00Z",
@@ -3127,44 +3099,72 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fold Holdings Inc Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fold-holdings-inc-q2-2026-123000376.html",
-      "published": "2026-08-12T12:30:00Z",
+      "title": "Strong Fundamentals Position Kratos Defense & Security Solutions (KTOS) for Long-Term Upside",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-fundamentals-position-kratos-defense-133501517.html",
+      "published": "2026-08-12T13:35:01Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Westport Fuel Systems Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/westport-fuel-systems-inc-q2-123000649.html",
-      "published": "2026-08-12T12:30:00Z",
+      "title": "FlightAware Quickly Drops Lawsuit Against Kalshi",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/flightaware-quickly-drops-lawsuit-against-134300633.html",
+      "published": "2026-08-12T13:43:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "TransAct Technologies Incorporated Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/transact-technologies-incorporated-q2-2026-123000405.html",
-      "published": "2026-08-12T12:30:00Z",
+      "title": "Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html",
+      "published": "2026-08-12T13:37:39Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Intercorp Financial Services Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intercorp-financial-services-inc-q2-123000396.html",
-      "published": "2026-08-12T12:30:00Z",
+      "title": "Are Wall Street Analysts Bullish on ONEOK Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-oneok-133834214.html",
+      "published": "2026-08-12T13:38:34Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is It Too Late to Buy Airbnb After Its Monster Rally? What the Numbers Say",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-airbnb-monster-rally-122502097.html",
-      "published": "2026-08-12T12:25:02Z",
+      "title": "Nvidia Will Be The World\u2019s First $10 Trillion Company",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-world-first-10-trillion-133730418.html",
+      "published": "2026-08-12T13:37:30Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Intrusion Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-q2-2026-earnings-123000468.html",
-      "published": "2026-08-12T12:30:00Z",
+      "title": "Jefferies' Latest Warning on Palantir Sends Clear Message: Stay Cautious on PLTR Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-latest-warning-palantir-sends-133832548.html",
+      "published": "2026-08-12T13:38:32Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Supermicro stock jumps on Q4 results, strong Q1 outlook",
+      "url": "https://finance.yahoo.com/technology/article/supermicro-stock-jumps-on-q4-results-strong-q1-outlook-210004983.html",
+      "published": "2026-08-10T21:00:04Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ASML Holding N.V. (ASML) vs. Taiwan Semiconductor Manufacturing Company Limited (TSM): A Key Supplier Says it Can Keep Up With the AI Boom",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-133846677.html",
+      "published": "2026-08-12T13:38:46Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Samsara\u2019s (IOT) Operating Leverage Unlocks Margin Expansion",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-operating-leverage-unlocks-132953280.html",
+      "published": "2026-08-12T13:29:53Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "DocuSign CFO Blake Grayson Sells 15,000 Shares for $900,000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/docusign-cfo-blake-grayson-sells-133701140.html",
+      "published": "2026-08-12T13:37:01Z",
       "summary": ""
     }
   ]
