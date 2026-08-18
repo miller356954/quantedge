@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T20:34:54.690644Z",
+  "last_updated": "2026-08-18T21:01:54.127251Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -105,8 +105,8 @@
       "change_pct": -6.75,
       "volume": 121558474,
       "volume_fmt": "121.56M",
-      "market_cap": 511087074350,
-      "market_cap_fmt": "511.09B",
+      "market_cap": 508033863937,
+      "market_cap_fmt": "508.03B",
       "52w_high": 142.35,
       "52w_low": 22.78,
       "pe_ratio": 47.3916,
@@ -439,8 +439,8 @@
       "price": 21.98,
       "prev_close": 24.08,
       "change_pct": -8.72,
-      "volume": 832546,
-      "volume_fmt": "832546",
+      "volume": 824590,
+      "volume_fmt": "824590",
       "market_cap": 382504985,
       "market_cap_fmt": "382.50M",
       "52w_high": 62.0,
@@ -487,8 +487,8 @@
       "price": 62.53,
       "prev_close": 64.0294,
       "change_pct": -2.34,
-      "volume": 2447323,
-      "volume_fmt": "2.45M",
+      "volume": 2403703,
+      "volume_fmt": "2.40M",
       "market_cap": 0,
       "market_cap_fmt": "0",
       "52w_high": 70.26,
@@ -503,8 +503,8 @@
       "price": 152.16,
       "prev_close": 158.59,
       "change_pct": -4.05,
-      "volume": 675053,
-      "volume_fmt": "675053",
+      "volume": 665915,
+      "volume_fmt": "665915",
       "market_cap": 0,
       "market_cap_fmt": "0",
       "52w_high": 170.0,
@@ -558,7 +558,7 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-21",
-      "call_vol": 4708,
+      "call_vol": 4709,
       "put_vol": 4870,
       "call_oi": 20498,
       "put_oi": 25574,
@@ -669,10 +669,10 @@
       "ticker": "PLTR",
       "expiry": "2026-08-21",
       "call_vol": 106152,
-      "put_vol": 105939,
+      "put_vol": 105852,
       "call_oi": 324386,
       "put_oi": 278279,
-      "pcr": 0.998,
+      "pcr": 0.997,
       "iv": 44.9
     },
     {
@@ -2875,17 +2875,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "5 Semiconductor Stocks To Buy And 1 To Ignore - forbes.com",
+      "title": "5 Semiconductor Stocks To Buy And 1 To Ignore - Forbes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUxTRWN1SXVqNHFRTjRoOTlJcExTUWtMM3k4Rk9vbDlaUnNTWUwtSldVMGExcmktZWVNOG5HRk8xQWlkQXlQMUstNWlmbDBuRmVXWlczZWV5RTdOSHRmbHVvMVQtX3JkTHJCWGc5by1ZdkRLSnlONEhXMVByTmNVaFhrUmU2cmJtaXJlYUZKRlNlUjA?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "5 Semiconductor Stocks To Buy And 1 To Ignore&nbsp;&nbsp;forbes.com"
+      "summary": "5 Semiconductor Stocks To Buy And 1 To Ignore&nbsp;&nbsp;Forbes"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple - Memeburn",
+      "title": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple - memeburn.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9reG8wSVVSeHBqMDBDUDlKTDMzdmJGQV90OGN3UTBHdXY1c0hnQU1OQXpSaXlVcTJvZ2NoQ1c0RE1ORzJDNnpkY1NZdF9PVTNTMGFkb2FOWQ?oc=5",
       "published": "Wed, 12 Aug 2026 17:08:53 GMT",
-      "summary": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple&nbsp;&nbsp;Memeburn"
+      "summary": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple&nbsp;&nbsp;memeburn.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2896,10 +2896,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD - 247wallst.com",
+      "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2VRN25rYmNnOHptTXE1c2VUVk9ycjJkZE9VSDVwVnJKSkZwNTNvWVJJUjZ4dF9rWkNpWEdta1VJMjVCalVld2NpYzJLeFItSlBKU2JQRzg4dnVNRFdMLWdYVTlzZnNyTGZFTkhrczNDbmpwcUxMUm5iVFVESHU5YXlwX0ZLdzJoLUt3VGRVd1cyMmxjVldVQXVEWnU1dXJwMEdYZU1nTmZ4aTdXZUxBeWJrMmlBZk9RbHlB?oc=5",
       "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "summary": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD&nbsp;&nbsp;247wallst.com"
+      "summary": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2910,10 +2910,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Nvidia and Google Are Crowding TSMC\u2019s N3 Node - Can Intel Fill the Gap? - IO Fund",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ubzlkZzAzV3J4dFd4dHIwVEdqcmlFNUIyN0N0eUI1eUVvVEhKRm1wWE0ycmpsTmV0bXFQM0lXb3NidF95UW5MVUtXbXpZaGVFYXRBNm9Ob1hKSFcwZG5oRWFPTFNfLUxDRVQ3NkU0cC1zTmlQZTVqRF8yZUVCbDg?oc=5",
-      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
-      "summary": "Nvidia and Google Are Crowding TSMC\u2019s N3 Node - Can Intel Fill the Gap?&nbsp;&nbsp;IO Fund"
+      "title": "Taiwan Semiconductor's AI Push Hits Surprising Milestone - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXdzY0xSVmhFNFpPSTVBd1NGVDZ5cTJuaTlSZVNzdWhEMXdwUXVlWl9BUDU3ZE81Y1o4ODIwQ0FSOWJtM3Qya1lWTDlLbER6TFlsTDVoS053YUNrejlxcDZ1aXRRQTFnb3oxb093U2JfcVZOakRFQWZiQ29HT1JhVGx3VTExUkE5YWdFQU9OMmc1RjkxejZXX2Fhb3pIb193ZnBmMHJBMlVONXVPMklMbm5USE1PejA?oc=5",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "Taiwan Semiconductor's AI Push Hits Surprising Milestone&nbsp;&nbsp;TradingView"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2931,10 +2931,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next - 247wallst.com",
+      "title": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0Y3ZllrWGdFc0RLdC1MWmV2NTZqb0lsckdYWlBUdWZQb2x4Vjd2TTB6RGlLT3JveGJyN09ZRGkzdHc2MUJxMFgyRkotNlI0T21HZUFVZF96Z200RkVYRVY1eXM2WkpMdl9raXA3NGpEdXNDTkxVWEpzekhIY2lHUWFXd3NPaWxSODlRcTFYY291UGR5S3hyOUZlUDQ2UU1wajVjdHM1SEFIYnk1YWFSN3JtMFczekU1UUE?oc=5",
       "published": "Sun, 26 Jul 2026 07:00:00 GMT",
-      "summary": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next&nbsp;&nbsp;247wallst.com"
+      "summary": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2966,10 +2966,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future? - 247wallst.com",
+      "title": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTzlTZU9xWklRTzdGQU5GcXBKazlLNjdOYTN6NlZ2VG9VTFdYQVpFR2dQWXE4UHRrV2NIOVVtMUZIZFh0ZDAzeVZoWFhINDNaX3NKSFJ3eU5tMm1Mdmg0aFJJYk5vX1JoNzd3UTl2TlFYMXUyemFFSmNpblUzWDJDVTNjVWZ5QlVnR1dJUDFTelgzclJLdjFycmlMMFFPbEQ0Sk9ua1Y2Y1FETHN1Rk1CR1NmTjBxanVSUkV1b1BtOEFfaVVCbWkwc2w4MVdkYW1fV1lvTkJPRloyeWVfV01ibEsyUFQ4cVZY?oc=5",
       "published": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "summary": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future?&nbsp;&nbsp;247wallst.com"
+      "summary": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future?&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3008,10 +3008,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "3 Quantum Computing Stocks Worth the Speculative Bet in August - 247wallst.com",
+      "title": "3 Quantum Computing Stocks Worth the Speculative Bet in August - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDBPbXpPeFVFR2dJQm4yZWVrdGNJM1o5VzNNSHRBWFRwamRXVnZhUVRCcXR6NnZQOHktVzhZQUkzN1pqdFRMVF9paGRicTlpLWtKMUVQYVdLRTlvcFBKd3ZlenRya3VBb2xpTGw5YTBjd3V5THZtTmNfT3JKY1M4QTFlOWxoNGpLQ01EZW8tYVN1RVppNUdpdVIxeUFpVjFrWHRFdFBMdXlpUQ?oc=5",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "3 Quantum Computing Stocks Worth the Speculative Bet in August&nbsp;&nbsp;247wallst.com"
+      "summary": "3 Quantum Computing Stocks Worth the Speculative Bet in August&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3092,16 +3092,51 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Micron stock heats up again, crossing $1,000",
-      "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
-      "published": "2026-08-17T11:53:04Z",
+      "title": "Why the 'immaculate' stock market might not stay that way long",
+      "url": "https://finance.yahoo.com/markets/article/why-the-immaculate-stock-market-might-not-stay-that-way-long-121205340.html",
+      "published": "2026-08-17T12:12:05Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Micron Covered Call Could Pay You 63% to Sit and Wait",
-      "url": "https://finance.yahoo.com/markets/options/articles/micron-covered-call-could-pay-120002559.html",
-      "published": "2026-08-17T12:00:02Z",
+      "title": "Corn Holding Higher on Monday AM Trade",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/corn-holding-higher-monday-am-122918750.html",
+      "published": "2026-08-17T12:29:18Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Soybeans Popping Higher on Monday Morning",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-popping-higher-monday-morning-122918817.html",
+      "published": "2026-08-17T12:29:18Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cotton Extending Higher on Monday Morning",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-extending-higher-monday-morning-122918825.html",
+      "published": "2026-08-17T12:29:18Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 Things to Know Before the Stock Market Opens on Monday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-121817307.html",
+      "published": "2026-08-17T12:18:17Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Are Wall Street Analysts Predicting Eaton Corporation Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-eaton-121136395.html",
+      "published": "2026-08-17T12:11:36Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wheat Falling Back Early on Monday",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-falling-back-early-monday-122918317.html",
+      "published": "2026-08-17T12:29:18Z",
       "summary": ""
     },
     {
@@ -3120,9 +3155,9 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nasdaq ends lower as oil surge adds to market pressure",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-retail-earnings-114800359.html",
-      "published": "2026-08-17T11:48:00Z",
+      "title": "Peter Thiel's Thiel Macro buys stake in Vista Energy Q2 2026",
+      "url": "https://finance.yahoo.com/energy/articles/peter-thiels-thiel-macro-buys-121220238.html",
+      "published": "2026-08-17T12:12:20Z",
       "summary": ""
     },
     {
@@ -3130,41 +3165,6 @@
       "title": "Stocks With This Number Of Letters In Their Symbols Do Best",
       "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-with-this-number-of-letters-in-their-symbols-do-best/?src=A00220&yptr=yahoo",
       "published": "2026-08-17T12:00:29Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Silver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/silver-price-predictions-why-citi-113002494.html",
-      "published": "2026-08-17T11:30:02Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Local Bounti\u2019s Network Yields at Record Levels, Retail Momentum Broadened  \u2013 Quarterly Update Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/local-bounti-network-yields-record-112953084.html",
-      "published": "2026-08-17T11:29:53Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Midera Food\u2019s Net Sales Up 13%, Raises 2026 Outlook",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/midera-food-net-sales-13-112700910.html",
-      "published": "2026-08-17T11:27:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Record Highs and Low Volatility: Is Wall Street Too Complacent Ahead of Midterm Elections?",
-      "url": "https://www.barrons.com/articles/stock-market-risks-midterm-elections-24e37e20?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-08-17T11:47:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Predicting Eaton Corporation Stock Will Climb or Sink?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-eaton-121136395.html",
-      "published": "2026-08-17T12:11:36Z",
       "summary": ""
     }
   ]
