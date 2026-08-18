@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T21:40:09.906685Z",
+  "last_updated": "2026-08-18T21:59:13.213785Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -439,8 +439,8 @@
       "price": 21.98,
       "prev_close": 24.08,
       "change_pct": -8.72,
-      "volume": 824590,
-      "volume_fmt": "824590",
+      "volume": 832546,
+      "volume_fmt": "832546",
       "market_cap": 382504985,
       "market_cap_fmt": "382.50M",
       "52w_high": 62.0,
@@ -2882,17 +2882,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple - Memeburn",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9reG8wSVVSeHBqMDBDUDlKTDMzdmJGQV90OGN3UTBHdXY1c0hnQU1OQXpSaXlVcTJvZ2NoQ1c0RE1ORzJDNnpkY1NZdF9PVTNTMGFkb2FOWQ?oc=5",
-      "published": "Wed, 12 Aug 2026 17:08:53 GMT",
-      "summary": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple&nbsp;&nbsp;Memeburn"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "This Semiconductor ETF Is Up 58% This Year and Doesn\u2019t Own TSMC - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlA0bFJhYjdnSTRIbFdOc0V4OGtuWGp2dWFBUG9tVWpkNldVVHdqSmZTVkt3WG1OdWhoMm5WbmJNS2oxMTBmbnRpUjQwMXR3Y3hjMmtDNG8wby02SGhPZUVEUE1VeE5PcTBQRml6SHB6cklDaUhwTXFUakREU0dCa1JuN010a25YRE9URU5OODdBZGxXSVBJZw?oc=5",
       "published": "Tue, 07 Jul 2026 07:00:00 GMT",
       "summary": "This Semiconductor ETF Is Up 58% This Year and Doesn\u2019t Own TSMC&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple - Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9reG8wSVVSeHBqMDBDUDlKTDMzdmJGQV90OGN3UTBHdXY1c0hnQU1OQXpSaXlVcTJvZ2NoQ1c0RE1ORzJDNnpkY1NZdF9PVTNTMGFkb2FOWQ?oc=5",
+      "published": "Wed, 12 Aug 2026 17:08:53 GMT",
+      "summary": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple&nbsp;&nbsp;Memeburn"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2910,10 +2910,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Taiwan Semiconductor's AI Push Hits Surprising Milestone - TradingView",
+      "title": "Taiwan Semiconductor's AI Push Hits Surprising Milestone - tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXdzY0xSVmhFNFpPSTVBd1NGVDZ5cTJuaTlSZVNzdWhEMXdwUXVlWl9BUDU3ZE81Y1o4ODIwQ0FSOWJtM3Qya1lWTDlLbER6TFlsTDVoS053YUNrejlxcDZ1aXRRQTFnb3oxb093U2JfcVZOakRFQWZiQ29HT1JhVGx3VTExUkE5YWdFQU9OMmc1RjkxejZXX2Fhb3pIb193ZnBmMHJBMlVONXVPMklMbm5USE1PejA?oc=5",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "summary": "Taiwan Semiconductor's AI Push Hits Surprising Milestone&nbsp;&nbsp;TradingView"
+      "summary": "Taiwan Semiconductor's AI Push Hits Surprising Milestone&nbsp;&nbsp;tradingview.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2938,10 +2938,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks - TradingView",
+      "title": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks - tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlVsMnNqN19ONWQtNllqRlIwLVZzak1jbHBtNDFtakJRWUxqSlloNWZLUTN5U2FpcTc0bTdVYXlLeTUtV1J0cHM5YXJ5bTlqVVZ6YW9RbFE2NnRpUHhsQVBBMUtOWGNTTkoyV3Y0WWpjdlFaNDZzX25sQ0k5aHlqTXlMUUlTdDdUa0xuMDR5T3JjWWhvX0NTdU5oV1V1LUJaaDE0SkpJdXh2QUwzaVBSbjJnaFMxSkxWeDhRallxTUZpZmE3ZlE?oc=5",
       "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks&nbsp;&nbsp;TradingView"
+      "summary": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks&nbsp;&nbsp;tradingview.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3022,10 +3022,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "4 Ways to Invest in Quantum Computing - Kiplinger",
+      "title": "4 Ways to Invest in Quantum Computing - kiplinger.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlptMHRmRkE4MkRhbWRCcXNkaWYyYVI4bXVjMmxiUjM2TnZJMUU1SkdaZVdkd2h1czVpWWhrUGpmdU11WTQxd0dFNE55aWxPSi1DeUI3QUZFNFMxenZVNmZWUFpTdElUX1lvdkR1dFNoNTJKN3ZhMmZvLVVMNC0zUXJfTEx1a2NsSzlF?oc=5",
       "published": "Thu, 21 May 2026 07:00:00 GMT",
-      "summary": "4 Ways to Invest in Quantum Computing&nbsp;&nbsp;Kiplinger"
+      "summary": "4 Ways to Invest in Quantum Computing&nbsp;&nbsp;kiplinger.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3078,10 +3078,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Why the US Is Investing in Quantum Computing - bloomberg.com",
+      "title": "Why the US Is Investing in Quantum Computing - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUVmY3BrUnRKOFh0NWwwUUc3UF96Zl82RFlsbHBFVXRLN0NtajJtUU1fZ01fcXJvOVVpbTZIcWhjRUgzUmoxcTk0bnpNajhyQ09ocHhzZl9iUlZjRFNOX2NPWGg5X2NKOHhMcThXZmdOS2lGTUpsXzA4MzZqOVhGbnRuckQ2NXBUUFNJQk8zYVk2aThFTjZMbW4wdDBxdFlINExZ?oc=5",
       "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;bloomberg.com"
+      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg"
     },
     {
       "source": "Yahoo Finance",
@@ -3092,79 +3092,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "\u2018Never bet against America\u2019: Scott Bessent endorses Warren Buffett\u2019s forgotten rule for getting rich \u2014 use it now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/never-bet-against-america-scott-130000391.html",
-      "published": "2026-08-17T13:00:00Z",
+      "title": "FactSet Research Systems (FDS) Discounted Despite AI Workflow Integration",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/factset-research-systems-fds-discounted-133335547.html",
+      "published": "2026-08-17T13:33:35Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Goldman Sachs warns of consumer spending slowdown as tax refund boost fades",
-      "url": "https://finance.yahoo.com/economy/article/goldman-sachs-warns-of-consumer-spending-slowdown-as-tax-refund-boost-fades-125557282.html",
-      "published": "2026-08-17T12:55:57Z",
+      "title": "Hyatt Hotels Corporation (H) Still Attractive Despite Recent Gains",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-corporation-h-still-133431596.html",
+      "published": "2026-08-17T13:34:31Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alphabet Stock Has Attractive Short-Put Yields As GOOGL Stock Treads Water",
-      "url": "https://finance.yahoo.com/markets/options/articles/alphabet-stock-attractive-short-put-131502703.html",
-      "published": "2026-08-17T13:15:02Z",
+      "title": "Truckload linehaul rates rip higher in July, Cass says",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/truckload-linehaul-rates-rip-higher-133252088.html",
+      "published": "2026-08-17T13:32:52Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Uber, Zipline partner on US drone delivery for Uber Eats",
-      "url": "https://finance.yahoo.com/technology/articles/uber-zipline-partner-us-drone-131513664.html",
-      "published": "2026-08-17T13:15:13Z",
+      "title": "Bitpanda Hit With Fine In Europe\u2019s First MiCA Enforcement Case",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitpanda-hit-fine-europe-first-133500614.html",
+      "published": "2026-08-17T13:35:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Meet Attovia: The Clinical-Stage Biotech That Aims to Stop Chronic Itch at the Source",
-      "url": "https://finance.yahoo.com/healthcare/articles/meet-attovia-clinical-stage-biotech-131031717.html",
-      "published": "2026-08-17T13:10:31Z",
+      "title": "Stocks Trade Sideways as Yen Weakens Again",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/stocks-trade-sideways-as-yen-weakens-again-294BVbVDL37wSCS9VXov?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-08-17T13:34:54Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "ChatGPT Disagrees With Michael Burry Over Nebius (NBIS)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-disagrees-michael-burry-over-131506607.html",
-      "published": "2026-08-17T13:15:06Z",
+      "title": "Strategy Leaves Bitcoin Holdings Unchanged",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-133000030.html",
+      "published": "2026-08-17T13:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Targa Resources Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-outlook-wall-124241524.html",
-      "published": "2026-08-17T12:42:41Z",
+      "title": "SpaceX bulls would be wise to remember one thing",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-bulls-would-be-wise-to-remember-one-thing-133018734.html",
+      "published": "2026-08-17T13:30:18Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invest-1-5-billion-124300582.html",
-      "published": "2026-08-17T12:43:00Z",
+      "title": "HIVE Digital\u2019s Stock Jumps 14% On News Of Nvidia Deal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-stock-jumps-14-133100246.html",
+      "published": "2026-08-17T13:31:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Wall Street Bullish or Bearish on Akamai Technologies Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-akamai-131912873.html",
-      "published": "2026-08-17T13:19:12Z",
+      "title": "ChatGPT and Billionaire Bill Ackman Agree on Visa (V)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-billionaire-bill-ackman-agree-133636224.html",
+      "published": "2026-08-17T13:36:36Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Are Wall Street Analysts' Target Price for Lennar Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-124024144.html",
-      "published": "2026-08-17T12:40:24Z",
+      "title": "VivoPower to spin off non-Nordic AI data center assets into new Singapore-based platform",
+      "url": "https://finance.yahoo.com/technology/ai/articles/vivopower-spin-off-non-nordic-133400795.html",
+      "published": "2026-08-17T13:34:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "China's Unitree unveils 'Superman' robot as fervour builds ahead of Shanghai debut",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-humanoid-robot-maker-unitree-123559978.html",
-      "published": "2026-08-17T12:35:59Z",
+      "title": "\u2018Boring, Not Broken\u2019 \u2013 Claude AI Just Bought Uber (UBER). Should You?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boring-not-broken-claude-ai-132804912.html",
+      "published": "2026-08-17T13:28:04Z",
       "summary": ""
     }
   ]
