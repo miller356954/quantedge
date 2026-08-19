@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T20:46:50.002275Z",
+  "last_updated": "2026-08-19T21:30:14.353573Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -40,7 +40,7 @@
   },
   "sector_stats": {
     "Semiconductors": {
-      "avg_change": -1.96,
+      "avg_change": -1.95,
       "gainers": 2,
       "losers": 8,
       "flat": 0
@@ -52,7 +52,7 @@
       "flat": 0
     },
     "Quantum Computing": {
-      "avg_change": -0.71,
+      "avg_change": -0.74,
       "gainers": 2,
       "losers": 4,
       "flat": 0
@@ -105,8 +105,8 @@
       "change_pct": -3.04,
       "volume": 121180784,
       "volume_fmt": "121.18M",
-      "market_cap": 487620058067,
-      "market_cap_fmt": "487.62B",
+      "market_cap": 490550584445,
+      "market_cap_fmt": "490.55B",
       "52w_high": 142.35,
       "52w_low": 22.78,
       "pe_ratio": 45.4873,
@@ -117,8 +117,8 @@
       "sector": "Semiconductors",
       "name": "Taiwan Semiconductor Manufactur",
       "price": 412.09,
-      "prev_close": 412.69,
-      "change_pct": -0.15,
+      "prev_close": 412.5,
+      "change_pct": -0.1,
       "volume": 13597138,
       "volume_fmt": "13.60M",
       "market_cap": 2137294057023,
@@ -165,7 +165,7 @@
       "sector": "Semiconductors",
       "name": "Micron Technology, Inc.",
       "price": 937.105,
-      "prev_close": 932.15,
+      "prev_close": 932.17,
       "change_pct": 0.53,
       "volume": 49407839,
       "volume_fmt": "49.41M",
@@ -357,8 +357,8 @@
       "sector": "Quantum Computing",
       "name": "IonQ, Inc.",
       "price": 43.36,
-      "prev_close": 43.05,
-      "change_pct": 0.72,
+      "prev_close": 43.13,
+      "change_pct": 0.53,
       "volume": 24489458,
       "volume_fmt": "24.49M",
       "market_cap": 17566682291,
@@ -439,8 +439,8 @@
       "price": 21.53,
       "prev_close": 22.12,
       "change_pct": -2.67,
-      "volume": 824020,
-      "volume_fmt": "824020",
+      "volume": 831976,
+      "volume_fmt": "831976",
       "market_cap": 374673920,
       "market_cap_fmt": "374.67M",
       "52w_high": 62.0,
@@ -487,8 +487,8 @@
       "price": 62.99,
       "prev_close": 62.59,
       "change_pct": 0.64,
-      "volume": 2395626,
-      "volume_fmt": "2.40M",
+      "volume": 2439247,
+      "volume_fmt": "2.44M",
       "market_cap": 0,
       "market_cap_fmt": "0",
       "52w_high": 70.26,
@@ -503,8 +503,8 @@
       "price": 150.2,
       "prev_close": 155.03,
       "change_pct": -3.12,
-      "volume": 661953,
-      "volume_fmt": "661953",
+      "volume": 671092,
+      "volume_fmt": "671092",
       "market_cap": 0,
       "market_cap_fmt": "0",
       "52w_high": 170.0,
@@ -558,7 +558,7 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-21",
-      "call_vol": 3304,
+      "call_vol": 3303,
       "put_vol": 2753,
       "call_oi": 20112,
       "put_oi": 26934,
@@ -669,10 +669,10 @@
       "ticker": "PLTR",
       "expiry": "2026-08-21",
       "call_vol": 183160,
-      "put_vol": 121281,
+      "put_vol": 121368,
       "call_oi": 317899,
       "put_oi": 290265,
-      "pcr": 0.662,
+      "pcr": 0.663,
       "iv": 44.3
     },
     {
@@ -2840,10 +2840,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom. - The Motley Fool",
+      "title": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom. - fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjk5ZWRMcm1HMU84YWV6T3VOYl9INHlzX2VCRHl1Z0pCZ3ZVeGlvdGozcUdPUllfU19heExPWXVUazNNbkRrUEgyTlpOMktYcXl3MWNoampRU1htNU1RanZWbzRjS0M1dmhWeHV4c0wwcm5XZ1g5ME80R0VIMlBHVHRIRHBwSmN0ODRyYjhzLU8yZGJwdFRDQg?oc=5",
       "published": "Sat, 15 Aug 2026 14:23:00 GMT",
-      "summary": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom.&nbsp;&nbsp;The Motley Fool"
+      "summary": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom.&nbsp;&nbsp;fool.com"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
+      "published": "Mon, 17 Aug 2026 19:25:48 GMT",
+      "summary": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors&nbsp;&nbsp;TechInsights"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2861,13 +2868,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
-      "published": "Fri, 07 Aug 2026 13:37:49 GMT",
-      "summary": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors&nbsp;&nbsp;TechInsights"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "AI chipmakers NVIDIA, TSMC, and Broadcom show s... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWNuVlRWR2lLZmZ3NVBJbV9jN3BldzhjckpmelZMNy01UWNhMURBMjJRSnlETk5GSm9EZThORl9jdW5KX2xEc2IwNFFmb0FBaTlweE1WRFJKekZQRHBLcnVSbHpHdkNycUZvV1ltQVhTRC1uQmdKczhEQ2NiVUF1blNRNExlcEJicm92NTREczIzMG5K?oc=5",
       "published": "Mon, 17 Aug 2026 14:40:47 GMT",
@@ -2875,10 +2875,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "5 Semiconductor Stocks To Buy And 1 To Ignore - Forbes",
+      "title": "5 Semiconductor Stocks To Buy And 1 To Ignore - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUxTRWN1SXVqNHFRTjRoOTlJcExTUWtMM3k4Rk9vbDlaUnNTWUwtSldVMGExcmktZWVNOG5HRk8xQWlkQXlQMUstNWlmbDBuRmVXWlczZWV5RTdOSHRmbHVvMVQtX3JkTHJCWGc5by1ZdkRLSnlONEhXMVByTmNVaFhrUmU2cmJtaXJlYUZKRlNlUjA?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "5 Semiconductor Stocks To Buy And 1 To Ignore&nbsp;&nbsp;Forbes"
+      "summary": "5 Semiconductor Stocks To Buy And 1 To Ignore&nbsp;&nbsp;forbes.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2924,10 +2924,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year - The Motley Fool",
+      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year - fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkpGNjhZZ0dpZ1lBTC1VeGdRTUF4WVJWZ3prNGtzbkFjNjVockpQRi1PR0hZLUZtTU94aE9vNk14LTI3R1lFa1VFeUdaSXpNVVZZOTM3a3VBZVUySmJxUXg4Tk14ZmNERmVybnZvLUEwd2kyV3lFNW00dHBPc1FFbGw3VEdwUEVENGdhNkx4RUpYWW1aeWhGNg?oc=5",
       "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year&nbsp;&nbsp;The Motley Fool"
+      "summary": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year&nbsp;&nbsp;fool.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2938,17 +2938,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0Y3ZllrWGdFc0RLdC1MWmV2NTZqb0lsckdYWlBUdWZQb2x4Vjd2TTB6RGlLT3JveGJyN09ZRGkzdHc2MUJxMFgyRkotNlI0T21HZUFVZF96Z200RkVYRVY1eXM2WkpMdl9raXA3NGpEdXNDTkxVWEpzekhIY2lHUWFXd3NPaWxSODlRcTFYY291UGR5S3hyOUZlUDQ2UU1wajVjdHM1SEFIYnk1YWFSN3JtMFczekU1UUE?oc=5",
-      "published": "Sun, 26 Jul 2026 07:00:00 GMT",
-      "summary": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlVsMnNqN19ONWQtNllqRlIwLVZzak1jbHBtNDFtakJRWUxqSlloNWZLUTN5U2FpcTc0bTdVYXlLeTUtV1J0cHM5YXJ5bTlqVVZ6YW9RbFE2NnRpUHhsQVBBMUtOWGNTTkoyV3Y0WWpjdlFaNDZzX25sQ0k5aHlqTXlMUUlTdDdUa0xuMDR5T3JjWWhvX0NTdU5oV1V1LUJaaDE0SkpJdXh2QUwzaVBSbjJnaFMxSkxWeDhRallxTUZpZmE3ZlE?oc=5",
       "published": "Fri, 26 Jun 2026 07:00:00 GMT",
       "summary": "Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks&nbsp;&nbsp;TradingView"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0Y3ZllrWGdFc0RLdC1MWmV2NTZqb0lsckdYWlBUdWZQb2x4Vjd2TTB6RGlLT3JveGJyN09ZRGkzdHc2MUJxMFgyRkotNlI0T21HZUFVZF96Z200RkVYRVY1eXM2WkpMdl9raXA3NGpEdXNDTkxVWEpzekhIY2lHUWFXd3NPaWxSODlRcTFYY291UGR5S3hyOUZlUDQ2UU1wajVjdHM1SEFIYnk1YWFSN3JtMFczekU1UUE?oc=5",
+      "published": "Sun, 26 Jul 2026 07:00:00 GMT",
+      "summary": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2959,17 +2959,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Motley Fool",
+      "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVlrdnhnVEF3OWNaMU5VeXNKcUUxaFNCTmd5M0JsRDNUWnlRbFdIeFFic2RzOEZzTzJaY0c0QnNiVUk4VTV4OFA0VHhXNXo0TFh4VXJiMnRQdmNPR0RTdGdsMGtZYUhYNmxtYVRRYkdFaTJVTTdsd0poNUxGWnFKRWcyWkhhX28yemhrT0tlM1Q2bmlSelBtXw?oc=5",
       "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Nvidia Stock Investors Just Got Good News From Amazon, Google, Meta Platforms, and Microsoft - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZTTjRuM21WQ0FwbjdmdERDbDl4VkFDbGROU1c5VW5wXy1zYWFNcjNaLU1IZ2Y4cWttT0xmLU9lQy1LVmxDRnJIRmlkbFBVTl9nSkJlLS1JeTU3MlF2b0o3Yks5NXRnRHNKbEhSMnZZVldwY2FXV0F3RUMyU2czNWVJMA?oc=5",
-      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
-      "summary": "Nvidia Stock Investors Just Got Good News From Amazon, Google, Meta Platforms, and Microsoft&nbsp;&nbsp;Yahoo Finance"
+      "summary": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.&nbsp;&nbsp;fool.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2987,10 +2980,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "2 Battered Artificial Intelligence (AI) Stocks Due for a Massive Summer Rebound - The Motley Fool",
+      "title": "Nvidia Stock Investors Just Got Good News From Amazon, Google, Meta Platforms, and Microsoft - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGZTTjRuM21WQ0FwbjdmdERDbDl4VkFDbGROU1c5VW5wXy1zYWFNcjNaLU1IZ2Y4cWttT0xmLU9lQy1LVmxDRnJIRmlkbFBVTl9nSkJlLS1JeTU3MlF2b0o3Yks5NXRnRHNKbEhSMnZZVldwY2FXV0F3RUMyU2czNWVJMA?oc=5",
+      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "summary": "Nvidia Stock Investors Just Got Good News From Amazon, Google, Meta Platforms, and Microsoft&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "2 Battered Artificial Intelligence (AI) Stocks Due for a Massive Summer Rebound - fool.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVRjVEFxV05WaUVMUnZyOG91N0VNQVA1Z0t5MGV1bUJmdDVQMkYxSWRsVV9LV0hhbmF3OVhvalFTOUJoZ3dLaHNYLTEwZ2R5alJjX0pKV0N4REFtZkFEM3VlUnhiRFNONnBQcklpcW9PMVRaMjc5T21WZ2pkcWMtSTdkWWdUd2JyX2puc055RWt5MFpxanc?oc=5",
       "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "summary": "2 Battered Artificial Intelligence (AI) Stocks Due for a Massive Summer Rebound&nbsp;&nbsp;The Motley Fool"
+      "summary": "2 Battered Artificial Intelligence (AI) Stocks Due for a Massive Summer Rebound&nbsp;&nbsp;fool.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3008,10 +3008,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "5 Best Quantum Computing ETFs for 2026 - money.usnews.com",
+      "title": "5 Best Quantum Computing ETFs for 2026 - US News Money",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5",
       "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "5 Best Quantum Computing ETFs for 2026&nbsp;&nbsp;money.usnews.com"
+      "summary": "5 Best Quantum Computing ETFs for 2026&nbsp;&nbsp;US News Money"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3036,17 +3036,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Trump\u2019s Presidential Portfolio Goes Quantum - cato.org",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTDlNYTdzeVpWUUwxSUJpRHA3V3Y2a3BaaUJpNXVCSW5YQnZIeXg1eFpPMy1FQTdjX1ZIZjRxU195Y1dsZmNLekUwSjNNdjZlZlRZRFVfOE9zVUwyaW9lLU51azdndC1qOVBoeHBxTmMyVlZ2UmZN?oc=5",
-      "published": "Thu, 21 May 2026 07:00:00 GMT",
-      "summary": "Trump\u2019s Presidential Portfolio Goes Quantum&nbsp;&nbsp;cato.org"
+      "title": "The Best Quantum Computing Stocks to Buy in 2026 - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbldnZnhla3MzbEppa3BKSFF4ZU1oZENUbXR1MGR1WXRWLVJldXVUUGJ0NUt0VUhSblBaZzlFcURsMFNidnVidFJSdi1YdGJTSVZYaFB0WndfbWNFajQ3cU0zeFVfQXBkTncxbGtHOUZ6MnNaT0NSRDgxRkk4UjRSYWItbDg1YXE2QnRNQlAyRFB1ZHY1bEE?oc=5",
+      "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;fool.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "The Best Quantum Computing Stocks to Buy in 2026 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbldnZnhla3MzbEppa3BKSFF4ZU1oZENUbXR1MGR1WXRWLVJldXVUUGJ0NUt0VUhSblBaZzlFcURsMFNidnVidFJSdi1YdGJTSVZYaFB0WndfbWNFajQ3cU0zeFVfQXBkTncxbGtHOUZ6MnNaT0NSRDgxRkk4UjRSYWItbDg1YXE2QnRNQlAyRFB1ZHY1bEE?oc=5",
-      "published": "Mon, 04 May 2026 07:00:00 GMT",
-      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;The Motley Fool"
+      "title": "Trump\u2019s Presidential Portfolio Goes Quantum - Cato Institute",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTDlNYTdzeVpWUUwxSUJpRHA3V3Y2a3BaaUJpNXVCSW5YQnZIeXg1eFpPMy1FQTdjX1ZIZjRxU195Y1dsZmNLekUwSjNNdjZlZlRZRFVfOE9zVUwyaW9lLU51azdndC1qOVBoeHBxTmMyVlZ2UmZN?oc=5",
+      "published": "Thu, 21 May 2026 07:00:00 GMT",
+      "summary": "Trump\u2019s Presidential Portfolio Goes Quantum&nbsp;&nbsp;Cato Institute"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3071,10 +3071,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Why the US Is Investing in Quantum Computing - bloomberg.com",
+      "title": "Why the US Is Investing in Quantum Computing - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUVmY3BrUnRKOFh0NWwwUUc3UF96Zl82RFlsbHBFVXRLN0NtajJtUU1fZ01fcXJvOVVpbTZIcWhjRUgzUmoxcTk0bnpNajhyQ09ocHhzZl9iUlZjRFNOX2NPWGg5X2NKOHhMcThXZmdOS2lGTUpsXzA4MzZqOVhGbnRuckQ2NXBUUFNJQk8zYVk2aThFTjZMbW4wdDBxdFlINExZ?oc=5",
       "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;bloomberg.com"
+      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3092,79 +3092,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Life Couriers gains new CEO with sale to private equity firm",
-      "url": "https://finance.yahoo.com/healthcare/articles/life-couriers-gains-ceo-sale-122516957.html",
-      "published": "2026-08-18T12:25:16Z",
+      "title": "Wall Street clearly loves Google stock, 13F filings reveal",
+      "url": "https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html",
+      "published": "2026-08-18T13:14:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Duos Technologies Group, Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/technology/ai/articles/duos-technologies-group-inc-q2-123000815.html",
-      "published": "2026-08-18T12:30:00Z",
+      "title": "Atmus Filtration (ATMU) Posts Record Q2 Sales, Lifts Full-Year Top-Line Guidance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/atmus-filtration-atmu-posts-record-131801945.html",
+      "published": "2026-08-18T13:18:01Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Anthropic could beat Elon Musk's SpaceX for largest 2026 IPO, prediction markets show",
-      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-could-beat-elon-musks-spacex-for-largest-2026-ipo-prediction-markets-show-122619825.html",
-      "published": "2026-08-18T12:26:19Z",
+      "title": "Meta Platforms\u2019 (META) Strong Growth Backdrop Highlights Valuation Disconnect",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-strong-growth-131359013.html",
+      "published": "2026-08-18T13:13:59Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "DocGo Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/healthcare/articles/docgo-inc-q2-2026-earnings-123000183.html",
-      "published": "2026-08-18T12:30:00Z",
+      "title": "Analysts Keep Hiking Intel's Revenue Forecasts and Price Targets - Is INTC Still a Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-keep-hiking-intels-revenue-131502131.html",
+      "published": "2026-08-18T13:15:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Baidu Revenue Falls Short as Advertising Weakness Offsets AI Cloud Growth",
-      "url": "https://finance.yahoo.com/media-advertising/articles/baidu-revenue-falls-short-advertising-122335431.html",
-      "published": "2026-08-18T12:23:35Z",
+      "title": "He Used His Inherited IRA To Buy His Girlfriend A Car. His Sister Thought He'd Jeopardized The Entire Estate.",
+      "url": "https://finance.yahoo.com/real-estate/articles/used-inherited-ira-buy-girlfriend-131525766.html",
+      "published": "2026-08-18T13:15:25Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Betting retirement on the big game? Gen Z investors are gambling on sports as a financial plan",
-      "url": "https://finance.yahoo.com/markets/articles/betting-retirement-big-game-gen-123000699.html",
-      "published": "2026-08-18T12:30:00Z",
+      "title": "Zcash Fights Off Bears as Arthur Hayes\u2019 $1K ZEC Price Target Looms",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/zcash-fights-off-bears-arthur-132033602.html",
+      "published": "2026-08-18T13:20:33Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Investors\u2019 Focus on Higher Capital Spending Weighed on Northrop Grumman (NOC)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-focus-higher-capital-spending-122045999.html",
-      "published": "2026-08-18T12:20:45Z",
+      "title": "Wedbush Analysts Still Have Their Foot on the Gas for CoreWeave Stock",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wedbush-analysts-still-foot-gas-131502970.html",
+      "published": "2026-08-18T13:15:02Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/strong-ai-infrastructure-orders-drive-121646291.html",
-      "published": "2026-08-18T12:16:46Z",
+      "title": "Amazon.com (AMZN): AI Demand Triggers AWS Revenue Acceleration",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-ai-demand-131822860.html",
+      "published": "2026-08-18T13:18:22Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Home Depot Beats Estimates in a \u201cFrozen\u201d Housing Market",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-beats-estimates-frozen-122124759.html",
-      "published": "2026-08-18T12:21:24Z",
+      "title": "Are Wall Street Analysts Bullish on Dollar Tree Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-dollar-131135548.html",
+      "published": "2026-08-18T13:11:35Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "US 10-Year Yields Climb to Highest Since 2025 as Rout Deepens",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-10-yields-climb-highest-122042182.html",
-      "published": "2026-08-18T12:20:42Z",
+      "title": "Double Digit Revenue and Margin Expansion Drive Netflix\u2019s (NFLX) Upside",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/double-digit-revenue-margin-expansion-131035855.html",
+      "published": "2026-08-18T13:10:35Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybean Gains Extending to Tuesday Morning Following Lower Tour Pod Counts",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soybean-gains-extending-tuesday-morning-122219222.html",
-      "published": "2026-08-18T12:22:19Z",
+      "title": "Brookfield Corporation\u2019s (BN) Strength Overshadowed by Sector Concerns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-bn-strength-overshadowed-131232838.html",
+      "published": "2026-08-18T13:12:32Z",
       "summary": ""
     }
   ]
