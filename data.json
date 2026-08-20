@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T21:44:36.865598Z",
+  "last_updated": "2026-08-20T22:10:14.848037Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -52,7 +52,7 @@
       "flat": 0
     },
     "Quantum Computing": {
-      "avg_change": -3.81,
+      "avg_change": -3.85,
       "gainers": 0,
       "losers": 6,
       "flat": 0
@@ -105,8 +105,8 @@
       "change_pct": -1.78,
       "volume": 120546398,
       "volume_fmt": "120.55M",
-      "market_cap": 487008863269,
-      "market_cap_fmt": "487.01B",
+      "market_cap": 484099494968,
+      "market_cap_fmt": "484.10B",
       "52w_high": 142.35,
       "52w_low": 22.78,
       "pe_ratio": 45.1589,
@@ -285,7 +285,7 @@
       "market_cap_fmt": "2.81T",
       "52w_high": 287.2,
       "52w_low": 196.0,
-      "pe_ratio": 25.0334,
+      "pe_ratio": 25.0642,
       "iv": 25.1,
       "beta": 1.454
     },
@@ -437,10 +437,10 @@
       "sector": "Quantum Computing",
       "name": "Arqit Quantum Inc.",
       "price": 20.94,
-      "prev_close": 21.4,
-      "change_pct": -2.15,
-      "volume": 831188,
-      "volume_fmt": "831188",
+      "prev_close": 21.45,
+      "change_pct": -2.38,
+      "volume": 823233,
+      "volume_fmt": "823233",
       "market_cap": 364406495,
       "market_cap_fmt": "364.41M",
       "52w_high": 62.0,
@@ -487,8 +487,8 @@
       "price": 63.03,
       "prev_close": 63.01,
       "change_pct": 0.03,
-      "volume": 2416330,
-      "volume_fmt": "2.42M",
+      "volume": 2372709,
+      "volume_fmt": "2.37M",
       "market_cap": 0,
       "market_cap_fmt": "0",
       "52w_high": 70.26,
@@ -503,8 +503,8 @@
       "price": 149.195,
       "prev_close": 151.6298,
       "change_pct": -1.61,
-      "volume": 668376,
-      "volume_fmt": "668376",
+      "volume": 659238,
+      "volume_fmt": "659238",
       "market_cap": 0,
       "market_cap_fmt": "0",
       "52w_high": 170.0,
@@ -558,11 +558,11 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-21",
-      "call_vol": 2370,
+      "call_vol": 2371,
       "put_vol": 3524,
       "call_oi": 19354,
       "put_oi": 26897,
-      "pcr": 1.487,
+      "pcr": 1.486,
       "iv": 38.0
     },
     {
@@ -669,10 +669,10 @@
       "ticker": "PLTR",
       "expiry": "2026-08-21",
       "call_vol": 112114,
-      "put_vol": 89017,
+      "put_vol": 88930,
       "call_oi": 316444,
       "put_oi": 292321,
-      "pcr": 0.794,
+      "pcr": 0.793,
       "iv": 38.6
     },
     {
@@ -2875,6 +2875,20 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "This Semiconductor ETF Is Up 58% This Year and Doesn\u2019t Own TSMC - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlA0bFJhYjdnSTRIbFdOc0V4OGtuWGp2dWFBUG9tVWpkNldVVHdqSmZTVkt3WG1OdWhoMm5WbmJNS2oxMTBmbnRpUjQwMXR3Y3hjMmtDNG8wby02SGhPZUVEUE1VeE5PcTBQRml6SHB6cklDaUhwTXFUakREU0dCa1JuN010a25YRE9URU5OODdBZGxXSVBJZw?oc=5",
+      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "summary": "This Semiconductor ETF Is Up 58% This Year and Doesn\u2019t Own TSMC&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2VRN25rYmNnOHptTXE1c2VUVk9ycjJkZE9VSDVwVnJKSkZwNTNvWVJJUjZ4dF9rWkNpWEdta1VJMjVCalVld2NpYzJLeFItSlBKU2JQRzg4dnVNRFdMLWdYVTlzZnNyTGZFTkhrczNDbmpwcUxMUm5iVFVESHU5YXlwX0ZLdzJoLUt3VGRVd1cyMmxjVldVQXVEWnU1dXJwMEdYZU1nTmZ4aTdXZUxBeWJrMmlBZk9RbHlB?oc=5",
+      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "summary": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "5 Semiconductor Stocks To Buy And 1 To Ignore - Forbes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUxTRWN1SXVqNHFRTjRoOTlJcExTUWtMM3k4Rk9vbDlaUnNTWUwtSldVMGExcmktZWVNOG5HRk8xQWlkQXlQMUstNWlmbDBuRmVXWlczZWV5RTdOSHRmbHVvMVQtX3JkTHJCWGc5by1ZdkRLSnlONEhXMVByTmNVaFhrUmU2cmJtaXJlYUZKRlNlUjA?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
@@ -2886,20 +2900,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnV0dmhoTGNXRWVQVlh4bWR0ZXExOXlTNEN5VS1BQWgxaUNPU0p1bDlOMjNtLVhwS3VlbGFCUDUyZm1iRnNVcjRsdkhPNU5ycjlWRnVnNTdMRFF1SXcwUWZkcFI5TXdhQ1JYNXNyQXpvVG9VSHhieWJJNG4xTEZQUVVncGg?oc=5",
       "published": "Thu, 18 Jun 2026 07:00:00 GMT",
       "summary": "Why Taiwan\u2019s Semiconductor Success Is About Much More Than TSMC&nbsp;&nbsp;Global Taiwan Institute"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2VRN25rYmNnOHptTXE1c2VUVk9ycjJkZE9VSDVwVnJKSkZwNTNvWVJJUjZ4dF9rWkNpWEdta1VJMjVCalVld2NpYzJLeFItSlBKU2JQRzg4dnVNRFdMLWdYVTlzZnNyTGZFTkhrczNDbmpwcUxMUm5iVFVESHU5YXlwX0ZLdzJoLUt3VGRVd1cyMmxjVldVQXVEWnU1dXJwMEdYZU1nTmZ4aTdXZUxBeWJrMmlBZk9RbHlB?oc=5",
-      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "summary": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEtLT0pUSHFicmNvSlZYRUtLLXJob2xXV2VEZndWcEY3TV8tU3ltX08waTg1RDVpeEQ4S3VsRHhGNzZYQWdCT0lkaENNXzN5d0RLX3R2NVRZWm5fc1htZjE2S24xamZiS0FwNXJpdDdhMURoUUFDUWtEeEp3RUZ6ZV9sbEo5dGpWN3ZMZm13Ym9KOFo2VmZ3cUlsUnlWd3F6YVJDNHc5TC00NWlLS2U3a3ZmNXVpVzJXdjAzYy1GR29JUi1Vd1kxLTBsbw?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "summary": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -3001,17 +3001,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Rigetti Vs IBM Vs D-Wave Vs IONQ : The Race To 2028 Just Changed Everything? \ud83d\udea8 #rgti #quantumstocks Quarto Grado (Q7K5KjXTuS) - Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55T1BySGxYUXYyaDNIR2NRR0xuNlBPRDJCdjNUNU9idFZtZmhrMVprUVV0TTR3eF8wdG5MUUVxSEtFQ2xIaXR5Q1hhTUNTVmdoazlmam5HUUVIM2M?oc=5",
-      "published": "Thu, 20 Aug 2026 09:07:23 GMT",
-      "summary": "Rigetti Vs IBM Vs D-Wave Vs IONQ : The Race To 2028 Just Changed Everything? \ud83d\udea8 #rgti #quantumstocks Quarto Grado (Q7K5KjXTuS)&nbsp;&nbsp;Mshale"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "3 Quantum Computing Stocks Worth the Speculative Bet in August - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDBPbXpPeFVFR2dJQm4yZWVrdGNJM1o5VzNNSHRBWFRwamRXVnZhUVRCcXR6NnZQOHktVzhZQUkzN1pqdFRMVF9paGRicTlpLWtKMUVQYVdLRTlvcFBKd3ZlenRya3VBb2xpTGw5YTBjd3V5THZtTmNfT3JKY1M4QTFlOWxoNGpLQ01EZW8tYVN1RVppNUdpdVIxeUFpVjFrWHRFdFBMdXlpUQ?oc=5",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
       "summary": "3 Quantum Computing Stocks Worth the Speculative Bet in August&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Rigetti Vs IBM Vs D-Wave Vs IONQ : The Race To 2028 Just Changed Everything? \ud83d\udea8 #rgti #quantumstocks Quarto Grado (Q7K5KjXTuS) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55T1BySGxYUXYyaDNIR2NRR0xuNlBPRDJCdjNUNU9idFZtZmhrMVprUVV0TTR3eF8wdG5MUUVxSEtFQ2xIaXR5Q1hhTUNTVmdoazlmam5HUUVIM2M?oc=5",
+      "published": "Thu, 20 Aug 2026 09:07:23 GMT",
+      "summary": "Rigetti Vs IBM Vs D-Wave Vs IONQ : The Race To 2028 Just Changed Everything? \ud83d\udea8 #rgti #quantumstocks Quarto Grado (Q7K5KjXTuS)&nbsp;&nbsp;Mshale"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3078,45 +3078,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Why the US Is Investing in Quantum Computing - Bloomberg",
+      "title": "Why the US Is Investing in Quantum Computing - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUVmY3BrUnRKOFh0NWwwUUc3UF96Zl82RFlsbHBFVXRLN0NtajJtUU1fZ01fcXJvOVVpbTZIcWhjRUgzUmoxcTk0bnpNajhyQ09ocHhzZl9iUlZjRFNOX2NPWGg5X2NKOHhMcThXZmdOS2lGTUpsXzA4MzZqOVhGbnRuckQ2NXBUUFNJQk8zYVk2aThFTjZMbW4wdDBxdFlINExZ?oc=5",
       "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg"
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer drops stunning take on the economy",
-      "url": "https://finance.yahoo.com/economy/articles/jim-cramer-drops-stunning-economy-230000219.html",
-      "published": "2026-08-19T23:00:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Deflated Microchip Technology Stock Could Target a Contrarian Move to $85",
-      "url": "https://finance.yahoo.com/markets/options/articles/deflated-microchip-technology-stock-could-134240950.html",
-      "published": "2026-08-19T13:42:40Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Taiwan Semiconductor Manufacturing Company (TSM) Looks Built for Long-Term Growth, but What Happens in the Next Downturn?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-133617895.html",
-      "published": "2026-08-19T13:36:17Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Instant View: US Treasury will double some bond buy backs",
-      "url": "https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html",
-      "published": "2026-08-19T13:43:28Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here\u2019s Why\u00a0MercadoLibre\u00a0(MELI) Offers Long Runway for Growth?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-meli-offers-long-134943360.html",
-      "published": "2026-08-19T13:49:43Z",
-      "summary": ""
+      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "source": "Yahoo Finance",
@@ -3127,44 +3092,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Do Wall Street Analysts Like Dover Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-dover-stock-133600053.html",
-      "published": "2026-08-19T13:36:00Z",
+      "title": "Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-slumps-gold-rallies-us-143540311.html",
+      "published": "2026-08-19T14:35:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Tether Remains Dominant Stablecoin Despite Rising Competition",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/tether-remains-dominant-stablecoin-despite-135000671.html",
-      "published": "2026-08-19T13:50:00Z",
+      "title": "Wynn Resorts Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-stock-wall-street-143043210.html",
+      "published": "2026-08-19T14:30:43Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.35% APY",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-19-2026-earn-up-to-435-apy-100000814.html",
-      "published": "2026-08-19T10:00:00Z",
+      "title": "What Are Wall Street Analysts' Target Price for Generac Holdings Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-143329998.html",
+      "published": "2026-08-19T14:33:29Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "15 S&P 500 stocks are up 100% or more this year \u2014 here's what they have in common",
-      "url": "https://finance.yahoo.com/markets/article/15-sp-500-stocks-are-up-100-or-more-this-year--heres-what-they-have-in-common-135448325.html",
-      "published": "2026-08-19T13:54:48Z",
+      "title": "Avantium\u2019s Green Plastic Dream Needs More Cash",
+      "url": "https://finance.yahoo.com/technology/articles/avantium-green-plastic-dream-needs-143157992.html",
+      "published": "2026-08-19T14:31:57Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can Bicara (BCAX) Commercialize Ficera? Breakthrough 3-Year Data Faces Execution Risk in C-Suite Overhaul",
-      "url": "https://finance.yahoo.com/healthcare/articles/bicara-bcax-commercialize-ficera-breakthrough-135616867.html",
-      "published": "2026-08-19T13:56:16Z",
+      "title": "Nebius proposes $4.5 billion convertible notes to fund AI cloud expansion",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-proposes-4-5-billion-143551537.html",
+      "published": "2026-08-19T14:35:51Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO",
-      "url": "https://www.investors.com/news/tesla-unitree-optimus-robots-ai-china/?src=A00220&yptr=yahoo",
-      "published": "2026-08-19T13:56:06Z",
+      "title": "Are Wall Street Analysts Predicting Travelers Companies Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-travelers-142748536.html",
+      "published": "2026-08-19T14:27:48Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "As Nike (NKE) Craters to New Lows, Insiders Are Buying This Rival On The Dip",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-craters-lows-insiders-142600448.html",
+      "published": "2026-08-19T14:26:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "eToro\u2019s (ETOR) Acquisition Spree Signals A Bigger Ambition Than Trading",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etoro-etor-acquisition-spree-signals-142333194.html",
+      "published": "2026-08-19T14:23:33Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Wall Street Bullish or Bearish on PPG Industries Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-ppg-142221766.html",
+      "published": "2026-08-19T14:22:21Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Chips Are Cutting Into the Stock Market's Gains Again",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/chips-are-cutting-into-the-stock-market-s-gains-again-hkw6GTp7beDzwEy2jsoA?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-08-19T14:33:41Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Lennar Corporation (LEN) Collapses as Market Weakness and Spin-off Bite",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lennar-corporation-len-collapses-market-143846096.html",
+      "published": "2026-08-19T14:38:46Z",
       "summary": ""
     }
   ]
