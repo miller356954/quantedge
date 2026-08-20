@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T21:09:56.326809Z",
+  "last_updated": "2026-08-20T21:44:36.865598Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -52,7 +52,7 @@
       "flat": 0
     },
     "Quantum Computing": {
-      "avg_change": -3.85,
+      "avg_change": -3.81,
       "gainers": 0,
       "losers": 6,
       "flat": 0
@@ -105,8 +105,8 @@
       "change_pct": -1.78,
       "volume": 120546398,
       "volume_fmt": "120.55M",
-      "market_cap": 484099494968,
-      "market_cap_fmt": "484.10B",
+      "market_cap": 487008863269,
+      "market_cap_fmt": "487.01B",
       "52w_high": 142.35,
       "52w_low": 22.78,
       "pe_ratio": 45.1589,
@@ -285,7 +285,7 @@
       "market_cap_fmt": "2.81T",
       "52w_high": 287.2,
       "52w_low": 196.0,
-      "pe_ratio": 25.0642,
+      "pe_ratio": 25.0334,
       "iv": 25.1,
       "beta": 1.454
     },
@@ -437,10 +437,10 @@
       "sector": "Quantum Computing",
       "name": "Arqit Quantum Inc.",
       "price": 20.94,
-      "prev_close": 21.45,
-      "change_pct": -2.38,
-      "volume": 823233,
-      "volume_fmt": "823233",
+      "prev_close": 21.4,
+      "change_pct": -2.15,
+      "volume": 831188,
+      "volume_fmt": "831188",
       "market_cap": 364406495,
       "market_cap_fmt": "364.41M",
       "52w_high": 62.0,
@@ -487,8 +487,8 @@
       "price": 63.03,
       "prev_close": 63.01,
       "change_pct": 0.03,
-      "volume": 2372709,
-      "volume_fmt": "2.37M",
+      "volume": 2416330,
+      "volume_fmt": "2.42M",
       "market_cap": 0,
       "market_cap_fmt": "0",
       "52w_high": 70.26,
@@ -503,8 +503,8 @@
       "price": 149.195,
       "prev_close": 151.6298,
       "change_pct": -1.61,
-      "volume": 659238,
-      "volume_fmt": "659238",
+      "volume": 668376,
+      "volume_fmt": "668376",
       "market_cap": 0,
       "market_cap_fmt": "0",
       "52w_high": 170.0,
@@ -558,11 +558,11 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-21",
-      "call_vol": 2371,
+      "call_vol": 2370,
       "put_vol": 3524,
       "call_oi": 19354,
       "put_oi": 26897,
-      "pcr": 1.486,
+      "pcr": 1.487,
       "iv": 38.0
     },
     {
@@ -669,10 +669,10 @@
       "ticker": "PLTR",
       "expiry": "2026-08-21",
       "call_vol": 112114,
-      "put_vol": 88930,
+      "put_vol": 89017,
       "call_oi": 316444,
       "put_oi": 292321,
-      "pcr": 0.793,
+      "pcr": 0.794,
       "iv": 38.6
     },
     {
@@ -2847,17 +2847,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Chip Stocks Selloff August 2026: Why Nvidia AMD Are Falling & What's Next - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14cEh0SG9yM0I2RFNQaUEzaTIzSXd4THF2bHpMQ3Y1aFpBOW9OYWI3YWZ6bHp0NFZWeXhfOFo5NURVSUx0azVpQ010TXBNc0ZLOEFfMWI2MFdDMDZabTFIellwSlo1dm84M0M4?oc=5",
-      "published": "Wed, 19 Aug 2026 16:20:39 GMT",
-      "summary": "Chip Stocks Selloff August 2026: Why Nvidia AMD Are Falling & What's Next&nbsp;&nbsp;Intellectia AI"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
       "published": "Sun, 31 May 2026 07:00:00 GMT",
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Chip Stocks Selloff August 2026: Why Nvidia AMD Are Falling & What's Next - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14cEh0SG9yM0I2RFNQaUEzaTIzSXd4THF2bHpMQ3Y1aFpBOW9OYWI3YWZ6bHp0NFZWeXhfOFo5NURVSUx0azVpQ010TXBNc0ZLOEFfMWI2MFdDMDZabTFIellwSlo1dm84M0M4?oc=5",
+      "published": "Wed, 19 Aug 2026 16:20:39 GMT",
+      "summary": "Chip Stocks Selloff August 2026: Why Nvidia AMD Are Falling & What's Next&nbsp;&nbsp;Intellectia AI"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -3078,10 +3078,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Why the US Is Investing in Quantum Computing - Bloomberg.com",
+      "title": "Why the US Is Investing in Quantum Computing - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUVmY3BrUnRKOFh0NWwwUUc3UF96Zl82RFlsbHBFVXRLN0NtajJtUU1fZ01fcXJvOVVpbTZIcWhjRUgzUmoxcTk0bnpNajhyQ09ocHhzZl9iUlZjRFNOX2NPWGg5X2NKOHhMcThXZmdOS2lGTUpsXzA4MzZqOVhGbnRuckQ2NXBUUFNJQk8zYVk2aThFTjZMbW4wdDBxdFlINExZ?oc=5",
       "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg.com"
+      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg"
     },
     {
       "source": "Yahoo Finance",
@@ -3092,30 +3092,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Micron Technology (MU) Is Earning More Than Apple or Microsoft, but Can It Last?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-earning-more-apple-130223525.html",
-      "published": "2026-08-19T13:02:23Z",
+      "title": "Deflated Microchip Technology Stock Could Target a Contrarian Move to $85",
+      "url": "https://finance.yahoo.com/markets/options/articles/deflated-microchip-technology-stock-could-134240950.html",
+      "published": "2026-08-19T13:42:40Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nike\u2019s nightmare collapse deepens as shares crash 78% from highs \u2014 critics say brand went \u2018woke\u2019 and now it\u2019s broke",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nightmare-collapse-deepens-shares-130500189.html",
-      "published": "2026-08-19T13:05:00Z",
+      "title": "Taiwan Semiconductor Manufacturing Company (TSM) Looks Built for Long-Term Growth, but What Happens in the Next Downturn?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-133617895.html",
+      "published": "2026-08-19T13:36:17Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Are Wall Street Analysts Bullish on Simon Property Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-simon-125205425.html",
-      "published": "2026-08-19T12:52:05Z",
+      "title": "Instant View: US Treasury will double some bond buy backs",
+      "url": "https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html",
+      "published": "2026-08-19T13:43:28Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Wall Street Bullish or Bearish on CoStar Group Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-costar-130528497.html",
-      "published": "2026-08-19T13:05:28Z",
+      "title": "Here\u2019s Why\u00a0MercadoLibre\u00a0(MELI) Offers Long Runway for Growth?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-meli-offers-long-134943360.html",
+      "published": "2026-08-19T13:49:43Z",
       "summary": ""
     },
     {
@@ -3127,44 +3127,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Microsoft Corporation\u2019s\u00a0(MSFT) Rich Innovation Legacy Anchors Platform Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-rich-innovation-130805109.html",
-      "published": "2026-08-19T13:08:05Z",
+      "title": "Do Wall Street Analysts Like Dover Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-dover-stock-133600053.html",
+      "published": "2026-08-19T13:36:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Amazon (AMZN) Sees Bigger AWS Growth, but Rising Competition Could Pressure Returns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-sees-bigger-aws-131338687.html",
-      "published": "2026-08-19T13:13:38Z",
+      "title": "Tether Remains Dominant Stablecoin Despite Rising Competition",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/tether-remains-dominant-stablecoin-despite-135000671.html",
+      "published": "2026-08-19T13:50:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Comcast (CMCSA) Turns To Home Security To Lock In Broadband Customers",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-turns-home-security-131533405.html",
-      "published": "2026-08-19T13:15:33Z",
+      "title": "Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.35% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-19-2026-earn-up-to-435-apy-100000814.html",
+      "published": "2026-08-19T10:00:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alphabet\u2019s (GOOGL) Small Data Deal Hints At A Bigger AI Appetite",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-small-data-deal-124825620.html",
-      "published": "2026-08-19T12:48:25Z",
+      "title": "15 S&P 500 stocks are up 100% or more this year \u2014 here's what they have in common",
+      "url": "https://finance.yahoo.com/markets/article/15-sp-500-stocks-are-up-100-or-more-this-year--heres-what-they-have-in-common-135448325.html",
+      "published": "2026-08-19T13:54:48Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Target boosts 2026 outlook after Q2 sales and earnings beat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/target-boosts-2026-outlook-q2-130200823.html",
-      "published": "2026-08-19T13:02:00Z",
+      "title": "Can Bicara (BCAX) Commercialize Ficera? Breakthrough 3-Year Data Faces Execution Risk in C-Suite Overhaul",
+      "url": "https://finance.yahoo.com/healthcare/articles/bicara-bcax-commercialize-ficera-breakthrough-135616867.html",
+      "published": "2026-08-19T13:56:16Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Freight Distress Report: More than 7,000 jobs cut in new wave of closures",
-      "url": "https://finance.yahoo.com/economy/articles/freight-distress-report-more-7-131619573.html",
-      "published": "2026-08-19T13:16:19Z",
+      "title": "Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO",
+      "url": "https://www.investors.com/news/tesla-unitree-optimus-robots-ai-china/?src=A00220&yptr=yahoo",
+      "published": "2026-08-19T13:56:06Z",
       "summary": ""
     }
   ]
