@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T21:41:03.438533Z",
+  "last_updated": "2026-08-21T22:01:14.544757Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -77,7 +77,7 @@
       "market_cap_fmt": "5.20T",
       "52w_high": 236.54,
       "52w_low": 164.07,
-      "pe_ratio": 16.504,
+      "pe_ratio": 16.4823,
       "iv": 3.0,
       "beta": 2.215
     },
@@ -105,8 +105,8 @@
       "change_pct": -2.02,
       "volume": 119285569,
       "volume_fmt": "119.29M",
-      "market_cap": 476119499335,
-      "market_cap_fmt": "476.12B",
+      "market_cap": 473275183588,
+      "market_cap_fmt": "473.28B",
       "52w_high": 142.35,
       "52w_low": 23.65,
       "pe_ratio": 44.1491,
@@ -141,7 +141,7 @@
       "market_cap_fmt": "677.46B",
       "52w_high": 1999.96,
       "52w_low": 716.2,
-      "pe_ratio": 29.2319,
+      "pe_ratio": 29.1958,
       "iv": 17.9,
       "beta": 1.365
     },
@@ -253,7 +253,7 @@
       "market_cap_fmt": "4.22T",
       "52w_high": 408.61,
       "52w_low": 201.3,
-      "pe_ratio": 23.2826,
+      "pe_ratio": 23.2813,
       "iv": 5.7,
       "beta": 1.237
     },
@@ -558,7 +558,7 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-21",
-      "call_vol": 3557,
+      "call_vol": 3558,
       "put_vol": 4140,
       "call_oi": 19447,
       "put_oi": 26087,
@@ -669,7 +669,7 @@
       "ticker": "PLTR",
       "expiry": "2026-08-21",
       "call_vol": 357811,
-      "put_vol": 212810,
+      "put_vol": 212723,
       "call_oi": 314813,
       "put_oi": 291703,
       "pcr": 0.595,
@@ -2903,17 +2903,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC works on new advanced chip packaging similar to Intel: report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYzI0MFBhM0hfN2JBY25WUGFwdmR6MFVpTWVBZ2RNM0U5VW1QQmtZSHQ3anowd2xaZHQ3dHZnNmpzSGNxOTNLTmhPc1JzblhrSUVaXzIxYk1PekJEN2syaG43SzdBU1ZKZkkySjFrYlZUbnI2X2t2bnVJRjM1LWlPTmpaN21KQWRxWVZCbWlVWGxSaXN3WDRsclR2Qk5UVl9ySmhFTVNR?oc=5",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "TSMC works on new advanced chip packaging similar to Intel: report&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration - Wccftech",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YQ3hGRHZqVjRTSERCOXI3bW41b2JhRjBWbWo0UTJ5b1ZpVWxlRU1UeWJwbm1JQTVOV1l3M0xWLW5NOHl5eDJiMXlqM3lOeUhPaXhBMGNUT1Z2MWMwUkJwU1lJaGRkdS1HSjhpVk9rbWpsVTVyZ0dr0gF8QVVfeXFMUDFjX0dQQnliYkwyZTBBZXE5NWcxcVhoSEFIRVpod3Q0RFBMZnJ3YnpXdFFvZk5ycWJqTzZWUVQ0TzRXWEs5eWlWNEpnZEh3dEVnUDgxT2hIYW1TTjNXYzU3bVROQ0hRZkFEM2tGU3RmenNkY05VT1NaSFFEQg?oc=5",
       "published": "Mon, 03 Aug 2026 07:00:00 GMT",
       "summary": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration&nbsp;&nbsp;Wccftech"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "Nvidia and Google Are Crowding TSMC\u2019s N3 Node - Can Intel Fill the Gap? - IO Fund",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ubzlkZzAzV3J4dFd4dHIwVEdqcmlFNUIyN0N0eUI1eUVvVEhKRm1wWE0ycmpsTmV0bXFQM0lXb3NidF95UW5MVUtXbXpZaGVFYXRBNm9Ob1hKSFcwZG5oRWFPTFNfLUxDRVQ3NkU0cC1zTmlQZTVqRF8yZUVCbDg?oc=5",
+      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
+      "summary": "Nvidia and Google Are Crowding TSMC\u2019s N3 Node - Can Intel Fill the Gap?&nbsp;&nbsp;IO Fund"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3036,13 +3036,6 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Quantum computing nears commercial breakthrough, IBM CEO says - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUpRS0NqcExHbUNwNjFzeWFHOWg1cmNYMVRIc09JNkhJYnJuVnFFc2FXZFhCdGl3b2tFMXVJcWxrOFk5REZUeFpCWEVtSFA0ckt6dW1NTWl6U2tRMXVoVllCQmdLVUpONUY4TTd1VE01cEhaMHZzZlZObGxoNFNhNF9mNy1uLVk4Vy1VaGFqdGFRVG1RR1IyckRPYWZGV3RyWkNDaFY4NA?oc=5",
-      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "summary": "Quantum computing nears commercial breakthrough, IBM CEO says&nbsp;&nbsp;CoinDesk"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
       "title": "Trump\u2019s Presidential Portfolio Goes Quantum - Cato Institute",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTDlNYTdzeVpWUUwxSUJpRHA3V3Y2a3BaaUJpNXVCSW5YQnZIeXg1eFpPMy1FQTdjX1ZIZjRxU195Y1dsZmNLekUwSjNNdjZlZlRZRFVfOE9zVUwyaW9lLU51azdndC1qOVBoeHBxTmMyVlZ2UmZN?oc=5",
       "published": "Thu, 21 May 2026 07:00:00 GMT",
@@ -3084,6 +3077,13 @@
       "summary": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed?&nbsp;&nbsp;Investor's Business Daily"
     },
     {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "Why the US Is Investing in Quantum Computing - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUVmY3BrUnRKOFh0NWwwUUc3UF96Zl82RFlsbHBFVXRLN0NtajJtUU1fZ01fcXJvOVVpbTZIcWhjRUgzUmoxcTk0bnpNajhyQ09ocHhzZl9iUlZjRFNOX2NPWGg5X2NKOHhMcThXZmdOS2lGTUpsXzA4MzZqOVhGbnRuckQ2NXBUUFNJQk8zYVk2aThFTjZMbW4wdDBxdFlINExZ?oc=5",
+      "published": "Sat, 13 Jun 2026 07:00:00 GMT",
+      "summary": "Why the US Is Investing in Quantum Computing&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
       "source": "Yahoo Finance",
       "title": "AT&T stands to gain as Verizon loses a customer related battle",
       "url": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
@@ -3092,30 +3092,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "End-Market Strength & Data Center Demand Drive Texas Instruments Incorporated\u2019s (TXN) Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/end-market-strength-data-center-141728493.html",
-      "published": "2026-08-20T14:17:28Z",
+      "title": "How Lower Migration Costs Are Shortening Guidewire Software\u2019s (GWRE) Sales Cycle",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lower-migration-costs-shortening-guidewire-144910987.html",
+      "published": "2026-08-20T14:49:10Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Should you refinance with the same lender?",
-      "url": "https://finance.yahoo.com/news/refinance-same-lender-171238158.html",
-      "published": "2026-08-20T14:20:11Z",
+      "title": "Bitcoin Could Extend Rally as ETF Inflows Hit $517M: Expert",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-extend-rally-etf-144800080.html",
+      "published": "2026-08-20T14:48:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "After Moderna stock surge of 177% on cancer drug breakthrough, here's what Wall Street thinks happens next",
-      "url": "https://finance.yahoo.com/healthcare/article/after-moderna-stock-surge-of-177-on-cancer-drug-breakthrough-heres-what-wall-street-thinks-happens-next-091040601.html",
-      "published": "2026-08-20T09:10:40Z",
+      "title": "Strong Track Record Reinforces Arista Networks\u2019 (ANET) Long Term Delivery",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-track-record-reinforces-arista-144514117.html",
+      "published": "2026-08-20T14:45:14Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "When the Supply Chain Broke, Freight Tech Answered: The 2021 to 2023 Acceleration Years",
-      "url": "https://finance.yahoo.com/technology/articles/supply-chain-broke-freight-tech-141700969.html",
-      "published": "2026-08-20T14:17:00Z",
+      "title": "Should you buy a Medicare Advantage plan from Costco? What you'll want to know.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/should-you-buy-a-medicare-advantage-plan-from-costco-what-youll-want-to-know-145200301.html",
+      "published": "2026-08-20T14:52:00Z",
       "summary": ""
     },
     {
@@ -3127,44 +3127,44 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "1 Trade to Make as the Pro Farmer Crop Tour Wraps Up",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/1-trade-pro-farmer-crop-141303768.html",
-      "published": "2026-08-20T14:13:03Z",
+      "title": "Earnings Beat and Raised Guidance Send Entegris (ENTG) Higher",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-raised-guidance-send-144121291.html",
+      "published": "2026-08-20T14:41:21Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Arch Capital\u2019s (ACGL) Valuation Supports Strategic Capital Allocation",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arch-capital-acgl-valuation-supports-142335620.html",
-      "published": "2026-08-20T14:23:35Z",
+      "title": "Darling Ingredients (DAR) is Well-Positioned for Significant Margin Expansion",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-dar-well-positioned-145325923.html",
+      "published": "2026-08-20T14:53:25Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Tiger Global Added to Its Position in Intel in Q2",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-added-position-intel-141145344.html",
-      "published": "2026-08-20T14:11:45Z",
+      "title": "Intuit Stock: Analyst Estimates & Ratings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-stock-analyst-estimates-ratings-143953552.html",
+      "published": "2026-08-20T14:39:53Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Vishal Garg, the CEO who fired 900 on Zoom, offers to work for $1 a year to reclaim Better after $1.5 billion in losses",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vishal-garg-ceo-fired-900-140500997.html",
-      "published": "2026-08-20T14:05:00Z",
+      "title": "Zim profit rises on Q2 revenue of $1.78 billion",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zim-profit-rises-q2-revenue-143800530.html",
+      "published": "2026-08-20T14:38:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "SBA Communications Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sba-communications-stock-outlook-wall-140525919.html",
-      "published": "2026-08-20T14:05:25Z",
+      "title": "Profusa Advances G3 Vision Labs Acquisition Conditions as Q2 Net Loss Widens",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/profusa-advances-g3-vision-labs-144905185.html",
+      "published": "2026-08-20T14:49:05Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Students will soon be able to Venmo their college tuition \u2014 but it may not always be the smartest choice",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/students-soon-able-venmo-college-142500727.html",
-      "published": "2026-08-20T14:25:00Z",
+      "title": "Do Wall Street Analysts Like Norfolk Southern Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-norfolk-southern-143545713.html",
+      "published": "2026-08-20T14:35:45Z",
       "summary": ""
     }
   ]
