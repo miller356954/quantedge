@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T21:34:40.466037Z",
+  "last_updated": "2026-08-24T22:02:24.207995Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -105,8 +105,8 @@
       "change_pct": -2.89,
       "volume": 119106833,
       "volume_fmt": "119.11M",
-      "market_cap": 458509977471,
-      "market_cap_fmt": "458.51B",
+      "market_cap": 461265556454,
+      "market_cap_fmt": "461.27B",
       "52w_high": 142.35,
       "52w_low": 23.68,
       "pe_ratio": 42.7718,
@@ -558,11 +558,11 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-28",
-      "call_vol": 2062,
-      "put_vol": 2461,
+      "call_vol": 2061,
+      "put_vol": 2451,
       "call_oi": 3854,
       "put_oi": 7117,
-      "pcr": 1.194,
+      "pcr": 1.189,
       "iv": 47.3
     },
     {
@@ -668,11 +668,11 @@
     {
       "ticker": "PLTR",
       "expiry": "2026-08-28",
-      "call_vol": 119322,
+      "call_vol": 119238,
       "put_vol": 78902,
       "call_oi": 129013,
       "put_oi": 102933,
-      "pcr": 0.661,
+      "pcr": 0.662,
       "iv": 49.9
     },
     {
@@ -2903,17 +2903,24 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "NVIDIA and TSMC push AI deeper into semiconductor fabs ... - eeNews Europe",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0RVVmRwQVBjbGplU0pGYlBpb3V6MV8xdm1OeHZIcGUwbXhLdVVhRi1OUlYyQWtCZG1Pc3ZqWUx5Rl9xWWUyWlVsX2M0TEZNR2cwdktmN1d0TXJKbllsYWp3d21nLVpMQ3JZUW1GX1d5Ni1GVWJSay0xR1V3a1BSY2RXSENvMGUydHJSSWxkajQ?oc=5",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "NVIDIA and TSMC push AI deeper into semiconductor fabs ...&nbsp;&nbsp;eeNews Europe"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "TSMC works on new advanced chip packaging similar to Intel: report - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYzI0MFBhM0hfN2JBY25WUGFwdmR6MFVpTWVBZ2RNM0U5VW1QQmtZSHQ3anowd2xaZHQ3dHZnNmpzSGNxOTNLTmhPc1JzblhrSUVaXzIxYk1PekJEN2syaG43SzdBU1ZKZkkySjFrYlZUbnI2X2t2bnVJRjM1LWlPTmpaN21KQWRxWVZCbWlVWGxSaXN3WDRsclR2Qk5UVl9ySmhFTVNR?oc=5",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
       "summary": "TSMC works on new advanced chip packaging similar to Intel: report&nbsp;&nbsp;Seeking Alpha"
     },
     {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "NVIDIA and TSMC push AI deeper into semiconductor fabs ... - eeNews Europe",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0RVVmRwQVBjbGplU0pGYlBpb3V6MV8xdm1OeHZIcGUwbXhLdVVhRi1OUlYyQWtCZG1Pc3ZqWUx5Rl9xWWUyWlVsX2M0TEZNR2cwdktmN1d0TXJKbllsYWp3d21nLVpMQ3JZUW1GX1d5Ni1GVWJSay0xR1V3a1BSY2RXSENvMGUydHJSSWxkajQ?oc=5",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "NVIDIA and TSMC push AI deeper into semiconductor fabs ...&nbsp;&nbsp;eeNews Europe"
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "The Best AI Stocks to Buy Now - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "The Best AI Stocks to Buy Now&nbsp;&nbsp;Morningstar"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2921,13 +2928,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkpGNjhZZ0dpZ1lBTC1VeGdRTUF4WVJWZ3prNGtzbkFjNjVockpQRi1PR0hZLUZtTU94aE9vNk14LTI3R1lFa1VFeUdaSXpNVVZZOTM3a3VBZVUySmJxUXg4Tk14ZmNERmVybnZvLUEwd2kyV3lFNW00dHBPc1FFbGw3VEdwUEVENGdhNkx4RUpYWW1aeWhGNg?oc=5",
       "published": "Fri, 07 Aug 2026 07:00:00 GMT",
       "summary": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "The Market Loves Microsoft\u2019s AI Spending, Hates Meta\u2019s. Here\u2019s Why - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmpuUkc4QXJxcGtDTjQ2N2JtbllLMHVqdC1qWmZEYVR3OF9FQmV3WE5QQTc2ZUpiTVFaWTI5c211M3BNZzllUEVYaFJpUUlRUVVoYVg4aXdDUnFSOFcxR2p6OHA2M3J2cXQ5djVUM05kOC15Um5CVlpmdzRpQ0tRNW50RGtlM3o1VEFwZEZVdElsSEVYemU5bEw3LWtDcjZ5dEpDT015RzM?oc=5",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "The Market Loves Microsoft\u2019s AI Spending, Hates Meta\u2019s. Here\u2019s Why&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2952,17 +2952,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Jensen Huang Just Revealed Nvidia\u2019s Real Endgame - And the Risk It Creates for U.S. AI Leadership - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQclhSV2xpRTlvSUtnbFo3d2JMV1RWOUsxNV80Z1JMSnF1eUtSUWgwVE1ZSE1jQk9Ga2Y3RmkybVVwV01MWFM3MmFDM2hxODdpZ2JrMHhPT2FGQk5ZV3VaTVZIY0NfdlVCbHRmRHRsOGJoeWRfdWJiQ2Zia1p4SmZya1dGcy0wVjR2ODVSa3pQNXBaWWFHNFlHZEZpVkIzNDg1WUI0bXI2bXEwVzd2VDlrRjg0X1lna0x0Z1JoTWxON05RaWozNEM4d0xtT0pLTjVGVTN3?oc=5",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "summary": "Jensen Huang Just Revealed Nvidia\u2019s Real Endgame - And the Risk It Creates for U.S. AI Leadership&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "This is a \u2018winner takes it all market\u2019 when it comes to AI investments \u2013 Constellation Research\u2019s Ray Wang - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjNMQk1qbl9yM0VXSExoSXNPWWJLWTV4VVZ5TC1ySTE0aHNpSjVoY0FiMTBMWkJZTVhIRTNnbWZlTnphc1JMeEtSM3pkVzRYSkMySWUzUmpFcFIxWVl0M3RRQ1ZUUzJKVjI5VHRVcHdRRmdXRWN0N2F3X2hIcERzeXZ2RHpGQ3djLVUxWWxrN3FTSi1KWlJyUUltMDBTOWFpcFdsV1ZYa2JFZ253U093WEtFSWtfS2J0bUgxUjBHYUlDUTlWbEM4RTdvMA?oc=5",
       "published": "Fri, 24 Jul 2026 07:00:00 GMT",
       "summary": "This is a \u2018winner takes it all market\u2019 when it comes to AI investments \u2013 Constellation Research\u2019s Ray Wang&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026 - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDN0X3hVSm1Ba1h2aEZLVkF4d0lFOHk2WmtacDk1dTBPam9kYU1qaV9FYmxaaVFRdWxzU1B5akFjcWw0LVlUTVVCd2cxbWJjN24tT0JSZVhpN0lmU0VUZld4WlRxR1ROaDNscVhwVGFoNTFneDRSSkNGTGVSYlMyRWJWQ3pyX25JeWpDY1VsR1YtUQ?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Why NVDA, META, & MSFT are Betting Billions on NBIS - March 16, 2026&nbsp;&nbsp;Zacks Investment Research"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2973,17 +2973,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Jensen Huang Just Revealed Nvidia\u2019s Real Endgame - And the Risk It Creates for U.S. AI Leadership - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQclhSV2xpRTlvSUtnbFo3d2JMV1RWOUsxNV80Z1JMSnF1eUtSUWgwVE1ZSE1jQk9Ga2Y3RmkybVVwV01MWFM3MmFDM2hxODdpZ2JrMHhPT2FGQk5ZV3VaTVZIY0NfdlVCbHRmRHRsOGJoeWRfdWJiQ2Zia1p4SmZya1dGcy0wVjR2ODVSa3pQNXBaWWFHNFlHZEZpVkIzNDg1WUI0bXI2bXEwVzd2VDlrRjg0X1lna0x0Z1JoTWxON05RaWozNEM4d0xtT0pLTjVGVTN3?oc=5",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "Jensen Huang Just Revealed Nvidia\u2019s Real Endgame - And the Risk It Creates for U.S. AI Leadership&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
       "title": "3 Cheap Artificial Intelligence Stocks to Buy Right Now - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0FSamJIcUJ3TmloYWI1SmZWb1lFOC1sYXdrSGluR0JEbGF6UjNaQ01HRDBmRTZDakhyeWVQNEFXNTJURm0zNHQ5ZWhVY0JlQ1JHNTQzbjlCVnVJOVZYX0F2WEttSmYzVjd0ZmpIWTJRTmZuOVV6cWk4LTZBVTRRN0hnWHR3YzdpTEt1QkJwSmlLV2NOcXVaUVRGa3BkLTdocENQallWR1MtNlFYU0x6ZklMdGpCek4zRGVua0pIWGpoVzZpSENwTkxBN2lnTEdldTkwZXNBNDU?oc=5",
       "published": "Mon, 22 Jun 2026 07:00:00 GMT",
       "summary": "3 Cheap Artificial Intelligence Stocks to Buy Right Now&nbsp;&nbsp;The Globe and Mail"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0Y3ZllrWGdFc0RLdC1MWmV2NTZqb0lsckdYWlBUdWZQb2x4Vjd2TTB6RGlLT3JveGJyN09ZRGkzdHc2MUJxMFgyRkotNlI0T21HZUFVZF96Z200RkVYRVY1eXM2WkpMdl9raXA3NGpEdXNDTkxVWEpzekhIY2lHUWFXd3NPaWxSODlRcTFYY291UGR5S3hyOUZlUDQ2UU1wajVjdHM1SEFIYnk1YWFSN3JtMFczekU1UUE?oc=5",
+      "published": "Sun, 26 Jul 2026 07:00:00 GMT",
+      "summary": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3085,9 +3085,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Walmart stock price target reset by JPMorgan after earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-price-target-reset-024700402.html",
-      "published": "2026-08-24T02:47:00Z",
+      "title": "Why Bank of America strategist Michael Hartnett says the trade is still long gold",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/why-bank-america-strategist-michael-131500313.html",
+      "published": "2026-08-23T13:15:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "500 Reasons to Buy Einride Stock Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/500-reasons-buy-einride-stock-130002262.html",
+      "published": "2026-08-23T13:00:02Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Trump made a multimillion-dollar bond bet \u2014 and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
+      "url": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
+      "published": "2026-08-23T13:00:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "HP exec reveals the Gen Z \u2018superpower\u2019 that he says helps young employees build \u2018a healthy relationship with work\u2019",
+      "url": "https://finance.yahoo.com/technology/ai/articles/hp-exec-reveals-gen-z-130000510.html",
+      "published": "2026-08-23T13:00:00Z",
       "summary": ""
     },
     {
@@ -3095,6 +3116,20 @@
       "title": "Got $2M saved? You should (probably) retire immediately. Don't sacrifice it all for nothing",
       "url": "https://finance.yahoo.com/markets/articles/got-2m-saved-probably-retire-124500785.html",
       "published": "2026-08-23T12:45:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nervous About the Stock Market? History Has Encouraging News for Long-Term Investors.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nervous-stock-market-history-encouraging-131500467.html",
+      "published": "2026-08-23T13:15:00Z",
+      "summary": ""
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
+      "url": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
+      "published": "2026-08-23T13:30:00Z",
       "summary": ""
     },
     {
@@ -3113,34 +3148,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trump made a multimillion-dollar bond bet \u2014 and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
-      "url": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
-      "published": "2026-08-23T13:00:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "2 Dividend Stocks to Buy and Never Sell",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-stocks-buy-never-125000624.html",
-      "published": "2026-08-23T12:50:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "HP exec reveals the Gen Z \u2018superpower\u2019 that he says helps young employees build \u2018a healthy relationship with work\u2019",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hp-exec-reveals-gen-z-130000510.html",
-      "published": "2026-08-23T13:00:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "500 Reasons to Buy Einride Stock Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/500-reasons-buy-einride-stock-130002262.html",
-      "published": "2026-08-23T13:00:02Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Most Americans retire with this much banked in savings, but is it actually enough for you?",
       "url": "https://finance.yahoo.com/markets/articles/most-americans-retire-much-banked-121500399.html",
       "published": "2026-08-23T12:15:00Z",
@@ -3151,13 +3158,6 @@
       "title": "Ramsey Show caller earns $95K but can't save $1,000 \u2014 his $131K in debt has him trapped in cash advance loops",
       "url": "https://finance.yahoo.com/markets/articles/ramsey-show-caller-earns-95k-120000539.html",
       "published": "2026-08-23T12:00:00Z",
-      "summary": ""
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Low-P/E Stocks That Look Cheap as the S&P 500 Trades Near Record Highs",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-low-p-e-stocks-124500975.html",
-      "published": "2026-08-23T12:45:00Z",
       "summary": ""
     },
     {
