@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T21:33:48.270056Z",
+  "last_updated": "2026-08-25T22:01:08.752436Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -105,8 +105,8 @@
       "change_pct": 0.46,
       "volume": 119340458,
       "volume_fmt": "119.34M",
-      "market_cap": 459665979675,
-      "market_cap_fmt": "459.67B",
+      "market_cap": 462428506064,
+      "market_cap_fmt": "462.43B",
       "52w_high": 142.35,
       "52w_low": 23.68,
       "pe_ratio": 42.8796,
@@ -558,11 +558,11 @@
     {
       "ticker": "ASML",
       "expiry": "2026-08-28",
-      "call_vol": 2743,
-      "put_vol": 2259,
+      "call_vol": 2742,
+      "put_vol": 2249,
       "call_oi": 4770,
       "put_oi": 7618,
-      "pcr": 0.824,
+      "pcr": 0.82,
       "iv": 48.2
     },
     {
@@ -668,7 +668,7 @@
     {
       "ticker": "PLTR",
       "expiry": "2026-08-28",
-      "call_vol": 147052,
+      "call_vol": 146968,
       "put_vol": 90088,
       "call_oi": 148181,
       "put_oi": 115571,
@@ -2833,13 +2833,6 @@
   "news": [
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWJhbHpIQ1k4UF96ZTgwQnR1dkpLelRhWWphRWQtMlhjNnFhamZ1aVhVOEo5SS0yNEgza2taMWhDZmVJbHJ5dWRuWk9ZVm1PS2JIRngzS29GWmJIbGxqeVM2VkpoUTBxZkdRQUUzaUdEd3ByOVlOUmVXbXZTOXRQb1ZYX0M0XzhMOVBxa0hfeHljbEduS0hxMA?oc=5",
-      "published": "Mon, 24 Aug 2026 10:15:00 GMT",
-      "summary": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
       "title": "The Chip Insider\u00ae\u2013Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
       "published": "Thu, 20 Aug 2026 15:41:35 GMT",
@@ -2854,10 +2847,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWUpXSlJ5MDJSVnZrMDF3N2VKMW1NcDd3M3BkYmxSYlE5YWFlZ0Y0WlRFMUtDeTBnR1NWSzZEOGZlM1MyTGhwNUNzMHBsNVZZYjZjbTB0RnBZbmwybEZPR2Nvckl3Rzl2ZEpfSFNxU2hkZEhRcEEyOXZoZWcwWW13d1ZtNkFfWkhwQTVtTTJZenhlRENyUnc4R2F2enMyVDZMbEFCbWpCbUNKd1gzZEwwSjRiZjRTZ2Z3RmsxQWU2dHZnTEd6LWJEX0hnX3FSRk56aTB1b2RpUnV5Rkw4TzVFLXhLcy1IOWVya1I2YmhsN2NuTzRudWVweFprdk11OEJjUC1UZDRNcC1ocWNMM0FKWmtB?oc=5",
-      "published": "Sat, 15 Aug 2026 13:43:00 GMT",
-      "summary": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom&nbsp;&nbsp;The Globe and Mail"
+      "title": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjk5ZWRMcm1HMU84YWV6T3VOYl9INHlzX2VCRHl1Z0pCZ3ZVeGlvdGozcUdPUllfU19heExPWXVUazNNbkRrUEgyTlpOMktYcXl3MWNoampRU1htNU1RanZWbzRjS0M1dmhWeHV4c0wwcm5XZ1g5ME80R0VIMlBHVHRIRHBwSmN0ODRyYjhzLU8yZGJwdFRDQg?oc=5",
+      "published": "Sat, 15 Aug 2026 07:00:00 GMT",
+      "summary": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom.&nbsp;&nbsp;The Motley Fool"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2914,6 +2907,13 @@
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUzZfVU5UYUJlN25scnJhdjh0MHRrUTVJOTd1WmwzeVZzaDFfTURKeTVldElwN2h1ZU5PMW9mckdDeWY3R1hQSUtPMkRYOEVPQ2NDZzdjYjBQakdCU2VtM2pKLUNwcGRnVmR6dXpCeGxEdV9LTVRoNUE1ck1lbUV2blhKMUVhZTAwRTdaVE5XMXJBR3F5NEdsSFU0cWtKbzh4T1BOT2tvV1VxMTVneXR3azd5UGFQVzJ3RlZxcHhxQ0NvNnl4Z1cxY1pZYnFJdkZjaTM4cTZ5WVhfUmh2a3E2TmlLX1h2Vi1pX1Z6MEE3dHF1Tk9ZdVR4Q1BKRnlWZk1YN0JYSVdfd1YySk1NdS1hV0djRF92Uk9QXzRxRlNrSEFURjVlLWozRm5vSy1SSmF4NlpRNy1jcFFzWG9rQ2V2UzQ0VHFXSGZObEJuckN3c2xLSTNrR1hZ?oc=5",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "summary": "TSMC is reportedly hiking prices for 'all advanced nodes,' accounting for 74% of the company\u2019s wafer business \u2014 Nvidia, AMD, Apple, Qualcomm, and others will face higher wafer costs&nbsp;&nbsp;Tom's Hardware"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Semiconductors",
+      "title": "TSMC works on new advanced chip packaging similar to Intel: report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYzI0MFBhM0hfN2JBY25WUGFwdmR6MFVpTWVBZ2RNM0U5VW1QQmtZSHQ3anowd2xaZHQ3dHZnNmpzSGNxOTNLTmhPc1JzblhrSUVaXzIxYk1PekJEN2syaG43SzdBU1ZKZkkySjFrYlZUbnI2X2t2bnVJRjM1LWlPTmpaN21KQWRxWVZCbWlVWGxSaXN3WDRsclR2Qk5UVl9ySmhFTVNR?oc=5",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "TSMC works on new advanced chip packaging similar to Intel: report&nbsp;&nbsp;Seeking Alpha"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2980,10 +2980,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0Y3ZllrWGdFc0RLdC1MWmV2NTZqb0lsckdYWlBUdWZQb2x4Vjd2TTB6RGlLT3JveGJyN09ZRGkzdHc2MUJxMFgyRkotNlI0T21HZUFVZF96Z200RkVYRVY1eXM2WkpMdl9raXA3NGpEdXNDTkxVWEpzekhIY2lHUWFXd3NPaWxSODlRcTFYY291UGR5S3hyOUZlUDQ2UU1wajVjdHM1SEFIYnk1YWFSN3JtMFczekU1UUE?oc=5",
-      "published": "Sun, 26 Jul 2026 07:00:00 GMT",
-      "summary": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next&nbsp;&nbsp;24/7 Wall St."
+      "title": "This is a \u2018winner takes it all market\u2019 when it comes to AI investments \u2013 Constellation Research\u2019s Ray Wang - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjNMQk1qbl9yM0VXSExoSXNPWWJLWTV4VVZ5TC1ySTE0aHNpSjVoY0FiMTBMWkJZTVhIRTNnbWZlTnphc1JMeEtSM3pkVzRYSkMySWUzUmpFcFIxWVl0M3RRQ1ZUUzJKVjI5VHRVcHdRRmdXRWN0N2F3X2hIcERzeXZ2RHpGQ3djLVUxWWxrN3FTSi1KWlJyUUltMDBTOWFpcFdsV1ZYa2JFZ253U093WEtFSWtfS2J0bUgxUjBHYUlDUTlWbEM4RTdvMA?oc=5",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "summary": "This is a \u2018winner takes it all market\u2019 when it comes to AI investments \u2013 Constellation Research\u2019s Ray Wang&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 AI Investing",
+      "title": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTzlTZU9xWklRTzdGQU5GcXBKazlLNjdOYTN6NlZ2VG9VTFdYQVpFR2dQWXE4UHRrV2NIOVVtMUZIZFh0ZDAzeVZoWFhINDNaX3NKSFJ3eU5tMm1Mdmg0aFJJYk5vX1JoNzd3UTl2TlFYMXUyemFFSmNpblUzWDJDVTNjVWZ5QlVnR1dJUDFTelgzclJLdjFycmlMMFFPbEQ0Sk9ua1Y2Y1FETHN1Rk1CR1NmTjBxanVSUkV1b1BtOEFfaVVCbWkwc2w4MVdkYW1fV1lvTkJPRloyeWVfV01ibEsyUFQ4cVZY?oc=5",
+      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "summary": "Morgan Stanley Drops a $50 Billion Bombshell - Can Big Tech Still Afford to Build the AI Factories of the Future?&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -2991,13 +2998,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3FqSWx2dV9UTnh4bHhVRENVNk1IWnBxWEZYaEROTGY1MXFhVUJSTHBfdXZsVlBwSG9QREhUX1RERWVBSkpsQlRhMEtnMU9aNGstTHFXNGVEcTE2QTctYjJHR2x2d2tSRFh1LWp0cnBNdTZtTVNEaHFBOUwwdHNleXN1RUhPbnlHTHhKM0Y3a18wb0JiYzVF?oc=5",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
       "summary": "My Top 5 Artificial Intelligence (AI) Stocks to Buy Right Now&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "3 Screaming Buy Artificial Intelligence (AI) Stocks Set for a Massive Summer Rebound - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc21aYWMzNk5LazFtQ1I3TTFFd2JNNjdsYVZHT2ljTTRIclJvVEhuTWw3TEtPNUlIRllFSExfc1BKWGM4MWtxWmZSZ09ldkdHUlgyV1hUUDRsMVU2QjZxNTdNUFY5VFpLSXpIMXZRWjFfaUVLOWxoejRwUTh3SlhiWnZEdmc1dEtmX2RhYmt3VDNONmlqeTAzNVBINThMdG5pb25fM2xWcmVtenpTbHZ4YkVHRlQtemdnZXBua0w3VDRnUFplOVNMYTkxRVJWVjdTOF8tVlBCRUNzNlo3Q3ZnblE2UTU4bm9sR2RxeWlzVExhUGM?oc=5",
-      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "summary": "3 Screaming Buy Artificial Intelligence (AI) Stocks Set for a Massive Summer Rebound&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3092,79 +3092,79 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Strategy Leaves Bitcoin Holdings Unchanged As Price Rises",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-130500704.html",
-      "published": "2026-08-24T13:05:00Z",
+      "title": "Bitmine Makes Biggest Ethereum Purchase Since Early July",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-133900532.html",
+      "published": "2026-08-24T13:39:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Fund Exits Intuit (INTU) Amid Concerns of AI Disruption to TurboTax\u2019s Moat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fund-exits-intuit-intu-amid-130402105.html",
-      "published": "2026-08-24T13:04:02Z",
+      "title": "SGA Raised Its Bet on Alphabet (GOOG) as AI Demand Accelerates",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sga-raised-bet-alphabet-goog-133755704.html",
+      "published": "2026-08-24T13:37:55Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Zillow settles FTC claims it paid Redfin to stop competing on apartment listings",
-      "url": "https://finance.yahoo.com/real-estate/articles/us-ftc-file-order-resolving-131118502.html",
-      "published": "2026-08-24T13:11:18Z",
+      "title": "Gemini Expands Prediction Market Offering",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/gemini-expands-prediction-market-offering-133800875.html",
+      "published": "2026-08-24T13:38:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Tesla, Amazon and Microsoft Hold Gains at Key Technical Levels",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-amazon-microsoft-hold-gains-131115963.html",
-      "published": "2026-08-24T13:11:15Z",
+      "title": "SGA Sold Intuit (INTU) as TurboTax and Mailchimp Weakness Deepened",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sga-sold-intuit-intu-turbotax-134035806.html",
+      "published": "2026-08-24T13:40:35Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "First Majestic Silver vs. MP Materials: Which Metals Stock Is a Better Buy in 2026?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-majestic-silver-vs-mp-130957285.html",
-      "published": "2026-08-24T13:09:57Z",
+      "title": "YMTC files for $4.9 billion IPO on Shanghai Stock Exchange",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ymtc-files-4-9-billion-133941365.html",
+      "published": "2026-08-24T13:39:41Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Gemini crypto exchange review 2026: Bank-grade security comes at a price",
-      "url": "https://finance.yahoo.com/personal-finance/investing/review/gemini-crypto-review-130000290.html",
-      "published": "2026-08-24T13:00:00Z",
+      "title": "Arm Holdings (ARM) Delivers Strong Growth, but Has the Valuation Run Too Far?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-delivers-strong-133635561.html",
+      "published": "2026-08-24T13:36:35Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can AMD (AMD) Win\u00a0From\u00a0the Shift Toward More CPU-Heavy AI Data\u00a0Centers?",
-      "url": "https://finance.yahoo.com/technology/articles/amd-amd-win-shift-toward-131307134.html",
-      "published": "2026-08-24T13:13:07Z",
+      "title": "Amazon\u2019s Drone Bet Is Getting Serious: Nearly 500 Cities Could Change the AMZN Story",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-drone-bet-getting-serious-134047806.html",
+      "published": "2026-08-24T13:40:47Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Applied Materials (AMAT) Is Positioned to Capture More of the AI Chip Manufacturing Boom",
-      "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-positioned-capture-125326878.html",
-      "published": "2026-08-24T12:53:26Z",
+      "title": "Is Wall Street Bullish or Bearish on KLA Corporation Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-kla-134112535.html",
+      "published": "2026-08-24T13:41:12Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Palo Alto Networks Could Be Worth Over $433 - 21% More  - as Analysts Hike Their Revenue Forecasts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-could-worth-131502521.html",
-      "published": "2026-08-24T13:15:02Z",
+      "title": "Equinor and Aker BP Make New North Sea Gas Discovery",
+      "url": "https://finance.yahoo.com/energy/articles/equinor-aker-bp-north-sea-133000325.html",
+      "published": "2026-08-24T13:30:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Walmart and Home Depot Earnings Show the K (Shaped Economy) Is Here to Stay",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-home-depot-earnings-show-131000290.html",
-      "published": "2026-08-24T13:10:00Z",
+      "title": "Dan Ives Says Investors Still Underestimate Nvidia Days Before Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-investors-still-134037108.html",
+      "published": "2026-08-24T13:40:37Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "XRP Price Prediction: 20% Gain Awaits if XRP Stays Above This Support Area",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-20-gain-131531091.html",
-      "published": "2026-08-24T13:15:31Z",
+      "title": "Strategy earmarks $1.6 billion cash pool for treasury operations, buybacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-earmarks-1-6-billion-132902331.html",
+      "published": "2026-08-24T13:29:02Z",
       "summary": ""
     }
   ]
