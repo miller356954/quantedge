@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T20:29:33.228741Z",
+  "last_updated": "2026-09-22T23:13:46.578329Z",
   "sectors": {
     "Semiconductors": [
       "NVDA",
@@ -105,8 +105,8 @@
       "change_pct": 0.01,
       "volume": 110017400,
       "volume_fmt": "110.02M",
-      "market_cap": 654737000977,
-      "market_cap_fmt": "654.74B",
+      "market_cap": 650825632583,
+      "market_cap_fmt": "650.83B",
       "52w_high": 142.35,
       "52w_low": 28.82,
       "pe_ratio": 60.0656,
@@ -345,8 +345,8 @@
       "change_pct": 0.24,
       "volume": 48762654,
       "volume_fmt": "48.76M",
-      "market_cap": 26871106133,
-      "market_cap_fmt": "26.87B",
+      "market_cap": 27290342652,
+      "market_cap_fmt": "27.29B",
       "52w_high": 58.78,
       "52w_low": 19.48,
       "pe_ratio": 7.7996,
@@ -381,7 +381,7 @@
       "market_cap_fmt": "5.51B",
       "52w_high": 58.15,
       "52w_low": 12.53,
-      "pe_ratio": -80.5854,
+      "pe_ratio": -79.8068,
       "iv": 63.1,
       "beta": 2.01
     },
@@ -2902,17 +2902,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD - 24/7 Wall St.",
+      "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD - 247wallst.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2VRN25rYmNnOHptTXE1c2VUVk9ycjJkZE9VSDVwVnJKSkZwNTNvWVJJUjZ4dF9rWkNpWEdta1VJMjVCalVld2NpYzJLeFItSlBKU2JQRzg4dnVNRFdMLWdYVTlzZnNyTGZFTkhrczNDbmpwcUxMUm5iVFVESHU5YXlwX0ZLdzJoLUt3VGRVd1cyMmxjVldVQXVEWnU1dXJwMEdYZU1nTmZ4aTdXZUxBeWJrMmlBZk9RbHlB?oc=5",
       "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "summary": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD&nbsp;&nbsp;24/7 Wall St."
+      "summary": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD&nbsp;&nbsp;247wallst.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
-      "title": "5 Semiconductor Stocks To Buy Now And 1 To Ignore | September 2026 - forbes.com",
+      "title": "5 Semiconductor Stocks To Buy Now And 1 To Ignore | September 2026 - Forbes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUxTRWN1SXVqNHFRTjRoOTlJcExTUWtMM3k4Rk9vbDlaUnNTWUwtSldVMGExcmktZWVNOG5HRk8xQWlkQXlQMUstNWlmbDBuRmVXWlczZWV5RTdOSHRmbHVvMVQtX3JkTHJCWGc5by1ZdkRLSnlONEhXMVByTmNVaFhrUmU2cmJtaXJlYUZKRlNlUjA?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "5 Semiconductor Stocks To Buy Now And 1 To Ignore | September 2026&nbsp;&nbsp;forbes.com"
+      "summary": "5 Semiconductor Stocks To Buy Now And 1 To Ignore | September 2026&nbsp;&nbsp;Forbes"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Semiconductors",
@@ -2958,10 +2958,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
-      "title": "Bad News for NVIDIA, Amazon, and Microsoft: There\u2019s No Longer Enough Cash for AI - 24/7 Wall St.",
+      "title": "Bad News for NVIDIA, Amazon, and Microsoft: There\u2019s No Longer Enough Cash for AI - 247wallst.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWllvczZfMkYtVmtpQXYyMmQ3VEw5VHdEdkQ4bXZHOU1VX0daRTBOaTE0SDdoY1kycFpfVlhXMHp1TjJMNFcxMm9lZERWajE0M1hlci02dTl6T0EzbXJUdzNJNS1XQ1lieGhsTGJjbnRRSEl2YmZQQV9hNnFhZlRRV2FUcEZrc3g0Y1Yxcmk5ZmU4R204cmJYazk3X2UxWWZkRkZ4LV81aFM2eml2alBUaEVGckVuYm1RTGJnZA?oc=5",
       "published": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "Bad News for NVIDIA, Amazon, and Microsoft: There\u2019s No Longer Enough Cash for AI&nbsp;&nbsp;24/7 Wall St."
+      "summary": "Bad News for NVIDIA, Amazon, and Microsoft: There\u2019s No Longer Enough Cash for AI&nbsp;&nbsp;247wallst.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 AI Investing",
@@ -3014,10 +3014,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "IBM and IonQ Stocks Rally on Fresh Quantum Computing Breakthroughs - tradingview.com",
+      "title": "Long-Term Investment Opportunities in Quantum Computing Stocks - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekNIUXFMajNnODIzMkhMY3d2NnlvT0dxcDlsQXNKWEFQVXZtMkxiU0s2NkJJaHhWSzZ6SHduc1RsQ3pqT3dhS01XYi00TDhYMEtDYzdlekZrUm1VTXFJd21DZ0lGSDZkZ0YwUHpjMXBBVVJueUIwWDNBZ0pjaXB2bERzR2tZeE1jZ3FFb05jM3c2ek0zTWtPX2Iwcw?oc=5",
+      "published": "Tue, 22 Sep 2026 21:09:34 GMT",
+      "summary": "Long-Term Investment Opportunities in Quantum Computing Stocks&nbsp;&nbsp;Intellectia AI"
+    },
+    {
+      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
+      "title": "IBM and IonQ Stocks Rally on Fresh Quantum Computing Breakthroughs - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjZFVEpiQjA3aG9Wbm82OFBIUks2d3lEX0NiUWF0dWVrNHhZU1U5emxKWVlyaTdYMzkzeXMzVE1PY0FDbnhxLVoxRXQ4Q0tTdm40MXVyUEdIUWlaN0I5eFo5S0hpb2JxQnJRLU1UUkhSS3o2U3hTZERxckUyc0kzdWFiYWpOWTdfZ2ZDNGluQ2toNHNJNGdmUkdBd0lOVzZHMzltSi1MYzFheGg5b2Nobk1sdFY0MlVmRHJiZXNGRGlGQzlD?oc=5",
       "published": "Thu, 17 Sep 2026 12:12:30 GMT",
-      "summary": "IBM and IonQ Stocks Rally on Fresh Quantum Computing Breakthroughs&nbsp;&nbsp;tradingview.com"
+      "summary": "IBM and IonQ Stocks Rally on Fresh Quantum Computing Breakthroughs&nbsp;&nbsp;TradingView"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3028,17 +3035,17 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTBHOF9CS0FpckVrY2pYak1yVG40SUpZcjBreEFGUWpCUmdUeE1NRm1jMm9uZHNsMUt4anpCNFBCd0NNcVJFeC1SaVVMT2hvYWVXYkYzWFlTMTU5VEV0Z1UxSzhTZVdkTkNNc1Bvb256VXYtMUJKNzdxSzY3al9RYjR5U0ZLZ09CZ2VZQmRRSjdqQTV1T2U5VGN1ZVM?oc=5",
-      "published": "Sat, 30 May 2026 07:00:00 GMT",
-      "summary": "The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy&nbsp;&nbsp;Yahoo Finance"
+      "title": "The Best Quantum Computing Stocks to Buy in 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGJUUlJNeVFQQ0JfMWJjNzN0b1Q3NHo0RXNoTkIxTXNTMm91R2JWRGFNV3JVWlJCVGs0MG51Ny1wTzlHR2VObzJ0S2VJSFlwbFR0XzRka0RObjRCcFAxLWhtSTdOaC1fd2pCSndGT3ZLWUlFbTdCdDlqOEJQZFVCdlNuOU15OWdpR1lUQl9IaExZYzdET1A4S1I0QmNrdnc?oc=5",
+      "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "3 Quantum Computing Stocks Worth the Speculative Bet in August - 24/7 Wall St.",
+      "title": "3 Quantum Computing Stocks Worth the Speculative Bet in August - 247wallst.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDBPbXpPeFVFR2dJQm4yZWVrdGNJM1o5VzNNSHRBWFRwamRXVnZhUVRCcXR6NnZQOHktVzhZQUkzN1pqdFRMVF9paGRicTlpLWtKMUVQYVdLRTlvcFBKd3ZlenRya3VBb2xpTGw5YTBjd3V5THZtTmNfT3JKY1M4QTFlOWxoNGpLQ01EZW8tYVN1RVppNUdpdVIxeUFpVjFrWHRFdFBMdXlpUQ?oc=5",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "3 Quantum Computing Stocks Worth the Speculative Bet in August&nbsp;&nbsp;24/7 Wall St."
+      "summary": "3 Quantum Computing Stocks Worth the Speculative Bet in August&nbsp;&nbsp;247wallst.com"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3056,10 +3063,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Trump\u2019s Presidential Portfolio Goes Quantum - cato.org",
+      "title": "Trump\u2019s Presidential Portfolio Goes Quantum - Cato Institute",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTDlNYTdzeVpWUUwxSUJpRHA3V3Y2a3BaaUJpNXVCSW5YQnZIeXg1eFpPMy1FQTdjX1ZIZjRxU195Y1dsZmNLekUwSjNNdjZlZlRZRFVfOE9zVUwyaW9lLU51azdndC1qOVBoeHBxTmMyVlZ2UmZN?oc=5",
       "published": "Thu, 21 May 2026 07:00:00 GMT",
-      "summary": "Trump\u2019s Presidential Portfolio Goes Quantum&nbsp;&nbsp;cato.org"
+      "summary": "Trump\u2019s Presidential Portfolio Goes Quantum&nbsp;&nbsp;Cato Institute"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3070,17 +3077,10 @@
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions - thequantuminsider.com",
+      "title": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions - The Quantum Insider",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm9oa3VNV3JUa0M0RHJhczA3UnE5aE9aU3czZG5NRVVxMS1pNm9pV2djUVVpaGRwcTNnWmZhRUE3elVIMDI2ekliVXJEVk1JV1hxemVsM29HOWQ0b2Y5OXhMUWdXR284QzRQQ0NoSVA2OTQ4dkd2MUJuczlJdEdTWWtNNVpSQUNobGc4dks0OXBzaVdnS3JZc3ZxNkpudDBDdl9vdmcwUFpKRHRIU1c1WjJEa2s?oc=5",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions&nbsp;&nbsp;thequantuminsider.com"
-    },
-    {
-      "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
-      "title": "The Best Quantum Computing Stocks to Buy in 2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGJUUlJNeVFQQ0JfMWJjNzN0b1Q3NHo0RXNoTkIxTXNTMm91R2JWRGFNV3JVWlJCVGs0MG51Ny1wTzlHR2VObzJ0S2VJSFlwbFR0XzRka0RObjRCcFAxLWhtSTdOaC1fd2pCSndGT3ZLWUlFbTdCdDlqOEJQZFVCdlNuOU15OWdpR1lUQl9IaExZYzdET1A4S1I0QmNrdnc?oc=5",
-      "published": "Mon, 04 May 2026 07:00:00 GMT",
-      "summary": "The Best Quantum Computing Stocks to Buy in 2026&nbsp;&nbsp;Yahoo Finance"
+      "summary": "Google Declined U.S. Quantum Funding Initiative Over Program Restrictions&nbsp;&nbsp;The Quantum Insider"
     },
     {
       "source": "Google News \u00e2\u0080\u0093 Quantum Computing",
@@ -3105,30 +3105,30 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "\u2018I just want out\u2019: Billionaire Jeffrey Gundlach says you should have \u2018almost nothing\u2019 in AI stocks \u2014 what to buy instead",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/just-want-billionaire-jeffrey-gundlach-113000010.html",
-      "published": "2026-09-21T11:30:00Z",
+      "title": "Despite Sale, Baron Capital Maintains Outlook on Ventas (VTR)",
+      "url": "https://finance.yahoo.com/real-estate/articles/despite-sale-baron-capital-maintains-145801862.html",
+      "published": "2026-09-21T14:58:01Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Synchrony Financial Stock Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-stock-underperforming-nasdaq-112721927.html",
-      "published": "2026-09-21T11:27:21Z",
+      "title": "Tim Cook warned of a \u2018hundred-year flood\u2019 striking tech giants \u2014 and now Apple is raising prices. What it means for you",
+      "url": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html",
+      "published": "2026-09-21T14:55:00Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "\u201cWho Can Imagine What Action One Might Take\u201d: Musk\u2019s Latest Non-Answer Sends Tesla and SpaceX Higher",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/imagine-action-one-might-musk-113510252.html",
-      "published": "2026-09-21T11:35:10Z",
+      "title": "Paramount, Warner Bros. shares rally on report of merger settlement agreement",
+      "url": "https://finance.yahoo.com/markets/stocks/article/paramount-warner-bros-shares-rally-on-report-of-merger-settlement-agreement-134233954.html",
+      "published": "2026-09-21T13:42:33Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Regions Financial Stock Underperforming the S&P 500?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/regions-financial-stock-underperforming-p-113729907.html",
-      "published": "2026-09-21T11:37:29Z",
+      "title": "Is VeriSign Stock Underperforming the Dow?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/verisign-stock-underperforming-dow-145907668.html",
+      "published": "2026-09-21T14:59:07Z",
       "summary": ""
     },
     {
@@ -3140,37 +3140,37 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Eli Lilly vs. Novo: The Obesity-Drug Battle Is Entering Its Next Round",
-      "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-vs-novo-obesity-113002601.html",
-      "published": "2026-09-21T11:30:02Z",
+      "title": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
+      "published": "2026-09-21T14:49:18Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Atmos Energy Stock Underperforming the Dow?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atmos-energy-stock-underperforming-dow-113138150.html",
-      "published": "2026-09-21T11:31:38Z",
+      "title": "Did Jim Cramer Just Give GameStop Stock the Kiss of Death When He Said the Turnaround Is Working?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-jim-cramer-just-gamestop-144914863.html",
+      "published": "2026-09-21T14:49:14Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "\u201cOur Targets Haven\u2019t Changed\u201d: Broadcom\u2019s CEO Pushes Back on the AI Slowdown Scare",
-      "url": "https://finance.yahoo.com/technology/ai/articles/targets-haven-t-changed-broadcom-112507800.html",
-      "published": "2026-09-21T11:25:07Z",
+      "title": "What Makes Curbline Properties (CURB) an Attractive Bet?",
+      "url": "https://finance.yahoo.com/real-estate/articles/makes-curbline-properties-curb-attractive-144558288.html",
+      "published": "2026-09-21T14:45:58Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Packaging Corporation Underperforming the Nasdaq?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/packaging-corporation-underperforming-nasdaq-114239106.html",
-      "published": "2026-09-21T11:42:39Z",
+      "title": "How Is Domino's Pizza\u2019s Stock Performance Compared to Other Consumer Discretionary Stocks?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-stock-performance-compared-144515849.html",
+      "published": "2026-09-21T14:45:15Z",
       "summary": ""
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/why-crypto-today-oil-prices-113059049.html",
-      "published": "2026-09-21T11:30:59Z",
+      "title": "Riot Platforms Is Building a Data Center Business Inside a Bitcoin Miner. Is RIOT Stock a Buy?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/riot-platforms-building-data-center-145628073.html",
+      "published": "2026-09-21T14:56:28Z",
       "summary": ""
     }
   ]
